@@ -25,3 +25,6 @@ work/ui/**/*.png
 work/translation/en/tex/
 # patches are published as release assets, not committed
 work/output/
+
+# release assets are uploaded to GitHub releases
+work/release/
