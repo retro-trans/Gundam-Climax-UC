@@ -1,0 +1,366 @@
+{
+ "slice": "briefing_01",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "S00187",
+   "en": "Into the Atmosphere [U.C.0079]\n\nAmuro Story - STAGE 1"
+  },
+  {
+   "id": "S00188",
+   "en": "Engage Zeon MS forces"
+  },
+  {
+   "id": "S00189",
+   "en": "Destroy Char's Zaku II"
+  },
+  {
+   "id": "S00190",
+   "en": "Time runs out or mothership is destroyed",
+   "note": "defeat condition; 'or' for the Japanese list comma"
+  },
+  {
+   "id": "S00191",
+   "en": "Battle of Jaburo [U.C.0079]\n\nAmuro Story - STAGE 2",
+   "note": "matches briefing_04 'Battle of Jaburo'"
+  },
+  {
+   "id": "S00192",
+   "en": "Intercept Zeon attack force"
+  },
+  {
+   "id": "S00193",
+   "en": "Hold out for a set time",
+   "note": "lit. 'engage (the enemy) for a fixed time'; shared by ~14 records, used as a victory condition"
+  },
+  {
+   "id": "S00194",
+   "en": "Your unit or the Big Tray is destroyed",
+   "note": "Big Tray from terms.json"
+  },
+  {
+   "id": "S00195",
+   "en": "Terror! The Mobile Big Zam [U.C.0079]\n\nAmuro Story - STAGE 3"
+  },
+  {
+   "id": "S00196",
+   "en": "Destroy Big Zam"
+  },
+  {
+   "id": "S00197",
+   "en": "Your unit is destroyed",
+   "note": "defeat condition; shared by ~158 records"
+  },
+  {
+   "id": "S00198",
+   "en": "Space Fortress A Baoa Qu [U.C.0079]\n\nAmuro Story - STAGE 4"
+  },
+  {
+   "id": "S00199",
+   "en": "Destroy Zeong"
+  },
+  {
+   "id": "S00200",
+   "en": "Into the Atmosphere [U.C.0079]\n\nChar Story - STAGE 1"
+  },
+  {
+   "id": "S00201",
+   "en": "Engage new Federation Forces MS"
+  },
+  {
+   "id": "S00202",
+   "en": "Destroy Gundam"
+  },
+  {
+   "id": "S00203",
+   "en": "Your unit is destroyed or time runs out"
+  },
+  {
+   "id": "S00204",
+   "en": "Space Fortress A Baoa Qu [U.C.0079]\n\nChar Story - STAGE 2"
+  },
+  {
+   "id": "S00205",
+   "en": "Engage Federation Forces MS forces",
+   "note": "'Forces ... forces' repeats; kept for consistency with the other faction lines and the binding glossary term"
+  },
+  {
+   "id": "S00206",
+   "en": "Desert Front Line [U.C.0079]\n\nShiro Story - STAGE 1"
+  },
+  {
+   "id": "S00207",
+   "en": "Engage Zeon forces"
+  },
+  {
+   "id": "S00208",
+   "en": "Destroy Apsaras II"
+  },
+  {
+   "id": "S00209",
+   "en": "The Trembling Mountain [U.C.0079]\n\nShiro Story - STAGE 2"
+  },
+  {
+   "id": "S00210",
+   "en": "Engage Zeon MS"
+  },
+  {
+   "id": "S00211",
+   "en": "Destroy Gouf Custom"
+  },
+  {
+   "id": "S00212",
+   "en": "Desert Front Line [U.C.0079]\n\nAina Story - STAGE 1"
+  },
+  {
+   "id": "S00213",
+   "en": "Destroy all enemies",
+   "note": "victory condition; shared by ~64 records"
+  },
+  {
+   "id": "S00214",
+   "en": "The Trembling Mountain [U.C.0079]\n\nNorris Story - STAGE 1"
+  },
+  {
+   "id": "S00215",
+   "en": "Order to Destroy the Alex [U.C.0079]\n\nChris Story - STAGE 1"
+  },
+  {
+   "id": "S00216",
+   "en": "Engage Zeon MS"
+  },
+  {
+   "id": "S00217",
+   "en": "Destroy Kampfer"
+  },
+  {
+   "id": "S00218",
+   "en": "War in the Pocket [U.C.0079]\n\nChris Story - STAGE 2"
+  },
+  {
+   "id": "S00219",
+   "en": "Destroy Zaku II FZ",
+   "note": "glossary 'Zaku II FZ' (Japanese literally 'Kai')"
+  },
+  {
+   "id": "S00220",
+   "en": "War in the Pocket [U.C.0079]\n\nBernie Story - STAGE 1"
+  },
+  {
+   "id": "S00221",
+   "en": "Engage Federation Forces MS"
+  },
+  {
+   "id": "S00222",
+   "en": "Destroy Alex"
+  },
+  {
+   "id": "S00223",
+   "en": "Clash Zone [U.C.0083]\n\nKou Story - STAGE 1"
+  },
+  {
+   "id": "S00224",
+   "en": "Engage Delaz Fleet forces"
+  },
+  {
+   "id": "S00225",
+   "en": "Destroy Gundam GP02",
+   "note": "Japanese says only 'Prototype Unit 2', no Physalis; glossary full name 'Gundam GP02A Physalis'"
+  },
+  {
+   "id": "S00226",
+   "en": "The Storm Rushes Through [U.C.0083]\n\nKou Story - STAGE 2"
+  },
+  {
+   "id": "S00227",
+   "en": "Destroy Neue Ziel"
+  },
+  {
+   "id": "S00228",
+   "en": "Clash Zone [U.C.0083]\n\nGato Story - STAGE 1"
+  },
+  {
+   "id": "S00229",
+   "en": "Destroy Full Burnern",
+   "note": "spelling from glossary 'Gundam GP01 Full Burnern'; Japanese names only the Full Burnern"
+  },
+  {
+   "id": "S00230",
+   "en": "The Storm Rushes Through [U.C.0083]\n\nGato Story - STAGE 2"
+  },
+  {
+   "id": "S00231",
+   "en": "Destroy Gundam GP03",
+   "note": "Japanese says only 'Prototype Unit 3', no Dendrobium"
+  },
+  {
+   "id": "S00232",
+   "en": "The Storm Rushes Through [U.C.0083]\n\nCima Story - STAGE 1"
+  },
+  {
+   "id": "S00233",
+   "en": "The Black Gundam [U.C.0087]\n\nKamille Story - STAGE 1"
+  },
+  {
+   "id": "S00234",
+   "en": "Engage Titans MS forces"
+  },
+  {
+   "id": "S00235",
+   "en": "Destroy Hizack"
+  },
+  {
+   "id": "S00236",
+   "en": "Battle on the Moon [U.C.0087]\n\nKamille Story - STAGE 2"
+  },
+  {
+   "id": "S00237",
+   "en": "Shuttle Launch [U.C.0087]\n\nKamille Story - STAGE 3"
+  },
+  {
+   "id": "S00238",
+   "en": "Destroy Asshimar or hold out for a set time",
+   "note": "victory condition; list comma read as 'or'"
+  },
+  {
+   "id": "S00239",
+   "en": "The shuttle is destroyed",
+   "note": "defeat condition"
+  },
+  {
+   "id": "S00240",
+   "en": "Through the White Darkness [U.C.0087]\n\nKamille Story - STAGE 4"
+  },
+  {
+   "id": "S00241",
+   "en": "The Audhumla is destroyed",
+   "note": "defeat condition"
+  },
+  {
+   "id": "S00242",
+   "en": "Cinderella Four [U.C.0087]\n\nKamille Story - STAGE 5"
+  },
+  {
+   "id": "S00243",
+   "en": "Destroy Psycho Gundam"
+  },
+  {
+   "id": "S00244",
+   "en": "Four Forever [U.C.0087]\n\nKamille Story - STAGE 6"
+  },
+  {
+   "id": "S00245",
+   "en": "Vortex of Space [U.C.0088]\n\nKamille Story - STAGE 7"
+  },
+  {
+   "id": "S00246",
+   "en": "Destroy Qubeley"
+  },
+  {
+   "id": "S00247",
+   "en": "Racing Through Space [U.C.0088]\n\nKamille Story - STAGE 8"
+  },
+  {
+   "id": "S00248",
+   "en": "Destroy The-O"
+  },
+  {
+   "id": "S00249",
+   "en": "Shuttle Launch [U.C.0087]\n\nQuattro Story - STAGE 1"
+  },
+  {
+   "id": "S00250",
+   "en": "Racing Through Space [U.C.0088]\n\nQuattro Story - STAGE 2"
+  },
+  {
+   "id": "S00251",
+   "en": "Engage Axis MS forces"
+  },
+  {
+   "id": "S00252",
+   "en": "Battle on the Moon [U.C.0087]\n\nJerid Story - STAGE 1"
+  },
+  {
+   "id": "S00253",
+   "en": "Engage AEUG MS forces"
+  },
+  {
+   "id": "S00254",
+   "en": "Cinderella Four [U.C.0087]\n\nFour Story - STAGE 1"
+  },
+  {
+   "id": "S00255",
+   "en": "Destroy Gundam Mk-II"
+  },
+  {
+   "id": "S00256",
+   "en": "Four Forever [U.C.0087]\n\nFour Story - STAGE 2"
+  },
+  {
+   "id": "S00257",
+   "en": "Racing Through Space [U.C.0088]\n\nScirocco Story - STAGE 1"
+  },
+  {
+   "id": "S00258",
+   "en": "Destroy Zeta Gundam"
+  },
+  {
+   "id": "S00259",
+   "en": "Vortex of Space [U.C.0088]\n\nHaman Story - STAGE 1"
+  },
+  {
+   "id": "S00260",
+   "en": "Racing Through Space [U.C.0088]\n\nHaman Story - STAGE 2"
+  },
+  {
+   "id": "S00261",
+   "en": "Destroy Hyaku-Shiki"
+  },
+  {
+   "id": "S00262",
+   "en": "The Burning Earth [U.C.0088]\n\nJudau Story - STAGE 1"
+  },
+  {
+   "id": "S00263",
+   "en": "Destroy Qubeley Mk-2",
+   "note": "glossary/official spelling 'Qubeley Mk-2' (wiki Mk-II); differs from 'Gundam Mk-II'"
+  },
+  {
+   "id": "S00264",
+   "en": "The Fall of Emary [U.C.0089]\n\nJudau Story - STAGE 2",
+   "note": "Emary = Emary Ounce (female); title word means to fall in battle"
+  },
+  {
+   "id": "S00265",
+   "en": "Destroy Quin Mantha"
+  },
+  {
+   "id": "S00266",
+   "en": "Warrior, Once Again [U.C.0089]\n\nJudau Story - STAGE 3"
+  }
+ ],
+ "decisions": [
+  "Titles keep structure '<Title> [U.C.xxxx]\\n\\n<Name> Story - STAGE n'; leading full-width padding dropped for re-centring; character names use glossary en_short.",
+  "rec1 lines (engage X) = 'Engage <faction> MS forces'; 'MS' used instead of 'mobile suit' throughout so lines stay near the Japanese width; butai = 'forces'.",
+  "rec2 victory conditions are terse imperatives 'Destroy <unit>' with no article (so 'Destroy The-O' reads cleanly).",
+  "rec3 defeat conditions are phrased as events ('Your unit is destroyed'); the Japanese list comma is rendered 'or'.",
+  "Stage titles follow the source anime episode titles where one exists; official English episode titles were not verified against a source (see uncertain)."
+ ],
+ "uncertain": [
+  "S00206/S00212: 08th MS Team title 'Nessa Sensen' - chose 'Desert Front Line'; official English title unverified.",
+  "S00209/S00214: 'Furueru Yama' - chose 'The Trembling Mountain' (believed to match 08th MS Team English title, unverified).",
+  "S00215: game-original title 'Alex destruction order' - chose 'Order to Destroy the Alex'.",
+  "S00223/S00228: 'Gekitotsu Sen'iki' - chose 'Clash Zone'; no matching episode title found.",
+  "S00226/S00230/S00232: 0083 ep.13 'Kakenukeru Arashi' - chose 'The Storm Rushes Through'; official English unverified.",
+  "S00240: 'Shiroi Yami wo Nukete' - chose 'Through the White Darkness'; unverified.",
+  "S00244/S00256: 'Eien no Four' - chose 'Four Forever'; 'Eternal Four' is the alternative.",
+  "S00245/S00259 'Uchuu no Uzu' -> 'Vortex of Space'; S00247/S00250/S00257/S00260 'Uchuu wo Kakeru' -> 'Racing Through Space'; both unverified Zeta episode titles.",
+  "S00264: 'Emary Sange' - chose 'The Fall of Emary' (given name only as in the Japanese; glossary en_short is the full 'Emary Ounce').",
+  "S00266: 'Senshi, Futatabi' - chose 'Warrior, Once Again'; singular/plural not settled by the Japanese.",
+  "S00195: 'Kyoufu! Kidou Big Zam' - chose literal 'Terror! The Mobile Big Zam'; official title may differ.",
+  "S00193/S00238: fixed-time engagement as a victory condition - chose 'Hold out for a set time'; S00238 comma read as 'or' (could be 'and').",
+  "S00229: chose 'Full Burnern' alone as in the Japanese; 'GP01 Full Burnern' would be clearer.",
+  "S00190: boken - chose generic 'mothership' (presumably White Base, not named in the Japanese)."
+ ]
+}

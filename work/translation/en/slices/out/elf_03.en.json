@@ -1,0 +1,351 @@
+{
+ "slice": "elf_03",
+ "rows_in_slice": 75,
+ "rows_examined": 75,
+ "rows": [
+  {
+   "id": "S02740",
+   "en": "Laika Blackbolt",
+   "note": "epithet name; 'black lightning' -> Blackbolt to fit 15"
+  },
+  {
+   "id": "S02741",
+   "en": "Prisia of Snow"
+  },
+  {
+   "id": "S02742",
+   "en": "Witch-Eyed Faye"
+  },
+  {
+   "id": "S02743",
+   "en": "War Angel Ange"
+  },
+  {
+   "id": "S02744",
+   "en": "Gleamwing Alice"
+  },
+  {
+   "id": "S02745",
+   "en": "Wild Kisaragi"
+  },
+  {
+   "id": "S02746",
+   "en": "Moonlight Elise"
+  },
+  {
+   "id": "S02747",
+   "en": "Marguerite"
+  },
+  {
+   "id": "S02748",
+   "en": "Stefania"
+  },
+  {
+   "id": "S02749",
+   "en": "Rosemarie"
+  },
+  {
+   "id": "S02750",
+   "en": "Silvana"
+  },
+  {
+   "id": "S02751",
+   "en": "Kuwin",
+   "note": "romanization unverified"
+  },
+  {
+   "id": "S02752",
+   "en": "Valerie"
+  },
+  {
+   "id": "S02753",
+   "en": "Helselen",
+   "note": "romanization unverified"
+  },
+  {
+   "id": "S02754",
+   "en": "Filmere",
+   "note": "romanization unverified"
+  },
+  {
+   "id": "S02755",
+   "en": "Shenyun",
+   "note": "Chinese-style name (Shen Yun) written as one word"
+  },
+  {
+   "id": "S02756",
+   "en": "Shisu"
+  },
+  {
+   "id": "S02757",
+   "en": "Made Sgt. Major",
+   "note": "'Promoted to Sgt. Major' would be 22 bytes; 'Made X' fits all 7 promotion slots"
+  },
+  {
+   "id": "S02758",
+   "en": "Made 2nd Lt."
+  },
+  {
+   "id": "S02759",
+   "en": "Made Lieutenant"
+  },
+  {
+   "id": "S02760",
+   "en": "Made Captain"
+  },
+  {
+   "id": "S02761",
+   "en": "Made Major"
+  },
+  {
+   "id": "S02762",
+   "en": "Made Lt. Col.",
+   "note": "Lieutenant Colonel"
+  },
+  {
+   "id": "S02763",
+   "en": "Made Colonel"
+  },
+  {
+   "id": "S02764",
+   "en": "Federation Forces"
+  },
+  {
+   "id": "S02765",
+   "en": "Zeon Forces"
+  },
+  {
+   "id": "S02766",
+   "en": "Defense of Jaburo",
+   "note": "same as briefing S00298"
+  },
+  {
+   "id": "S02767",
+   "en": "Assault on Jaburo"
+  },
+  {
+   "id": "S02768",
+   "en": "Zaku II"
+  },
+  {
+   "id": "S02769",
+   "en": "Solomon Assault",
+   "note": "fits 15; 'Assault on Solomon' is 18"
+  },
+  {
+   "id": "S02770",
+   "en": "Solomon Defense"
+  },
+  {
+   "id": "S02771",
+   "en": "GM Cannon",
+   "note": "RGC-80; not in glossary, wiki name"
+  },
+  {
+   "id": "S02772",
+   "en": "GM Command",
+   "note": "RGM-79G; not in glossary, wiki name"
+  },
+  {
+   "id": "S02773",
+   "en": "Zaku II HM Type",
+   "note": "MS-06R Zaku II High Mobility Type (wiki); abbreviated to fit 15"
+  },
+  {
+   "id": "S02774",
+   "en": "Bigro",
+   "note": "MA-05; not in glossary, wiki name"
+  },
+  {
+   "id": "S02775",
+   "en": "Operation Star One",
+   "note": "glossary"
+  },
+  {
+   "id": "S02776",
+   "en": "Battle of A Baoa Qu"
+  },
+  {
+   "id": "S02777",
+   "en": "Posted to Oakley Base, N. America",
+   "note": "33 bytes (slot 31)"
+  },
+  {
+   "id": "S02778",
+   "en": "Fled remnant hunts, hid in a lunar city"
+  },
+  {
+   "id": "S02779",
+   "en": "Stop Operation Stardust",
+   "note": "as briefing S00307; 23 bytes (slot 15)"
+  },
+  {
+   "id": "S02780",
+   "en": "Operation Stardust",
+   "note": "glossary; 18 bytes (slot 15)"
+  },
+  {
+   "id": "S02781",
+   "en": "Joined the Titans"
+  },
+  {
+   "id": "S02782",
+   "en": "Joined the Axis advance fleet,\nfled the Earth Sphere"
+  },
+  {
+   "id": "S02783",
+   "en": "Joined the AEUG"
+  },
+  {
+   "id": "S02784",
+   "en": "Kennedy Spaceport\nShuttle Launch Operation",
+   "note": "line split kept at the same point"
+  },
+  {
+   "id": "S02785",
+   "en": "Raid on Hong Kong City"
+  },
+  {
+   "id": "S02786",
+   "en": "Aid African Remnants"
+  },
+  {
+   "id": "S02787",
+   "en": "Defense of Kilimanjaro"
+  },
+  {
+   "id": "S02788",
+   "en": "Raid on Kilimanjaro"
+  },
+  {
+   "id": "S02789",
+   "en": "Seize Gryps 2"
+  },
+  {
+   "id": "S02790",
+   "en": "Gaplant",
+   "note": "glossary"
+  },
+  {
+   "id": "S02791",
+   "en": "Byarlant",
+   "note": "RX-160; not in glossary, wiki name"
+  },
+  {
+   "id": "S02792",
+   "en": "Dijeh",
+   "note": "MSK-008; not in glossary, wiki name"
+  },
+  {
+   "id": "S02793",
+   "en": "Gundam Mk-II",
+   "note": "glossary"
+  },
+  {
+   "id": "S02794",
+   "en": "Gelgoog Jager",
+   "note": "MS-14JG Gelgoog Jager (wiki spells it with an umlaut; ASCII form)"
+  },
+  {
+   "id": "S02795",
+   "en": "Gyan Kai"
+  },
+  {
+   "id": "S02796",
+   "en": "Nemo",
+   "note": "MSA-003; not in glossary, wiki name"
+  },
+  {
+   "id": "S02797",
+   "en": "Colony Laser Defense",
+   "note": "as briefing S00315"
+  },
+  {
+   "id": "S02798",
+   "en": "Retake the Colony Laser",
+   "note": "as briefing S00317"
+  },
+  {
+   "id": "S02799",
+   "en": "Guerrilla Strikes on Titans"
+  },
+  {
+   "id": "S02800",
+   "en": "Returned to Fed. Forces, joined AEUG",
+   "note": "36 bytes (slot 31)"
+  },
+  {
+   "id": "S02801",
+   "en": "Left Fed. Forces to join Axis"
+  },
+  {
+   "id": "S02802",
+   "en": "Core 3 Showdown",
+   "note": "briefing S00320 'Showdown at Core 3' is 18 bytes; reordered to fit 15"
+  },
+  {
+   "id": "S02803",
+   "en": "Crush Glemy's Rebels"
+  },
+  {
+   "id": "S02804",
+   "en": "Surrendered to AEUG, joined Fed. Forces"
+  },
+  {
+   "id": "S02805",
+   "en": "Went into hiding in a\nWater Island colony"
+  },
+  {
+   "id": "S02806",
+   "en": "Volunteered and posted to new\nFed. auxiliary unit \"Londo Bell\""
+  },
+  {
+   "id": "S02807",
+   "en": "Joined Neo Zeon"
+  },
+  {
+   "id": "S02808",
+   "en": "Stop the Axis Drop",
+   "note": "as briefing S00326"
+  },
+  {
+   "id": "S02809",
+   "en": "Operation Earth Cooling",
+   "note": "glossary (unverified there); 23 bytes (slot 15)"
+  },
+  {
+   "id": "S02810",
+   "en": "Surrendered to Fed. Forces"
+  },
+  {
+   "id": "S02811",
+   "en": "Resource Base Defense",
+   "note": "21 bytes (slot 15)"
+  },
+  {
+   "id": "S02812",
+   "en": "Resource Base Raid",
+   "note": "18 bytes (slot 15)"
+  },
+  {
+   "id": "S02813",
+   "en": "Defense of Frontier IV"
+  },
+  {
+   "id": "S02814",
+   "en": "Frontier Surprise Raid"
+  }
+ ],
+ "decisions": [
+  "History entries (career events) are written in service-record style without a subject (the pilot is implied), as the Japanese log does, e.g. 'Joined the Titans'.",
+  "Promotion messages use 'Made <rank>' to stay within the 15-byte slots; ranks follow glossary roles (Sergeant Major, Second Lieutenant, Lieutenant, Captain, Major, Lieutenant Colonel, Colonel).",
+  "Default pilot names kept within 15 bytes in case the name is copied into the player's name buffer.",
+  "Mobile suits not in the glossary (GM Cannon, GM Command, Zaku II High Mobility Type, Bigro, Byarlant, Dijeh, Gelgoog Jager, Gyan Kai, Nemo) use Gundam Wiki names from memory - not checked online; orchestrator may want to add them to mobile_suits.json."
+ ],
+ "uncertain": [
+  "S02751 Kuwin, S02753 Helselen, S02754 Filmere, S02755 Shenyun, S02756 Shisu: romanizations unverified (no source)",
+  "S02757-S02763: 'Made <rank>' instead of 'Promoted to <rank>' (which would overflow 2-7 bytes each)",
+  "S02773: 'Zaku II HM Type' abbreviates High Mobility Type",
+  "S02802: 'Core 3 Showdown' reorders briefing's 'Showdown at Core 3' to fit"
+ ]
+}

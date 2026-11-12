@@ -1,0 +1,1572 @@
+[
+ {
+  "jp": "地球連邦",
+  "en": "Earth Federation",
+  "type": "organization",
+  "source": "https://gundam.fandom.com/wiki/Earth_Federation",
+  "note": ""
+ },
+ {
+  "jp": "地球連邦政府",
+  "en": "Earth Federation Government",
+  "type": "organization",
+  "source": "https://gundam.fandom.com/wiki/Earth_Federation",
+  "note": ""
+ },
+ {
+  "jp": "地球連邦軍",
+  "en": "Earth Federation Forces",
+  "type": "organization",
+  "source": "https://gundam.fandom.com/wiki/Earth_Federation_Forces",
+  "note": "short form: Federation Forces / EFF"
+ },
+ {
+  "jp": "連邦軍",
+  "en": "Federation Forces",
+  "type": "organization",
+  "source": "https://gundam.fandom.com/wiki/Earth_Federation_Forces",
+  "note": "short for 地球連邦軍"
+ },
+ {
+  "jp": "連邦",
+  "en": "Federation",
+  "type": "organization",
+  "source": "https://gundam.fandom.com/wiki/Earth_Federation",
+  "note": "short for the Earth Federation (also used as faction label)"
+ },
+ {
+  "jp": "新連邦軍",
+  "en": "New Federation (F91)",
+  "type": "organization",
+  "source": "https://gundam.fandom.com/wiki/Earth_Federation_Forces",
+  "note": "game faction label for the U.C. 0120s Federation (F91/Crossbone); literally 'New Federation Forces'; no official English term found - unverified Project decision 2026-11-10: one name everywhere (\"New Fed.\" where slots are tight); was \"Federation (F91 era)\"."
+ },
+ {
+  "jp": "ジオン",
+  "en": "Zeon",
+  "type": "organization",
+  "source": "https://gundam.fandom.com/wiki/Zeon",
+  "note": ""
+ },
+ {
+  "jp": "ジオン公国",
+  "en": "Principality of Zeon",
+  "type": "organization",
+  "source": "https://gundam.fandom.com/wiki/Principality_of_Zeon",
+  "note": ""
+ },
+ {
+  "jp": "ジオン公国軍",
+  "en": "Principality of Zeon Forces",
+  "type": "organization",
+  "source": "https://gundam.fandom.com/wiki/Principality_of_Zeon",
+  "note": "Zeon military; short form 'Zeon forces'"
+ },
+ {
+  "jp": "ジオン軍",
+  "en": "Zeon forces",
+  "type": "organization",
+  "source": "https://gundam.fandom.com/wiki/Principality_of_Zeon",
+  "note": ""
+ },
+ {
+  "jp": "ジオン共和国",
+  "en": "Republic of Zeon",
+  "type": "organization",
+  "source": "https://gundam.fandom.com/wiki/Republic_of_Zeon",
+  "note": "post-war successor state of the Principality"
+ },
+ {
+  "jp": "ジオン残党",
+  "en": "Zeon remnants",
+  "type": "organization",
+  "source": "https://gundam.fandom.com/wiki/Delaz_Fleet",
+  "note": "generic term for post-war Zeon holdouts"
+ },
+ {
+  "jp": "ジオン残党軍",
+  "en": "Zeon remnant forces",
+  "type": "organization",
+  "source": "https://gundam.fandom.com/wiki/Delaz_Fleet",
+  "note": ""
+ },
+ {
+  "jp": "エゥーゴ",
+  "en": "AEUG",
+  "type": "organization",
+  "source": "https://gundam.fandom.com/wiki/Anti_Earth_Union_Group",
+  "note": "full name Anti Earth Union Group"
+ },
+ {
+  "jp": "ティターンズ",
+  "en": "Titans",
+  "type": "organization",
+  "source": "https://gundam.fandom.com/wiki/Titans",
+  "note": ""
+ },
+ {
+  "jp": "カラバ",
+  "en": "Karaba",
+  "type": "organization",
+  "source": "https://gundam.fandom.com/wiki/Karaba",
+  "note": ""
+ },
+ {
+  "jp": "アクシズ",
+  "en": "Axis",
+  "type": "place",
+  "source": "https://gundam.fandom.com/wiki/Axis",
+  "note": "asteroid base; also used as the name of the faction (Axis Zeon)"
+ },
+ {
+  "jp": "アクシズ軍",
+  "en": "Axis forces",
+  "type": "organization",
+  "source": "https://gundam.fandom.com/wiki/Axis_Zeon",
+  "note": "wiki article: Axis Zeon"
+ },
+ {
+  "jp": "ネオ・ジオン",
+  "en": "Neo Zeon",
+  "type": "organization",
+  "source": "https://gundam.fandom.com/wiki/Neo_Zeon",
+  "note": "wiki separates Neo Zeon (Haman, ZZ) from Newborn Neo Zeon (Char, CCA); the game uses ネオ・ジオン for both"
+ },
+ {
+  "jp": "ネオジオン",
+  "en": "Neo Zeon",
+  "type": "organization",
+  "source": "https://gundam.fandom.com/wiki/Neo_Zeon",
+  "note": "spelling variant without the middle dot"
+ },
+ {
+  "jp": "グレミー軍",
+  "en": "Glemy Faction",
+  "type": "organization",
+  "source": "https://gundam.fandom.com/wiki/Glemy_Faction",
+  "note": ""
+ },
+ {
+  "jp": "デラーズ・フリート",
+  "en": "Delaz Fleet",
+  "type": "organization",
+  "source": "https://gundam.fandom.com/wiki/Delaz_Fleet",
+  "note": ""
+ },
+ {
+  "jp": "デラーズ",
+  "en": "Delaz",
+  "type": "character",
+  "source": "https://gundam.fandom.com/wiki/Aiguille_Delaz",
+  "note": "Aiguille Delaz, leader of the Delaz Fleet; also used as faction label"
+ },
+ {
+  "jp": "ロンド・ベル",
+  "en": "Londo Bell",
+  "type": "organization",
+  "source": "https://gundam.fandom.com/wiki/Londo_Bell",
+  "note": ""
+ },
+ {
+  "jp": "ロンドベル",
+  "en": "Londo Bell",
+  "type": "organization",
+  "source": "https://gundam.fandom.com/wiki/Londo_Bell",
+  "note": "spelling variant without the middle dot"
+ },
+ {
+  "jp": "クロスボーン・バンガード",
+  "en": "Crossbone Vanguard",
+  "type": "organization",
+  "source": "https://gundam.fandom.com/wiki/Crossbone_Vanguard",
+  "note": ""
+ },
+ {
+  "jp": "クロスボーン",
+  "en": "Crossbone",
+  "type": "organization",
+  "source": "https://gundam.fandom.com/wiki/Crossbone_Vanguard",
+  "note": "short form of Crossbone Vanguard"
+ },
+ {
+  "jp": "クロスボーン軍",
+  "en": "Crossbone forces",
+  "type": "organization",
+  "source": "https://gundam.fandom.com/wiki/Crossbone_Vanguard",
+  "note": ""
+ },
+ {
+  "jp": "ネオ　クロスボーン",
+  "en": "Neo Crossbone",
+  "type": "organization",
+  "source": "https://gundam.fandom.com/wiki/Mobile_Suit_Gundam_Climax_U.C.",
+  "note": "game faction label for the Crossbone Gundam-era Vanguard (space pirates); the wiki game page calls it 'New Crossbone Vanguard'"
+ },
+ {
+  "jp": "黒の部隊",
+  "en": "Black Vanguard",
+  "type": "organization",
+  "source": "https://gundam.fandom.com/wiki/Zabine_Chareux",
+  "note": "Zabine Chareux's squad (wiki: Black Vanguard Squadron)"
+ },
+ {
+  "jp": "宇宙海賊",
+  "en": "space pirates",
+  "type": "organization",
+  "source": "https://gundam.fandom.com/wiki/Mobile_Suit_Crossbone_Gundam",
+  "note": "the Crossbone Vanguard of Crossbone Gundam"
+ },
+ {
+  "jp": "木星帝国",
+  "en": "Jupiter Empire",
+  "type": "organization",
+  "source": "https://gundam.fandom.com/wiki/Jupiter_Empire",
+  "note": ""
+ },
+ {
+  "jp": "コスモ・バビロニア",
+  "en": "Cosmo Babylonia",
+  "type": "organization",
+  "source": "https://gundam.fandom.com/wiki/Cosmo_Babylonia",
+  "note": "nation founded by the Ronah family"
+ },
+ {
+  "jp": "ロナ家",
+  "en": "Ronah family",
+  "type": "organization",
+  "source": "https://gundam.fandom.com/wiki/Meitzer_Ronah",
+  "note": ""
+ },
+ {
+  "jp": "貴族主義",
+  "en": "aristocratism",
+  "type": "tech",
+  "source": "https://gundam.fandom.com/wiki/Cosmo_Babylonia",
+  "note": "Cosmo Babylonia ideology (aristocracy / noblesse oblige); exact official English term unverified"
+ },
+ {
+  "jp": "サナリィ",
+  "en": "SNRI",
+  "type": "organization",
+  "source": "https://gundam.fandom.com/wiki/Strategic_Naval_Research_Institute",
+  "note": "Strategic Naval Research Institute"
+ },
+ {
+  "jp": "０８小隊",
+  "en": "08th MS Team",
+  "type": "organization",
+  "source": "https://gundam.fandom.com/wiki/08th_Mobile_Suit_Team",
+  "note": ""
+ },
+ {
+  "jp": "第０８ＭＳ小隊",
+  "en": "08th MS Team",
+  "type": "organization",
+  "source": "https://gundam.fandom.com/wiki/08th_Mobile_Suit_Team",
+  "note": ""
+ },
+ {
+  "jp": "アルビオン隊",
+  "en": "Albion team",
+  "type": "organization",
+  "source": "https://gundam.fandom.com/wiki/MSC-07_Albion",
+  "note": "wiki uses 'Albion Corps' in infoboxes"
+ },
+ {
+  "jp": "サイクロプス隊",
+  "en": "Cyclops Team",
+  "type": "organization",
+  "source": "https://gundam.fandom.com/wiki/Cyclops_Team",
+  "note": ""
+ },
+ {
+  "jp": "カムナ隊",
+  "en": "Kamuna's unit",
+  "type": "organization",
+  "source": "https://gundam.fandom.com/wiki/Kamuna_Tachibana",
+  "note": "game original"
+ },
+ {
+  "jp": "ザビ家",
+  "en": "Zabi family",
+  "type": "organization",
+  "source": "https://gundam.fandom.com/wiki/Zabi_family",
+  "note": ""
+ },
+ {
+  "jp": "ジャブロー",
+  "en": "Jaburo",
+  "type": "place",
+  "source": "https://gundam.fandom.com/wiki/Jaburo",
+  "note": "Federation HQ in South America"
+ },
+ {
+  "jp": "ア・バオア・クー",
+  "en": "A Baoa Qu",
+  "type": "place",
+  "source": "https://gundam.fandom.com/wiki/A_Baoa_Qu",
+  "note": ""
+ },
+ {
+  "jp": "宇宙要塞ア・バオア・クー",
+  "en": "space fortress A Baoa Qu",
+  "type": "place",
+  "source": "https://gundam.fandom.com/wiki/A_Baoa_Qu",
+  "note": ""
+ },
+ {
+  "jp": "ゼダンの門",
+  "en": "Gate of Zedan",
+  "type": "place",
+  "source": "https://gundam.fandom.com/wiki/A_Baoa_Qu",
+  "note": "A Baoa Qu's Titans-era name"
+ },
+ {
+  "jp": "ゼダン",
+  "en": "Zedan",
+  "type": "place",
+  "source": "https://gundam.fandom.com/wiki/A_Baoa_Qu",
+  "note": ""
+ },
+ {
+  "jp": "ソロモン",
+  "en": "Solomon",
+  "type": "place",
+  "source": "https://gundam.fandom.com/wiki/Solomon",
+  "note": ""
+ },
+ {
+  "jp": "コンペイトウ",
+  "en": "Konpei Island",
+  "type": "place",
+  "source": "https://gundam.fandom.com/wiki/Solomon",
+  "note": "Solomon's post-war Federation name; wiki also uses 'Confeito'"
+ },
+ {
+  "jp": "グラナダ",
+  "en": "Granada",
+  "type": "place",
+  "source": "https://gundam.fandom.com/wiki/Granada",
+  "note": "lunar city"
+ },
+ {
+  "jp": "アンマン",
+  "en": "Amman",
+  "type": "place",
+  "source": "https://gundam.fandom.com/wiki/Universal_Century_Locations",
+  "note": "lunar city (wiki spelling 'Amman')"
+ },
+ {
+  "jp": "ルナツー",
+  "en": "Luna II",
+  "type": "place",
+  "source": "https://gundam.fandom.com/wiki/Luna_II",
+  "note": ""
+ },
+ {
+  "jp": "サイド１",
+  "en": "Side 1",
+  "type": "place",
+  "source": "https://gundam.fandom.com/wiki/Space_Colony_(U.C.)",
+  "note": ""
+ },
+ {
+  "jp": "サイド３",
+  "en": "Side 3",
+  "type": "place",
+  "source": "https://gundam.fandom.com/wiki/Space_Colony_(U.C.)",
+  "note": ""
+ },
+ {
+  "jp": "サイド６",
+  "en": "Side 6",
+  "type": "place",
+  "source": "https://gundam.fandom.com/wiki/Space_Colony_(U.C.)",
+  "note": ""
+ },
+ {
+  "jp": "サイド７",
+  "en": "Side 7",
+  "type": "place",
+  "source": "https://gundam.fandom.com/wiki/Space_Colony_(U.C.)",
+  "note": ""
+ },
+ {
+  "jp": "リボー",
+  "en": "Libot",
+  "type": "place",
+  "source": "https://gundam.fandom.com/wiki/War_in_the_Pocket",
+  "note": "Side 6 colony (0080)"
+ },
+ {
+  "jp": "グリーンノア",
+  "en": "Green Noa",
+  "type": "place",
+  "source": "https://gundam.fandom.com/wiki/Gryps",
+  "note": "Side 7 colony (Green Noa 1 / Green Noa 2)"
+ },
+ {
+  "jp": "グリプス",
+  "en": "Gryps",
+  "type": "place",
+  "source": "https://gundam.fandom.com/wiki/Gryps",
+  "note": ""
+ },
+ {
+  "jp": "グリプス２",
+  "en": "Gryps 2",
+  "type": "place",
+  "source": "https://gundam.fandom.com/wiki/Gryps_2",
+  "note": "the colony laser"
+ },
+ {
+  "jp": "３０バンチ",
+  "en": "30 Bunch",
+  "type": "place",
+  "source": "https://gundam.fandom.com/wiki/Gryps_Conflict",
+  "note": "colony of the '30 Bunch Incident' (wiki also says Colony 30)"
+ },
+ {
+  "jp": "シャングリラ",
+  "en": "Shangri-La",
+  "type": "place",
+  "source": "https://gundam.fandom.com/wiki/Universal_Century_Locations",
+  "note": "Side 1 colony, Judau's home"
+ },
+ {
+  "jp": "コア３",
+  "en": "Core 3",
+  "type": "place",
+  "source": "https://gundam.fandom.com/wiki/Core_3",
+  "note": ""
+ },
+ {
+  "jp": "スウィート・ウォーター",
+  "en": "Sweetwater",
+  "type": "place",
+  "source": "https://gundam.fandom.com/wiki/Sweetwater",
+  "note": ""
+ },
+ {
+  "jp": "フィフス・ルナ",
+  "en": "Fifth Luna",
+  "type": "place",
+  "source": "https://gundam.fandom.com/wiki/Fifth_Luna",
+  "note": ""
+ },
+ {
+  "jp": "フロンティアサイド",
+  "en": "Frontier Side",
+  "type": "place",
+  "source": "https://gundam.fandom.com/wiki/Universal_Century_Locations",
+  "note": ""
+ },
+ {
+  "jp": "フロンティアⅠ",
+  "en": "Frontier I",
+  "type": "place",
+  "source": "https://gundam.fandom.com/wiki/Universal_Century_Locations",
+  "note": ""
+ },
+ {
+  "jp": "フロンティアⅣ",
+  "en": "Frontier IV",
+  "type": "place",
+  "source": "https://gundam.fandom.com/wiki/Universal_Century_Locations",
+  "note": ""
+ },
+ {
+  "jp": "ケネディポート",
+  "en": "Kennedy Spaceport",
+  "type": "place",
+  "source": "https://gundam.fandom.com/wiki/Universal_Century_Locations",
+  "note": "Japanese literally 'Kennedy Port'"
+ },
+ {
+  "jp": "キリマンジャロ",
+  "en": "Kilimanjaro",
+  "type": "place",
+  "source": "https://gundam.fandom.com/wiki/Universal_Century_Locations",
+  "note": "Titans base (wiki: Mount Kilimanjaro)"
+ },
+ {
+  "jp": "ホンコン・シティ",
+  "en": "Hong Kong City",
+  "type": "place",
+  "source": "https://gundam.fandom.com/wiki/Hong_Kong",
+  "note": ""
+ },
+ {
+  "jp": "ホンコン",
+  "en": "Hong Kong",
+  "type": "place",
+  "source": "https://gundam.fandom.com/wiki/Hong_Kong",
+  "note": ""
+ },
+ {
+  "jp": "ダカール",
+  "en": "Dakar",
+  "type": "place",
+  "source": "https://gundam.fandom.com/wiki/Dakar",
+  "note": ""
+ },
+ {
+  "jp": "ラサ",
+  "en": "Lhasa",
+  "type": "place",
+  "source": "https://gundam.fandom.com/wiki/Lhasa",
+  "note": "Federation HQ in CCA"
+ },
+ {
+  "jp": "チベット",
+  "en": "Tibet",
+  "type": "place",
+  "source": "https://gundam.fandom.com/wiki/Lhasa",
+  "note": ""
+ },
+ {
+  "jp": "ダブリン",
+  "en": "Dublin",
+  "type": "place",
+  "source": "https://gundam.fandom.com/wiki/Dublin",
+  "note": ""
+ },
+ {
+  "jp": "オデッサ",
+  "en": "Odessa",
+  "type": "place",
+  "source": "https://gundam.fandom.com/wiki/Odessa",
+  "note": ""
+ },
+ {
+  "jp": "トリントン",
+  "en": "Torrington",
+  "type": "place",
+  "source": "https://gundam.fandom.com/wiki/Torrington_Base",
+  "note": ""
+ },
+ {
+  "jp": "木星",
+  "en": "Jupiter",
+  "type": "place",
+  "source": "https://gundam.fandom.com/wiki/Jupiter",
+  "note": ""
+ },
+ {
+  "jp": "地球圏",
+  "en": "Earth Sphere",
+  "type": "place",
+  "source": "https://gundam.fandom.com/wiki/Earth_Sphere_(disambiguation)",
+  "note": ""
+ },
+ {
+  "jp": "ヤキン・ドゥーエ",
+  "en": "Jachin Due",
+  "type": "place",
+  "source": "https://gundam.fandom.com/wiki/Jachin_Due",
+  "note": "Gundam SEED location; leftover string from a SEED-engine game, likely unused"
+ },
+ {
+  "jp": "エンデュミオン・クレーター",
+  "en": "Endymion Crater",
+  "type": "place",
+  "source": "https://gundam.fandom.com/wiki/Moon_(Cosmic_Era)",
+  "note": "Gundam SEED location; leftover string, likely unused"
+ },
+ {
+  "jp": "ホワイトベース",
+  "en": "White Base",
+  "type": "ship",
+  "source": "https://gundam.fandom.com/wiki/SCV-70_White_Base",
+  "note": ""
+ },
+ {
+  "jp": "アルビオン",
+  "en": "Albion",
+  "type": "ship",
+  "source": "https://gundam.fandom.com/wiki/MSC-07_Albion",
+  "note": ""
+ },
+ {
+  "jp": "アーガマ",
+  "en": "Argama",
+  "type": "ship",
+  "source": "https://gundam.fandom.com/wiki/Argama-class",
+  "note": ""
+ },
+ {
+  "jp": "ネェル・アーガマ",
+  "en": "Nahel Argama",
+  "type": "ship",
+  "source": "https://gundam.fandom.com/wiki/SCVA-76_Nahel_Argama",
+  "note": ""
+ },
+ {
+  "jp": "ネェルアーガマ",
+  "en": "Nahel Argama",
+  "type": "ship",
+  "source": "https://gundam.fandom.com/wiki/SCVA-76_Nahel_Argama",
+  "note": "spelling variant without the middle dot"
+ },
+ {
+  "jp": "ラーディッシュ",
+  "en": "Radish",
+  "type": "ship",
+  "source": "https://gundam.fandom.com/wiki/Irish-class",
+  "note": ""
+ },
+ {
+  "jp": "アイリッシュ",
+  "en": "Irish",
+  "type": "ship",
+  "source": "https://gundam.fandom.com/wiki/Irish-class",
+  "note": ""
+ },
+ {
+  "jp": "レウルーラ",
+  "en": "Rewloola",
+  "type": "ship",
+  "source": "https://gundam.fandom.com/wiki/Rewloola-class",
+  "note": ""
+ },
+ {
+  "jp": "スペースアーク",
+  "en": "Space Ark",
+  "type": "ship",
+  "source": "https://gundam.fandom.com/wiki/Space_Ark-class",
+  "note": ""
+ },
+ {
+  "jp": "ジュピトリス",
+  "en": "Jupitris",
+  "type": "ship",
+  "source": "https://gundam.fandom.com/wiki/Jupitris-class",
+  "note": ""
+ },
+ {
+  "jp": "アレキサンドリア",
+  "en": "Alexandria",
+  "type": "ship",
+  "source": "https://gundam.fandom.com/wiki/Alexandria-class",
+  "note": ""
+ },
+ {
+  "jp": "グワンバン",
+  "en": "Gwanban",
+  "type": "ship",
+  "source": "https://gundam.fandom.com/wiki/Gwanban-class",
+  "note": ""
+ },
+ {
+  "jp": "サダラーン",
+  "en": "Sadalahn",
+  "type": "ship",
+  "source": "https://gundam.fandom.com/wiki/Sadalahn-class",
+  "note": ""
+ },
+ {
+  "jp": "エンドラ",
+  "en": "Endra",
+  "type": "ship",
+  "source": "https://gundam.fandom.com/wiki/Endra-class",
+  "note": ""
+ },
+ {
+  "jp": "サンドラ",
+  "en": "Sandra",
+  "type": "ship",
+  "source": "https://gundam.fandom.com/wiki/Endra-class",
+  "note": ""
+ },
+ {
+  "jp": "ミンドラ",
+  "en": "Mindra",
+  "type": "ship",
+  "source": "https://gundam.fandom.com/wiki/Endra-class",
+  "note": "wiki spelling 'Mindra'"
+ },
+ {
+  "jp": "アウドムラ",
+  "en": "Audhumla",
+  "type": "ship",
+  "source": "https://gundam.fandom.com/wiki/Garuda-class",
+  "note": ""
+ },
+ {
+  "jp": "スードリ",
+  "en": "Sudori",
+  "type": "ship",
+  "source": "https://gundam.fandom.com/wiki/Garuda-class",
+  "note": ""
+ },
+ {
+  "jp": "ラビアンローズ",
+  "en": "La Vie en Rose",
+  "type": "ship",
+  "source": "https://gundam.fandom.com/wiki/La_Vie_en_Rose",
+  "note": ""
+ },
+ {
+  "jp": "ムサイ",
+  "en": "Musai",
+  "type": "ship",
+  "source": "https://gundam.fandom.com/wiki/Musai-class",
+  "note": ""
+ },
+ {
+  "jp": "サラミス",
+  "en": "Salamis",
+  "type": "ship",
+  "source": "https://gundam.fandom.com/wiki/Salamis-class",
+  "note": ""
+ },
+ {
+  "jp": "サラミス改",
+  "en": "Salamis Kai",
+  "type": "ship",
+  "source": "https://gundam.fandom.com/wiki/Salamis_Kai-class",
+  "note": ""
+ },
+ {
+  "jp": "チベ",
+  "en": "Chivvay",
+  "type": "ship",
+  "source": "https://gundam.fandom.com/wiki/Chivvay-class",
+  "note": ""
+ },
+ {
+  "jp": "ガウ",
+  "en": "Gaw",
+  "type": "ship",
+  "source": "https://gundam.fandom.com/wiki/Gaw",
+  "note": ""
+ },
+ {
+  "jp": "ビッグトレー",
+  "en": "Big Tray",
+  "type": "ship",
+  "source": "https://gundam.fandom.com/wiki/Big_Tray-class",
+  "note": ""
+ },
+ {
+  "jp": "一年戦争",
+  "en": "One Year War",
+  "type": "event",
+  "source": "https://gundam.fandom.com/wiki/One_Year_War",
+  "note": ""
+ },
+ {
+  "jp": "宇宙世紀",
+  "en": "Universal Century",
+  "type": "event",
+  "source": "https://gundam.fandom.com/wiki/Universal_Century",
+  "note": "abbreviation U.C."
+ },
+ {
+  "jp": "星の屑作戦",
+  "en": "Operation Stardust",
+  "type": "event",
+  "source": "https://gundam.fandom.com/wiki/Delaz_Conflict",
+  "note": ""
+ },
+ {
+  "jp": "星の屑",
+  "en": "Stardust",
+  "type": "event",
+  "source": "https://gundam.fandom.com/wiki/Delaz_Conflict",
+  "note": "as in Operation Stardust"
+ },
+ {
+  "jp": "星一号作戦",
+  "en": "Operation Star One",
+  "type": "event",
+  "source": "https://gundam.fandom.com/wiki/Operation_Star_One",
+  "note": ""
+ },
+ {
+  "jp": "ルビコン作戦",
+  "en": "Operation Rubicon",
+  "type": "event",
+  "source": "https://gundam.fandom.com/wiki/Operation_Rubicon",
+  "note": ""
+ },
+ {
+  "jp": "メールシュトローム作戦",
+  "en": "Operation Maelstrom",
+  "type": "event",
+  "source": "https://gundam.fandom.com/wiki/Operation_Maelstrom",
+  "note": ""
+ },
+ {
+  "jp": "コロニー落とし",
+  "en": "colony drop",
+  "type": "event",
+  "source": "https://gundam.fandom.com/wiki/Space_colony",
+  "note": ""
+ },
+ {
+  "jp": "観艦式",
+  "en": "Naval Review",
+  "type": "event",
+  "source": "https://gundam.fandom.com/wiki/Assault_on_the_Naval_Review",
+  "note": ""
+ },
+ {
+  "jp": "デラーズ紛争",
+  "en": "Delaz Conflict",
+  "type": "event",
+  "source": "https://gundam.fandom.com/wiki/Delaz_Conflict",
+  "note": ""
+ },
+ {
+  "jp": "グリプス戦役",
+  "en": "Gryps Conflict",
+  "type": "event",
+  "source": "https://gundam.fandom.com/wiki/Gryps_Conflict",
+  "note": ""
+ },
+ {
+  "jp": "３０バンチ事件",
+  "en": "30 Bunch Incident",
+  "type": "event",
+  "source": "https://gundam.fandom.com/wiki/Gryps_Conflict",
+  "note": "wiki section 'The 30 Bunch Incident' (also 'Colony 30 Incident')"
+ },
+ {
+  "jp": "第一次ネオ・ジオン戦争",
+  "en": "First Neo Zeon War",
+  "type": "event",
+  "source": "https://gundam.fandom.com/wiki/First_Neo_Zeon_War",
+  "note": ""
+ },
+ {
+  "jp": "第二次ネオ・ジオン戦争",
+  "en": "Second Neo Zeon War",
+  "type": "event",
+  "source": "https://gundam.fandom.com/wiki/Second_Neo_Zeon_War",
+  "note": ""
+ },
+ {
+  "jp": "バビロニア建国戦争",
+  "en": "Cosmo Babylonia War",
+  "type": "event",
+  "source": "https://gundam.fandom.com/wiki/Cosmo_Babylonia",
+  "note": "Japanese literally 'Babylonia Founding War'; wiki uses 'Cosmo Babylonia War'"
+ },
+ {
+  "jp": "地球寒冷化作戦",
+  "en": "Operation Earth Cooling",
+  "type": "event",
+  "source": "",
+  "note": "Char's Axis-drop plan (CCA) to freeze Earth; stage title, no official English found - unverified"
+ },
+ {
+  "jp": "ガンダム試作",
+  "en": "Gundam Development Project",
+  "type": "tech",
+  "source": "https://gundam.fandom.com/wiki/Gundam_Development_Project",
+  "note": "prefix of GP01-GP03 names ('Gundam Prototype Unit')"
+ },
+ {
+  "jp": "モビルスーツ",
+  "en": "mobile suit",
+  "type": "tech",
+  "source": "https://gundam.fandom.com/wiki/Mobile_Weapon",
+  "note": ""
+ },
+ {
+  "jp": "ＭＳ",
+  "en": "MS",
+  "type": "tech",
+  "source": "https://gundam.fandom.com/wiki/Mobile_Weapon",
+  "note": "abbreviation of mobile suit"
+ },
+ {
+  "jp": "モビルアーマー",
+  "en": "mobile armor",
+  "type": "tech",
+  "source": "https://gundam.fandom.com/wiki/Mobile_Weapon",
+  "note": ""
+ },
+ {
+  "jp": "ＭＡ",
+  "en": "MA",
+  "type": "tech",
+  "source": "https://gundam.fandom.com/wiki/Mobile_Weapon",
+  "note": "abbreviation of mobile armor"
+ },
+ {
+  "jp": "ＭＡ形態",
+  "en": "MA mode",
+  "type": "tech",
+  "source": "https://gundam.fandom.com/wiki/Mobile_Weapon",
+  "note": "transformation mode"
+ },
+ {
+  "jp": "ウェイブライダー",
+  "en": "Waverider",
+  "type": "tech",
+  "source": "https://gundam.fandom.com/wiki/Waverider",
+  "note": ""
+ },
+ {
+  "jp": "ニュータイプ",
+  "en": "Newtype",
+  "type": "tech",
+  "source": "https://gundam.fandom.com/wiki/Newtype",
+  "note": ""
+ },
+ {
+  "jp": "強化人間",
+  "en": "Cyber Newtype",
+  "type": "tech",
+  "source": "https://gundam.fandom.com/wiki/Cyber_Newtype",
+  "note": "artificially enhanced Newtype; literal 'enhanced human'"
+ },
+ {
+  "jp": "スペースノイド",
+  "en": "Spacenoid",
+  "type": "tech",
+  "source": "https://gundam.fandom.com/wiki/Spacenoid",
+  "note": ""
+ },
+ {
+  "jp": "コロニー",
+  "en": "colony",
+  "type": "tech",
+  "source": "https://gundam.fandom.com/wiki/Space_colony",
+  "note": ""
+ },
+ {
+  "jp": "コロニーレーザー",
+  "en": "colony laser",
+  "type": "tech",
+  "source": "https://gundam.fandom.com/wiki/Colony_Laser",
+  "note": ""
+ },
+ {
+  "jp": "ソーラ・レイ",
+  "en": "Solar Ray",
+  "type": "tech",
+  "source": "https://gundam.fandom.com/wiki/Solar_Ray",
+  "note": ""
+ },
+ {
+  "jp": "ソーラ・システム",
+  "en": "Solar System",
+  "type": "tech",
+  "source": "https://gundam.fandom.com/wiki/Solar_System",
+  "note": ""
+ },
+ {
+  "jp": "ソーラ・システムⅡ",
+  "en": "Solar System II",
+  "type": "tech",
+  "source": "https://gundam.fandom.com/wiki/Solar_System_II",
+  "note": ""
+ },
+ {
+  "jp": "サイコ・フレーム",
+  "en": "Psycho-Frame",
+  "type": "tech",
+  "source": "https://gundam.fandom.com/wiki/Psycho-Frame",
+  "note": ""
+ },
+ {
+  "jp": "サイコフレーム",
+  "en": "Psycho-Frame",
+  "type": "tech",
+  "source": "https://gundam.fandom.com/wiki/Psycho-Frame",
+  "note": "spelling variant without the middle dot"
+ },
+ {
+  "jp": "バイオセンサー",
+  "en": "bio-sensor",
+  "type": "tech",
+  "source": "https://gundam.fandom.com/wiki/MSZ-006_Zeta_Gundam",
+  "note": ""
+ },
+ {
+  "jp": "ファンネル",
+  "en": "funnel",
+  "type": "tech",
+  "source": "https://gundam.fandom.com/wiki/List_of_Universal_Century_Weapons",
+  "note": ""
+ },
+ {
+  "jp": "ヴェスバー",
+  "en": "VSBR",
+  "type": "tech",
+  "source": "https://gundam.fandom.com/wiki/List_of_Universal_Century_Weapons",
+  "note": "Variable-Speed Beam Rifle"
+ },
+ {
+  "jp": "Ｉフィールド",
+  "en": "I-field",
+  "type": "tech",
+  "source": "https://gundam.fandom.com/wiki/List_of_Universal_Century_Weapons",
+  "note": ""
+ },
+ {
+  "jp": "メガ粒子砲",
+  "en": "mega particle cannon",
+  "type": "tech",
+  "source": "https://gundam.fandom.com/wiki/List_of_Universal_Century_Weapons",
+  "note": ""
+ },
+ {
+  "jp": "バグ",
+  "en": "Bug",
+  "type": "tech",
+  "source": "https://gundam.fandom.com/wiki/Bug",
+  "note": "Crossbone Vanguard anti-personnel weapon"
+ },
+ {
+  "jp": "ハイド・ボンブ",
+  "en": "hide bomb",
+  "type": "tech",
+  "source": "https://gundam.fandom.com/wiki/AMX-011_Zaku_III",
+  "note": "Zaku III 'Hide Bomb Dispenser'"
+ },
+ {
+  "jp": "ダミーバルーン",
+  "en": "dummy balloon",
+  "type": "tech",
+  "source": "https://gundam.fandom.com/wiki/RX-93_%CE%BD_Gundam",
+  "note": ""
+ },
+ {
+  "jp": "ヒートロッド",
+  "en": "heat rod",
+  "type": "tech",
+  "source": "https://gundam.fandom.com/wiki/List_of_Universal_Century_Weapons",
+  "note": ""
+ },
+ {
+  "jp": "コアファイター",
+  "en": "Core Fighter",
+  "type": "tech",
+  "source": "https://gundam.fandom.com/wiki/FF-X7_Core_Fighter",
+  "note": ""
+ },
+ {
+  "jp": "ベースジャバー",
+  "en": "Base Jabber",
+  "type": "tech",
+  "source": "https://gundam.fandom.com/wiki/Base_Jabber",
+  "note": ""
+ },
+ {
+  "jp": "ＢＷＳ",
+  "en": "BWS",
+  "type": "tech",
+  "source": "https://gundam.fandom.com/wiki/RGZ-91_Re-GZ",
+  "note": "Back Weapon System of the Re-GZ"
+ },
+ {
+  "jp": "赤い彗星",
+  "en": "Red Comet",
+  "type": "title",
+  "source": "https://gundam.fandom.com/wiki/Char_Aznable",
+  "note": "Char's nickname"
+ },
+ {
+  "jp": "鉄仮面",
+  "en": "Iron Mask",
+  "type": "title",
+  "source": "https://gundam.fandom.com/wiki/Iron_Mask",
+  "note": "Carozzo Ronah's alias"
+ },
+ {
+  "jp": "総帥",
+  "en": "Supreme Commander",
+  "type": "title",
+  "source": "",
+  "note": "title of Gihren, Delaz, Haman, Iron Mask in the text; adjust to context (Haman: leader) - unverified"
+ },
+ {
+  "jp": "ララァ・スン",
+  "en": "Lalah Sune",
+  "type": "character",
+  "source": "https://gundam.fandom.com/wiki/Lalah_Sune",
+  "note": ""
+ },
+ {
+  "jp": "ミネバ・ザビ",
+  "en": "Mineva Zabi",
+  "type": "character",
+  "source": "https://gundam.fandom.com/wiki/Mineva_Lao_Zabi",
+  "note": "full name Mineva Lao Zabi"
+ },
+ {
+  "jp": "ミネバ",
+  "en": "Mineva",
+  "type": "character",
+  "source": "https://gundam.fandom.com/wiki/Mineva_Lao_Zabi",
+  "note": ""
+ },
+ {
+  "jp": "ギニアス",
+  "en": "Ginius",
+  "type": "character",
+  "source": "https://gundam.fandom.com/wiki/Ginias_Sahalin",
+  "note": "Ginius Sakhalin, Aina's brother. Official site spelling; wiki: Ginias Sahalin.",
+  "source_official": "https://en.gundam-official.com/series/08th-ms-team/character"
+ },
+ {
+  "jp": "レビル",
+  "en": "Revil",
+  "type": "character",
+  "source": "https://gundam.fandom.com/wiki/Johann_Ibrahim_Revil",
+  "note": "General Revil"
+ },
+ {
+  "jp": "ジャミトフ",
+  "en": "Jamitov",
+  "type": "character",
+  "source": "https://gundam.fandom.com/wiki/Jamitov_Hymen",
+  "note": "wiki title 'Jamitov Hymen' ('Jamitov Hymem' redirects)"
+ },
+ {
+  "jp": "ジャミトフ・ハイマン",
+  "en": "Jamitov Hymen",
+  "type": "character",
+  "source": "https://gundam.fandom.com/wiki/Jamitov_Hymen",
+  "note": "wiki title 'Jamitov Hymen' ('Jamitov Hymem' redirects)"
+ },
+ {
+  "jp": "ブレックス",
+  "en": "Blex",
+  "type": "character",
+  "source": "https://gundam.fandom.com/wiki/Blex_Forer",
+  "note": "Blex Forer"
+ },
+ {
+  "jp": "バスク",
+  "en": "Bask",
+  "type": "character",
+  "source": "https://gundam.fandom.com/wiki/Bask_Om",
+  "note": ""
+ },
+ {
+  "jp": "コーウェン",
+  "en": "Cowen",
+  "type": "character",
+  "source": "https://gundam.fandom.com/wiki/John_Cowen",
+  "note": "John Cowen"
+ },
+ {
+  "jp": "ゲーツ",
+  "en": "Gates",
+  "type": "character",
+  "source": "https://gundam.fandom.com/wiki/Gates_Capa",
+  "note": "Gates Capa"
+ },
+ {
+  "jp": "レコア",
+  "en": "Reccoa",
+  "type": "character",
+  "source": "https://gundam.fandom.com/wiki/Reccoa_Londe",
+  "note": "Reccoa Londe"
+ },
+ {
+  "jp": "サラ",
+  "en": "Sarah",
+  "type": "character",
+  "source": "https://gundam.fandom.com/wiki/Sarah_Zabiarov",
+  "note": "Sarah Zabiarov (beware: substring of サラミス)"
+ },
+ {
+  "jp": "リィナ",
+  "en": "Leina",
+  "type": "character",
+  "source": "https://gundam.fandom.com/wiki/Leina_Ashta",
+  "note": "Judau's sister Leina Ashta"
+ },
+ {
+  "jp": "キラ・ヤマト",
+  "en": "Kira Yamato",
+  "type": "character",
+  "source": "https://gundam.fandom.com/wiki/Kira_Yamato",
+  "note": "Gundam SEED character; leftover UI string from a SEED-engine game, likely unused"
+ },
+ {
+  "jp": "アスラン・ザラ",
+  "en": "Athrun Zala",
+  "type": "character",
+  "source": "https://gundam.fandom.com/wiki/Athrun_Zala",
+  "note": "Gundam SEED character; leftover UI string, likely unused"
+ },
+ {
+  "jp": "プログレスモード",
+  "en": "Progress Mode",
+  "type": "game",
+  "source": "https://gundam.fandom.com/wiki/Kamuna_Tachibana",
+  "note": "game mode"
+ },
+ {
+  "jp": "プログレス",
+  "en": "Progress",
+  "type": "game",
+  "source": "https://gundam.fandom.com/wiki/Kamuna_Tachibana",
+  "note": "as in Progress Mode"
+ },
+ {
+  "jp": "クロニクル",
+  "en": "Chronicle",
+  "type": "game",
+  "source": "https://ja.wikipedia.org/wiki/%E6%A9%9F%E5%8B%95%E6%88%A6%E5%A3%AB%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A0_%E3%82%AF%E3%83%A9%E3%82%A4%E3%83%9E%E3%83%83%E3%82%AF%E3%82%B9U.C.",
+  "note": "Chronicle Mode; no official English source - literal"
+ },
+ {
+  "jp": "Ｖ作戦",
+  "en": "Operation V",
+  "type": "event",
+  "source": "https://gundam.fandom.com/wiki/Operation_V",
+  "note": "Federation mobile suit development program (Gundam, Guncannon, Guntank)"
+ },
+ {
+  "jp": "オデッサ作戦",
+  "en": "Operation Odessa",
+  "type": "event",
+  "source": "https://gundam.fandom.com/wiki/Operation_Odessa",
+  "note": ""
+ },
+ {
+  "jp": "ジャブロー攻略作戦",
+  "en": "Battle of Jaburo",
+  "type": "event",
+  "source": "https://gundam.fandom.com/wiki/Battle_of_Jaburo",
+  "note": "Zeon assault on Jaburo (0079); Japanese literally 'Jaburo capture operation'"
+ },
+ {
+  "jp": "ジャブロー降下作戦",
+  "en": "Second Battle of Jaburo",
+  "type": "event",
+  "source": "https://gundam.fandom.com/wiki/Second_Battle_of_Jaburo",
+  "note": "AEUG descent on Jaburo (0087); Japanese literally 'Jaburo descent operation'"
+ },
+ {
+  "jp": "アプサラス開発計画",
+  "en": "Apsaras development project",
+  "type": "event",
+  "source": "https://gundam.fandom.com/wiki/Apsaras_II",
+  "note": "Japanese literally 'Apsaras development plan'; no wiki article - literal"
+ },
+ {
+  "jp": "ルビコン計画",
+  "en": "Operation Rubicon",
+  "type": "event",
+  "source": "https://gundam.fandom.com/wiki/Operation_Rubicon",
+  "note": "Japanese literally 'Rubicon Plan'; same event as ルビコン作戦"
+ },
+ {
+  "jp": "ガンダム強奪事件",
+  "en": "theft of the Gundam GP02",
+  "type": "event",
+  "source": "https://gundam.fandom.com/wiki/Delaz_Conflict",
+  "note": "Gato's theft of GP02 at Torrington; literal 'Gundam theft incident'; no dedicated article"
+ },
+ {
+  "jp": "２号機強奪事件",
+  "en": "theft of Unit 2 (GP02)",
+  "type": "event",
+  "source": "https://gundam.fandom.com/wiki/Delaz_Conflict",
+  "note": ""
+ },
+ {
+  "jp": "観艦式襲撃事件",
+  "en": "Assault on the Naval Review",
+  "type": "event",
+  "source": "https://gundam.fandom.com/wiki/Assault_on_the_Naval_Review",
+  "note": ""
+ },
+ {
+  "jp": "ティターンズ結成",
+  "en": "formation of the Titans",
+  "type": "event",
+  "source": "https://gundam.fandom.com/wiki/Titans",
+  "note": ""
+ },
+ {
+  "jp": "ホンコン・シティ襲撃事件",
+  "en": "Hong Kong City attack",
+  "type": "event",
+  "source": "https://gundam.fandom.com/wiki/Hong_Kong",
+  "note": "Psycho Gundam attack on Hong Kong (Zeta); no dedicated article - literal"
+ },
+ {
+  "jp": "アポロ作戦",
+  "en": "Operation Apollo",
+  "type": "event",
+  "source": "https://gundam.fandom.com/wiki/Operation_Apollo",
+  "note": ""
+ },
+ {
+  "jp": "ブレックス准将暗殺事件",
+  "en": "assassination of Brigadier General Blex",
+  "type": "event",
+  "source": "https://gundam.fandom.com/wiki/Blex_Forer",
+  "note": "no dedicated article - literal"
+ },
+ {
+  "jp": "キリマンジャロ攻略戦",
+  "en": "Attack on Kilimanjaro",
+  "type": "event",
+  "source": "https://gundam.fandom.com/wiki/Attack_on_Kilimanjaro",
+  "note": ""
+ },
+ {
+  "jp": "ダカール議会占拠",
+  "en": "seizure of the Dakar assembly",
+  "type": "event",
+  "source": "https://gundam.fandom.com/wiki/Dakar",
+  "note": "AEUG/Karaba take the Federation assembly hall in Dakar (Char's Dakar speech); literal - unverified"
+ },
+ {
+  "jp": "ダカール制圧",
+  "en": "capture of Dakar",
+  "type": "event",
+  "source": "https://gundam.fandom.com/wiki/Dakar",
+  "note": "Neo Zeon takes Dakar (ZZ); literal - unverified"
+ },
+ {
+  "jp": "ダブリン壊滅",
+  "en": "destruction of Dublin",
+  "type": "event",
+  "source": "https://gundam.fandom.com/wiki/Dublin",
+  "note": "colony drop on Dublin (ZZ); literal - unverified"
+ },
+ {
+  "jp": "グレミーの叛乱",
+  "en": "Glemy's Rebellion",
+  "type": "event",
+  "source": "https://gundam.fandom.com/wiki/Glemy_Faction",
+  "note": "no dedicated article - literal"
+ },
+ {
+  "jp": "フィフス・ルナ落着事件",
+  "en": "Fifth Luna drop",
+  "type": "event",
+  "source": "https://gundam.fandom.com/wiki/Fifth_Luna",
+  "note": "Fifth Luna dropped on Lhasa (CCA); literal 'Fifth Luna impact incident'"
+ },
+ {
+  "jp": "コスモ・バビロニア建国宣言",
+  "en": "founding of Cosmo Babylonia",
+  "type": "event",
+  "source": "https://gundam.fandom.com/wiki/Cosmo_Babylonia",
+  "note": "literal 'declaration of the founding of Cosmo Babylonia'"
+ },
+ {
+  "jp": "ラフレシアプロジェクト",
+  "en": "Rafflesia Project",
+  "type": "event",
+  "source": "https://gundam.fandom.com/wiki/XMA-01_Rafflesia",
+  "note": ""
+ },
+ {
+  "jp": "アクシズ地球圏帰還",
+  "en": "Axis returns to the Earth Sphere",
+  "type": "event",
+  "source": "https://gundam.fandom.com/wiki/Axis",
+  "note": "literal"
+ },
+ {
+  "jp": "独立戦争",
+  "en": "war of independence",
+  "type": "event",
+  "source": "https://gundam.fandom.com/wiki/One_Year_War",
+  "note": "Zeon's name for the One Year War"
+ },
+ {
+  "jp": "ガンダム開発計画",
+  "en": "Gundam Development Project",
+  "type": "tech",
+  "source": "https://gundam.fandom.com/wiki/Gundam_Development_Project",
+  "note": ""
+ },
+ {
+  "jp": "統合整備計画",
+  "en": "Integrated Re-engineering Program",
+  "type": "tech",
+  "source": "https://gundam.fandom.com/wiki/MS-06FZ_Zaku_II_FZ",
+  "note": "Zeon late-war MS standardisation program; no wiki article found - unverified"
+ },
+ {
+  "jp": "マグネット・コーティング",
+  "en": "magnetic coating",
+  "type": "tech",
+  "source": "https://gundam.fandom.com/wiki/RX-78-2_Gundam",
+  "note": "wiki infobox writes 'magnet coating'"
+ },
+ {
+  "jp": "サイコミュ",
+  "en": "psycommu",
+  "type": "tech",
+  "source": "https://gundam.fandom.com/wiki/Psycommu",
+  "note": ""
+ },
+ {
+  "jp": "ミノフスキークラフト",
+  "en": "Minovsky craft",
+  "type": "tech",
+  "source": "https://gundam.fandom.com/wiki/MRX-009_Psycho_Gundam",
+  "note": ""
+ },
+ {
+  "jp": "インコム",
+  "en": "Incom",
+  "type": "tech",
+  "source": "https://gundam.fandom.com/wiki/AMX-014_D%C3%B6ven_Wolf",
+  "note": ""
+ },
+ {
+  "jp": "フィン・ファンネル",
+  "en": "fin funnel",
+  "type": "tech",
+  "source": "https://gundam.fandom.com/wiki/RX-93_%CE%BD_Gundam",
+  "note": ""
+ },
+ {
+  "jp": "バック・ウェポン・システム",
+  "en": "Back Weapon System",
+  "type": "tech",
+  "source": "https://gundam.fandom.com/wiki/RGZ-91_Re-GZ",
+  "note": "abbreviation BWS"
+ },
+ {
+  "jp": "ジャイアント・バズ",
+  "en": "Giant Bazooka",
+  "type": "tech",
+  "source": "https://gundam.fandom.com/wiki/MS-09_Dom",
+  "note": ""
+ },
+ {
+  "jp": "アステロイド・ベルト",
+  "en": "Asteroid Belt",
+  "type": "place",
+  "source": "https://gundam.fandom.com/wiki/Axis",
+  "note": ""
+ },
+ {
+  "jp": "ヒッコリー",
+  "en": "Hickory",
+  "type": "place",
+  "source": "https://gundam.fandom.com/wiki/Shuttle_Launch",
+  "note": "Karaba shuttle site (Zeta)"
+ },
+ {
+  "jp": "ティア・サイド",
+  "en": "Frontier Side",
+  "type": "place",
+  "source": "https://gundam.fandom.com/wiki/Universal_Century_Locations",
+  "note": "appears split across a line break in card text (フロン/ティア・サイド)"
+ },
+ {
+  "jp": "ケルゲレン",
+  "en": "Kergeren",
+  "type": "ship",
+  "source": "https://gundam.fandom.com/wiki/Zanzibar-class",
+  "note": "Zanzibar-class ship (08th MS Team)"
+ },
+ {
+  "jp": "マザー・バンガード",
+  "en": "Mother Vanguard",
+  "type": "ship",
+  "source": "https://gundam.fandom.com/wiki/Mother_Vanguard",
+  "note": "Crossbone Vanguard flagship (Crossbone Gundam)"
+ },
+ {
+  "jp": "スペース・ウルフ隊",
+  "en": "Space Wolf team",
+  "type": "organization",
+  "source": "https://gundam.fandom.com/wiki/AMX-014_D%C3%B6ven_Wolf",
+  "note": "Neo Zeon Döven Wolf unit (ZZ); spelling unverified on wiki"
+ },
+ {
+  "jp": "アプサラスⅢ",
+  "en": "Apsaras III",
+  "type": "tech",
+  "source": "https://gundam.fandom.com/wiki/Apsaras_III",
+  "note": ""
+ },
+ {
+  "jp": "ジオン・ダイクン",
+  "en": "Zeon Zum Deikun",
+  "type": "character",
+  "source": "https://gundam.fandom.com/wiki/Zeon_Zum_Deikun",
+  "note": ""
+ },
+ {
+  "jp": "キャスバル",
+  "en": "Casval",
+  "type": "character",
+  "source": "https://gundam.fandom.com/wiki/Char_Aznable",
+  "note": "Char's birth name Casval Rem Deikun"
+ },
+ {
+  "jp": "デギン",
+  "en": "Degwin",
+  "type": "character",
+  "source": "https://gundam.fandom.com/wiki/Degwin_Sodo_Zabi",
+  "note": "Degwin Sodo Zabi"
+ },
+ {
+  "jp": "ガルマ・ザビ",
+  "en": "Garma Zabi",
+  "type": "character",
+  "source": "https://gundam.fandom.com/wiki/Garma_Zabi",
+  "note": ""
+ },
+ {
+  "jp": "ギニアス・サハリン",
+  "en": "Ginius Sakhalin",
+  "type": "character",
+  "source": "https://gundam.fandom.com/wiki/Ginias_Sahalin",
+  "note": "Official site spelling; wiki: Ginias Sahalin.",
+  "source_official": "https://en.gundam-official.com/series/08th-ms-team/character"
+ },
+ {
+  "jp": "スパイ・ミハル",
+  "en": "Miharu the spy",
+  "type": "character",
+  "source": "https://gundam.fandom.com/wiki/Miharu_Ratokie",
+  "note": "Miharu Ratokie; Japanese literally 'spy Miharu'"
+ },
+ {
+  "jp": "カツ",
+  "en": "Katz",
+  "type": "character",
+  "source": "https://gundam.fandom.com/wiki/Katz_Kobayashi",
+  "note": "Katz Kobayashi"
+ },
+ {
+  "jp": "ハサウェイ",
+  "en": "Hathaway",
+  "type": "character",
+  "source": "https://gundam.fandom.com/wiki/Hathaway_Noa",
+  "note": "Hathaway Noa"
+ },
+ {
+  "jp": "マイッツァー",
+  "en": "Meitzer",
+  "type": "character",
+  "source": "https://gundam.fandom.com/wiki/Meitzer_Ronah",
+  "note": "Meitzer Ronah"
+ },
+ {
+  "jp": "エターナル・ウインド",
+  "en": "Eternal Wind",
+  "type": "title",
+  "source": "",
+  "note": "F91 theme song title 'Eternal Wind' (also a stage title); official song title"
+ },
+ {
+  "jp": "サイレント・ヴォイス",
+  "en": "Silent Voice",
+  "type": "title",
+  "source": "https://gundam.fandom.com/wiki/Silent_Voice",
+  "note": "Gundam ZZ opening song title"
+ }
+]

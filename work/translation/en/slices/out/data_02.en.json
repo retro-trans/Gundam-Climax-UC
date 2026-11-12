@@ -1,0 +1,852 @@
+{
+ "slice": "data_02",
+ "rows_in_slice": 199,
+ "rows_examined": 199,
+ "rows": [
+  {
+   "id": "S01547",
+   "en": "Hayato Kobayashi (Z)"
+  },
+  {
+   "id": "S01548",
+   "en": "Beltorchika Irma"
+  },
+  {
+   "id": "S01549",
+   "en": "Kacricon Cacooler"
+  },
+  {
+   "id": "S01550",
+   "en": "Beecha Oleg"
+  },
+  {
+   "id": "S01551",
+   "en": "Mondo Agake"
+  },
+  {
+   "id": "S01552",
+   "en": "Elle Vianno"
+  },
+  {
+   "id": "S01553",
+   "en": "Emary Ounce"
+  },
+  {
+   "id": "S01554",
+   "en": "Bright Noa (CCA)"
+  },
+  {
+   "id": "S01555",
+   "en": "Nanai Miguel"
+  },
+  {
+   "id": "S01556",
+   "en": "Leahlee Edaberry"
+  },
+  {
+   "id": "S01557",
+   "en": "Cosmo Eigesse"
+  },
+  {
+   "id": "S01558",
+   "en": "Berah Ronah"
+  },
+  {
+   "id": "S01559",
+   "en": "Weakest Character",
+   "note": "Debug/test pilot slot; glossary form."
+  },
+  {
+   "id": "S01560",
+   "en": "Strongest Character",
+   "note": "Debug/test pilot slot; glossary form (19/19 bytes)."
+  },
+  {
+   "id": "S01561",
+   "en": "Operator (Federation)"
+  },
+  {
+   "id": "S01562",
+   "en": "Operator",
+   "note": "Short-name field shared by both operator records."
+  },
+  {
+   "id": "S01563",
+   "en": "Operator (Crossbone)"
+  },
+  {
+   "id": "S01564",
+   "en": "No Active Skill acquired."
+  },
+  {
+   "id": "S01565",
+   "en": "Temporarily stops the locked-on enemy's movement.  CP: 10"
+  },
+  {
+   "id": "S01566",
+   "en": "Temporarily pulls the locked-on enemy toward you.  CP: 10"
+  },
+  {
+   "id": "S01567",
+   "en": "Temporarily pulls all on-screen enemies toward you.  CP: 15"
+  },
+  {
+   "id": "S01568",
+   "en": "Temporarily pushes the locked-on enemy away.  CP: 5"
+  },
+  {
+   "id": "S01569",
+   "en": "Temporarily pushes all on-screen enemies away.  CP: 10"
+  },
+  {
+   "id": "S01570",
+   "en": "Throws the locked-on enemy's actions into confusion.  CP: 15"
+  },
+  {
+   "id": "S01571",
+   "en": "Instantly refills all ammo.  CP: 5"
+  },
+  {
+   "id": "S01572",
+   "en": "Raises a special barrier that negates one attack.  CP: 7"
+  },
+  {
+   "id": "S01573",
+   "en": "Performs a step move that evades completely.  CP: 3",
+   "note": "kanzen kaihi step = a dodge step with complete evasion."
+  },
+  {
+   "id": "S01574",
+   "en": "Draws other enemies to the locked-on enemy.  CP: 12"
+  },
+  {
+   "id": "S01575",
+   "en": "Randomizes all lock-on targets, friend and foe.  CP: 6"
+  },
+  {
+   "id": "S01576",
+   "en": "Temporarily keeps melee charge speed at maximum.  CP: 6"
+  },
+  {
+   "id": "S01577",
+   "en": "Temporarily raises shooting charge speed sharply.  CP: 8"
+  },
+  {
+   "id": "S01578",
+   "en": "Temporarily slows enemy movement.  CP: 10"
+  },
+  {
+   "id": "S01579",
+   "en": "Temporarily raises attack and mobility sharply.  CP: 10"
+  },
+  {
+   "id": "S01580",
+   "en": "Temporarily doubles attack and negates enemy shields.  CP: 6",
+   "note": "attack no iryoku (attack power) shortened to attack to fit 63 bytes."
+  },
+  {
+   "id": "S01581",
+   "en": "Temporarily gives shooting attacks a stun effect.  CP: 10"
+  },
+  {
+   "id": "S01582",
+   "en": "Triggers a random effect.  CP: 8"
+  },
+  {
+   "id": "S01583",
+   "en": "No Passive Skill acquired."
+  },
+  {
+   "id": "S01584",
+   "en": "Raises NT ability, but has a negative effect in a pinch."
+  },
+  {
+   "id": "S01585",
+   "en": "Charge gauge fills faster."
+  },
+  {
+   "id": "S01586",
+   "en": "Charge-up kicks in sooner when in a pinch."
+  },
+  {
+   "id": "S01587",
+   "en": "Raises the power of charged melee attacks."
+  },
+  {
+   "id": "S01588",
+   "en": "Widens the timing window for Just Shots."
+  },
+  {
+   "id": "S01589",
+   "en": "Main weapon ammo recovers faster."
+  },
+  {
+   "id": "S01590",
+   "en": "Raises main weapon projectile speed."
+  },
+  {
+   "id": "S01591",
+   "en": "Lowers base ammo count, but raises shooting power."
+  },
+  {
+   "id": "S01592",
+   "en": "Raises shield durability."
+  },
+  {
+   "id": "S01593",
+   "en": "Slows down approaching units.",
+   "note": "Japanese says only 'approaching units' (not explicitly enemies); kept neutral."
+  },
+  {
+   "id": "S01594",
+   "en": "Randomly reduces CP consumption."
+  },
+  {
+   "id": "S01595",
+   "en": "CP gradually recovers while standing still."
+  },
+  {
+   "id": "S01596",
+   "en": "CP gradually recovers when in a pinch."
+  },
+  {
+   "id": "S01597",
+   "en": "Stats rise when HP falls below 30%."
+  },
+  {
+   "id": "S01598",
+   "en": "Attack up while HP is 50% or more, down below 50%."
+  },
+  {
+   "id": "S01599",
+   "en": "Reduces thruster consumption."
+  },
+  {
+   "id": "S01600",
+   "en": "Faster turning and sub-weapon response."
+  },
+  {
+   "id": "S01601",
+   "en": "Reduces damage taken during melee attacks."
+  },
+  {
+   "id": "S01602",
+   "en": "Stats rise when piloting a weak unit."
+  },
+  {
+   "id": "S01603",
+   "en": "Stats rise when piloting a large unit."
+  },
+  {
+   "id": "S01604",
+   "en": "Faster turning speed while locked on."
+  },
+  {
+   "id": "S01605",
+   "en": "Raises item appearance rate by 5%."
+  },
+  {
+   "id": "S01606",
+   "en": "Recovery items restore more."
+  },
+  {
+   "id": "S01607",
+   "en": "Picking up a card item also restores a little HP."
+  },
+  {
+   "id": "S01608",
+   "en": "Stats rise on ground stages."
+  },
+  {
+   "id": "S01609",
+   "en": "Stats rise on space stages."
+  },
+  {
+   "id": "S01610",
+   "en": "Stats rise on air stages."
+  },
+  {
+   "id": "S01611",
+   "en": "Faster backward movement while locked on."
+  },
+  {
+   "id": "S01612",
+   "en": "Lowers the chance of being knocked down by damage."
+  },
+  {
+   "id": "S01613",
+   "en": "Lowers the opponent's stats if their pilot is the opposite sex."
+  },
+  {
+   "id": "S01614",
+   "en": "Raises allied units' attack power."
+  },
+  {
+   "id": "S01615",
+   "en": "Faster long-range lock-on."
+  },
+  {
+   "id": "S01616",
+   "en": "Can guard while attacking, but the shield wears out faster."
+  },
+  {
+   "id": "S01617",
+   "en": "You are issued better units than usual.",
+   "note": "Japanese has no final period; added one for consistency."
+  },
+  {
+   "id": "S01618",
+   "en": "Eases the requirements for promotion."
+  },
+  {
+   "id": "S01619",
+   "en": "Stats rise when piloting Federation units."
+  },
+  {
+   "id": "S01620",
+   "en": "Stats rise when piloting Zeon units."
+  },
+  {
+   "id": "S01621",
+   "en": "Stats rise when piloting AEUG units."
+  },
+  {
+   "id": "S01622",
+   "en": "Stats rise when piloting Titans units."
+  },
+  {
+   "id": "S01623",
+   "en": "Stats rise when piloting Axis units."
+  },
+  {
+   "id": "S01624",
+   "en": "Stats rise when piloting Neo Zeon units."
+  },
+  {
+   "id": "S01625",
+   "en": "Stats rise when piloting Crossbone Vanguard units."
+  },
+  {
+   "id": "S01626",
+   "en": "Stats rise when piloting Federation (F91 era) units.",
+   "note": "Glossary form for the F91-era Federation; the Japanese adds '(F91)' to the faction."
+  },
+  {
+   "id": "S01627",
+   "en": "Temporarily boosts mobility and halves thruster use.  CP: 6",
+   "note": "Shared by msskill rec0 and rec18."
+  },
+  {
+   "id": "S01628",
+   "en": "High-power shooting attack.  CP: 8"
+  },
+  {
+   "id": "S01629",
+   "en": "High-power kick attack.  CP: 3"
+  },
+  {
+   "id": "S01630",
+   "en": "Claw-shaped missile attack.  CP: 3",
+   "note": "tsume-gata missile = claw-shaped missiles."
+  },
+  {
+   "id": "S01631",
+   "en": "Temporarily ignores flinching caused by damage.  CP: 2",
+   "note": "'action restriction from damage' read as hit stagger/flinch."
+  },
+  {
+   "id": "S01632",
+   "en": "High-power ramming attack.  CP: 6"
+  },
+  {
+   "id": "S01633",
+   "en": "Powerful blinding attack.  CP: 5"
+  },
+  {
+   "id": "S01634",
+   "en": "Temporarily blocks frontal attacks with the naginata.  CP: 2"
+  },
+  {
+   "id": "S01635",
+   "en": "Fully restores shield durability.  CP: 6"
+  },
+  {
+   "id": "S01636",
+   "en": "Temporarily raises attack and mobility sharply.  CP: 6",
+   "note": "Same text as S01579 with different CP."
+  },
+  {
+   "id": "S01637",
+   "en": "Heat rod attack with a stun effect.  CP: 6"
+  },
+  {
+   "id": "S01638",
+   "en": "High-power chain mine attack.  CP: 6"
+  },
+  {
+   "id": "S01639",
+   "en": "Doubles melee power, but defense -20%.  CP: 6"
+  },
+  {
+   "id": "S01640",
+   "en": "Temporarily keeps melee charge speed at maximum.  CP: 4",
+   "note": "Same text as S01576 with different CP."
+  },
+  {
+   "id": "S01641",
+   "en": "Temporarily raises main weapon rate of fire.  CP: 5"
+  },
+  {
+   "id": "S01642",
+   "en": "Wired arm attack with a stun effect.  CP: 6"
+  },
+  {
+   "id": "S01643",
+   "en": "Transforms into MA mode.  CP: 0"
+  },
+  {
+   "id": "S01644",
+   "en": "Fires a sticky round that stops enemy movement.  CP: 10",
+   "note": "torimochi (birdlime) round rendered descriptively as 'sticky round'."
+  },
+  {
+   "id": "S01645",
+   "en": "Temporarily blocks frontal attacks with hidden arms.  CP: 6"
+  },
+  {
+   "id": "S01646",
+   "en": "Fires missiles.  CP: 10"
+  },
+  {
+   "id": "S01647",
+   "en": "Nullifies beam attack damage for 3 seconds.  CP: 6"
+  },
+  {
+   "id": "S01648",
+   "en": "Combination attack of melee and shooting.  CP: 5"
+  },
+  {
+   "id": "S01649",
+   "en": "Fires a hide bomb.  CP: 5"
+  },
+  {
+   "id": "S01650",
+   "en": "Extends funnel duration.  CP: 6"
+  },
+  {
+   "id": "S01651",
+   "en": "Triggers a random effect.  CP: 2"
+  },
+  {
+   "id": "S01652",
+   "en": "Launches a dummy balloon as a decoy.  CP: 5"
+  },
+  {
+   "id": "S01653",
+   "en": "Unused",
+   "note": "Placeholder for an unused MS skill slot; probably never shown."
+  },
+  {
+   "id": "S01654",
+   "en": "Detaches the BWS and transforms into MS mode.  CP: 0",
+   "note": "BWS o tobashi = sends the BWS flying off; rendered 'Detaches'."
+  },
+  {
+   "id": "S01655",
+   "en": "Electromagnetic wire attack with a stun effect.  CP: 6"
+  },
+  {
+   "id": "S01656",
+   "en": "Leaves afterimages; temporarily immune to damage.  CP: 15"
+  },
+  {
+   "id": "S01657",
+   "en": "Launches Bugs.  CP: 10"
+  },
+  {
+   "id": "S01658",
+   "en": "Piercing attack with the lancer.  CP: 5"
+  },
+  {
+   "id": "S01659",
+   "en": "Fires a more powerful VSBR shot.  CP: 10"
+  },
+  {
+   "id": "S01660",
+   "en": "Anchor attack with a stun effect.  CP: 6"
+  },
+  {
+   "id": "S01661",
+   "en": "High-power shooting attack.  CP: 6"
+  },
+  {
+   "id": "S01662",
+   "en": "Powerful melee attack.  CP: 10"
+  },
+  {
+   "id": "S01663",
+   "en": "Transforms into Waverider mode.  CP: 0"
+  },
+  {
+   "id": "S01664",
+   "en": "Progress Male A (Federation)"
+  },
+  {
+   "id": "S01665",
+   "en": "Progress Male A (CV)",
+   "note": "CV = Crossbone Vanguard; kept as the abbreviation."
+  },
+  {
+   "id": "S01666",
+   "en": "Progress Male B (Federation)"
+  },
+  {
+   "id": "S01667",
+   "en": "Progress Male B (CV)"
+  },
+  {
+   "id": "S01668",
+   "en": "Progress Female A (Federation)"
+  },
+  {
+   "id": "S01669",
+   "en": "Progress Female A (CV)"
+  },
+  {
+   "id": "S01670",
+   "en": "Progress Female B (Federation)"
+  },
+  {
+   "id": "S01671",
+   "en": "Progress Female B (CV)"
+  },
+  {
+   "id": "S01672",
+   "en": "Kamuna Tachibana (LB)",
+   "note": "LB = Londo Bell; kept as abbreviation."
+  },
+  {
+   "id": "S01673",
+   "en": "Kamuna Tachibana (NZ)",
+   "note": "NZ = Neo Zeon; kept as abbreviation."
+  },
+  {
+   "id": "S01674",
+   "en": "Ellen Rochefil (LB)"
+  },
+  {
+   "id": "S01675",
+   "en": "Ellen Rochefil (NZ)"
+  },
+  {
+   "id": "S01676",
+   "en": "Shirley Ramsey (LB)"
+  },
+  {
+   "id": "S01677",
+   "en": "Shirley Ramsey (NZ)"
+  },
+  {
+   "id": "S01678",
+   "en": "Pamir McDamil (LB)",
+   "note": "Japanese spells the surname Magudamiru here; glossary McDamil used."
+  },
+  {
+   "id": "S01679",
+   "en": "Pamir McDamil (NZ)",
+   "note": "As S01678."
+  },
+  {
+   "id": "S01680",
+   "en": "Aegis Veracruz (Federation)"
+  },
+  {
+   "id": "S01681",
+   "en": "Aegis Veracruz (CV)"
+  },
+  {
+   "id": "S01682",
+   "en": "",
+   "flag": "Not text: binary bytes in unit_ability.inf mis-detected as a string (decodes to garbage). Leave untouched."
+  },
+  {
+   "id": "S01683",
+   "en": "",
+   "flag": "Probably not text: a 2-byte value in unit_ability.inf (+0x16, 15 records) that happens to decode as one kanji ('cannon'). Leave untouched unless confirmed as a displayed label (then 'Gun' fits 3 bytes)."
+  },
+  {
+   "id": "S01684",
+   "en": "Musai Hull",
+   "note": "hontai = main body; 'Hull' used for ship bodies throughout."
+  },
+  {
+   "id": "S01685",
+   "en": "Musai Turret"
+  },
+  {
+   "id": "S01686",
+   "en": "Musai Engine"
+  },
+  {
+   "id": "S01687",
+   "en": "White Base Hull"
+  },
+  {
+   "id": "S01688",
+   "en": "Albion Hull"
+  },
+  {
+   "id": "S01689",
+   "en": "Albion Turret A"
+  },
+  {
+   "id": "S01690",
+   "en": "Albion Turret B"
+  },
+  {
+   "id": "S01691",
+   "en": "Space Ark Hull"
+  },
+  {
+   "id": "S01692",
+   "en": "Space Ark Turret"
+  },
+  {
+   "id": "S01693",
+   "en": "Salamis Hull"
+  },
+  {
+   "id": "S01694",
+   "en": "Salamis Turret A"
+  },
+  {
+   "id": "S01695",
+   "en": "Salamis Turret B"
+  },
+  {
+   "id": "S01696",
+   "en": "Salamis Machine Gun"
+  },
+  {
+   "id": "S01697",
+   "en": "Argama Hull"
+  },
+  {
+   "id": "S01698",
+   "en": "Argama Turret"
+  },
+  {
+   "id": "S01699",
+   "en": "Rewloola Hull"
+  },
+  {
+   "id": "S01700",
+   "en": "Rewloola Turret"
+  },
+  {
+   "id": "S01701",
+   "en": "Irish Hull"
+  },
+  {
+   "id": "S01702",
+   "en": "Irish Turret"
+  },
+  {
+   "id": "S01703",
+   "en": "Radish Hull"
+  },
+  {
+   "id": "S01704",
+   "en": "Radish Turret"
+  },
+  {
+   "id": "S01705",
+   "en": "Nahel Argama Hull"
+  },
+  {
+   "id": "S01706",
+   "en": "Nahel Argama Turret A"
+  },
+  {
+   "id": "S01707",
+   "en": "Nahel Argama Turret B"
+  },
+  {
+   "id": "S01708",
+   "en": "Alexandria Hull"
+  },
+  {
+   "id": "S01709",
+   "en": "Alexandria Turret"
+  },
+  {
+   "id": "S01710",
+   "en": "Salamis Kai Hull"
+  },
+  {
+   "id": "S01711",
+   "en": "Salamis Kai Turret"
+  },
+  {
+   "id": "S01712",
+   "en": "Shuttle"
+  },
+  {
+   "id": "S01713",
+   "en": "Audhumla Hull"
+  },
+  {
+   "id": "S01714",
+   "en": "Audhumla (Whole)",
+   "note": "ittai = 'one body'; likely the complete one-piece model as opposed to separate parts."
+  },
+  {
+   "id": "S01715",
+   "en": "Sudori Hull"
+  },
+  {
+   "id": "S01716",
+   "en": "Endra Hull"
+  },
+  {
+   "id": "S01717",
+   "en": "Endra Turret"
+  },
+  {
+   "id": "S01718",
+   "en": "Endra Turret 2"
+  },
+  {
+   "id": "S01719",
+   "en": "Sandra Hull"
+  },
+  {
+   "id": "S01720",
+   "en": "Sandra Turret"
+  },
+  {
+   "id": "S01721",
+   "en": "Sandra Turret 2"
+  },
+  {
+   "id": "S01722",
+   "en": "Mindra Hull"
+  },
+  {
+   "id": "S01723",
+   "en": "Mindra Turret"
+  },
+  {
+   "id": "S01724",
+   "en": "Mindra Turret 2"
+  },
+  {
+   "id": "S01725",
+   "en": "Sadalahn Hull"
+  },
+  {
+   "id": "S01726",
+   "en": "Sadalahn Turret"
+  },
+  {
+   "id": "S01727",
+   "en": "Gwanban Hull"
+  },
+  {
+   "id": "S01728",
+   "en": "Gwanban Turret"
+  },
+  {
+   "id": "S01729",
+   "en": "Gaw Hull"
+  },
+  {
+   "id": "S01730",
+   "en": "Gaw Turret"
+  },
+  {
+   "id": "S01731",
+   "en": "Gaw Bombs",
+   "note": "bakurai (bombs dropped by the Gaw carrier)."
+  },
+  {
+   "id": "S01732",
+   "en": "Descending Zaku",
+   "note": "kouka Zaku = Zaku dropping in (from the Gaw)."
+  },
+  {
+   "id": "S01733",
+   "en": "Big Tray Hull"
+  },
+  {
+   "id": "S01734",
+   "en": "Big Tray Turret"
+  },
+  {
+   "id": "S01735",
+   "en": "Jaburo Turret"
+  },
+  {
+   "id": "S01736",
+   "en": "Dopp"
+  },
+  {
+   "id": "S01737",
+   "en": "Dummy Balloon (Santa)"
+  },
+  {
+   "id": "S01738",
+   "en": "Dummy Balloon (Snowman)"
+  },
+  {
+   "id": "S01739",
+   "en": "Balloon Mine"
+  },
+  {
+   "id": "S01740",
+   "en": "Mega Particle Cannon Turret"
+  },
+  {
+   "id": "S01741",
+   "en": "Large Turret"
+  },
+  {
+   "id": "S01742",
+   "en": "Interceptor Satellite"
+  },
+  {
+   "id": "S01743",
+   "en": "Circle",
+   "note": "saakuru; unclear object (possibly a ring/marker target). Literal."
+  },
+  {
+   "id": "S01744",
+   "en": "",
+   "flag": "Not text: 2-byte numeric field in unit_search.inf mis-detected as a kanji. Leave untouched."
+  },
+  {
+   "id": "S01745",
+   "en": "",
+   "flag": "Not text: 2-byte numeric field in unit_search.inf mis-detected as a roman-numeral glyph. Leave untouched."
+  }
+ ],
+ "decisions": [
+  "Skill descriptions with a CP cost: the Japanese pads with full-width spaces so 'CP:' sits at a fixed column. Written as '<description>  CP: n' (two ASCII spaces, ASCII digits); the orchestrator may re-pad for alignment.",
+  "ittei jikan ('for a set time') rendered 'Temporarily' throughout; pinch-ji = 'in a pinch'; nouryoku / nouryokuchi = 'stats'.",
+  "Faction-affinity skills (S01619-S01626) use the short faction names: Federation, Zeon, AEUG, Titans, Axis, Neo Zeon, Crossbone Vanguard, Federation (F91 era).",
+  "Ship part names: hontai = Hull, houdai = Turret, kijuu = Machine Gun; A/B/2 suffixes kept.",
+  "Progress-mode labels: LB/NZ/CV abbreviations kept (Londo Bell / Neo Zeon / Crossbone Vanguard).",
+  "Four rows (S01682, S01683, S01744, S01745) are binary fields mis-extracted as text: left empty and flagged."
+ ],
+ "uncertain": [
+  "S01626: 'Federation (F91 era)' is the glossary form but is marked unverified there.",
+  "S01630: tsume-gata missile -> 'Claw-shaped missile'; owning unit not checked.",
+  "S01631: 'action restriction from damage' read as flinch/stagger.",
+  "S01644: torimochi round -> 'sticky round' (no attested English term checked).",
+  "S01654: BWS 'tobashi' -> 'Detaches'.",
+  "S01714: Audhumla 'ittai' -> 'Audhumla (Whole)'; meaning of the record not verified.",
+  "S01743: 'Circle' kept literal; object unknown.",
+  "S01593: 'approaching units' kept neutral (may mean enemies only).",
+  "S01683: treated as binary; if it is a visible label, 'Gun' fits 3 bytes."
+ ]
+}

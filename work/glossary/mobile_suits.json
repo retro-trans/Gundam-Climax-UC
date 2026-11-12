@@ -1,0 +1,990 @@
+[
+ {
+  "jp": "ガンダム",
+  "en": "Gundam",
+  "model": "RX-78-2",
+  "game_code": "GND",
+  "series": "MSG 0079",
+  "source": "https://gundam.fandom.com/wiki/RX-78-2_Gundam",
+  "note": ""
+ },
+ {
+  "jp": "ジム",
+  "en": "GM",
+  "model": "RGM-79",
+  "game_code": "GM_",
+  "series": "MSG 0079",
+  "source": "https://gundam.fandom.com/wiki/RGM-79_GM",
+  "note": ""
+ },
+ {
+  "jp": "シャア専用ザクⅡ",
+  "en": "Char's Zaku II",
+  "model": "MS-06S",
+  "game_code": "CZK",
+  "series": "MSG 0079",
+  "source": "https://gundam.fandom.com/wiki/MS-06S_Zaku_II_Commander_Type",
+  "note": "wiki article: MS-06S Zaku II Commander Type"
+ },
+ {
+  "jp": "ジオング",
+  "en": "Zeong",
+  "model": "MSN-02",
+  "game_code": "ZNG",
+  "series": "MSG 0079",
+  "source": "https://gundam.fandom.com/wiki/MSN-02_Zeong",
+  "note": ""
+ },
+ {
+  "jp": "ビグ・ザム",
+  "en": "Big Zam",
+  "model": "MA-08",
+  "game_code": "BGZ",
+  "series": "MSG 0079",
+  "source": "https://gundam.fandom.com/wiki/MA-08_Big_Zam",
+  "note": ""
+ },
+ {
+  "jp": "ガンキャノン",
+  "en": "Guncannon",
+  "model": "RX-77-2",
+  "game_code": "GCN",
+  "series": "MSG 0079",
+  "source": "https://gundam.fandom.com/wiki/RX-77-2_Guncannon",
+  "note": ""
+ },
+ {
+  "jp": "ザクⅡＦ型",
+  "en": "Zaku II F Type",
+  "model": "MS-06F",
+  "game_code": "ZK2",
+  "series": "MSG 0079",
+  "source": "https://gundam.fandom.com/wiki/MS-06F_Zaku_II",
+  "note": "wiki article 'MS-06F Zaku II'; 'X Type' pattern follows wiki 'Zaku II F2 Type'"
+ },
+ {
+  "jp": "ドム",
+  "en": "Dom",
+  "model": "MS-09",
+  "game_code": "DMM",
+  "series": "MSG 0079",
+  "source": "https://gundam.fandom.com/wiki/MS-09_Dom",
+  "note": "wiki lists the production model as MS-09B"
+ },
+ {
+  "jp": "リックドム",
+  "en": "Rick Dom",
+  "model": "MS-09R",
+  "game_code": "RDM",
+  "series": "MSG 0079",
+  "source": "https://gundam.fandom.com/wiki/MS-09R_Rick_Dom",
+  "note": ""
+ },
+ {
+  "jp": "ゲルググ",
+  "en": "Gelgoog",
+  "model": "MS-14",
+  "game_code": "GEL",
+  "series": "MSG 0079",
+  "source": "https://gundam.fandom.com/wiki/MS-14A_Gelgoog",
+  "note": "wiki model MS-14A"
+ },
+ {
+  "jp": "ガンダムＥｚ８",
+  "en": "Gundam Ez8",
+  "model": "",
+  "game_code": "EZ8",
+  "series": "08th MS Team",
+  "source": "https://gundam.fandom.com/wiki/RX-79%5BG%5DEz-8_Gundam_Ez8",
+  "note": "model blank in data; wiki RX-79[G]Ez-8"
+ },
+ {
+  "jp": "陸戦型ガンダム",
+  "en": "Gundam Ground Type",
+  "model": "",
+  "game_code": "GNG",
+  "series": "08th MS Team",
+  "source": "https://gundam.fandom.com/wiki/RX-79%5BG%5D_Gundam_Ground_Type",
+  "note": "model blank in data; wiki RX-79[G]"
+ },
+ {
+  "jp": "グフカスタム",
+  "en": "Gouf Custom",
+  "model": "MS-07B-3",
+  "game_code": "GFC",
+  "series": "08th MS Team",
+  "source": "https://gundam.fandom.com/wiki/MS-07B-3_Gouf_Custom",
+  "note": ""
+ },
+ {
+  "jp": "アプサラスⅡ",
+  "en": "Apsaras II",
+  "model": "Unknown",
+  "game_code": "AP2",
+  "series": "08th MS Team",
+  "source": "https://gundam.fandom.com/wiki/Apsaras_II",
+  "note": "wiki title 'Apsaras II', also known as 'Apsalus II' -> chose wiki title"
+ },
+ {
+  "jp": "ザクⅡＪ型",
+  "en": "Zaku II J Type",
+  "model": "MS-06J",
+  "game_code": "ZKJ",
+  "series": "MSG 0079",
+  "source": "https://gundam.fandom.com/wiki/MS-06J_Zaku_II_Ground_Type",
+  "note": "wiki title 'Zaku II Ground Type', text calls it 'Zaku II J-type'; kept J Type to match the Japanese"
+ },
+ {
+  "jp": "アレックス",
+  "en": "Alex",
+  "model": "RX-78NT-1",
+  "game_code": "NT1",
+  "series": "0080",
+  "source": "https://gundam.fandom.com/wiki/RX-78NT-1_Gundam_NT-1",
+  "note": "nickname of the Gundam NT-1 (wiki RX-78NT-1 Gundam NT-1 'Alex')"
+ },
+ {
+  "jp": "ケンプファー",
+  "en": "Kampfer",
+  "model": "MS-18E",
+  "game_code": "KMP",
+  "series": "0080",
+  "source": "https://gundam.fandom.com/wiki/MS-18E_K%C3%A4mpfer",
+  "note": "ASCII fallback if the font lacks the umlaut: Kampfer Official site spelling; wiki: Kämpfer.",
+  "source_official": "https://en.gundam-official.com/series/0080-war-in-the-pocket/mecha"
+ },
+ {
+  "jp": "ザクⅡ改",
+  "en": "Zaku II FZ",
+  "model": "MS-06FZ",
+  "game_code": "FZZ",
+  "series": "0080",
+  "source": "https://gundam.fandom.com/wiki/MS-06FZ_Zaku_II_FZ",
+  "note": "wiki title 'Zaku II FZ', also known as 'Zaku II Kai' (the Japanese literally says Kai) -> chose wiki title; 'Zaku II Kai' is an acceptable alternative"
+ },
+ {
+  "jp": "ガンダム試作１号機フルバーニアン",
+  "en": "Gundam GP01 Full Burnern",
+  "model": "RX-78GP01-Fb",
+  "game_code": "G1F",
+  "series": "0083",
+  "source": "https://gundam.fandom.com/wiki/RX-78GP01-Fb_Gundam_%22Zephyranthes%22_Full_Burnern",
+  "note": "wiki full name 'Gundam \"Zephyranthes\" Full Burnern'; Japanese says 'Prototype Unit 1' = GP01"
+ },
+ {
+  "jp": "ガンダム試作２号機（サイサリス）",
+  "en": "Gundam GP02A Physalis",
+  "model": "RX-78GP02A",
+  "game_code": "GP2",
+  "series": "0083",
+  "source": "https://gundam.fandom.com/wiki/RX-78GP02A_Gundam_%22Physalis%22",
+  "note": "wiki 'Gundam \"Physalis\"'; Japanese says 'Prototype Unit 2' = GP02 Official site spelling; wiki: Gundam GP02 (Physalis).",
+  "source_official": "https://en.gundam-official.com/series/0083/mecha"
+ },
+ {
+  "jp": "ガーベラ・テトラ",
+  "en": "Gerbera Tetra",
+  "model": "AGX-04",
+  "game_code": "GBT",
+  "series": "0083",
+  "source": "https://gundam.fandom.com/wiki/AGX-04_Gerbera_Tetra",
+  "note": ""
+ },
+ {
+  "jp": "ガンダム試作３号機（デンドロビウム）",
+  "en": "Gundam GP03 Dendrobium",
+  "model": "RX-78GP03",
+  "game_code": "GP3",
+  "series": "0083",
+  "source": "https://gundam.fandom.com/wiki/RX-78GP03_Gundam_%22Dendrobium%22",
+  "note": "wiki 'Gundam \"Dendrobium\"'; Japanese says 'Prototype Unit 3' = GP03 Official site spelling; wiki: Gundam GP03 (Dendrobium).",
+  "source_official": "https://en.gundam-official.com/series/0083/mecha"
+ },
+ {
+  "jp": "ノイエ・ジール",
+  "en": "Neue Ziel",
+  "model": "AMX-X2",
+  "game_code": "NZL",
+  "series": "0083",
+  "source": "https://gundam.fandom.com/wiki/AMX-002_Neue_Ziel",
+  "note": "game model 'AMX-X2'; wiki model AMX-002"
+ },
+ {
+  "jp": "ジムカスタム",
+  "en": "GM Custom",
+  "model": "RGM-79N",
+  "game_code": "GMM",
+  "series": "0083",
+  "source": "https://gundam.fandom.com/wiki/RGM-79N_GM_Custom",
+  "note": ""
+ },
+ {
+  "jp": "Ｚガンダム",
+  "en": "Zeta Gundam",
+  "model": "MSZ-006",
+  "game_code": "ZET",
+  "series": "Zeta",
+  "source": "https://gundam.fandom.com/wiki/MSZ-006_Zeta_Gundam",
+  "note": "Japanese writes Z (fullwidth); official English spells Zeta"
+ },
+ {
+  "jp": "ガンダムMk-Ⅱ（エゥーゴ）",
+  "en": "Gundam Mk-II (AEUG)",
+  "model": "RX-178",
+  "game_code": "MK2",
+  "series": "Zeta",
+  "source": "https://gundam.fandom.com/wiki/RX-178_Gundam_Mk-II",
+  "note": ""
+ },
+ {
+  "jp": "ガンダムMk-Ⅱ（ティターンズ）",
+  "en": "Gundam Mk-II (Titans)",
+  "model": "RX-178",
+  "game_code": "M2T",
+  "series": "Zeta",
+  "source": "https://gundam.fandom.com/wiki/RX-178_Gundam_Mk-II",
+  "note": ""
+ },
+ {
+  "jp": "ジムⅡ",
+  "en": "GM II",
+  "model": "RGM-179",
+  "game_code": "GM2",
+  "series": "Zeta",
+  "source": "https://gundam.fandom.com/wiki/RMS-179_GM_II",
+  "note": "game model 'RGM-179'; wiki RMS-179 (aka RGM-79R / RGM-82)"
+ },
+ {
+  "jp": "ジムⅡ（エゥーゴ）",
+  "en": "GM II (AEUG)",
+  "model": "RGM-79R",
+  "game_code": "G2E",
+  "series": "Zeta",
+  "source": "https://gundam.fandom.com/wiki/RMS-179_GM_II",
+  "note": "game model RGM-79R matches a wiki alias"
+ },
+ {
+  "jp": "百式",
+  "en": "Hyaku-Shiki",
+  "model": "MSN-100",
+  "game_code": "HYK",
+  "series": "Zeta",
+  "source": "https://gundam.fandom.com/wiki/MSN-00100_Hyaku_Shiki",
+  "note": "game model 'MSN-100'; wiki MSN-00100 Official site spelling; wiki: Hyaku Shiki.",
+  "source_official": "https://en.gundam-official.com/series/z/mecha"
+ },
+ {
+  "jp": "キュベレイ",
+  "en": "Qubeley",
+  "model": "AMX-004",
+  "game_code": "QUB",
+  "series": "Zeta",
+  "source": "https://gundam.fandom.com/wiki/AMX-004_Qubeley",
+  "note": ""
+ },
+ {
+  "jp": "ガザＣ",
+  "en": "Gaza C",
+  "model": "AMX-003",
+  "game_code": "GAZ",
+  "series": "Zeta",
+  "source": "https://gundam.fandom.com/wiki/AMX-003_Gaza-C",
+  "note": "Official site spelling; wiki: Gaza-C.",
+  "source_official": "https://en.gundam-official.com/series/z/mecha"
+ },
+ {
+  "jp": "ジ・Ｏ",
+  "en": "The-O",
+  "model": "PMX-003",
+  "game_code": "THE",
+  "series": "Zeta",
+  "source": "https://gundam.fandom.com/wiki/PMX-003_The-O",
+  "note": "wiki title 'The-O' ('The O' redirects)"
+ },
+ {
+  "jp": "サイコガンダム",
+  "en": "Psycho Gundam",
+  "model": "MRX-009",
+  "game_code": "PSY",
+  "series": "Zeta",
+  "source": "https://gundam.fandom.com/wiki/MRX-009_Psycho_Gundam",
+  "note": "wiki also notes 'Psyco Gundam'"
+ },
+ {
+  "jp": "アッシマー",
+  "en": "Asshimar",
+  "model": "NRX-044",
+  "game_code": "ASS",
+  "series": "Zeta",
+  "source": "https://gundam.fandom.com/wiki/NRX-044_Asshimar",
+  "note": ""
+ },
+ {
+  "jp": "ハイザック",
+  "en": "Hizack",
+  "model": "RMS-106",
+  "game_code": "HIZ",
+  "series": "Zeta",
+  "source": "https://gundam.fandom.com/wiki/RMS-106_Hizack",
+  "note": ""
+ },
+ {
+  "jp": "ハイザック（地球連邦軍）",
+  "en": "Hizack (E.F.S.F.)",
+  "model": "RMS-106",
+  "game_code": "HZE",
+  "series": "Zeta",
+  "source": "https://gundam.fandom.com/wiki/RMS-106_Hizack",
+  "note": "short form 'Hizack (EFF)' if space is tight Official site spelling; wiki: Hizack (Earth Federation Forces).",
+  "source_official": "https://en.gundam-official.com/series/z/mecha"
+ },
+ {
+  "jp": "ＺＺガンダム",
+  "en": "ZZ Gundam",
+  "model": "MSZ-010",
+  "game_code": "ZZG",
+  "series": "ZZ",
+  "source": "https://gundam.fandom.com/wiki/MSZ-010_%CE%96%CE%96_Gundam",
+  "note": "wiki writes the name with Greek capital Zetas; use Latin 'ZZ' (pronounced Double Zeta)"
+ },
+ {
+  "jp": "ザクⅢ",
+  "en": "Zaku III",
+  "model": "AMX-011",
+  "game_code": "ZK3",
+  "series": "ZZ",
+  "source": "https://gundam.fandom.com/wiki/AMX-011_Zaku_III",
+  "note": ""
+ },
+ {
+  "jp": "ドーベンウルフ",
+  "en": "Döven Wolf",
+  "model": "AMX-014",
+  "game_code": "DVW",
+  "series": "ZZ",
+  "source": "https://gundam.fandom.com/wiki/AMX-014_D%C3%B6ven_Wolf",
+  "note": "ASCII fallback if the font lacks the umlaut: Doven Wolf",
+  "en_game": "Doven Wolf"
+ },
+ {
+  "jp": "クイン・マンサ",
+  "en": "Quin Mantha",
+  "model": "MZ-000",
+  "game_code": "QMN",
+  "series": "ZZ",
+  "source": "https://gundam.fandom.com/wiki/NZ-000_Queen_Mansa",
+  "note": "wiki title 'Queen Mansa' (infobox English name 'Quin Mantha'); game model 'MZ-000' vs wiki NZ-000 Official site spelling; wiki: Queen Mansa.",
+  "source_official": "https://en.gundam-official.com/series/zz/mecha"
+ },
+ {
+  "jp": "キュベレイMk-Ⅱ",
+  "en": "Qubeley Mk-2",
+  "model": "AMX-004-2",
+  "game_code": "QM2",
+  "series": "ZZ",
+  "source": "https://gundam.fandom.com/wiki/AMX-004_Qubeley_Mk-II",
+  "note": "Official site spelling; wiki: Qubeley Mk-II.",
+  "source_official": "https://en.gundam-official.com/series/zz/mecha"
+ },
+ {
+  "jp": "νガンダム",
+  "en": "Nu Gundam",
+  "model": "RX-93",
+  "game_code": "NGD",
+  "series": "CCA",
+  "source": "https://gundam.fandom.com/wiki/RX-93_%CE%BD_Gundam",
+  "note": "pronounced 'Nu Gundam'; ASCII fallback if the font lacks Greek: Nu Gundam Official site spelling; wiki: ν Gundam.",
+  "source_official": "https://en.gundam-official.com/series/chars-counterattack/mecha"
+ },
+ {
+  "jp": "サザビー",
+  "en": "Sazabi",
+  "model": "MSN-04",
+  "game_code": "SZB",
+  "series": "CCA",
+  "source": "https://gundam.fandom.com/wiki/MSN-04_Sazabi",
+  "note": ""
+ },
+ {
+  "jp": "リ・ガズィ",
+  "en": "Re-GZ",
+  "model": "RGZ-91",
+  "game_code": "RGZ",
+  "series": "CCA",
+  "source": "https://gundam.fandom.com/wiki/RGZ-91_Re-GZ",
+  "note": ""
+ },
+ {
+  "jp": "ジェガン",
+  "en": "Jegan",
+  "model": "RGM-89",
+  "game_code": "JGN",
+  "series": "CCA",
+  "source": "https://gundam.fandom.com/wiki/RGM-89_Jegan",
+  "note": ""
+ },
+ {
+  "jp": "ヤクト・ドーガ（ギュネイ専用）",
+  "en": "Jagd Doga (Gyunei)",
+  "model": "MSN-03",
+  "game_code": "GJD",
+  "series": "CCA",
+  "source": "https://gundam.fandom.com/wiki/MSN-03_Jagd_Doga",
+  "note": "Gyunei Guss's custom unit (Japanese: Gyunei-senyou)"
+ },
+ {
+  "jp": "ヤクト・ドーガ（クェス専用）",
+  "en": "Jagd Doga (Quess)",
+  "model": "MSN-03",
+  "game_code": "QJD",
+  "series": "CCA",
+  "source": "https://gundam.fandom.com/wiki/MSN-03_Jagd_Doga",
+  "note": "Quess Paraya's custom unit"
+ },
+ {
+  "jp": "ギラ・ドーガ",
+  "en": "Geara Doga",
+  "model": "AMS-119",
+  "game_code": "GDG",
+  "series": "CCA",
+  "source": "https://gundam.fandom.com/wiki/AMS-119_Geara_Doga",
+  "note": ""
+ },
+ {
+  "jp": "ギラ・ドーガ（レズン専用）",
+  "en": "Geara Doga (Rezin)",
+  "model": "AMS-119",
+  "game_code": "GDS",
+  "series": "CCA",
+  "source": "https://gundam.fandom.com/wiki/AMS-119_Geara_Doga",
+  "note": "Rezin Schnyder's custom unit"
+ },
+ {
+  "jp": "α・アジール",
+  "en": "Alpha Azieru",
+  "model": "NZ-333",
+  "game_code": "ALP",
+  "series": "CCA",
+  "source": "https://gundam.fandom.com/wiki/NZ-333_%CE%B1_Azieru",
+  "note": "ASCII fallback if the font lacks Greek: Alpha Azieru Official site spelling; wiki: α Azieru.",
+  "source_official": "https://en.gundam-official.com/series/chars-counterattack/mecha"
+ },
+ {
+  "jp": "ガンダムＦ９１",
+  "en": "Gundam F91",
+  "model": "",
+  "game_code": "F91",
+  "series": "F91",
+  "source": "https://gundam.fandom.com/wiki/F91_Gundam_F91",
+  "note": "model blank in data; wiki F91"
+ },
+ {
+  "jp": "■■■ベルガ・ギロス■■■",
+  "en": "Berga Giros",
+  "model": "",
+  "game_code": "BGI",
+  "series": "F91",
+  "source": "https://gundam.fandom.com/wiki/XM-05_Berga_Giros",
+  "note": "Japanese name wrapped in black-square markers (U+25A0 x3) in the data (unused/placeholder entry); keep the markers if this string is ever shown."
+ },
+ {
+  "jp": "ベルガ・ギロス",
+  "en": "Berga Giros",
+  "model": "XM-05",
+  "game_code": "BGB",
+  "series": "F91",
+  "source": "https://gundam.fandom.com/wiki/XM-05_Berga_Giros",
+  "note": ""
+ },
+ {
+  "jp": "ベルガ・ダラス",
+  "en": "Berga-Dalas",
+  "model": "XM-04",
+  "game_code": "BDA",
+  "series": "F91",
+  "source": "https://gundam.fandom.com/wiki/XM-04_Berga_Dalas",
+  "note": "Official site spelling; wiki: Berga Dalas.",
+  "source_official": "https://en.gundam-official.com/series/f91/mecha"
+ },
+ {
+  "jp": "■■■ベルガ・ダラス（黒カラー）■■■",
+  "en": "Berga-Dalas (Black)",
+  "model": "",
+  "game_code": "BDB",
+  "series": "F91",
+  "source": "https://gundam.fandom.com/wiki/XM-04_Berga_Dalas",
+  "note": "Japanese name wrapped in black-square markers (U+25A0 x3) in the data (unused/placeholder entry); keep the markers if this string is ever shown. Japanese 'kuro karaa' = black colour scheme Official site spelling; wiki: Berga Dalas (Black).",
+  "source_official": "https://en.gundam-official.com/series/f91/mecha"
+ },
+ {
+  "jp": "ラフレシア",
+  "en": "Rafflesia",
+  "model": "XMA-01",
+  "game_code": "LAF",
+  "series": "F91",
+  "source": "https://gundam.fandom.com/wiki/XMA-01_Rafflesia",
+  "note": ""
+ },
+ {
+  "jp": "ビギナ・ギナ",
+  "en": "Vigna-Ghina",
+  "model": "XM-07",
+  "game_code": "VGI",
+  "series": "F91",
+  "source": "https://gundam.fandom.com/wiki/XM-07_Vigna_Ghina",
+  "note": "Official site spelling; wiki: Vigna Ghina.",
+  "source_official": "https://en.gundam-official.com/series/f91/mecha"
+ },
+ {
+  "jp": "デナン・ゾン",
+  "en": "Den'an-Zon",
+  "model": "XM-01",
+  "game_code": "DZN",
+  "series": "F91",
+  "source": "https://gundam.fandom.com/wiki/XM-01_Den'an-Zon",
+  "note": "wiki title 'Den'an-Zon' ('Den'an Zon' redirects)"
+ },
+ {
+  "jp": "デナン・ゾン（黒の部隊）",
+  "en": "Den'an-Zon (Black Vanguard)",
+  "model": "XM-01",
+  "game_code": "DZB",
+  "series": "F91",
+  "source": "https://gundam.fandom.com/wiki/XM-01_Den'an-Zon",
+  "note": "Japanese 'Kuro no Butai' = Zabine's Black Vanguard squad (wiki)"
+ },
+ {
+  "jp": "■■■ガンダム（プログレス用オリジナル）■■■",
+  "en": "Gundam (Progress Original)",
+  "model": "",
+  "game_code": "DUM",
+  "series": "game original",
+  "source": "https://gundam.fandom.com/wiki/Mobile_Suit_Gundam_Climax_U.C.",
+  "note": "Japanese name wrapped in black-square markers (U+25A0 x3) in the data (unused/placeholder entry); keep the markers if this string is ever shown. game-specific Gundam for Progress Mode"
+ },
+ {
+  "jp": "■■■ガンダム（Ｇ３）■■■",
+  "en": "G-3 Gundam",
+  "model": "",
+  "game_code": "G3G",
+  "series": "MSG 0079",
+  "source": "https://gundam.fandom.com/wiki/RX-78-3_G-3_Gundam",
+  "note": "Japanese name wrapped in black-square markers (U+25A0 x3) in the data (unused/placeholder entry); keep the markers if this string is ever shown. Japanese reads 'Gundam (G3)'; wiki 'RX-78-3 G-3 Gundam' (novel/MSV)"
+ },
+ {
+  "jp": "■■■ゲルググ（シャア専用）■■■",
+  "en": "Char's Gelgoog",
+  "model": "",
+  "game_code": "CGL",
+  "series": "MSG 0079",
+  "source": "https://gundam.fandom.com/wiki/MS-14A_Gelgoog",
+  "note": "Japanese name wrapped in black-square markers (U+25A0 x3) in the data (unused/placeholder entry); keep the markers if this string is ever shown. Japanese reads 'Gelgoog (Char custom)'; wiki variant MS-14S"
+ },
+ {
+  "jp": "■■■ジオング（シャア専用）■■■",
+  "en": "Char's Zeong",
+  "model": "",
+  "game_code": "ZNC",
+  "series": "MSG 0079",
+  "source": "https://gundam.fandom.com/wiki/MSN-02_Zeong",
+  "note": "Japanese name wrapped in black-square markers (U+25A0 x3) in the data (unused/placeholder entry); keep the markers if this string is ever shown. Japanese reads 'Zeong (Char custom)'"
+ },
+ {
+  "jp": "■■■ザク：パイロット専用■■■",
+  "en": "Zaku (Pilot Custom)",
+  "model": "",
+  "game_code": "DUM",
+  "series": "",
+  "source": "https://gundam.fandom.com/wiki/Mobile_Suit_Gundam_Climax_U.C.",
+  "note": "Japanese name wrapped in black-square markers (U+25A0 x3) in the data (unused/placeholder entry); keep the markers if this string is ever shown. placeholder entry; unverified"
+ },
+ {
+  "jp": "キュベレイMk-Ⅱ（プルツー専用）",
+  "en": "Qubeley Mk-2 (Ple-Two)",
+  "model": "AMX-004-3",
+  "game_code": "Q2T",
+  "series": "ZZ",
+  "source": "https://gundam.fandom.com/wiki/AMX-004_Qubeley_Mk-II",
+  "note": "Ple Two's unit (model AMX-004-3) Official site spelling; wiki: Qubeley Mk-II (Ple Two).",
+  "source_official": "https://en.gundam-official.com/series/zz/mecha"
+ },
+ {
+  "jp": "■■■Ｆ９１（青カラー）■■■",
+  "en": "F91 (Blue)",
+  "model": "",
+  "game_code": "H91",
+  "series": "Crossbone Gundam",
+  "source": "https://gundam.fandom.com/wiki/F91_Gundam_F91",
+  "note": "Japanese name wrapped in black-square markers (U+25A0 x3) in the data (unused/placeholder entry); keep the markers if this string is ever shown. blue-colour F91; likely the mass-production F91 seen in Crossbone Gundam - unverified"
+ },
+ {
+  "jp": "■■■ザクⅡＦ２型（核装備型）■■■",
+  "en": "Zaku II F2 Type (Nuclear-Armed)",
+  "model": "",
+  "game_code": "ZF2",
+  "series": "0083",
+  "source": "https://gundam.fandom.com/wiki/MS-06F-2_Zaku_II_F2_Type",
+  "note": "Japanese name wrapped in black-square markers (U+25A0 x3) in the data (unused/placeholder entry); keep the markers if this string is ever shown. wiki 'Zaku II F2 Type'; nuclear-armed variant name unverified"
+ },
+ {
+  "jp": "■■■ザクⅡＳ型■■■",
+  "en": "Zaku II S Type",
+  "model": "",
+  "game_code": "ZKS",
+  "series": "MSG 0079",
+  "source": "https://gundam.fandom.com/wiki/MS-06S_Zaku_II_Commander_Type",
+  "note": "Japanese name wrapped in black-square markers (U+25A0 x3) in the data (unused/placeholder entry); keep the markers if this string is ever shown. wiki 'Zaku II Commander Type', also called 'S Type'"
+ },
+ {
+  "jp": "Ｚザク",
+  "en": "Z Zaku",
+  "model": "MSZ-006",
+  "game_code": "ZEZ",
+  "series": "",
+  "source": "https://gundam.fandom.com/wiki/Mobile_Suit_Gundam_Climax_U.C.",
+  "note": "unverified: no Gundam Wiki article; data model MSZ-006 is the Zeta Gundam's number (likely a copy)"
+ },
+ {
+  "jp": "量産型キュベレイ",
+  "en": "Qubeley Mass Production Type",
+  "model": "AMX-004G",
+  "game_code": "Q2G",
+  "series": "ZZ",
+  "source": "https://gundam.fandom.com/wiki/AMX-004G_Qubeley_Mass_Production_Type",
+  "note": ""
+ },
+ {
+  "jp": "■■■陸戦型ＧＭ■■■",
+  "en": "GM Ground Type",
+  "model": "",
+  "game_code": "GMG",
+  "series": "08th MS Team",
+  "source": "https://gundam.fandom.com/wiki/RGM-79%5BG%5D_GM_Ground_Type",
+  "note": "Japanese name wrapped in black-square markers (U+25A0 x3) in the data (unused/placeholder entry); keep the markers if this string is ever shown."
+ },
+ {
+  "jp": "■■■ＧＭクゥエル■■■",
+  "en": "GM Quel",
+  "model": "",
+  "game_code": "GMQ",
+  "series": "0083",
+  "source": "https://gundam.fandom.com/wiki/RGM-79Q_GM_Quel",
+  "note": "Japanese name wrapped in black-square markers (U+25A0 x3) in the data (unused/placeholder entry); keep the markers if this string is ever shown."
+ },
+ {
+  "jp": "■■■スーパーガンダム■■■",
+  "en": "Super Gundam",
+  "model": "",
+  "game_code": "SUP",
+  "series": "Zeta",
+  "source": "https://gundam.fandom.com/wiki/RX-178%2BFXA-05D_Super_Gundam",
+  "note": "Japanese name wrapped in black-square markers (U+25A0 x3) in the data (unused/placeholder entry); keep the markers if this string is ever shown."
+ },
+ {
+  "jp": "■■■ハイザックカスタム■■■",
+  "en": "Hizack Custom",
+  "model": "",
+  "game_code": "HZC",
+  "series": "Zeta",
+  "source": "https://gundam.fandom.com/wiki/RMS-106CS_Hizack_Custom",
+  "note": "Japanese name wrapped in black-square markers (U+25A0 x3) in the data (unused/placeholder entry); keep the markers if this string is ever shown."
+ },
+ {
+  "jp": "■■■バウンド・ドック■■■",
+  "en": "Baund Doc",
+  "model": "",
+  "game_code": "BAU",
+  "series": "Zeta",
+  "source": "https://gundam.fandom.com/wiki/NRX-055_Baund_Doc",
+  "note": "Japanese name wrapped in black-square markers (U+25A0 x3) in the data (unused/placeholder entry); keep the markers if this string is ever shown. wiki spelling 'Baund Doc' (not 'Bound Doc')"
+ },
+ {
+  "jp": "■■■バウンド・ドック（ゲーツ専用）■■■",
+  "en": "Baund Doc (Gates)",
+  "model": "",
+  "game_code": "BDC",
+  "series": "Zeta",
+  "source": "https://gundam.fandom.com/wiki/NRX-055_Baund_Doc",
+  "note": "Japanese name wrapped in black-square markers (U+25A0 x3) in the data (unused/placeholder entry); keep the markers if this string is ever shown. Gates Capa's unit"
+ },
+ {
+  "jp": "■■■バウンド・ドック（ジェリド専用）■■■",
+  "en": "Baund Doc (Jerid)",
+  "model": "",
+  "game_code": "BDJ",
+  "series": "Zeta",
+  "source": "https://gundam.fandom.com/wiki/NRX-055_Baund_Doc",
+  "note": "Japanese name wrapped in black-square markers (U+25A0 x3) in the data (unused/placeholder entry); keep the markers if this string is ever shown. Jerid Messa's unit"
+ },
+ {
+  "jp": "マラサイ",
+  "en": "Marasai",
+  "model": "RMS-108",
+  "game_code": "MAR",
+  "series": "Zeta",
+  "source": "https://gundam.fandom.com/wiki/RMS-108_Marasai",
+  "note": ""
+ },
+ {
+  "jp": "■■■ギャプラン■■■",
+  "en": "Gaplant",
+  "model": "",
+  "game_code": "GAP",
+  "series": "Zeta",
+  "source": "https://gundam.fandom.com/wiki/ORX-005_Gaplant",
+  "note": "Japanese name wrapped in black-square markers (U+25A0 x3) in the data (unused/placeholder entry); keep the markers if this string is ever shown."
+ },
+ {
+  "jp": "■■■ハンブラビ■■■",
+  "en": "Hambrabi",
+  "model": "",
+  "game_code": "HMB",
+  "series": "Zeta",
+  "source": "https://gundam.fandom.com/wiki/RX-139_Hambrabi",
+  "note": "Japanese name wrapped in black-square markers (U+25A0 x3) in the data (unused/placeholder entry); keep the markers if this string is ever shown."
+ },
+ {
+  "jp": "■■■ガブスレイ■■■",
+  "en": "Gabthley",
+  "model": "",
+  "game_code": "GAB",
+  "series": "Zeta",
+  "source": "https://gundam.fandom.com/wiki/RX-110_Gabthley",
+  "note": "Japanese name wrapped in black-square markers (U+25A0 x3) in the data (unused/placeholder entry); keep the markers if this string is ever shown."
+ },
+ {
+  "jp": "ザクⅢ改",
+  "en": "Zaku III Custom",
+  "model": "AMX-011S",
+  "game_code": "Z3C",
+  "series": "ZZ",
+  "source": "https://gundam.fandom.com/wiki/AMX-011S_Zaku_III_Custom",
+  "note": "wiki title 'Zaku III Custom', also known as 'Zaku III Kai' (the Japanese literally says Kai) -> chose wiki title"
+ },
+ {
+  "jp": "クロスボーンガンダムＸ１",
+  "en": "Crossbone Gundam X-1",
+  "model": "XM-X1",
+  "game_code": "CX1",
+  "series": "Crossbone Gundam",
+  "source": "https://gundam.fandom.com/wiki/XM-X1_Crossbone_Gundam_X-1",
+  "note": ""
+ },
+ {
+  "jp": "クロスボーンガンダムＸ２",
+  "en": "Crossbone Gundam X-2",
+  "model": "XM-X2",
+  "game_code": "CX2",
+  "series": "Crossbone Gundam",
+  "source": "https://gundam.fandom.com/wiki/XM-X2_Crossbone_Gundam_X-2",
+  "note": ""
+ },
+ {
+  "jp": "クロスボーンガンダムＸ３",
+  "en": "Crossbone Gundam X-3",
+  "model": "XM-X3",
+  "game_code": "CX3",
+  "series": "Crossbone Gundam",
+  "source": "https://gundam.fandom.com/wiki/XM-X3_Crossbone_Gundam_X-3",
+  "note": ""
+ },
+ {
+  "jp": "ガンダムＦ９０Ｖ",
+  "en": "Gundam F90V",
+  "model": "F90V",
+  "game_code": "F9V",
+  "series": "F90",
+  "source": "https://gundam.fandom.com/wiki/F90V_Gundam_F90_VSBR_Type",
+  "note": "wiki 'Gundam F90 VSBR Type' (aka F90 V-Type)"
+ },
+ {
+  "jp": "ハイザック（＋ベースジャバー）",
+  "en": "Hizack (+Base Jabber)",
+  "model": "Unknown",
+  "game_code": "BHZ",
+  "series": "Zeta",
+  "source": "https://gundam.fandom.com/wiki/Base_Jabber",
+  "note": "Hizack riding a Base Jabber sub-flight system"
+ },
+ {
+  "jp": "■■■ザク（LOWモデル）■■■",
+  "en": "Zaku (Low Model)",
+  "model": "",
+  "game_code": "ZK1",
+  "series": "",
+  "source": "https://gundam.fandom.com/wiki/Mobile_Suit_Gundam_Climax_U.C.",
+  "note": "Japanese name wrapped in black-square markers (U+25A0 x3) in the data (unused/placeholder entry); keep the markers if this string is ever shown. low-poly model entry; unverified/debug"
+ },
+ {
+  "jp": "■■■ドップ■■■",
+  "en": "Dopp",
+  "model": "",
+  "game_code": "DOP",
+  "series": "MSG 0079",
+  "source": "https://gundam.fandom.com/wiki/Dopp",
+  "note": "Japanese name wrapped in black-square markers (U+25A0 x3) in the data (unused/placeholder entry); keep the markers if this string is ever shown."
+ },
+ {
+  "jp": "■■■コアファイター■■■",
+  "en": "Core Fighter",
+  "model": "",
+  "game_code": "CFI",
+  "series": "MSG 0079",
+  "source": "https://gundam.fandom.com/wiki/FF-X7_Core_Fighter",
+  "note": "Japanese name wrapped in black-square markers (U+25A0 x3) in the data (unused/placeholder entry); keep the markers if this string is ever shown."
+ },
+ {
+  "jp": "■■■コアファイター(フルバーニアン)■■■",
+  "en": "Core Fighter (Full Burnern)",
+  "model": "",
+  "game_code": "CF2",
+  "series": "0083",
+  "source": "https://gundam.fandom.com/wiki/RX-78GP01-Fb_Gundam_%22Zephyranthes%22_Full_Burnern",
+  "note": "Japanese name wrapped in black-square markers (U+25A0 x3) in the data (unused/placeholder entry); keep the markers if this string is ever shown. the GP01Fb's core fighter"
+ },
+ {
+  "jp": "■■■セイバーフィッシュ■■■",
+  "en": "Saberfish",
+  "model": "",
+  "game_code": "SVF",
+  "series": "MSG 0079",
+  "source": "https://gundam.fandom.com/wiki/FF-S3_Saberfish",
+  "note": "Japanese name wrapped in black-square markers (U+25A0 x3) in the data (unused/placeholder entry); keep the markers if this string is ever shown."
+ },
+ {
+  "jp": "ウェイブライダー",
+  "en": "Waverider",
+  "model": "",
+  "game_code": "WVR",
+  "series": "Zeta",
+  "source": "https://gundam.fandom.com/wiki/Waverider",
+  "note": "Zeta Gundam's flight mode"
+ },
+ {
+  "jp": "サイコ(MA形態)",
+  "en": "Psycho Gundam (MA Mode)",
+  "model": "",
+  "game_code": "PSM",
+  "series": "Zeta",
+  "source": "https://gundam.fandom.com/wiki/MRX-009_Psycho_Gundam",
+  "note": ""
+ },
+ {
+  "jp": "アッシマー(MA形態)",
+  "en": "Asshimar (MA Mode)",
+  "model": "",
+  "game_code": "ASM",
+  "series": "Zeta",
+  "source": "https://gundam.fandom.com/wiki/NRX-044_Asshimar",
+  "note": ""
+ },
+ {
+  "jp": "リ・ガズィ(MA形態)",
+  "en": "Re-GZ (MA Mode)",
+  "model": "",
+  "game_code": "BWS",
+  "series": "CCA",
+  "source": "https://gundam.fandom.com/wiki/RGZ-91_Re-GZ",
+  "note": "game code BWS = Back Weapon System"
+ },
+ {
+  "jp": "ガザＣ(MA形態)",
+  "en": "Gaza C (MA Mode)",
+  "model": "",
+  "game_code": "GZM",
+  "series": "Zeta",
+  "source": "https://gundam.fandom.com/wiki/AMX-003_Gaza-C",
+  "note": "Official site spelling; wiki: Gaza-C (MA Mode).",
+  "source_official": "https://en.gundam-official.com/series/z/mecha"
+ },
+ {
+  "jp": "ダウンロードMS0",
+  "en": "Download MS 0",
+  "model": "",
+  "game_code": "MC0",
+  "series": "",
+  "source": "https://gundam.fandom.com/wiki/Mobile_Suit_Gundam_Climax_U.C.",
+  "note": "download-content slot; no official name"
+ },
+ {
+  "jp": "ダウンロードMS1",
+  "en": "Download MS 1",
+  "model": "",
+  "game_code": "MC1",
+  "series": "",
+  "source": "https://gundam.fandom.com/wiki/Mobile_Suit_Gundam_Climax_U.C.",
+  "note": "download-content slot; no official name"
+ },
+ {
+  "jp": "ダウンロードMS2",
+  "en": "Download MS 2",
+  "model": "",
+  "game_code": "MC2",
+  "series": "",
+  "source": "https://gundam.fandom.com/wiki/Mobile_Suit_Gundam_Climax_U.C.",
+  "note": "download-content slot; no official name"
+ },
+ {
+  "jp": "ダウンロードMS3",
+  "en": "Download MS 3",
+  "model": "",
+  "game_code": "MC3",
+  "series": "",
+  "source": "https://gundam.fandom.com/wiki/Mobile_Suit_Gundam_Climax_U.C.",
+  "note": "download-content slot; no official name"
+ },
+ {
+  "jp": "ダウンロードMS4",
+  "en": "Download MS 4",
+  "model": "",
+  "game_code": "MC4",
+  "series": "",
+  "source": "https://gundam.fandom.com/wiki/Mobile_Suit_Gundam_Climax_U.C.",
+  "note": "download-content slot; no official name"
+ },
+ {
+  "jp": "ダウンロードMS5",
+  "en": "Download MS 5",
+  "model": "",
+  "game_code": "MC5",
+  "series": "",
+  "source": "https://gundam.fandom.com/wiki/Mobile_Suit_Gundam_Climax_U.C.",
+  "note": "download-content slot; no official name"
+ },
+ {
+  "jp": "ダウンロードMS6",
+  "en": "Download MS 6",
+  "model": "",
+  "game_code": "MC6",
+  "series": "",
+  "source": "https://gundam.fandom.com/wiki/Mobile_Suit_Gundam_Climax_U.C.",
+  "note": "download-content slot; no official name"
+ },
+ {
+  "jp": "ダウンロードMS7",
+  "en": "Download MS 7",
+  "model": "",
+  "game_code": "MC7",
+  "series": "",
+  "source": "https://gundam.fandom.com/wiki/Mobile_Suit_Gundam_Climax_U.C.",
+  "note": "download-content slot; no official name"
+ },
+ {
+  "jp": "ダウンロードMS8",
+  "en": "Download MS 8",
+  "model": "",
+  "game_code": "MC8",
+  "series": "",
+  "source": "https://gundam.fandom.com/wiki/Mobile_Suit_Gundam_Climax_U.C.",
+  "note": "download-content slot; no official name"
+ },
+ {
+  "jp": "ダウンロードMS9",
+  "en": "Download MS 9",
+  "model": "",
+  "game_code": "MC9",
+  "series": "",
+  "source": "https://gundam.fandom.com/wiki/Mobile_Suit_Gundam_Climax_U.C.",
+  "note": "download-content slot; no official name"
+ }
+]

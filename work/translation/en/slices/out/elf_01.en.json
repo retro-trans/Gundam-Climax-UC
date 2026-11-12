@@ -1,0 +1,331 @@
+{
+ "slice": "elf_01",
+ "rows_in_slice": 75,
+ "rows_examined": 75,
+ "rows": [
+  {
+   "id": "S02590",
+   "en": "No data."
+  },
+  {
+   "id": "S02591",
+   "en": "Currently selected ability's\n",
+   "note": "Sentence fragment ending in \n; neighbours in the ELF are debug console messages (printf-style), so this may be debug-only. Translated anyway; the continuation is supplied elsewhere at runtime, English cut at the matching point."
+  },
+  {
+   "id": "S02592",
+   "en": "Increases the damage of shooting attacks."
+  },
+  {
+   "id": "S02593",
+   "en": "Increases the damage of melee attacks."
+  },
+  {
+   "id": "S02594",
+   "en": "Raises the unit's durability."
+  },
+  {
+   "id": "S02595",
+   "en": "Raises the unit's mobility."
+  },
+  {
+   "id": "S02596",
+   "en": "Your maximum CP, needed to use skills."
+  },
+  {
+   "id": "S02597",
+   "en": "Required for psycommu weapons. Has many other benefits too.",
+   "note": "Help line for the Newtype-type parameter; subject (the parameter) carried by 'Has'."
+  },
+  {
+   "id": "S02598",
+   "en": "Federation",
+   "note": "10 bytes, 3 over the 7-byte slot; kept full for consistency with 'Federation (83)' (fits alternative: 'Fed.')."
+  },
+  {
+   "id": "S02599",
+   "en": "Federation (83)",
+   "note": "(83) = the U.C. 0083 era; kept as written."
+  },
+  {
+   "id": "S02600",
+   "en": "AEUG"
+  },
+  {
+   "id": "S02601",
+   "en": "AEUG (ZZ)"
+  },
+  {
+   "id": "S02602",
+   "en": "Delaz Fleet",
+   "note": "Glossary form 'Delaz' expanded with the glossary term 'Delaz Fleet' so the faction label does not read as the person's name; fits the slot. Plain 'Delaz' if the orchestrator prefers the literal."
+  },
+  {
+   "id": "S02603",
+   "en": "Titans"
+  },
+  {
+   "id": "S02604",
+   "en": "Axis (ZZ)"
+  },
+  {
+   "id": "S02605",
+   "en": "Neo Crossbone",
+   "note": "Glossary form; full-width space dropped to a normal space."
+  },
+  {
+   "id": "S02606",
+   "en": "Federation (F91)"
+  },
+  {
+   "id": "S02607",
+   "en": "Sgt Maj",
+   "note": "Sergeant Major, abbreviated to fit 7 bytes."
+  },
+  {
+   "id": "S02608",
+   "en": "2nd Lt.",
+   "note": "Second Lieutenant (glossary character roles mostly use Second Lieutenant; army-style ladder so Lt. Colonel/Colonel follow)."
+  },
+  {
+   "id": "S02609",
+   "en": "1st Lt."
+  },
+  {
+   "id": "S02610",
+   "en": "Captain"
+  },
+  {
+   "id": "S02611",
+   "en": "Major"
+  },
+  {
+   "id": "S02612",
+   "en": "Lt.Col.",
+   "note": "Lieutenant Colonel, abbreviated to fit 7 bytes."
+  },
+  {
+   "id": "S02613",
+   "en": "Colonel"
+  },
+  {
+   "id": "S02614",
+   "en": "Attack",
+   "note": "Sits between the rank table and the skill list ('None' follows); could be a skill category label or a skill name."
+  },
+  {
+   "id": "S02615",
+   "en": "None"
+  },
+  {
+   "id": "S02616",
+   "en": "Pressure"
+  },
+  {
+   "id": "S02617",
+   "en": "Lure"
+  },
+  {
+   "id": "S02618",
+   "en": "Taunt"
+  },
+  {
+   "id": "S02619",
+   "en": "Menace"
+  },
+  {
+   "id": "S02620",
+   "en": "Daunt"
+  },
+  {
+   "id": "S02621",
+   "en": "Sneak Attack"
+  },
+  {
+   "id": "S02622",
+   "en": "Full Reload"
+  },
+  {
+   "id": "S02623",
+   "en": "Mental Guard"
+  },
+  {
+   "id": "S02624",
+   "en": "Insight"
+  },
+  {
+   "id": "S02625",
+   "en": "Disrupt"
+  },
+  {
+   "id": "S02626",
+   "en": "Havoc"
+  },
+  {
+   "id": "S02627",
+   "en": "Strike"
+  },
+  {
+   "id": "S02628",
+   "en": "Rush"
+  },
+  {
+   "id": "S02629",
+   "en": "Mind Expansion"
+  },
+  {
+   "id": "S02630",
+   "en": "Full Release"
+  },
+  {
+   "id": "S02631",
+   "en": "Bullseye"
+  },
+  {
+   "id": "S02632",
+   "en": "Snipe"
+  },
+  {
+   "id": "S02633",
+   "en": "Secret"
+  },
+  {
+   "id": "S02634",
+   "en": "Cyber Newtype",
+   "note": "Glossary term."
+  },
+  {
+   "id": "S02635",
+   "en": "High Charge"
+  },
+  {
+   "id": "S02636",
+   "en": "Prevail"
+  },
+  {
+   "id": "S02637",
+   "en": "Spirit"
+  },
+  {
+   "id": "S02638",
+   "en": "Lethal"
+  },
+  {
+   "id": "S02639",
+   "en": "Quick Reload"
+  },
+  {
+   "id": "S02640",
+   "en": "Speed Shot"
+  },
+  {
+   "id": "S02641",
+   "en": "Power Custom"
+  },
+  {
+   "id": "S02642",
+   "en": "High Shield"
+  },
+  {
+   "id": "S02643",
+   "en": "Aura"
+  },
+  {
+   "id": "S02644",
+   "en": "Whimsy"
+  },
+  {
+   "id": "S02645",
+   "en": "Concentration"
+  },
+  {
+   "id": "S02646",
+   "en": "Awaken"
+  },
+  {
+   "id": "S02647",
+   "en": "Resolve"
+  },
+  {
+   "id": "S02648",
+   "en": "Wimp"
+  },
+  {
+   "id": "S02649",
+   "en": "Speed Combat"
+  },
+  {
+   "id": "S02650",
+   "en": "Keen"
+  },
+  {
+   "id": "S02651",
+   "en": "Fervor"
+  },
+  {
+   "id": "S02652",
+   "en": "Veteran"
+  },
+  {
+   "id": "S02653",
+   "en": "Big Unit Pilot"
+  },
+  {
+   "id": "S02654",
+   "en": "Acumen"
+  },
+  {
+   "id": "S02655",
+   "en": "Luck"
+  },
+  {
+   "id": "S02656",
+   "en": "Noble"
+  },
+  {
+   "id": "S02657",
+   "en": "Junk Dealer"
+  },
+  {
+   "id": "S02658",
+   "en": "Ground Combat+"
+  },
+  {
+   "id": "S02659",
+   "en": "Space Combat+"
+  },
+  {
+   "id": "S02660",
+   "en": "Air Combat+"
+  },
+  {
+   "id": "S02661",
+   "en": "Escape"
+  },
+  {
+   "id": "S02662",
+   "en": "Burst"
+  },
+  {
+   "id": "S02663",
+   "en": "Charm"
+  },
+  {
+   "id": "S02664",
+   "en": "Command"
+  }
+ ],
+ "decisions": [
+  "Ranks follow the army-style ladder used in the glossary character roles (Second Lieutenant, Lieutenant, Lieutenant Colonel), abbreviated to fit 7-byte slots: Sgt Maj, 2nd Lt., 1st Lt., Captain, Major, Lt.Col., Colonel. Each rank is stored at two addresses with the same text.",
+  "Faction names use glossary forms (Federation, AEUG, Titans, Axis, Neo Crossbone, Delaz); era tags (83), (ZZ), (F91) kept with a space before the parenthesis.",
+  "Skill names: Title Case, one word in 7-byte slots; kept pairs of near-synonyms distinct (Menace/Daunt, Spirit/Fervor, Strike/Bullseye/Lethal)."
+ ],
+ "uncertain": [
+  "S02591: may be a debug console string (neighbours are debug printf messages); translated as a fragment.",
+  "S02598: 'Federation' overflows by 3 bytes; 'Fed.' fits if the overflow area is tight.",
+  "S02602: wrote 'Delaz Fleet' instead of the excerpt's bare 'Delaz' for a faction label.",
+  "S02606: 'Federation (F91)' overflows by 1 byte; 'Federation(F91)' fits.",
+  "S02631: 'Bullseye' overflows by 1 byte; 'Dead-On' fits.",
+  "S02624/S02654/S02636: skill-effect guesses from the names only (Insight, Acumen, Prevail); no in-game description seen."
+ ]
+}

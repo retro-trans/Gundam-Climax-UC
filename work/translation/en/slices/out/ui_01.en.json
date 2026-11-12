@@ -1,0 +1,908 @@
+{
+ "slice": "ui_01",
+ "rows_in_slice": 210,
+ "rows_examined": 210,
+ "rows": [
+  {
+   "id": "S00001",
+   "en": "Go to the Shop."
+  },
+  {
+   "id": "S00002",
+   "en": "Return to the Select screen."
+  },
+  {
+   "id": "S00003",
+   "en": "Return to the Title Menu screen."
+  },
+  {
+   "id": "S00004",
+   "en": "Retry the stage."
+  },
+  {
+   "id": "S00005",
+   "en": "RETRY"
+  },
+  {
+   "id": "S00006",
+   "en": "QUIT GAME"
+  },
+  {
+   "id": "S00007",
+   "en": "Are you sure?"
+  },
+  {
+   "id": "S00008",
+   "en": "Story Mode"
+  },
+  {
+   "id": "S00009",
+   "en": "Kira Yamato Story",
+   "note": "Leading centring spaces dropped."
+  },
+  {
+   "id": "S00010",
+   "en": " ",
+   "note": "Source is a single full-width space used as a blank help line (shared by ~38 records); kept as one ASCII space so the slot stays blank, not untranslated."
+  },
+  {
+   "id": "S00011",
+   "en": "Play as Kira Yamato",
+   "note": "Help box: S00011 + S00012 + S00013 = 'Play as Kira Yamato / and relive the story / in this mode.'"
+  },
+  {
+   "id": "S00012",
+   "en": "and relive the story",
+   "note": "Shared by Kira and Athrun help boxes."
+  },
+  {
+   "id": "S00013",
+   "en": "in this mode."
+  },
+  {
+   "id": "S00014",
+   "en": "Athrun Zala Story"
+  },
+  {
+   "id": "S00015",
+   "en": "Play as Athrun Zala"
+  },
+  {
+   "id": "S00016",
+   "en": "2P VS Mode"
+  },
+  {
+   "id": "S00017",
+   "en": "You can battle a friend"
+  },
+  {
+   "id": "S00018",
+   "en": "here.",
+   "note": "Shared tail for three sentences (2P VS help, Records help, Options auto-save help); 'here.' was chosen because it completes all three: 'You can battle a friend / here.', 'View the battle records / of each game mode / here.', 'You can set the game to auto-save / here.'"
+  },
+  {
+   "id": "S00019",
+   "en": "Mission Mode"
+  },
+  {
+   "id": "S00020",
+   "en": "Short missions made",
+   "note": "Help box: 'Short missions made / especially for each / character / can be played.' S00023 is a shared tail."
+  },
+  {
+   "id": "S00021",
+   "en": "especially for each"
+  },
+  {
+   "id": "S00022",
+   "en": "character"
+  },
+  {
+   "id": "S00023",
+   "en": "can be played.",
+   "note": "Shared tail (Mission Mode, Survival Mode, Free Select x2); written so each subject can precede it."
+  },
+  {
+   "id": "S00024",
+   "en": "Survival Mode"
+  },
+  {
+   "id": "S00025",
+   "en": "Stages with special",
+   "note": "'Stages with special / rules applied / can be played.'"
+  },
+  {
+   "id": "S00026",
+   "en": "rules applied"
+  },
+  {
+   "id": "S00027",
+   "en": "Item Shop"
+  },
+  {
+   "id": "S00028",
+   "en": "Spend SP (SEED Points)",
+   "note": "'Spend SP (SEED Points) / to purchase / a variety of / items.'"
+  },
+  {
+   "id": "S00029",
+   "en": "to purchase"
+  },
+  {
+   "id": "S00030",
+   "en": "a variety of"
+  },
+  {
+   "id": "S00031",
+   "en": "items."
+  },
+  {
+   "id": "S00032",
+   "en": "Options"
+  },
+  {
+   "id": "S00033",
+   "en": "Change game settings"
+  },
+  {
+   "id": "S00034",
+   "en": "and save or load"
+  },
+  {
+   "id": "S00035",
+   "en": "your data."
+  },
+  {
+   "id": "S00036",
+   "en": "Gallery"
+  },
+  {
+   "id": "S00037",
+   "en": "View movies, BGM,",
+   "note": "'View movies, BGM, / units and more, or / browse the SEED / Dictionary.'"
+  },
+  {
+   "id": "S00038",
+   "en": "units and more, or"
+  },
+  {
+   "id": "S00039",
+   "en": "browse the SEED"
+  },
+  {
+   "id": "S00040",
+   "en": "Dictionary."
+  },
+  {
+   "id": "S00041",
+   "en": "Records"
+  },
+  {
+   "id": "S00042",
+   "en": "View the battle records",
+   "note": "Meaning redistributed across the two lines for English word order; ends with shared S00018 'here.'"
+  },
+  {
+   "id": "S00043",
+   "en": "of each game mode"
+  },
+  {
+   "id": "S00044",
+   "en": "????? Mode"
+  },
+  {
+   "id": "S00045",
+   "en": "In Story Mode, clear",
+   "note": "'In Story Mode, clear / either Kira's or / Athrun's story / and then...'"
+  },
+  {
+   "id": "S00046",
+   "en": "either Kira's or"
+  },
+  {
+   "id": "S00047",
+   "en": "Athrun's story"
+  },
+  {
+   "id": "S00048",
+   "en": "and then..."
+  },
+  {
+   "id": "S00049",
+   "en": "New Game"
+  },
+  {
+   "id": "S00050",
+   "en": "Start a new"
+  },
+  {
+   "id": "S00051",
+   "en": "game."
+  },
+  {
+   "id": "S00052",
+   "en": "Continue"
+  },
+  {
+   "id": "S00053",
+   "en": "Pick up after the last",
+   "note": "'Pick up after the last / stage you cleared.'"
+  },
+  {
+   "id": "S00054",
+   "en": "stage you cleared."
+  },
+  {
+   "id": "S00055",
+   "en": "Free Select"
+  },
+  {
+   "id": "S00056",
+   "en": "Stages you've cleared",
+   "note": "+ S00023: 'Stages you've cleared / can be played.'"
+  },
+  {
+   "id": "S00057",
+   "en": "100-Kill",
+   "note": "Two-line title with S00058: '100-Kill / Survival'. Source reads '100 Beat'; rendered as the meaning (defeat 100 enemies)."
+  },
+  {
+   "id": "S00058",
+   "en": "Survival"
+  },
+  {
+   "id": "S00059",
+   "en": "Defeat 100 enemy units"
+  },
+  {
+   "id": "S00060",
+   "en": "in this mode."
+  },
+  {
+   "id": "S00061",
+   "en": "Sudden Death"
+  },
+  {
+   "id": "S00062",
+   "en": "Both sides have limited",
+   "note": "'Both sides have limited / HP for instant kills.' (source: an instant-kill battle where both your unit's and the enemy's HP are capped)."
+  },
+  {
+   "id": "S00063",
+   "en": "HP for instant kills."
+  },
+  {
+   "id": "S00064",
+   "en": "Time Survival"
+  },
+  {
+   "id": "S00065",
+   "en": "Compete to see how many",
+   "note": "'Compete to see how many / enemies you can defeat / within the time limit.'"
+  },
+  {
+   "id": "S00066",
+   "en": "enemies you can defeat"
+  },
+  {
+   "id": "S00067",
+   "en": "within the time limit."
+  },
+  {
+   "id": "S00068",
+   "en": "EXTRA"
+  },
+  {
+   "id": "S00069",
+   "en": "THAT character is",
+   "note": "Source teases an unnamed character; 'them' kept gender-neutral."
+  },
+  {
+   "id": "S00070",
+   "en": "joining the battle!?"
+  },
+  {
+   "id": "S00071",
+   "en": "Can you defeat them!?"
+  },
+  {
+   "id": "S00072",
+   "en": "Movie Viewer"
+  },
+  {
+   "id": "S00073",
+   "en": "Movies played during",
+   "note": "'Movies played during / the game / can be viewed.'"
+  },
+  {
+   "id": "S00074",
+   "en": "the game"
+  },
+  {
+   "id": "S00075",
+   "en": "can be viewed.",
+   "note": "Shared tail (Movie Viewer, Unit Viewer)."
+  },
+  {
+   "id": "S00076",
+   "en": "Sound Gallery"
+  },
+  {
+   "id": "S00077",
+   "en": "Listen to the game's",
+   "note": "'Listen to the game's / BGM and character / voices.'"
+  },
+  {
+   "id": "S00078",
+   "en": "BGM and character"
+  },
+  {
+   "id": "S00079",
+   "en": "voices."
+  },
+  {
+   "id": "S00080",
+   "en": "Unit Viewer"
+  },
+  {
+   "id": "S00081",
+   "en": "Once purchased in the",
+   "note": "Shared first line of Unit Viewer and SEED Dictionary help: 'Once purchased in the / Item Shop, units / can be viewed.' and 'Once purchased in the / Item Shop, SEED Dict. / entries can be viewed.'"
+  },
+  {
+   "id": "S00082",
+   "en": "Item Shop, units"
+  },
+  {
+   "id": "S00083",
+   "en": "SEED Dictionary"
+  },
+  {
+   "id": "S00084",
+   "en": "Item Shop, SEED Dict."
+  },
+  {
+   "id": "S00085",
+   "en": "entries can be viewed."
+  },
+  {
+   "id": "S00086",
+   "en": "There are no galleries"
+  },
+  {
+   "id": "S00087",
+   "en": "you can select"
+  },
+  {
+   "id": "S00088",
+   "en": "at this time."
+  },
+  {
+   "id": "S00089",
+   "en": "Select a controller button layout"
+  },
+  {
+   "id": "S00090",
+   "en": "from three types."
+  },
+  {
+   "id": "S00091",
+   "en": "Configure sound output settings."
+  },
+  {
+   "id": "S00092",
+   "en": "Adjust the sound effects volume."
+  },
+  {
+   "id": "S00093",
+   "en": "Adjust the BGM volume."
+  },
+  {
+   "id": "S00094",
+   "en": "Save or load your data."
+  },
+  {
+   "id": "S00095",
+   "en": "You can set the game to auto-save",
+   "note": "Second line is shared S00018 'here.'"
+  },
+  {
+   "id": "S00096",
+   "en": "Return to the Title Menu screen."
+  },
+  {
+   "id": "S00097",
+   "en": "Kills",
+   "note": "Result-screen score item (shoot-downs)."
+  },
+  {
+   "id": "S00098",
+   "en": "Life Bonus"
+  },
+  {
+   "id": "S00099",
+   "en": "Time Bonus"
+  },
+  {
+   "id": "S00100",
+   "en": "Unit Bonus"
+  },
+  {
+   "id": "S00101",
+   "en": "Ticket Penalty"
+  },
+  {
+   "id": "S00102",
+   "en": "Total Score"
+  },
+  {
+   "id": "S00103",
+   "en": "Stage Clear"
+  },
+  {
+   "id": "S00104",
+   "en": "Score RANK Bonus"
+  },
+  {
+   "id": "S00105",
+   "en": "High Tension"
+  },
+  {
+   "id": "S00106",
+   "en": "Partner Attack"
+  },
+  {
+   "id": "S00107",
+   "en": "Fever Score"
+  },
+  {
+   "id": "S00108",
+   "en": "SP Earned"
+  },
+  {
+   "id": "S00109",
+   "en": "Total SP"
+  },
+  {
+   "id": "S00110",
+   "en": "Character Bonus"
+  },
+  {
+   "id": "S00111",
+   "en": "Special"
+  },
+  {
+   "id": "S00112",
+   "en": "Total"
+  },
+  {
+   "id": "S00113",
+   "en": "Level"
+  },
+  {
+   "id": "S00114",
+   "en": "Game Over"
+  },
+  {
+   "id": "S00115",
+   "en": "Remaining Life"
+  },
+  {
+   "id": "S00116",
+   "en": "Time"
+  },
+  {
+   "id": "S00117",
+   "en": "Lv.1"
+  },
+  {
+   "id": "S00118",
+   "en": "Lv.2"
+  },
+  {
+   "id": "S00119",
+   "en": "Lv.3"
+  },
+  {
+   "id": "S00120",
+   "en": "Lv.4"
+  },
+  {
+   "id": "S00121",
+   "en": "Lv.5"
+  },
+  {
+   "id": "S00122",
+   "en": "Lv.6"
+  },
+  {
+   "id": "S00123",
+   "en": "Lv.7"
+  },
+  {
+   "id": "S00124",
+   "en": "Lv.8"
+  },
+  {
+   "id": "S00125",
+   "en": "Lv.9"
+  },
+  {
+   "id": "S00126",
+   "en": "Lv.10"
+  },
+  {
+   "id": "S00127",
+   "en": "Lv.11"
+  },
+  {
+   "id": "S00128",
+   "en": "Lv.12"
+  },
+  {
+   "id": "S00129",
+   "en": "Lv.13"
+  },
+  {
+   "id": "S00130",
+   "en": "Lv.14"
+  },
+  {
+   "id": "S00131",
+   "en": "Lv.15"
+  },
+  {
+   "id": "S00132",
+   "en": "1"
+  },
+  {
+   "id": "S00133",
+   "en": "2"
+  },
+  {
+   "id": "S00134",
+   "en": "3"
+  },
+  {
+   "id": "S00135",
+   "en": "4"
+  },
+  {
+   "id": "S00136",
+   "en": "5"
+  },
+  {
+   "id": "S00137",
+   "en": "Bomb capacity is now ",
+   "note": "Message fragment: likely composed at runtime as S00137 + number (S00132-136, maybe with S00139 'Lv.') + S00138. Trailing space added so the number does not run into the text; remove if the pieces are drawn separately."
+  },
+  {
+   "id": "S00138",
+   "en": ".",
+   "note": "Tail of the S00137 sentence ('...is now 3.'); Japanese 'has become' is carried by S00137."
+  },
+  {
+   "id": "S00139",
+   "en": "Lv."
+  },
+  {
+   "id": "S00140",
+   "en": "Bombs are now"
+  },
+  {
+   "id": "S00141",
+   "en": "available."
+  },
+  {
+   "id": "S00142",
+   "en": "[Bomb Effect]"
+  },
+  {
+   "id": "S00143",
+   "en": "Duration: Short"
+  },
+  {
+   "id": "S00144",
+   "en": "Bomb stock increased."
+  },
+  {
+   "id": "S00145",
+   "en": "New items have arrived"
+  },
+  {
+   "id": "S00146",
+   "en": "at the Shop."
+  },
+  {
+   "id": "S00147",
+   "en": "Mission Stage ",
+   "note": "Composed message: S00147 + S00148 + stage name + S00149 + S00150 -> 'Mission Stage \"X\" can now be selected.' Trailing space added for concatenation."
+  },
+  {
+   "id": "S00148",
+   "en": "\"",
+   "note": "Japanese corner bracket converted to ASCII double quote."
+  },
+  {
+   "id": "S00149",
+   "en": "\""
+  },
+  {
+   "id": "S00150",
+   "en": " can now be selected.",
+   "note": "Leading space for concatenation after a closing quote; shared by rec55 and rec60 ('\"EX Stage\" can now be selected.')."
+  },
+  {
+   "id": "S00151",
+   "en": "Survival Mode"
+  },
+  {
+   "id": "S00152",
+   "en": "has been added."
+  },
+  {
+   "id": "S00153",
+   "en": "\"EX Stage\""
+  },
+  {
+   "id": "S00154",
+   "en": "Above Heliopolis",
+   "note": "VS stage names (S00154-S00161) are Gundam SEED locations; centring spaces dropped."
+  },
+  {
+   "id": "S00155",
+   "en": "Around Jachin Due"
+  },
+  {
+   "id": "S00156",
+   "en": "Atmosphere"
+  },
+  {
+   "id": "S00157",
+   "en": "Around Endymion Crater"
+  },
+  {
+   "id": "S00158",
+   "en": "Desert"
+  },
+  {
+   "id": "S00159",
+   "en": "Victoria Base"
+  },
+  {
+   "id": "S00160",
+   "en": "Remote Island"
+  },
+  {
+   "id": "S00161",
+   "en": "Underwater"
+  },
+  {
+   "id": "S00162",
+   "en": "Select a partner"
+  },
+  {
+   "id": "S00163",
+   "en": "type."
+  },
+  {
+   "id": "S00164",
+   "en": "Cancel the Auto Partner"
+  },
+  {
+   "id": "S00165",
+   "en": "setting."
+  },
+  {
+   "id": "S00166",
+   "en": "Finish bomb setup."
+  },
+  {
+   "id": "S00167",
+   "en": "Kamuna Tachibana",
+   "note": "Glossary has only the given name 'Kamuna'; full name romanized."
+  },
+  {
+   "id": "S00168",
+   "en": "[System Name]",
+   "note": "Looks like a developer placeholder (name slot); translated anyway."
+  },
+  {
+   "id": "S00169",
+   "en": "Start the mission."
+  },
+  {
+   "id": "S00170",
+   "en": "Close the menu."
+  },
+  {
+   "id": "S00171",
+   "en": "YES"
+  },
+  {
+   "id": "S00172",
+   "en": "NO"
+  },
+  {
+   "id": "S00173",
+   "en": "ioShooting",
+   "note": "S00173-S00180, S00185-S00186: 'io'/'ch'-prefixed layout object labels, probably developer-only; translated with prefix kept."
+  },
+  {
+   "id": "S00174",
+   "en": "ioMelee"
+  },
+  {
+   "id": "S00175",
+   "en": "ioDefense"
+  },
+  {
+   "id": "S00176",
+   "en": "ioMobility"
+  },
+  {
+   "id": "S00177",
+   "en": "ioCP"
+  },
+  {
+   "id": "S00178",
+   "en": "ioNT"
+  },
+  {
+   "id": "S00179",
+   "en": "ioPassive Skill 1"
+  },
+  {
+   "id": "S00180",
+   "en": "ioRank"
+  },
+  {
+   "id": "S00181",
+   "en": "System Name",
+   "note": "Probably developer placeholder."
+  },
+  {
+   "id": "S00182",
+   "en": "Cards Opened"
+  },
+  {
+   "id": "S00183",
+   "en": "cards",
+   "note": "Counter word shown after a card count."
+  },
+  {
+   "id": "S00184",
+   "en": "Dummy",
+   "note": "Developer placeholder."
+  },
+  {
+   "id": "S00185",
+   "en": "ioCard New Flag",
+   "note": "Developer label."
+  },
+  {
+   "id": "S00186",
+   "en": "ioCard Obtained Flag",
+   "note": "Developer label."
+  },
+  {
+   "id": "S00470",
+   "en": "\"Unit Cards\"\n  View models and info on mobile suits and more."
+  },
+  {
+   "id": "S00471",
+   "en": "\"Pilot Cards\"\n  View pilots' ability stats."
+  },
+  {
+   "id": "S00472",
+   "en": "\"Character Cards\"\n  Enjoy character voices and descriptions."
+  },
+  {
+   "id": "S00473",
+   "en": "\"BGM Cards\"\n  Listen to the game's BGM."
+  },
+  {
+   "id": "S00474",
+   "en": "\"Movie Cards\"\n  Watch the game's movies."
+  },
+  {
+   "id": "S00475",
+   "en": "\"Stage Cards\"\n  Read descriptions of VS stages."
+  },
+  {
+   "id": "S00476",
+   "en": "\"Historical Event Cards\"\n  Read about historical events of the U.C."
+  },
+  {
+   "id": "S00477",
+   "en": "Completion"
+  },
+  {
+   "id": "S00478",
+   "en": "Duplicates"
+  },
+  {
+   "id": "S00479",
+   "en": "dummy",
+   "note": "Developer placeholder (hiragana spelling, lowercase kept)."
+  },
+  {
+   "id": "S00480",
+   "en": "\"Gentle\"\n\nMild and kind by nature, but\nstrong-willed and dependable.\nExcels at defense and skill use."
+  },
+  {
+   "id": "S00481",
+   "en": "\"Calm\"\n\nNever swayed by emotion;\nsteady and composed.\nExcels at shooting and NT ability."
+  },
+  {
+   "id": "S00482",
+   "en": "\"Hot-Blooded\"\n\nHas fierce passion and a strong\nwill that nothing can crush.\nExcels at melee and mobility.",
+   "note": "Source 'mobile combat ability' rendered as 'mobility' to match the stat name."
+  },
+  {
+   "id": "S00483",
+   "en": "Select the force you belong to."
+  },
+  {
+   "id": "S00484",
+   "en": "Choose a personality."
+  },
+  {
+   "id": "S00485",
+   "en": "chParent (Gentle)",
+   "note": "Developer labels (S00485-S00487, S00492); 'Parent' = first-generation character. Source uses a different word for Gentle here than in S00480 (both mean mild/gentle); unified as 'Gentle'."
+  },
+  {
+   "id": "S00486",
+   "en": "chParent (Calm)"
+  },
+  {
+   "id": "S00487",
+   "en": "chParent (Hot-Blooded)"
+  },
+  {
+   "id": "S00488",
+   "en": "Earth Federation"
+  },
+  {
+   "id": "S00489",
+   "en": "Zeon"
+  },
+  {
+   "id": "S00490",
+   "en": "Federation (F91)"
+  },
+  {
+   "id": "S00491",
+   "en": "Crossbone",
+   "note": "Short form kept as in source (Crossbone Vanguard)."
+  },
+  {
+   "id": "S00492",
+   "en": "chJr. Female A (Gentle)",
+   "note": "Developer label."
+  },
+  {
+   "id": "S00493",
+   "en": "Select a character and force."
+  }
+ ],
+ "decisions": [
+  "mode_select.inf help boxes are one row per line (23-byte slots); English sentences are cut across the same rows, and rows shared between several boxes (S00010, S00012, S00018, S00023, S00075, S00081) were worded so every box using them still reads as a sentence.",
+  "mode_select.inf, vs_setting1 and parts of result.inf reference Gundam SEED content (Kira Yamato, Athrun Zala, SEED Points, SEED Dictionary, Heliopolis, Jachin Due) - probably leftover data from a SEED game on the same engine; translated normally.",
+  "Leading full-width centring spaces dropped; the two ASCII spaces indenting line 2 of the card-gallery help texts (S00470-S00476) were kept as in the source.",
+  "Full-width ASCII (RETRY, YES, Lv.1, digits) converted to plain ASCII; Japanese corner brackets converted to double quotes.",
+  "Personality names: Gentle / Calm / Hot-Blooded. Stat names: Shooting / Melee / Defense / Mobility / CP / NT."
+ ],
+ "uncertain": [
+  "S00009, S00011, S00014, S00015, S00046, S00047: Kira Yamato / Athrun Zala not in glossary; used the official English names.",
+  "S00167: glossary gives only 'Kamuna'; used 'Kamuna Tachibana' (Tachibana romanized).",
+  "S00154-S00161: SEED location names (Heliopolis, Jachin Due, Endymion Crater, Victoria Base) not in glossary; used official SEED spellings.",
+  "S00039, S00083, S00084: SEED Dictionary - literal rendering of the in-game name; no official English name known.",
+  "S00137/S00138, S00147/S00150: unclear whether these fragments are concatenated on one line or drawn separately; added a trailing/leading space for concatenation - check in game.",
+  "S00057: '100 Beat' rendered as '100-Kill' (title over 'Survival').",
+  "S00018: shared tail 'here.' used for three different sentences; needs an in-game check of the Options auto-save help (S00095 + S00018).",
+  "S00491: Crossbone kept short; could be 'Crossbone Vanguard' if the selection box is wide enough.",
+  "S00481: personality 'Calm' (could also be 'Cool-Headed')."
+ ]
+}

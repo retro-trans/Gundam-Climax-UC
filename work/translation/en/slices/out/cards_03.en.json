@@ -1,0 +1,834 @@
+{
+ "slice": "cards_03",
+ "rows_in_slice": 106,
+ "rows_examined": 106,
+ "rows": [
+  {
+   "id": "C-77",
+   "name_en": "Kamuna Tachibana (NZ)",
+   "label_en": "C77 Kamuna Tachibana (NZ)",
+   "model_en": "Progress Mode 1st-gen protagonist. Raised",
+   "desc_en": "in an elite military family, he led a unit after the academy. Upright and charismatic."
+  },
+  {
+   "id": "C-78",
+   "name_en": "Ellen Rochefil (LB)",
+   "label_en": "C78 Ellen Rochefil (LB)",
+   "model_en": "Progress Mode's female operator. Assigned",
+   "desc_en": "as comms officer to Kamuna's unit. Cheerful, she's like the unit's mascot."
+  },
+  {
+   "id": "C-79",
+   "name_en": "Ellen Rochefil (NZ)",
+   "label_en": "C79 Ellen Rochefil (NZ)",
+   "model_en": "Progress Mode's female operator. Assigned",
+   "desc_en": "as comms officer to Kamuna's unit. Cheerful, she's like the unit's mascot."
+  },
+  {
+   "id": "C-80",
+   "name_en": "Shirley Ramsey (LB)",
+   "label_en": "C80 Shirley Ramsey (LB)",
+   "model_en": "Progress Mode's female pilot. Has known",
+   "desc_en": "Kamuna since the academy. Skilled, with sound judgment. A long-haired beauty."
+  },
+  {
+   "id": "C-81",
+   "name_en": "Shirley Ramsey (NZ)",
+   "label_en": "C81 Shirley Ramsey (NZ)",
+   "model_en": "Progress Mode's female pilot. Has known",
+   "desc_en": "Kamuna since the academy. Skilled, with sound judgment. A long-haired beauty."
+  },
+  {
+   "id": "C-82",
+   "name_en": "Pamir McDamil (LB)",
+   "label_en": "C82 Pamir McDamil (LB)",
+   "model_en": "Progress Mode's rookie pilot. A goofball",
+   "desc_en": "who keeps the unit's spirits up. A psychic-powers buff, he idolizes Newtypes."
+  },
+  {
+   "id": "C-83",
+   "name_en": "Pamir McDamil (NZ)",
+   "label_en": "C83 Pamir McDamil (NZ)",
+   "model_en": "Progress Mode's rookie pilot. A goofball",
+   "desc_en": "who keeps the unit's spirits up. A psychic-powers buff, he idolizes Newtypes."
+  },
+  {
+   "id": "C-84",
+   "name_en": "Nagisa Florin",
+   "label_en": "C84 Nagisa Florin",
+   "model_en": "Progress Mode's third heroine. Kamuna's",
+   "desc_en": "childhood friend. They promised as kids to marry, so she waits at home for his return."
+  },
+  {
+   "id": "C-85",
+   "name_en": "Aegis Veracruz (Federation)",
+   "label_en": "C85 Aegis Veracruz (Federation)",
+   "model_en": "Progress Mode 2nd-gen protagonist's fellow",
+   "desc_en": "pilot. A smug womanizer who burns to outdo the elite protagonist. Good at heart.",
+   "note": "No pronoun used for Aegis (gender unverified in glossary); 'womanizer' is the source's own word (onna-tarashi)."
+  },
+  {
+   "id": "C-86",
+   "name_en": "Aegis Veracruz (CV)",
+   "label_en": "C86 Aegis Veracruz (CV)",
+   "model_en": "Progress Mode 2nd-gen protagonist's fellow",
+   "desc_en": "pilot. A smug womanizer who burns to outdo the elite protagonist. Good at heart.",
+   "note": "No pronoun used for Aegis (gender unverified in glossary); 'womanizer' is the source's own word (onna-tarashi)."
+  },
+  {
+   "id": "C-87",
+   "name_en": "Progress Male A (Federation)",
+   "label_en": "C87 Progress Male A (Federation)",
+   "model_en": "Progress Mode 2nd-gen protagonist.",
+   "desc_en": "Personality inherited from a parent. Notable for lively-looking short blue hair.",
+   "note": "oya-yuzuri: which parent is not stated, so 'a parent'."
+  },
+  {
+   "id": "C-88",
+   "name_en": "Progress Male A (CV)",
+   "label_en": "C88 Progress Male A (CV)",
+   "model_en": "Progress Mode 2nd-gen protagonist.",
+   "desc_en": "Personality inherited from a parent. Notable for lively-looking short blue hair.",
+   "note": "oya-yuzuri: which parent is not stated, so 'a parent'."
+  },
+  {
+   "id": "C-89",
+   "name_en": "Progress Male B (Federation)",
+   "label_en": "C89 Progress Male B (Federation)",
+   "model_en": "Progress Mode 2nd-gen protagonist.",
+   "desc_en": "Personality inherited from a parent. A handsome blond with a piercing gaze.",
+   "note": "oya-yuzuri: which parent is not stated, so 'a parent'."
+  },
+  {
+   "id": "C-90",
+   "name_en": "Progress Male B (CV)",
+   "label_en": "C90 Progress Male B (CV)",
+   "model_en": "Progress Mode 2nd-gen protagonist.",
+   "desc_en": "Personality inherited from a parent. A handsome blond with a piercing gaze.",
+   "note": "oya-yuzuri: which parent is not stated, so 'a parent'."
+  },
+  {
+   "id": "C-91",
+   "name_en": "Progress Female A (Federation)",
+   "label_en": "C91 Progress Female A (Federation)",
+   "model_en": "Progress Mode 2nd-gen protagonist.",
+   "desc_en": "Personality inherited from a parent. Known for long pink hair, tied back.",
+   "note": "oya-yuzuri: which parent is not stated, so 'a parent'."
+  },
+  {
+   "id": "C-92",
+   "name_en": "Progress Female A (CV)",
+   "label_en": "C92 Progress Female A (CV)",
+   "model_en": "Progress Mode 2nd-gen protagonist.",
+   "desc_en": "Personality inherited from a parent. Known for long pink hair, tied back.",
+   "note": "oya-yuzuri: which parent is not stated, so 'a parent'."
+  },
+  {
+   "id": "C-93",
+   "name_en": "Progress Female B (Federation)",
+   "label_en": "C93 Progress Female B (Federation)",
+   "model_en": "Progress Mode 2nd-gen protagonist.",
+   "desc_en": "Personality inherited from a parent. Known for green hair and mysterious orange eyes.",
+   "note": "oya-yuzuri: which parent is not stated, so 'a parent'."
+  },
+  {
+   "id": "C-94",
+   "name_en": "Progress Female B (CV)",
+   "label_en": "C94 Progress Female B (CV)",
+   "model_en": "Progress Mode 2nd-gen protagonist.",
+   "desc_en": "Personality inherited from a parent. Known for green hair and mysterious orange eyes.",
+   "note": "oya-yuzuri: which parent is not stated, so 'a parent'."
+  },
+  {
+   "id": "B-01",
+   "name_en": "Sasso taru Char",
+   "label_en": "B01 Sasso taru Char",
+   "model_en": "From the TV series \"Mobile Suit Gundam\"",
+   "desc_en": "",
+   "note": "Romanized track title (no reliable official English)."
+  },
+  {
+   "id": "B-02",
+   "name_en": "Kyuchi ni Tatsu Gundam",
+   "label_en": "B02 Kyuchi ni Tatsu Gundam",
+   "model_en": "From the TV series \"Mobile Suit Gundam\"",
+   "desc_en": "",
+   "note": "Romanized track title (no reliable official English)."
+  },
+  {
+   "id": "B-03",
+   "name_en": "Shiroi Yatsu",
+   "label_en": "B03 Shiroi Yatsu",
+   "model_en": "From the film \"Mobile Suit Gundam III:",
+   "desc_en": "Encounters in Space\"",
+   "note": "Romanized track title (no reliable official English)."
+  },
+  {
+   "id": "B-04",
+   "name_en": "Tobe! Gundam (Arrange Ver.)",
+   "label_en": "B04 Tobe! Gundam (Arrange Ver.)",
+   "model_en": "From the TV series \"Mobile Suit Gundam\"",
+   "desc_en": "",
+   "note": "Official romanized song title ('Fly! Gundam')."
+  },
+  {
+   "id": "B-05",
+   "name_en": "Kagayaki no Futari",
+   "label_en": "B05 Kagayaki no Futari",
+   "model_en": "From the film \"Mobile Suit Gundam III:",
+   "desc_en": "Encounters in Space\"",
+   "note": "Romanized track title (no reliable official English)."
+  },
+  {
+   "id": "B-06",
+   "name_en": "Gouf Custom",
+   "label_en": "B06 Gouf Custom",
+   "model_en": "From \"Mobile Suit Gundam:",
+   "desc_en": "The 08th MS Team\""
+  },
+  {
+   "id": "B-07",
+   "name_en": "Arashi no Naka de Kagayaite",
+   "label_en": "B07 Arashi no Naka de Kagayaite",
+   "model_en": "From \"Mobile Suit Gundam:",
+   "desc_en": "The 08th MS Team\"",
+   "note": "08th MS Team opening song; official romanized title."
+  },
+  {
+   "id": "B-08",
+   "name_en": "Shinnyu",
+   "label_en": "B08 Shinnyu",
+   "model_en": "From \"Mobile Suit Gundam:",
+   "desc_en": "The 08th MS Team\"",
+   "note": "Romanized track title (no reliable official English)."
+  },
+  {
+   "id": "B-09",
+   "name_en": "Kaku no Sora",
+   "label_en": "B09 Kaku no Sora",
+   "model_en": "From \"Mobile Suit Gundam 0080:",
+   "desc_en": "War in the Pocket\"",
+   "note": "Romanized track title (no reliable official English)."
+  },
+  {
+   "id": "B-10",
+   "name_en": "Bernard Wiseman",
+   "label_en": "B10 Bernard Wiseman",
+   "model_en": "From \"Mobile Suit Gundam 0080:",
+   "desc_en": "War in the Pocket\""
+  },
+  {
+   "id": "B-11",
+   "name_en": "FEINT OPERATION",
+   "label_en": "B11 FEINT OPERATION",
+   "model_en": "From \"Mobile Suit Gundam 0083:",
+   "desc_en": "Stardust Memory\""
+  },
+  {
+   "id": "B-12",
+   "name_en": "RISING op. STARDUST",
+   "label_en": "B12 RISING op. STARDUST",
+   "model_en": "From \"Mobile Suit Gundam 0083:",
+   "desc_en": "Stardust Memory\""
+  },
+  {
+   "id": "B-13",
+   "name_en": "The Black Gundam",
+   "label_en": "B13 The Black Gundam",
+   "model_en": "From \"Mobile Suit Zeta Gundam\"",
+   "desc_en": "",
+   "note": "Same Japanese as the Zeta stage title already rendered 'The Black Gundam'."
+  },
+  {
+   "id": "B-14",
+   "name_en": "Racing Through Space",
+   "label_en": "B14 Racing Through Space",
+   "model_en": "From \"Mobile Suit Zeta Gundam\"",
+   "desc_en": "",
+   "note": "Same Japanese as the stage title already rendered 'Racing Through Space'."
+  },
+  {
+   "id": "B-15",
+   "name_en": "Mobile Suit Battle",
+   "label_en": "B15 Mobile Suit Battle",
+   "model_en": "From \"Mobile Suit Zeta Gundam\"",
+   "desc_en": "",
+   "note": "Translated, not romanized: loanword title plus -sen (battle)."
+  },
+  {
+   "id": "B-16",
+   "name_en": "AEUG",
+   "label_en": "B16 AEUG",
+   "model_en": "From \"Mobile Suit Zeta Gundam\"",
+   "desc_en": ""
+  },
+  {
+   "id": "B-17",
+   "name_en": "Shido! Double Zeta",
+   "label_en": "B17 Shido! Double Zeta",
+   "model_en": "From \"Mobile Suit Gundam ZZ\"",
+   "desc_en": "",
+   "note": "Romanized track title (no reliable official English)."
+  },
+  {
+   "id": "B-18",
+   "name_en": "Uchu no Judau",
+   "label_en": "B18 Uchu no Judau",
+   "model_en": "From \"Mobile Suit Gundam ZZ\"",
+   "desc_en": "",
+   "note": "Romanized track title (no reliable official English)."
+  },
+  {
+   "id": "B-19",
+   "name_en": "Silent Voice",
+   "label_en": "B19 Silent Voice",
+   "model_en": "From \"Mobile Suit Gundam ZZ\"",
+   "desc_en": ""
+  },
+  {
+   "id": "B-20",
+   "name_en": "Haman Karn",
+   "label_en": "B20 Haman Karn",
+   "model_en": "From \"Mobile Suit Gundam ZZ\"",
+   "desc_en": ""
+  },
+  {
+   "id": "B-21",
+   "name_en": "Segment III SALLY",
+   "label_en": "B21 Segment III SALLY",
+   "model_en": "From \"Mobile Suit Gundam:",
+   "desc_en": "Char's Counterattack\"",
+   "note": "Japanese bracket gloss dropped (it only translates the English word). Source credit too long for one line: continues in desc_en."
+  },
+  {
+   "id": "B-22",
+   "name_en": "Segment V SWAN",
+   "label_en": "B22 Segment V SWAN",
+   "model_en": "From \"Mobile Suit Gundam:",
+   "desc_en": "Char's Counterattack\"",
+   "note": "Japanese bracket gloss dropped (it only translates the English word). Source credit too long for one line: continues in desc_en."
+  },
+  {
+   "id": "B-23",
+   "name_en": "Segment X SACRIFICE",
+   "label_en": "B23 Segment X SACRIFICE",
+   "model_en": "From \"Mobile Suit Gundam:",
+   "desc_en": "Char's Counterattack\"",
+   "note": "Japanese bracket gloss dropped (it only translates the English word). Source credit too long for one line: continues in desc_en."
+  },
+  {
+   "id": "B-24",
+   "name_en": "F91 Gundam Shutsugeki",
+   "label_en": "B24 F91 Gundam Shutsugeki",
+   "model_en": "From \"Mobile Suit Gundam F91\"",
+   "desc_en": "",
+   "note": "Romanized track title (no reliable official English)."
+  },
+  {
+   "id": "B-25",
+   "name_en": "Crossbone Vanguard Invasion and Battle",
+   "label_en": "B25 Crossbone Vanguard Invasion and Battle",
+   "model_en": "From \"Mobile Suit Gundam F91\"",
+   "desc_en": "",
+   "note": "Translated: a romanization would exceed name_bytes. Trailing spaces in label_jp dropped."
+  },
+  {
+   "id": "B-26",
+   "name_en": "Cecily o Sagashite - Seabook no Theme",
+   "label_en": "B26 Cecily o Sagashite - Seabook no Theme",
+   "model_en": "From \"Mobile Suit Gundam F91\"",
+   "desc_en": "",
+   "note": "Japanese name is truncated and the title runs on into model_jp; the full title fits name/label in English, so the source credit moves up to model_en and desc_en is empty. Romanized track title (no reliable official English)."
+  },
+  {
+   "id": "B-27",
+   "name_en": "Eternal Wind",
+   "label_en": "B27 Eternal Wind",
+   "model_en": "From \"Mobile Suit Gundam F91\"",
+   "desc_en": ""
+  },
+  {
+   "id": "B-28",
+   "name_en": "Arashi no Geigekisen",
+   "label_en": "B28 Arashi no Geigekisen",
+   "model_en": "Game original",
+   "desc_en": "",
+   "note": "Romanized track title (no reliable official English)."
+  },
+  {
+   "id": "B-29",
+   "name_en": "Raigeki Hashiru",
+   "label_en": "B29 Raigeki Hashiru",
+   "model_en": "Game original",
+   "desc_en": "",
+   "note": "Romanized track title (no reliable official English)."
+  },
+  {
+   "id": "B-30",
+   "name_en": "Eiko e",
+   "label_en": "B30 Eiko e",
+   "model_en": "Game original",
+   "desc_en": "",
+   "note": "Romanized track title (no reliable official English)."
+  },
+  {
+   "id": "B-31",
+   "name_en": "Yabo no Senjo",
+   "label_en": "B31 Yabo no Senjo",
+   "model_en": "Game original",
+   "desc_en": "",
+   "note": "Romanized track title (no reliable official English)."
+  },
+  {
+   "id": "B-32",
+   "name_en": "Kotetsu no Kamigami",
+   "label_en": "B32 Kotetsu no Kamigami",
+   "model_en": "Game original",
+   "desc_en": "",
+   "note": "Romanized track title (no reliable official English)."
+  },
+  {
+   "id": "B-33",
+   "name_en": "Kanashimi wa Daichi ni Ochite",
+   "label_en": "B33 Kanashimi wa Daichi ni Ochite",
+   "model_en": "Game original",
+   "desc_en": "",
+   "note": "Romanized track title (no reliable official English)."
+  },
+  {
+   "id": "B-34",
+   "name_en": "Uchu Seiki no Kaze",
+   "label_en": "B34 Uchu Seiki no Kaze",
+   "model_en": "Game original",
+   "desc_en": "",
+   "note": "Romanized track title (no reliable official English)."
+  },
+  {
+   "id": "B-35",
+   "name_en": "Earth Federation",
+   "label_en": "B35 Earth Federation",
+   "model_en": "Game original",
+   "desc_en": ""
+  },
+  {
+   "id": "B-36",
+   "name_en": "Hanko no Ishi",
+   "label_en": "B36 Hanko no Ishi",
+   "model_en": "Game original",
+   "desc_en": "",
+   "note": "Romanized track title (no reliable official English)."
+  },
+  {
+   "id": "B-37",
+   "name_en": "Sadame no Tsurugi",
+   "label_en": "B37 Sadame no Tsurugi",
+   "model_en": "Game original",
+   "desc_en": "",
+   "note": "Romanized track title (no reliable official English)."
+  },
+  {
+   "id": "B-38",
+   "name_en": "Dream or Reality",
+   "label_en": "B38 Dream or Reality",
+   "model_en": "Game original",
+   "desc_en": ""
+  },
+  {
+   "id": "B-39",
+   "name_en": "Shosha wa Odoru",
+   "label_en": "B39 Shosha wa Odoru",
+   "model_en": "Game original",
+   "desc_en": "",
+   "note": "Romanized track title (no reliable official English)."
+  },
+  {
+   "id": "B-40",
+   "name_en": "Kako ni Omoi o",
+   "label_en": "B40 Kako ni Omoi o",
+   "model_en": "Game original",
+   "desc_en": "",
+   "note": "Romanized track title (no reliable official English)."
+  },
+  {
+   "id": "B-41",
+   "name_en": "Collector's Holiday",
+   "label_en": "B41 Collector's Holiday",
+   "model_en": "Game original",
+   "desc_en": ""
+  },
+  {
+   "id": "B-42",
+   "name_en": "Climax U.C.",
+   "label_en": "B42 Climax U.C.",
+   "model_en": "Game original",
+   "desc_en": ""
+  },
+  {
+   "id": "M-01",
+   "name_en": "Opening A",
+   "label_en": "M01 Opening A",
+   "model_en": "",
+   "desc_en": ""
+  },
+  {
+   "id": "M-02",
+   "name_en": "Opening B",
+   "label_en": "M02 Opening B",
+   "model_en": "",
+   "desc_en": ""
+  },
+  {
+   "id": "M-03",
+   "name_en": "Last Shooting",
+   "label_en": "M03 Last Shooting",
+   "model_en": "",
+   "desc_en": ""
+  },
+  {
+   "id": "M-04",
+   "name_en": "Gouf Custom vs. Ez8",
+   "label_en": "M04 Gouf Custom vs. Ez8",
+   "model_en": "",
+   "desc_en": ""
+  },
+  {
+   "id": "M-05",
+   "name_en": "Alex vs. Zaku II FZ",
+   "label_en": "M05 Alex vs. Zaku II FZ",
+   "model_en": "",
+   "desc_en": ""
+  },
+  {
+   "id": "M-06",
+   "name_en": "A Man's Pride",
+   "label_en": "M06 A Man's Pride",
+   "model_en": "",
+   "desc_en": ""
+  },
+  {
+   "id": "M-07",
+   "name_en": "Zeta vs. The-O",
+   "label_en": "M07 Zeta vs. The-O",
+   "model_en": "",
+   "desc_en": ""
+  },
+  {
+   "id": "M-08",
+   "name_en": "ZZ vs. Qubeley",
+   "label_en": "M08 ZZ vs. Qubeley",
+   "model_en": "",
+   "desc_en": ""
+  },
+  {
+   "id": "M-09",
+   "name_en": "Miracle of the Psycho-Frame",
+   "label_en": "M09 Miracle of the Psycho-Frame",
+   "model_en": "",
+   "desc_en": ""
+  },
+  {
+   "id": "M-10",
+   "name_en": "Seabook and Cecily",
+   "label_en": "M10 Seabook and Cecily",
+   "model_en": "",
+   "desc_en": ""
+  },
+  {
+   "id": "M-11",
+   "name_en": "Ellen (Federation)",
+   "label_en": "M11 Ellen (Federation)",
+   "model_en": "",
+   "desc_en": ""
+  },
+  {
+   "id": "M-12",
+   "name_en": "Shirley (Federation)",
+   "label_en": "M12 Shirley (Federation)",
+   "model_en": "",
+   "desc_en": ""
+  },
+  {
+   "id": "M-13",
+   "name_en": "Pamir (Federation)",
+   "label_en": "M13 Pamir (Federation)",
+   "model_en": "",
+   "desc_en": ""
+  },
+  {
+   "id": "M-14",
+   "name_en": "Ellen (Zeon)",
+   "label_en": "M14 Ellen (Zeon)",
+   "model_en": "",
+   "desc_en": ""
+  },
+  {
+   "id": "M-15",
+   "name_en": "Shirley (Zeon)",
+   "label_en": "M15 Shirley (Zeon)",
+   "model_en": "",
+   "desc_en": ""
+  },
+  {
+   "id": "M-16",
+   "name_en": "Pamir (Zeon)",
+   "label_en": "M16 Pamir (Zeon)",
+   "model_en": "",
+   "desc_en": ""
+  },
+  {
+   "id": "M-17",
+   "name_en": "Brigadier General Cowen",
+   "label_en": "M17 Brigadier General Cowen",
+   "model_en": "",
+   "desc_en": ""
+  },
+  {
+   "id": "M-18",
+   "name_en": "Supreme Commander Delaz",
+   "label_en": "M18 Supreme Commander Delaz",
+   "model_en": "",
+   "desc_en": ""
+  },
+  {
+   "id": "M-19",
+   "name_en": "Commander Henken",
+   "label_en": "M19 Commander Henken",
+   "model_en": "",
+   "desc_en": ""
+  },
+  {
+   "id": "M-20",
+   "name_en": "Colonel Bask",
+   "label_en": "M20 Colonel Bask",
+   "model_en": "",
+   "desc_en": ""
+  },
+  {
+   "id": "M-21",
+   "name_en": "Regent Haman",
+   "label_en": "M21 Regent Haman",
+   "model_en": "",
+   "desc_en": ""
+  },
+  {
+   "id": "M-22",
+   "name_en": "Lt. Commander Bright",
+   "label_en": "M22 Lt. Commander Bright",
+   "model_en": "",
+   "desc_en": ""
+  },
+  {
+   "id": "M-23",
+   "name_en": "Regent Haman 2",
+   "label_en": "M23 Regent Haman 2",
+   "model_en": "",
+   "desc_en": ""
+  },
+  {
+   "id": "M-24",
+   "name_en": "Captain Amuro",
+   "label_en": "M24 Captain Amuro",
+   "model_en": "",
+   "desc_en": ""
+  },
+  {
+   "id": "M-25",
+   "name_en": "Supreme Commander Char",
+   "label_en": "M25 Supreme Commander Char",
+   "model_en": "",
+   "desc_en": ""
+  },
+  {
+   "id": "M-26",
+   "name_en": "Colonel Cosmo",
+   "label_en": "M26 Colonel Cosmo",
+   "model_en": "",
+   "desc_en": ""
+  },
+  {
+   "id": "M-27",
+   "name_en": "Commander Carozzo",
+   "label_en": "M27 Commander Carozzo",
+   "model_en": "",
+   "desc_en": ""
+  },
+  {
+   "id": "M-28",
+   "name_en": "Captain Berah Ronah",
+   "label_en": "M28 Captain Berah Ronah",
+   "model_en": "",
+   "desc_en": "",
+   "note": "Japanese name and label differ in word order (title before/after the name); both rendered 'Captain Berah Ronah'."
+  },
+  {
+   "id": "M-29",
+   "name_en": "Into the Atmosphere",
+   "label_en": "M29 Into the Atmosphere",
+   "model_en": "",
+   "desc_en": ""
+  },
+  {
+   "id": "M-30",
+   "name_en": "Battle of Jaburo",
+   "label_en": "M30 Battle of Jaburo",
+   "model_en": "",
+   "desc_en": ""
+  },
+  {
+   "id": "M-31",
+   "name_en": "Terror! The Mobile Big Zam",
+   "label_en": "M31 Terror! The Mobile Big Zam",
+   "model_en": "",
+   "desc_en": "",
+   "note": "Japanese has a comma, not '!'; kept the stage-title rendering 'Terror! The Mobile Big Zam' for consistency."
+  },
+  {
+   "id": "M-32",
+   "name_en": "Space Fortress A Baoa Qu",
+   "label_en": "M32 Space Fortress A Baoa Qu",
+   "model_en": "",
+   "desc_en": ""
+  },
+  {
+   "id": "M-33",
+   "name_en": "Desert Front Line (Shiro)",
+   "label_en": "M33 Desert Front Line (Shiro)",
+   "model_en": "",
+   "desc_en": ""
+  },
+  {
+   "id": "M-34",
+   "name_en": "Desert Front Line (Aina)",
+   "label_en": "M34 Desert Front Line (Aina)",
+   "model_en": "",
+   "desc_en": ""
+  },
+  {
+   "id": "M-35",
+   "name_en": "The Trembling Mountain (Shiro)",
+   "label_en": "M35 The Trembling Mountain (Shiro)",
+   "model_en": "",
+   "desc_en": ""
+  },
+  {
+   "id": "M-36",
+   "name_en": "The Trembling Mountain (Norris)",
+   "label_en": "M36 The Trembling Mountain (Norris)",
+   "model_en": "",
+   "desc_en": ""
+  },
+  {
+   "id": "M-37",
+   "name_en": "Order to Destroy the Alex",
+   "label_en": "M37 Order to Destroy the Alex",
+   "model_en": "",
+   "desc_en": ""
+  },
+  {
+   "id": "M-38",
+   "name_en": "War in the Pocket (Bernie)",
+   "label_en": "M38 War in the Pocket (Bernie)",
+   "model_en": "",
+   "desc_en": ""
+  },
+  {
+   "id": "M-39",
+   "name_en": "War in the Pocket (Chris)",
+   "label_en": "M39 War in the Pocket (Chris)",
+   "model_en": "",
+   "desc_en": ""
+  },
+  {
+   "id": "M-40",
+   "name_en": "Clash Zone (Kou)",
+   "label_en": "M40 Clash Zone (Kou)",
+   "model_en": "",
+   "desc_en": ""
+  },
+  {
+   "id": "M-41",
+   "name_en": "Clash Zone (Gato)",
+   "label_en": "M41 Clash Zone (Gato)",
+   "model_en": "",
+   "desc_en": ""
+  },
+  {
+   "id": "M-42",
+   "name_en": "The Storm Rushes Through (Kou)",
+   "label_en": "M42 The Storm Rushes Through (Kou)",
+   "model_en": "",
+   "desc_en": ""
+  },
+  {
+   "id": "M-43",
+   "name_en": "The Storm Rushes Through (Gato)",
+   "label_en": "M43 The Storm Rushes Through (Gato)",
+   "model_en": "",
+   "desc_en": ""
+  },
+  {
+   "id": "M-44",
+   "name_en": "The Storm Rushes Through (Cima)",
+   "label_en": "M44 The Storm Rushes Through (Cima)",
+   "model_en": "",
+   "desc_en": ""
+  },
+  {
+   "id": "M-45",
+   "name_en": "The Black Gundam",
+   "label_en": "M45 The Black Gundam",
+   "model_en": "",
+   "desc_en": ""
+  },
+  {
+   "id": "M-46",
+   "name_en": "Battle on the Moon (Kamille)",
+   "label_en": "M46 Battle on the Moon (Kamille)",
+   "model_en": "",
+   "desc_en": ""
+  }
+ ],
+ "decisions": [
+  "Character cards: model_jp + desc_jp are one continuous text cut mid-word; model_en holds the first part of the sentence (<=43 bytes) and desc_en continues it from a word boundary.",
+  "Faction tags kept as written: (LB), (NZ), (CV); the Renpou tag -> (Federation).",
+  "'Protagonist' (not 'hero') for the 2nd-gen lead, who can be male or female; Kamuna's card uses the same word for consistency.",
+  "BGM cards: source credit as 'From \"<official English title>\"'; titles too long for one 43-byte line are split at the colon and continue in desc_en, as the Japanese does.",
+  "BGM titles: official title where reliably known (Tobe! Gundam, Arashi no Naka de Kagayaite, Silent Voice, Eternal Wind); katakana-English titles in English; other Japanese titles romanized (Hepburn, long vowels unmarked) per the slice instructions, except B-13/B-14 (same Japanese as already-translated stage titles) and B-15/B-25 (loanword title / romanization too long).",
+  "Movie cards: model_jp is a single full-width padding space -> model_en ''. Movies named after stages reuse the briefing stage-title renderings.",
+  "Ranks: junsho -> Brigadier General (glossary 'Brigadier General Blex'); chusa -> Commander (glossary role for Henken); taii -> Captain (glossary role for Amuro CCA); shosa -> Lt. Commander (same naval scale as Henken); taisa -> Colonel; soshi -> Supreme Commander (glossary)."
+ ],
+ "uncertain": [
+  "B-01: romanized 'Sasso taru Char'; EN option 'Dashing Char'.",
+  "B-02: romanized 'Kyuchi ni Tatsu Gundam'; EN option 'Gundam in Peril'.",
+  "B-03: romanized 'Shiroi Yatsu'; EN option 'The White One'.",
+  "B-04: official romanization 'Tobe! Gundam'; EN option 'Fly! Gundam'.",
+  "B-05: romanized 'Kagayaki no Futari'; EN option 'The Shining Two'.",
+  "B-07: official romanization 'Arashi no Naka de Kagayaite'; EN option 'Shining in the Storm'.",
+  "B-08: romanized 'Shinnyu'; EN option 'Infiltration'.",
+  "B-09: romanized 'Kaku no Sora' (kakuu); EN option 'Imaginary Sky'.",
+  "B-13/B-14: translated to match stage titles ('The Black Gundam', 'Racing Through Space') instead of romanizing.",
+  "B-15: translated 'Mobile Suit Battle' instead of romanizing.",
+  "B-17: romanized 'Shido! Double Zeta'; EN option 'Double Zeta, Activate!'.",
+  "B-18: romanized 'Uchu no Judau'; EN option 'Judau of Space'.",
+  "B-21..B-23: dropped the Japanese bracket glosses (Sortie / Swan / Sacrifice).",
+  "B-24: romanized 'F91 Gundam Shutsugeki'; EN option 'F91 Gundam, Launch!'.",
+  "B-25: translated 'Crossbone Vanguard Invasion and Battle' (romanization does not fit).",
+  "B-26: romanized 'Cecily o Sagashite - Seabook no Theme'; EN option 'Searching for Cecily - Seabook's Theme' (38 bytes, also fits).",
+  "B-28: romanized 'Arashi no Geigekisen'; EN option 'Interception in the Storm'.",
+  "B-29: romanized 'Raigeki Hashiru'; EN option 'Lightning Strikes'.",
+  "B-30: romanized 'Eiko e'; EN option 'Toward Glory'.",
+  "B-31: romanized 'Yabo no Senjo'; EN option 'Battlefield of Ambition'.",
+  "B-32: romanized 'Kotetsu no Kamigami'; EN option 'Gods of Steel'.",
+  "B-33: romanized 'Kanashimi wa Daichi ni Ochite'; EN option 'Sorrow Falls to the Earth'.",
+  "B-34: romanized 'Uchu Seiki no Kaze'; EN option 'Wind of the Universal Century'.",
+  "B-36: romanized 'Hanko no Ishi'; EN option 'Will to Fight Back'.",
+  "B-37: romanized 'Sadame no Tsurugi'; EN option 'Sword of Fate'.",
+  "B-39: romanized 'Shosha wa Odoru'; EN option 'The Victor Dances'.",
+  "B-40: romanized 'Kako ni Omoi o'; EN option 'Thoughts of the Past'.",
+  "M-06: 'A Man's Pride' for otoko no iji (alt. 'A Man's Resolve').",
+  "M-17: 'Brigadier General Cowen' follows the game's junsho; the wiki gives Cowen a different rank.",
+  "M-22: 'Lt. Commander Bright' for shosa (army scale would be 'Major Bright').",
+  "C-77..C-86: LB/NZ/CV tags kept as abbreviations, not expanded (LB presumably Londo Bell, NZ Neo Zeon, CV Crossbone Vanguard).",
+  "C-87..C-94: 'Progress Male/Female A/B' for the 2nd-gen protagonist presets."
+ ]
+}

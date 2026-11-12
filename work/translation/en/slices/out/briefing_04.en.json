@@ -1,0 +1,190 @@
+{
+ "slice": "briefing_04",
+ "rows_in_slice": 43,
+ "rows_examined": 43,
+ "rows": [
+  {
+   "id": "S00427",
+   "en": "All Maps P) Stage 1: Battle of Jaburo"
+  },
+  {
+   "id": "S00428",
+   "en": "All Maps P) Stage 2: Decisive Battle of A Baoa Qu"
+  },
+  {
+   "id": "S00429",
+   "en": "All Maps P) Stage 2: Battle of A Baoa Qu"
+  },
+  {
+   "id": "S00430",
+   "en": "All Maps P) Stage 3: Thwart Operation Stardust"
+  },
+  {
+   "id": "S00431",
+   "en": "All Maps P) Stage 3: Operation Codename \"Stardust\""
+  },
+  {
+   "id": "S00432",
+   "en": "All Maps P) Stage 4: Shuttle Defense"
+  },
+  {
+   "id": "S00433",
+   "en": "All Maps P) Stage 4: Battle for Hong Kong City"
+  },
+  {
+   "id": "S00434",
+   "en": "All Maps P) Stage 4: Support the Ground Forces' Uprising"
+  },
+  {
+   "id": "S00435",
+   "en": "All Maps P) Stage 5: Operation Maelstrom"
+  },
+  {
+   "id": "S00436",
+   "en": "All Maps P) Stage 5: Operation to Retake the Colony Laser",
+   "note": "Glossary 'colony laser' (lowercase common noun) kept lowercase."
+  },
+  {
+   "id": "S00437",
+   "en": "All Maps P) Stage 5: The Great Maelstrom of Space"
+  },
+  {
+   "id": "S00438",
+   "en": "All Maps P) Stage 6: Decisive Battle at Core 3"
+  },
+  {
+   "id": "S00439",
+   "en": "All Maps P) Stage 6: Operation to Annihilate the Rebels"
+  },
+  {
+   "id": "S00440",
+   "en": "All Maps P) Stage 7: Operation to Stop the Axis Drop"
+  },
+  {
+   "id": "S00441",
+   "en": "All Maps P) Stage 7: Operation Earth Cooling",
+   "note": "Glossary form (marked unverified)."
+  },
+  {
+   "id": "S00442",
+   "en": "All Maps P) Stage 8: Intercept the Mysterious Small MS"
+  },
+  {
+   "id": "S00443",
+   "en": "All Maps P) Stage 8: Operation to Seize the Resource Base"
+  },
+  {
+   "id": "S00444",
+   "en": "All Maps P) Stage 9: Clash! The Crossbone Elite Unit"
+  },
+  {
+   "id": "S00445",
+   "en": "All Maps P) Stage 9: Battle for Frontier I"
+  },
+  {
+   "id": "S00446",
+   "en": "All Maps P) Stage 10: Under the Pirate Flag"
+  },
+  {
+   "id": "S00447",
+   "en": "All Maps EX) Beginner 1: It's No Different from a Zaku"
+  },
+  {
+   "id": "S00448",
+   "en": "All Maps EX) Beginner 2: GM Stands in Space",
+   "note": "Likely parody of MSG ep.1 'Gundam Stands on Earth' pattern."
+  },
+  {
+   "id": "S00449",
+   "en": "All Maps EX) Beginner 3: Bewitching Flower"
+  },
+  {
+   "id": "S00450",
+   "en": "All Maps EX) Beginner 4: Heroines"
+  },
+  {
+   "id": "S00451",
+   "en": "All Maps EX) Beginner 5: Poor Man's All-Stars"
+  },
+  {
+   "id": "S00452",
+   "en": "All Maps EX) Beginner 6: Heroes of the Sky"
+  },
+  {
+   "id": "S00453",
+   "en": "All Maps EX) Beginner 7: The Boy from Shangri-La"
+  },
+  {
+   "id": "S00454",
+   "en": "All Maps EX) Intermediate 1: The Three Qubeley Sisters"
+  },
+  {
+   "id": "S00455",
+   "en": "All Maps EX) Intermediate 2: Rival's Counterattack"
+  },
+  {
+   "id": "S00456",
+   "en": "All Maps EX) Intermediate 3: Don't Give In to the Pressure!"
+  },
+  {
+   "id": "S00457",
+   "en": "All Maps EX) Intermediate 4: Fistfight on Earth"
+  },
+  {
+   "id": "S00458",
+   "en": "All Maps EX) Intermediate 5: Bigger Is Better?"
+  },
+  {
+   "id": "S00459",
+   "en": "All Maps EX) Intermediate 6: The Invincible? Fleet",
+   "note": "Mid-title ? kept, as in the Japanese."
+  },
+  {
+   "id": "S00460",
+   "en": "All Maps EX) Intermediate 7: Fortress of Steel"
+  },
+  {
+   "id": "S00461",
+   "en": "All Maps EX) Advanced 1: Whose Sea Is the Sea of Space?",
+   "note": "Likely riff on Captain Harlock's 'the sea of space is my sea'."
+  },
+  {
+   "id": "S00462",
+   "en": "All Maps EX) Advanced 2: The Red Comet Returns"
+  },
+  {
+   "id": "S00463",
+   "en": "All Maps EX) Advanced 3: Final - An Alternate Tale"
+  },
+  {
+   "id": "S00464",
+   "en": "All Maps EX) Advanced 4: The Newtype Nightmare",
+   "note": "Number of Newtypes left ambiguous."
+  },
+  {
+   "id": "S00465",
+   "en": "All Maps EX) Advanced 5: Fight to the Death! Earth Chapter"
+  },
+  {
+   "id": "S00466",
+   "en": "All Maps EX) Advanced 6: Fight to the Death! Space Chapter"
+  },
+  {
+   "id": "S00467",
+   "en": "All Maps T) Tutorial Stage 1"
+  },
+  {
+   "id": "S00468",
+   "en": "All Maps T) Tutorial Stage 2"
+  },
+  {
+   "id": "S00469",
+   "en": "All Maps T) Tutorial Stage 3"
+  }
+ ],
+ "decisions": [],
+ "uncertain": [
+  "S00441: 'Operation Earth Cooling' is the glossary form but marked unverified.",
+  "S00461: possible Captain Harlock reference; kept literal question."
+ ]
+}

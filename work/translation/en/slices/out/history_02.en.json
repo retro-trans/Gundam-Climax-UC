@@ -1,0 +1,323 @@
+{
+ "slice": "history_02",
+ "rows_in_slice": 76,
+ "rows_examined": 76,
+ "rows": [
+  {
+   "id": "S00764",
+   "en": "chSoldier B (Federation)"
+  },
+  {
+   "id": "S00765",
+   "en": "chSoldier A (Zeon)"
+  },
+  {
+   "id": "S00766",
+   "en": "chSoldier B (Zeon)"
+  },
+  {
+   "id": "S00767",
+   "en": "chSoldier A (AEUG)"
+  },
+  {
+   "id": "S00768",
+   "en": "chSoldier B (AEUG)"
+  },
+  {
+   "id": "S00769",
+   "en": "chSoldier A (Delaz)"
+  },
+  {
+   "id": "S00770",
+   "en": "chSoldier B (Delaz)"
+  },
+  {
+   "id": "S00771",
+   "en": "chSoldier A (Titans)"
+  },
+  {
+   "id": "S00772",
+   "en": "chSoldier B (Titans)"
+  },
+  {
+   "id": "S00773",
+   "en": "chSoldier A (Axis)"
+  },
+  {
+   "id": "S00774",
+   "en": "chSoldier B (Axis)"
+  },
+  {
+   "id": "S00775",
+   "en": "chSoldier A (Londo Bell)"
+  },
+  {
+   "id": "S00776",
+   "en": "chSoldier B (Londo Bell)"
+  },
+  {
+   "id": "S00777",
+   "en": "chSoldier A (Neo Zeon)"
+  },
+  {
+   "id": "S00778",
+   "en": "chSoldier B (Neo Zeon)"
+  },
+  {
+   "id": "S00779",
+   "en": "chSoldier A (Crossbone)"
+  },
+  {
+   "id": "S00780",
+   "en": "chSoldier B (Crossbone)"
+  },
+  {
+   "id": "S00781",
+   "en": "chSoldier A (Neo Crossbone)"
+  },
+  {
+   "id": "S00782",
+   "en": "chSoldier B (Neo Crossbone)"
+  },
+  {
+   "id": "S00783",
+   "en": "chSoldier A (New Federation (F91))"
+  },
+  {
+   "id": "S00784",
+   "en": "chSoldier B (New Federation (F91))"
+  },
+  {
+   "id": "S00785",
+   "en": "chSoldier A (Final Stage Grunt)"
+  },
+  {
+   "id": "S00786",
+   "en": "chSoldier B (Final Stage Boss)"
+  },
+  {
+   "id": "S00787",
+   "en": "chSoldier A (No Voice)"
+  },
+  {
+   "id": "S00788",
+   "en": "chSoldier B (No Voice)"
+  },
+  {
+   "id": "S00789",
+   "en": "chOperator A"
+  },
+  {
+   "id": "S00790",
+   "en": "chMikhail Kaminsky (Misha)"
+  },
+  {
+   "id": "S00791",
+   "en": "ch1st Gen: Kamuna Tachibana (Gentle)"
+  },
+  {
+   "id": "S00792",
+   "en": "ch1st Gen: Kamuna Tachibana (Calm)"
+  },
+  {
+   "id": "S00793",
+   "en": "ch1st Gen: Kamuna Tachibana (Hot-blooded)"
+  },
+  {
+   "id": "S00794",
+   "en": "chJr. Male A (Gentle)"
+  },
+  {
+   "id": "S00795",
+   "en": "chJr. Male A (Calm)"
+  },
+  {
+   "id": "S00796",
+   "en": "chJr. Male A (Hot-blooded)"
+  },
+  {
+   "id": "S00797",
+   "en": "chJr. Male B (Gentle)"
+  },
+  {
+   "id": "S00798",
+   "en": "chJr. Male B (Calm)"
+  },
+  {
+   "id": "S00799",
+   "en": "chJr. Male B (Hot-blooded)"
+  },
+  {
+   "id": "S00800",
+   "en": "chJr. Female A (Calm)"
+  },
+  {
+   "id": "S00801",
+   "en": "chJr. Female A (Hot-blooded)"
+  },
+  {
+   "id": "S00802",
+   "en": "chJr. Female B (Gentle)"
+  },
+  {
+   "id": "S00803",
+   "en": "chJr. Female B (Calm)"
+  },
+  {
+   "id": "S00804",
+   "en": "chJr. Female B (Hot-blooded)"
+  },
+  {
+   "id": "S00805",
+   "en": "chEllen Rochefil (Marriage Candidate)"
+  },
+  {
+   "id": "S00806",
+   "en": "chShirley Ramsey (Marriage Candidate)"
+  },
+  {
+   "id": "S00807",
+   "en": "chNagisa Florin (Marriage Candidate)"
+  },
+  {
+   "id": "S00808",
+   "en": "chPamir McDamil (1st Gen Colleague)"
+  },
+  {
+   "id": "S00809",
+   "en": "chAegis Veracruz (Jr. Colleague)"
+  },
+  {
+   "id": "S00810",
+   "en": "chSleggar Law"
+  },
+  {
+   "id": "S00811",
+   "en": "chBright Noa"
+  },
+  {
+   "id": "S00812",
+   "en": "chGihren Zabi"
+  },
+  {
+   "id": "S00813",
+   "en": "chKycilia Zabi"
+  },
+  {
+   "id": "S00814",
+   "en": "chMichel Ninorich"
+  },
+  {
+   "id": "S00815",
+   "en": "chZeon Female Soldier (Generic?)"
+  },
+  {
+   "id": "S00816",
+   "en": "chEyphar Sinapus"
+  },
+  {
+   "id": "S00817",
+   "en": "chJacqueline Simon"
+  },
+  {
+   "id": "S00818",
+   "en": "chBask Om"
+  },
+  {
+   "id": "S00819",
+   "en": "chAboly"
+  },
+  {
+   "id": "S00820",
+   "en": "chRoberto"
+  },
+  {
+   "id": "S00821",
+   "en": "chBright Noa (Z)"
+  },
+  {
+   "id": "S00822",
+   "en": "chHenken Bekkener"
+  },
+  {
+   "id": "S00823",
+   "en": "chTorres"
+  },
+  {
+   "id": "S00824",
+   "en": "chHayato Kobayashi (Z)"
+  },
+  {
+   "id": "S00825",
+   "en": "chBeltorchika Irma"
+  },
+  {
+   "id": "S00826",
+   "en": "chKacricon Cacooler"
+  },
+  {
+   "id": "S00827",
+   "en": "chBeecha Oleg"
+  },
+  {
+   "id": "S00828",
+   "en": "chMondo Agake"
+  },
+  {
+   "id": "S00829",
+   "en": "chElle Vianno"
+  },
+  {
+   "id": "S00830",
+   "en": "chEmary Ounce"
+  },
+  {
+   "id": "S00831",
+   "en": "chBright Noa (CCA)",
+   "note": "(CCA) era tag; not in excerpt, follows the (Z)/(ZZ)/(CCA) pattern of other rows"
+  },
+  {
+   "id": "S00832",
+   "en": "chNanai Miguel"
+  },
+  {
+   "id": "S00833",
+   "en": "chLeahlee Edaberry"
+  },
+  {
+   "id": "S00834",
+   "en": "chCosmo Eigesse"
+  },
+  {
+   "id": "S00835",
+   "en": "chBerah Ronah"
+  },
+  {
+   "id": "S00836",
+   "en": "chWeakest Character (Debug)"
+  },
+  {
+   "id": "S00837",
+   "en": "chStrongest Character (Debug)"
+  },
+  {
+   "id": "S00838",
+   "en": "Left Arrow",
+   "note": "sel#13 label, probably internal/dev-only; translated anyway"
+  },
+  {
+   "id": "S00839",
+   "en": "Right Arrow",
+   "note": "sel#13 label, probably internal/dev-only; translated anyway"
+  }
+ ],
+ "decisions": [
+  "The 'ch' prefix on sel#2 rows is kept verbatim (it looks like a debug/selection-list tag the game or dev menu uses, as in history_01 rows S00715-S00763); only the text after it is translated.",
+  "These sel#2 rows look like a dev/debug character-select list (labels like 'No Voice', 'Debug', '(Generic?)'); translated as plain labels with glossary names."
+ ],
+ "uncertain": [
+  "all sel#2 rows: kept 'ch' prefix untranslated, assuming it is a tag, not text the player reads",
+  "S00831: 'Bright Noa (CCA)' not in excerpt; built from glossary 'Bright Noa' plus the CCA tag",
+  "S00838/S00839: 'Left Arrow'/'Right Arrow' may be internal labels never shown; translated"
+ ]
+}

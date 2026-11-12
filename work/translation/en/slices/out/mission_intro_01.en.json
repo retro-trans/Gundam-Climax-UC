@@ -1,0 +1,351 @@
+{
+ "slice": "mission_intro_01",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "S01748",
+   "en": "U.C. 0079.11"
+  },
+  {
+   "id": "S01749",
+   "en": "Gorge in Asia",
+   "note": "official subtitle kept, converted to ASCII"
+  },
+  {
+   "id": "S01750",
+   "en": "In the Federation Forces' Asia Command,"
+  },
+  {
+   "id": "S01751",
+   "en": "the Kojima Battalion's 08th MS Team leader"
+  },
+  {
+   "id": "S01752",
+   "en": "Shiro Amada was on the trail of"
+  },
+  {
+   "id": "S01753",
+   "en": "a giant, unidentified mobile armor"
+  },
+  {
+   "id": "S01754",
+   "en": "that had been haunting the region."
+  },
+  {
+   "id": "S01755",
+   "en": "This mobile armor's immense power"
+  },
+  {
+   "id": "S01756",
+   "en": "posed a grave threat to the Federation Forces."
+  },
+  {
+   "id": "S01757",
+   "en": "After investigating, the 08th MS Team found"
+  },
+  {
+   "id": "S01758",
+   "en": "a gorge that seemed to be its test site,"
+  },
+  {
+   "id": "S01759",
+   "en": "set a trap, and waited for the mobile armor."
+  },
+  {
+   "id": "S01760",
+   "en": "And so, several days passed..."
+  },
+  {
+   "id": "S01761",
+   "en": "Side 3's fallen noble Sakhalin siblings,"
+  },
+  {
+   "id": "S01762",
+   "en": "striving to restore their house,"
+  },
+  {
+   "id": "S01763",
+   "en": "labored on a Zeon weapons project,"
+  },
+  {
+   "id": "S01764",
+   "en": "the \"Apsaras Project.\""
+  },
+  {
+   "id": "S01765",
+   "en": "Designed by her ailing brother Ginias:"
+  },
+  {
+   "id": "S01766",
+   "en": "Mobile Armor \"Apsaras.\"",
+   "note": "row is shared: also line 3 of mp_cn_0803 (opening line, followed by S01775). Written as a stand-alone label so it reads in both scenes; S01775 refers back with 'its'"
+  },
+  {
+   "id": "S01767",
+   "en": "Becoming its test pilot,"
+  },
+  {
+   "id": "S01768",
+   "en": "Aina served him with total devotion, but"
+  },
+  {
+   "id": "S01769",
+   "en": "a young Federation Forces officer she met by chance,"
+  },
+  {
+   "id": "S01770",
+   "en": "Shiro Amada, moved her heart."
+  },
+  {
+   "id": "S01771",
+   "en": "A chain of coincidences"
+  },
+  {
+   "id": "S01772",
+   "en": "would shake the fates of Aina and Shiro"
+  },
+  {
+   "id": "S01773",
+   "en": "ever more deeply."
+  },
+  {
+   "id": "S01774",
+   "en": "Ruin city in Asia",
+   "note": "official subtitle kept as written, converted to ASCII"
+  },
+  {
+   "id": "S01775",
+   "en": "Having uncovered its development base,"
+  },
+  {
+   "id": "S01776",
+   "en": "the Federation Forces resolved to attack it."
+  },
+  {
+   "id": "S01777",
+   "en": "The 08th MS Team, dug in amid the deserted city,"
+  },
+  {
+   "id": "S01778",
+   "en": "stood guard over the Guntank unit as it"
+  },
+  {
+   "id": "S01779",
+   "en": "launched a long-range attack."
+  },
+  {
+   "id": "S01780",
+   "en": "The desperate garrison troops"
+  },
+  {
+   "id": "S01781",
+   "en": "and Shiro's team, with the modified MS \"Ez8,\""
+  },
+  {
+   "id": "S01782",
+   "en": "now begin their battle."
+  },
+  {
+   "id": "S01783",
+   "en": "The Apsaras development base was located"
+  },
+  {
+   "id": "S01784",
+   "en": "by the Federation Forces; an all-out attack began."
+  },
+  {
+   "id": "S01785",
+   "en": "The garrison troops try to escape."
+  },
+  {
+   "id": "S01786",
+   "en": "Let at least the sick and wounded escape -",
+   "note": "Aina's wish given as indirect thought, picked up by 'so wished' in S01787"
+  },
+  {
+   "id": "S01787",
+   "en": "so wished Aina Sakhalin. Seeing this,"
+  },
+  {
+   "id": "S01788",
+   "en": "her guardian, long in the Sakhalins' service,"
+  },
+  {
+   "id": "S01789",
+   "en": "the soldier Norris Packard,"
+  },
+  {
+   "id": "S01790",
+   "en": "sorties to cut a path through the enemy."
+  },
+  {
+   "id": "S01791",
+   "en": "U.C. 0079.12"
+  },
+  {
+   "id": "S01792",
+   "en": "Side 6 \"Libot\"",
+   "note": "game subtitle spells 'Ribot'; glossary (wiki) has Libot, wiki wins"
+  },
+  {
+   "id": "S01793",
+   "en": "December, Universal Century 0079."
+  },
+  {
+   "id": "S01794",
+   "en": "In a colony of neutral Side 6,"
+  },
+  {
+   "id": "S01795",
+   "en": "a new Gundam was being tested."
+  },
+  {
+   "id": "S01796",
+   "en": "Learning of this, the Zeon forces"
+  },
+  {
+   "id": "S01797",
+   "en": "sent in a strike team to destroy it."
+  },
+  {
+   "id": "S01798",
+   "en": "Suddenly, tearing through the city at night,"
+  },
+  {
+   "id": "S01799",
+   "en": "a Zeon assault mobile suit attacks.",
+   "note": "number unmarked in JP; singular (canon: the Kampfer attacks alone)"
+  },
+  {
+   "id": "S01800",
+   "en": "The Federation Forces mobile suits sent to defend"
+  },
+  {
+   "id": "S01801",
+   "en": "were destroyed one after another,"
+  },
+  {
+   "id": "S01802",
+   "en": "and the enemy was about to reach the base..."
+  },
+  {
+   "id": "S01803",
+   "en": "The pilot testing the Gundam,"
+  },
+  {
+   "id": "S01804",
+   "en": "a young woman,"
+  },
+  {
+   "id": "S01805",
+   "en": "Christina Mackenzie,"
+  },
+  {
+   "id": "S01806",
+   "en": "was ordered to intercept."
+  },
+  {
+   "id": "S01807",
+   "en": "In the neutral colony of Side 6,"
+  },
+  {
+   "id": "S01808",
+   "en": "a new Gundam was being tested -"
+  },
+  {
+   "id": "S01809",
+   "en": "learning of this, the Zeon forces"
+  },
+  {
+   "id": "S01810",
+   "en": "plotted its destruction."
+  },
+  {
+   "id": "S01811",
+   "en": "With an infantry strike squad"
+  },
+  {
+   "id": "S01812",
+   "en": "and an assault MS in a two-stage attack,"
+  },
+  {
+   "id": "S01813",
+   "en": "charging in, ready to die, was"
+  },
+  {
+   "id": "S01814",
+   "en": "the Cyclops Team. But"
+  },
+  {
+   "id": "S01815",
+   "en": "the unit was wiped out, save for rookie Bernie."
+  },
+  {
+   "id": "S01816",
+   "en": "Bernie tried to run away, but"
+  },
+  {
+   "id": "S01817",
+   "en": "for Chris, whom he loved, and the boy"
+  },
+  {
+   "id": "S01818",
+   "en": "Al, like a little brother to him, he stood firm."
+  },
+  {
+   "id": "S01819",
+   "en": "Unless the Gundam was destroyed,"
+  },
+  {
+   "id": "S01820",
+   "en": "a Zeon warship would fire"
+  },
+  {
+   "id": "S01821",
+   "en": "a nuke at this colony as planned -"
+  },
+  {
+   "id": "S01822",
+   "en": "and Bernie knew it."
+  },
+  {
+   "id": "S01823",
+   "en": "To protect the people of the colony,"
+  },
+  {
+   "id": "S01824",
+   "en": "for his own pride..."
+  },
+  {
+   "id": "S01825",
+   "en": "in the Zaku he and Al repaired together,"
+  },
+  {
+   "id": "S01826",
+   "en": "Bernie now sorties."
+  },
+  {
+   "id": "S01827",
+   "en": "Later to be called Operation Rubicon,",
+   "note": "modifies the next slice's first row (S01828, the Zeon raid on the Alex)"
+  }
+ ],
+ "decisions": [
+  "Narration tense follows the Japanese: past where the source is past, historic present where it is present (S01780-S01790, S01798-S01799, S01826).",
+  "Where English word order needs it, a phrase moves to the next row of the same sentence (S01752/S01754, S01775/S01776, S01813/S01814, S01819/S01822); no rows merged or split.",
+  "Glossary forms used: Federation Forces, Zeon forces, 08th MS Team, Cyclops Team, Aina Sakhalin, Ginias, Norris Packard, Christina Mackenzie, Chris, Bernie, Side 3, Side 6, Universal Century, Operation Rubicon.",
+  "Rows with long English lines (vs 2.4x JP guide): S01751, S01756, S01769, S01777, S01781, S01784, S01800, S01815, S01818 - orchestrator to measure."
+ ],
+ "uncertain": [
+  "S01761/S01787/S01788: Sakhalin used for the family name per glossary en (game romanizes Sahalim, wiki Sahalin) - confirm the family-name form matches Aina's surname project-wide.",
+  "S01766: shared row in two intros (0802 line 8, 0803 line 3); chose label form 'Mobile Armor \"Apsaras.\"' to fit both - check it reads well in 0802 after S01765's colon.",
+  "S01764/S01766/S01783: 'Apsaras' (base name) and 'Apsaras Project' not in glossary; glossary has Apsaras II/III and 'Apsaras development project'.",
+  "S01751: 'Kojima Battalion' not in glossary (Kojima attested on the official site).",
+  "S01778: 'Guntank' not in glossary; used the standard spelling.",
+  "S01792: wrote 'Libot' per glossary although the game's own subtitle reads 'Ribot'.",
+  "S01799: assault MS made singular (Kampfer) - JP does not mark number.",
+  "S01768: inferred that Aina's devotion is to her brother Ginias ('served him').",
+  "S01818: Al not in excerpt; used 'Al' (Alfred Izuruha, official site)."
+ ]
+}

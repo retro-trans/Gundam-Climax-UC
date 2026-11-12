@@ -1,0 +1,362 @@
+{
+ "slice": "history_01",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "S00684",
+   "en": "0059.11    Born in Japan\n\n0077.04    Entered the %s\n           Officer Academy\n\n0079.01    One Year War broke out\n\n0079.03    Graduated from the academy,\n           assigned as %s\n           to %s",
+   "note": "+2 lines (academy name wrapped; 'assigned as %s to %s' wrapped). %s order kept: 1st = role, 2nd = unit."
+  },
+  {
+   "id": "S00685",
+   "en": "0079.11    Fought in %s,\n           piloted %s,\n           downed %s and others,\n           %s enemy MS in total\n           %s ",
+   "note": "Battle template: %s order kept (operation, unit, named kill, count, extra)."
+  },
+  {
+   "id": "S00686",
+   "en": "0079.12    Fought in %s,\n           piloted %s,\n           downed %s and others,\n           %s enemy MS in total"
+  },
+  {
+   "id": "S00687",
+   "en": "0079.12    Fought in %s,\n           piloted %s,\n           downed %s and others,\n           %s enemy MS in total\n           %s   "
+  },
+  {
+   "id": "S00688",
+   "en": "0080.01    Earth Federation and\n           Republic of Zeon made peace\n           %s\n\n0083.10    Zeon remnant forces,\n           the Delaz Fleet, declared\n           war on the Federation Forces"
+  },
+  {
+   "id": "S00689",
+   "en": "0083.11    Fought in %s,\n           piloted %s,\n           downed %s and others,\n           %s enemy MS in total\n           %s   "
+  },
+  {
+   "id": "S00690",
+   "en": "0083.12    Delaz Conflict ended;\n           Titans were formed\n           %s\n\n0085.07    30 Bunch Incident;\n           AEUG was organized\n\n0087.05    AEUG attacked Jaburo,\n           Federation Forces HQ\n           %s   "
+  },
+  {
+   "id": "S00691",
+   "en": "%s    Fought in %s,\n           piloted %s,\n           downed %s and others,\n           %s enemy MS in total\n           %s   ",
+   "note": "First %s is the date."
+  },
+  {
+   "id": "S00692",
+   "en": "%s    Fought in %s,\n           piloted %s,\n           downed %s and others,\n           %s enemy MS in total\n\n0088.01    Axis destroyed Gate of Zedan,\n           occupied Gryps 2\n\n0088.02    AEUG, through\n           Operation Maelstrom,\n           seized Gryps 2",
+   "note": "Source separator '%s [sp][FW][sp] %s' normalized to 4 spaces like other rows; source 9 spaces + FW indent normalized to 11 spaces."
+  },
+  {
+   "id": "S00693",
+   "en": "0088.02    Fought in\n           %s,\n           piloted %s,\n           downed %s and others,\n           %s enemy MS in total\n           %s   ",
+   "note": "Operation name stays on its own line, as in the source."
+  },
+  {
+   "id": "S00694",
+   "en": "0088.02    Titans collapsed;\n           Axis declared Zeon's revival\n           In the final stage of the\n           Gryps Conflict, Kamuna was\n           wounded; went to recuperate\n\n0088.08    Haman occupied Dakar\n\n0088.10    Colony dropped on Dublin\n\n0088.12    Kamuna returned to the front\n           %s",
+   "note": "+1 line: 'final stage of the Gryps Conflict / Kamuna wounded, to recuperation' needs 3 lines in English."
+  },
+  {
+   "id": "S00695",
+   "en": "0089.01    Fought in %s,\n           piloted %s,\n           downed %s and others,\n           %s enemy MS in total\n           %s\n   \n0089.01    AEUG secured Core 3;\n           First Neo Zeon War ended\n           %s",
+   "note": "Blank-looking line '[FW][sp]' kept as 3 ASCII spaces."
+  },
+  {
+   "id": "S00696",
+   "en": "\n0092.12    Char's Neo Zeon rose up,\n           seized Sweetwater\n           %s\n\n0093.03    Neo Zeon dropped Fifth Luna\n           on Lhasa, Earth Federation HQ"
+  },
+  {
+   "id": "S00697",
+   "en": "0093.03    Fought in %s,\n           piloted %s,\n           downed %s and others,\n           %s enemy MS in total\n           %s "
+  },
+  {
+   "id": "S00698",
+   "en": "\n0093.03    Second Neo Zeon War ended\n           %s"
+  },
+  {
+   "id": "S00699",
+   "en": "0093.08    Married %s\n           \n\n0103.11    %s was born\n\n0095\n-0129\n           %s",
+   "note": "Empty 11-space line kept; '~' range mark written as '-'."
+  },
+  {
+   "id": "S00700",
+   "en": "0122.10    Fought in %s,\n           piloted %s,\n           downed %s and others,\n           %s enemy MS in total\n           %s    "
+  },
+  {
+   "id": "S00701",
+   "en": "%s    Fought in %s,\n           piloted %s,\n           downed %s and others,\n           %s enemy MS in total\n           %s",
+   "note": "First %s is the date."
+  },
+  {
+   "id": "S00702",
+   "en": "0123.03    Fought in %s,\n           piloted %s,\n           downed %s and others,\n           %s enemy MS in total\n           %s   "
+  },
+  {
+   "id": "S00703",
+   "en": "0127.10    Berah Ronah's speech:\n           the Crossbone Vanguard\n           effectively collapsed\n           %s\n\n%s"
+  },
+  {
+   "id": "S00704",
+   "en": "0133.08    Fought to intercept the\n           Jupiter Empire,\n           piloted %s,\n           downed F91 and others,\n           %s enemy MS in total\n           %s   ",
+   "note": "+1 line (interception line wrapped). 'F91' is hard-coded in the source as the named kill."
+  },
+  {
+   "id": "S00705",
+   "en": "0134.08    Helped destroy the\n           Jupiter Empire",
+   "note": "+1 line (wrapped)."
+  },
+  {
+   "id": "S00706",
+   "en": "Kamuna Tachibana%s",
+   "note": "%s appended with no space, as in the source (likely a suffix/variant tag)."
+  },
+  {
+   "id": "S00707",
+   "en": "U.C.0059-0132"
+  },
+  {
+   "id": "S00708",
+   "en": "Final Record\n%s"
+  },
+  {
+   "id": "S00709",
+   "en": "U.C.0103-",
+   "note": "Open-ended range kept open."
+  },
+  {
+   "id": "S00710",
+   "en": "Rank\n  %s",
+   "note": "Indent FW space kept as 2 ASCII spaces (indent under label, not centring)."
+  },
+  {
+   "id": "S00711",
+   "en": "To Main Menu"
+  },
+  {
+   "id": "S00712",
+   "en": "Switch Parent/Child",
+   "note": "Toggles between parent and child generation records."
+  },
+  {
+   "id": "S00713",
+   "en": "Next"
+  },
+  {
+   "id": "S00714",
+   "en": "Back"
+  },
+  {
+   "id": "S00715",
+   "en": "chAmuro Ray",
+   "note": "'ch' prefix kept as-is (looks like a selector/internal prefix)."
+  },
+  {
+   "id": "S00716",
+   "en": "chKai Shiden"
+  },
+  {
+   "id": "S00717",
+   "en": "chHayato Kobayashi"
+  },
+  {
+   "id": "S00718",
+   "en": "chChar Aznable"
+  },
+  {
+   "id": "S00719",
+   "en": "chDozle Zabi"
+  },
+  {
+   "id": "S00720",
+   "en": "chShiro Amada"
+  },
+  {
+   "id": "S00721",
+   "en": "chKaren Joshua"
+  },
+  {
+   "id": "S00722",
+   "en": "chTerry Sanders Jr."
+  },
+  {
+   "id": "S00723",
+   "en": "chAina Sakhalin"
+  },
+  {
+   "id": "S00724",
+   "en": "chNorris Packard"
+  },
+  {
+   "id": "S00725",
+   "en": "chChristina Mackenzie"
+  },
+  {
+   "id": "S00726",
+   "en": "chBernard Wiseman"
+  },
+  {
+   "id": "S00727",
+   "en": "chKou Uraki"
+  },
+  {
+   "id": "S00728",
+   "en": "chSouth Burning"
+  },
+  {
+   "id": "S00729",
+   "en": "chAnavel Gato"
+  },
+  {
+   "id": "S00730",
+   "en": "chCima Garahau"
+  },
+  {
+   "id": "S00731",
+   "en": "chKamille Bidan"
+  },
+  {
+   "id": "S00732",
+   "en": "chQuattro Bajeena"
+  },
+  {
+   "id": "S00733",
+   "en": "chEmma Sheen"
+  },
+  {
+   "id": "S00734",
+   "en": "chAmuro Ray (Z)"
+  },
+  {
+   "id": "S00735",
+   "en": "chJerid Messa"
+  },
+  {
+   "id": "S00736",
+   "en": "chFour Murasame"
+  },
+  {
+   "id": "S00737",
+   "en": "chPaptimus Scirocco",
+   "note": "Source spells it paputimasu (glossary key is paputemasu); same character."
+  },
+  {
+   "id": "S00738",
+   "en": "chBuran Blutarch"
+  },
+  {
+   "id": "S00739",
+   "en": "chYazan Gable"
+  },
+  {
+   "id": "S00740",
+   "en": "chHaman Karn"
+  },
+  {
+   "id": "S00741",
+   "en": "chJudau Ashta"
+  },
+  {
+   "id": "S00742",
+   "en": "chRoux Louka"
+  },
+  {
+   "id": "S00743",
+   "en": "chHaman Karn (ZZ)"
+  },
+  {
+   "id": "S00744",
+   "en": "chElpeo Ple"
+  },
+  {
+   "id": "S00745",
+   "en": "chPle-Two"
+  },
+  {
+   "id": "S00746",
+   "en": "chMashymre Cello"
+  },
+  {
+   "id": "S00747",
+   "en": "chRakan Dahkaran"
+  },
+  {
+   "id": "S00748",
+   "en": "chGlemy Toto"
+  },
+  {
+   "id": "S00749",
+   "en": "chAmuro Ray (CCA)"
+  },
+  {
+   "id": "S00750",
+   "en": "chKayra Su"
+  },
+  {
+   "id": "S00751",
+   "en": "chChar Aznable (CCA)"
+  },
+  {
+   "id": "S00752",
+   "en": "chQuess Paraya"
+  },
+  {
+   "id": "S00753",
+   "en": "chGyunei Guss"
+  },
+  {
+   "id": "S00754",
+   "en": "chRezin Schnyder"
+  },
+  {
+   "id": "S00755",
+   "en": "chSeabook Arno"
+  },
+  {
+   "id": "S00756",
+   "en": "chCecily Fairchild"
+  },
+  {
+   "id": "S00757",
+   "en": "chZabine Chareux"
+  },
+  {
+   "id": "S00758",
+   "en": "chCarozzo Ronah"
+  },
+  {
+   "id": "S00759",
+   "en": "chDorel Ronah"
+  },
+  {
+   "id": "S00760",
+   "en": "chKincade Nau"
+  },
+  {
+   "id": "S00761",
+   "en": "chTobia Arronax"
+  },
+  {
+   "id": "S00762",
+   "en": "chZabine Chareux (XV)",
+   "note": "Source tag is XV (glossary entry has XB); kept the tag as written."
+  },
+  {
+   "id": "S00763",
+   "en": "chSoldier A (Federation)"
+  }
+ ],
+ "decisions": [
+  "Timeline layout: the two full-width spaces after each date became 4 ASCII spaces, and continuation lines keep the 11-space indent, so text stays aligned in a column (7-char date + 4 = 11). Trailing full-width padding converted to 2 ASCII spaces each.",
+  "All %s kept in source order (printf-style, cannot be reordered); English phrasing built around that order.",
+  "Battle template (%s ni sanka / %s ni toujou / %s hoka / teki MS %s ki gekiha) -> 'Fought in %s / piloted %s, / downed %s and others, / %s enemy MS in total'.",
+  "Past tense throughout for both the pilot's career and world events.",
+  "Name rows: 'ch' prefix kept, glossary 'en' spellings used."
+ ],
+ "uncertain": [
+  "S00684: what the first %s holds (faction name?) - wrote 'Entered the %s / Officer Academy'; if %s is already a full school name the 'Officer Academy' line would duplicate it.",
+  "S00704: source hard-codes F91 as the named kill in the Jupiter Empire battle; translated literally ('downed F91 and others').",
+  "S00706: '%s' directly after the name with no space - kept as is; unclear if it is a variant tag like ' (Gentle)'.",
+  "S00708: saishuu keireki rendered 'Final Record' (could also be 'Final Career'/'Final Post').",
+  "S00712: oya/ko kirikae rendered 'Switch Parent/Child' (generation toggle) - inferred from Progress Mode family records.",
+  "S00715-S00763: assumed the 'ch' prefix is internal and left it; if it is shown to players it should be dropped.",
+  "S00762: source has (XV), glossary entry has (XB); kept (XV).",
+  "Line counts increased in S00684 (+2), S00694 (+1), S00704 (+1), S00705 (+1); orchestrator should check the vertical fit."
+ ]
+}

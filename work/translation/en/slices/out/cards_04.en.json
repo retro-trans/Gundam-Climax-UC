@@ -1,0 +1,761 @@
+{
+ "slice": "cards_04",
+ "rows_in_slice": 105,
+ "rows_examined": 105,
+ "rows": [
+  {
+   "id": "M-47",
+   "name_en": "Battle on the Moon (Jerid)",
+   "label_en": "M47 Battle on the Moon (Jerid)",
+   "model_en": "",
+   "desc_en": ""
+  },
+  {
+   "id": "M-48",
+   "name_en": "Shuttle Launch",
+   "label_en": "M48 Shuttle Launch",
+   "model_en": "",
+   "desc_en": ""
+  },
+  {
+   "id": "M-49",
+   "name_en": "Through the White Darkness",
+   "label_en": "M49 Through the White Darkness",
+   "model_en": "",
+   "desc_en": ""
+  },
+  {
+   "id": "M-50",
+   "name_en": "Hong Kong City (Kamille)",
+   "label_en": "M50 Hong Kong City (Kamille)",
+   "model_en": "",
+   "desc_en": "",
+   "note": "No briefing title 'Hong Kong City' exists; literal place name."
+  },
+  {
+   "id": "M-51",
+   "name_en": "Hong Kong City (Four)",
+   "label_en": "M51 Hong Kong City (Four)",
+   "model_en": "",
+   "desc_en": "",
+   "note": "No briefing title 'Hong Kong City' exists; literal place name."
+  },
+  {
+   "id": "M-52",
+   "name_en": "Four Forever (Kamille)",
+   "label_en": "M52 Four Forever (Kamille)",
+   "model_en": "",
+   "desc_en": ""
+  },
+  {
+   "id": "M-53",
+   "name_en": "Four Forever (Four)",
+   "label_en": "M53 Four Forever (Four)",
+   "model_en": "",
+   "desc_en": ""
+  },
+  {
+   "id": "M-54",
+   "name_en": "Vortex of Space (Kamille)",
+   "label_en": "M54 Vortex of Space (Kamille)",
+   "model_en": "",
+   "desc_en": ""
+  },
+  {
+   "id": "M-55",
+   "name_en": "Vortex of Space (Haman)",
+   "label_en": "M55 Vortex of Space (Haman)",
+   "model_en": "",
+   "desc_en": ""
+  },
+  {
+   "id": "M-56",
+   "name_en": "Racing Through Space (Kamille)",
+   "label_en": "M56 Racing Through Space (Kamille)",
+   "model_en": "",
+   "desc_en": ""
+  },
+  {
+   "id": "M-57",
+   "name_en": "Racing Through Space (Scirocco)",
+   "label_en": "M57 Racing Through Space (Scirocco)",
+   "model_en": "",
+   "desc_en": ""
+  },
+  {
+   "id": "M-58",
+   "name_en": "Racing Through Space (Haman)",
+   "label_en": "M58 Racing Through Space (Haman)",
+   "model_en": "",
+   "desc_en": ""
+  },
+  {
+   "id": "M-59",
+   "name_en": "The Burning Earth (Judau)",
+   "label_en": "M59 The Burning Earth (Judau)",
+   "model_en": "",
+   "desc_en": ""
+  },
+  {
+   "id": "M-60",
+   "name_en": "The Burning Earth (Ple)",
+   "label_en": "M60 The Burning Earth (Ple)",
+   "model_en": "",
+   "desc_en": ""
+  },
+  {
+   "id": "M-61",
+   "name_en": "The Fall of Emary",
+   "label_en": "M61 The Fall of Emary",
+   "model_en": "",
+   "desc_en": ""
+  },
+  {
+   "id": "M-62",
+   "name_en": "Battle at Axis",
+   "label_en": "M62 Battle at Axis",
+   "model_en": "",
+   "desc_en": ""
+  },
+  {
+   "id": "M-63",
+   "name_en": "Vibration",
+   "label_en": "M63 Vibration",
+   "model_en": "",
+   "desc_en": ""
+  },
+  {
+   "id": "M-64",
+   "name_en": "Warrior, Once Again (Judau)",
+   "label_en": "M64 Warrior, Once Again (Judau)",
+   "model_en": "",
+   "desc_en": ""
+  },
+  {
+   "id": "M-65",
+   "name_en": "Warrior, Once Again (Haman)",
+   "label_en": "M65 Warrior, Once Again (Haman)",
+   "model_en": "",
+   "desc_en": ""
+  },
+  {
+   "id": "M-66",
+   "name_en": "Destiny (Amuro)",
+   "label_en": "M66 Destiny (Amuro)",
+   "model_en": "",
+   "desc_en": ""
+  },
+  {
+   "id": "M-67",
+   "name_en": "Destiny (Char)",
+   "label_en": "M67 Destiny (Char)",
+   "model_en": "",
+   "desc_en": ""
+  },
+  {
+   "id": "M-68",
+   "name_en": "Char's Counterattack (Amuro)",
+   "label_en": "M68 Char's Counterattack (Amuro)",
+   "model_en": "",
+   "desc_en": ""
+  },
+  {
+   "id": "M-69",
+   "name_en": "Char's Counterattack (Char)",
+   "label_en": "M69 Char's Counterattack (Char)",
+   "model_en": "",
+   "desc_en": ""
+  },
+  {
+   "id": "M-70",
+   "name_en": "The Formula Sorties",
+   "label_en": "M70 The Formula Sorties",
+   "model_en": "",
+   "desc_en": ""
+  },
+  {
+   "id": "M-71",
+   "name_en": "Black Vanguard (Seabook)",
+   "label_en": "M71 Black Vanguard (Seabook)",
+   "model_en": "",
+   "desc_en": ""
+  },
+  {
+   "id": "M-72",
+   "name_en": "Black Vanguard (Zabine)",
+   "label_en": "M72 Black Vanguard (Zabine)",
+   "model_en": "",
+   "desc_en": ""
+  },
+  {
+   "id": "M-73",
+   "name_en": "Eternal Wind",
+   "label_en": "M73 Eternal Wind",
+   "model_en": "",
+   "desc_en": ""
+  },
+  {
+   "id": "M-74",
+   "name_en": "Final Stage",
+   "label_en": "M74 Final Stage",
+   "model_en": "",
+   "desc_en": ""
+  },
+  {
+   "id": "M-75",
+   "name_en": "Defense of Jaburo",
+   "label_en": "M75 Defense of Jaburo",
+   "model_en": "",
+   "desc_en": ""
+  },
+  {
+   "id": "M-76",
+   "name_en": "Battle of Jaburo",
+   "label_en": "M76 Battle of Jaburo",
+   "model_en": "",
+   "desc_en": ""
+  },
+  {
+   "id": "M-77",
+   "name_en": "Showdown at A Baoa Qu",
+   "label_en": "M77 Showdown at A Baoa Qu",
+   "model_en": "",
+   "desc_en": ""
+  },
+  {
+   "id": "M-78",
+   "name_en": "Battle of A Baoa Qu",
+   "label_en": "M78 Battle of A Baoa Qu",
+   "model_en": "",
+   "desc_en": ""
+  },
+  {
+   "id": "M-79",
+   "name_en": "Stop Operation Stardust",
+   "label_en": "M79 Stop Operation Stardust",
+   "model_en": "",
+   "desc_en": ""
+  },
+  {
+   "id": "M-80",
+   "name_en": "Codename: \"Stardust\"",
+   "label_en": "M80 Codename: \"Stardust\"",
+   "model_en": "",
+   "desc_en": ""
+  },
+  {
+   "id": "M-81",
+   "name_en": "Shuttle Defense",
+   "label_en": "M81 Shuttle Defense",
+   "model_en": "",
+   "desc_en": ""
+  },
+  {
+   "id": "M-82",
+   "name_en": "Battle for Hong Kong City",
+   "label_en": "M82 Battle for Hong Kong City",
+   "model_en": "",
+   "desc_en": ""
+  },
+  {
+   "id": "M-83",
+   "name_en": "Support the Earthbound Uprising",
+   "label_en": "M83 Support the Earthbound Uprising",
+   "model_en": "",
+   "desc_en": ""
+  },
+  {
+   "id": "M-84",
+   "name_en": "Colony Laser Defense",
+   "label_en": "M84 Colony Laser Defense",
+   "model_en": "",
+   "desc_en": ""
+  },
+  {
+   "id": "M-85",
+   "name_en": "Retake the Colony Laser",
+   "label_en": "M85 Retake the Colony Laser",
+   "model_en": "",
+   "desc_en": ""
+  },
+  {
+   "id": "M-86",
+   "name_en": "Showdown! The Three Powers",
+   "label_en": "M86 Showdown! The Three Powers",
+   "model_en": "",
+   "desc_en": ""
+  },
+  {
+   "id": "M-87",
+   "name_en": "Showdown at Core 3",
+   "label_en": "M87 Showdown at Core 3",
+   "model_en": "",
+   "desc_en": ""
+  },
+  {
+   "id": "M-88",
+   "name_en": "Crush the Rebel Army",
+   "label_en": "M88 Crush the Rebel Army",
+   "model_en": "",
+   "desc_en": ""
+  },
+  {
+   "id": "M-89",
+   "name_en": "Stop the Axis Drop",
+   "label_en": "M89 Stop the Axis Drop",
+   "model_en": "",
+   "desc_en": ""
+  },
+  {
+   "id": "M-90",
+   "name_en": "Operation Earth Cooling",
+   "label_en": "M90 Operation Earth Cooling",
+   "model_en": "",
+   "desc_en": ""
+  },
+  {
+   "id": "M-91",
+   "name_en": "Intercept the Mystery Small MS",
+   "label_en": "M91 Intercept the Mystery Small MS",
+   "model_en": "",
+   "desc_en": ""
+  },
+  {
+   "id": "M-92",
+   "name_en": "Seize the Resource Base",
+   "label_en": "M92 Seize the Resource Base",
+   "model_en": "",
+   "desc_en": ""
+  },
+  {
+   "id": "M-93",
+   "name_en": "Clash with the Crossbone Elite",
+   "label_en": "M93 Clash with the Crossbone Elite",
+   "model_en": "",
+   "desc_en": ""
+  },
+  {
+   "id": "M-94",
+   "name_en": "Battle for Frontier",
+   "label_en": "M94 Battle for Frontier",
+   "model_en": "",
+   "desc_en": "",
+   "note": "JP lacks the 'I' of briefing S00332 ('Battle for Frontier I'); kept literal 'Frontier'."
+  },
+  {
+   "id": "M-95",
+   "name_en": "Under the Pirate Flag",
+   "label_en": "M95 Under the Pirate Flag",
+   "model_en": "",
+   "desc_en": ""
+  },
+  {
+   "id": "S-01",
+   "name_en": "Into the Atmosphere",
+   "label_en": "S01 Into the Atmosphere",
+   "model_en": "An area in Earth orbit.",
+   "desc_en": ""
+  },
+  {
+   "id": "S-02",
+   "name_en": "Solomon",
+   "label_en": "S02 Solomon",
+   "model_en": "The space around the fortress Solomon.",
+   "desc_en": ""
+  },
+  {
+   "id": "S-03",
+   "name_en": "A Baoa Qu",
+   "label_en": "S03 A Baoa Qu",
+   "model_en": "The space around the fortress A Baoa Qu.",
+   "desc_en": ""
+  },
+  {
+   "id": "S-04",
+   "name_en": "Colony Drop",
+   "label_en": "S04 Colony Drop",
+   "model_en": "The colony Island Easc has begun to fall in",
+   "desc_en": "Earth orbit.",
+   "note": "Island Easc not in glossary - see uncertain."
+  },
+  {
+   "id": "S-05",
+   "name_en": "Colony Cluster",
+   "label_en": "S05 Colony Cluster",
+   "model_en": "The space around the Frontier Side.",
+   "desc_en": ""
+  },
+  {
+   "id": "S-06",
+   "name_en": "Colony Laser",
+   "label_en": "S06 Colony Laser",
+   "model_en": "The space near the Gryps 2 colony laser.",
+   "desc_en": ""
+  },
+  {
+   "id": "S-07",
+   "name_en": "Jupitris",
+   "label_en": "S07 Jupitris",
+   "model_en": "The space around the Jupiter transport ship",
+   "desc_en": "Jupitris."
+  },
+  {
+   "id": "S-08",
+   "name_en": "Wreckage",
+   "label_en": "S08 Wreckage",
+   "model_en": "Inside the wreckage of a battleship.",
+   "desc_en": ""
+  },
+  {
+   "id": "S-09",
+   "name_en": "La Vie en Rose",
+   "label_en": "S09 La Vie en Rose",
+   "model_en": "The space around the dock ship",
+   "desc_en": "La Vie en Rose."
+  },
+  {
+   "id": "S-10",
+   "name_en": "Core 3",
+   "label_en": "S10 Core 3",
+   "model_en": "Inside Core 3, a colony of Side 3.",
+   "desc_en": ""
+  },
+  {
+   "id": "S-11",
+   "name_en": "Fifth Luna",
+   "label_en": "S11 Fifth Luna",
+   "model_en": "Near the surface of the resource satellite",
+   "desc_en": "Fifth Luna."
+  },
+  {
+   "id": "S-12",
+   "name_en": "Axis",
+   "label_en": "S12 Axis",
+   "model_en": "In Earth orbit, during the Axis drop.",
+   "desc_en": ""
+  },
+  {
+   "id": "S-13",
+   "name_en": "Jaburo Surface",
+   "label_en": "S13 Jaburo Surface",
+   "model_en": "The surface area of Jaburo, South America.",
+   "desc_en": ""
+  },
+  {
+   "id": "S-14",
+   "name_en": "Arid Canyon",
+   "label_en": "S14 Arid Canyon",
+   "model_en": "A canyon area in an arid region.",
+   "desc_en": ""
+  },
+  {
+   "id": "S-15",
+   "name_en": "Ruined City",
+   "label_en": "S15 Ruined City",
+   "model_en": "A ruined city area in the Asia region.",
+   "desc_en": ""
+  },
+  {
+   "id": "S-16",
+   "name_en": "Inside Colony - Libot Federation Base",
+   "label_en": "S16 Libot Federation Base",
+   "model_en": "A base in the Libot colony, Side 6.",
+   "desc_en": ""
+  },
+  {
+   "id": "S-17",
+   "name_en": "Inside Colony - Mountains",
+   "label_en": "S17 Mountains",
+   "model_en": "Mountain area of the Libot colony, Side 6.",
+   "desc_en": ""
+  },
+  {
+   "id": "S-18",
+   "name_en": "Inside Colony - Green Noa Fed. Base",
+   "label_en": "S18 Green Noa Federation Base",
+   "model_en": "Inside the colony Green Noa 1.",
+   "desc_en": ""
+  },
+  {
+   "id": "S-19",
+   "name_en": "Inside Colony - Frontier I",
+   "label_en": "S19 Frontier I",
+   "model_en": "The forest area inside Frontier I.",
+   "desc_en": ""
+  },
+  {
+   "id": "S-20",
+   "name_en": "Lunar Surface",
+   "label_en": "S20 Lunar Surface",
+   "model_en": "The wasteland near the lunar city of Amman.",
+   "desc_en": ""
+  },
+  {
+   "id": "S-21",
+   "name_en": "Kennedy Spaceport",
+   "label_en": "S21 Kennedy Spaceport",
+   "model_en": "Kennedy Spaceport, North America.",
+   "desc_en": ""
+  },
+  {
+   "id": "S-22",
+   "name_en": "Hong Kong City",
+   "label_en": "S22 Hong Kong City",
+   "model_en": "Hong Kong City at night.",
+   "desc_en": ""
+  },
+  {
+   "id": "S-23",
+   "name_en": "Inside Axis",
+   "label_en": "S23 Inside Axis",
+   "model_en": "The urban area inside Axis.",
+   "desc_en": ""
+  },
+  {
+   "id": "S-24",
+   "name_en": "In the Air - Hickory",
+   "label_en": "S24 In the Air - Hickory",
+   "model_en": "The skies above Hickory, North America.",
+   "desc_en": ""
+  },
+  {
+   "id": "S-25",
+   "name_en": "In the Air - Snowy Mountain",
+   "label_en": "S25 In the Air - Snowy Mountain",
+   "model_en": "The skies above Kilimanjaro, Africa.",
+   "desc_en": ""
+  },
+  {
+   "id": "S-26",
+   "name_en": "In the Air - Colony",
+   "label_en": "S26 In the Air - Colony",
+   "model_en": "The skies inside Frontier I.",
+   "desc_en": ""
+  },
+  {
+   "id": "H-01",
+   "name_en": "One Year War",
+   "label_en": "H01 One Year War",
+   "model_en": "Side 3, the colony farthest from Earth,",
+   "desc_en": "named itself the Principality of Zeon and waged a war of independence on the Earth Fed. Govt. Named for lasting about a year, it saw new tactics such as MS and colony drops upend old ideas of war, and the Earth Sphere lost about half its population."
+  },
+  {
+   "id": "H-02",
+   "name_en": "Operation V",
+   "label_en": "H02 Operation V",
+   "model_en": "A Federation Forces plan to develop mobile",
+   "desc_en": "suits to counter Zeon. Its aim was to build prototypes - the support-type Guntank and Guncannon and the general-purpose Gundam - and run operational tests toward mass production. In practice, it was completed once GM mass production got on track."
+  },
+  {
+   "id": "H-03",
+   "name_en": "Operation Odessa",
+   "label_en": "H03 Operation Odessa",
+   "model_en": "The Fed. Forces' first major counterattack",
+   "desc_en": "of the One Year War. Seizing on Garma Zabi's death in N. America, they planned to retake Odessa in Europe, Zeon's most vital base left on Earth. Aided by White Base, the Fed. won, and Zeon's ground forces fell into dire straits."
+  },
+  {
+   "id": "H-04",
+   "name_en": "Battle of Jaburo",
+   "label_en": "H04 Battle of Jaburo",
+   "model_en": "Zeon's plan to strike Jaburo, the Fed.",
+   "desc_en": "Forces HQ, directly. By tailing White Base, Char Aznable located Jaburo's entrance. Zeon aimed for a two-front attack: saboteurs inside, bombing and airdrop units outside. But flawed sabotage and a lack of forces made the operation fail."
+  },
+  {
+   "id": "H-05",
+   "name_en": "Operation Star One",
+   "label_en": "H05 Operation Star One",
+   "model_en": "Fed. commander Gen. Revil led the fleet",
+   "desc_en": "himself to break through A Baoa Qu, the fortress on Zeon's last defense line, and invade Side 3 itself. But Zeon's secret weapon, the Solar Ray, killed Revil. Chaos followed, but Zabi infighting made Zeon self-destruct, ending the One Year War."
+  },
+  {
+   "id": "H-06",
+   "name_en": "Apsaras Development Project",
+   "label_en": "H06 Apsaras Development Project",
+   "model_en": "A plan to build a flying mobile armor with",
+   "desc_en": "a powerful mega particle cannon to attack Fed. bases. Led by Ginius Sakhalin, research and tests took place in Asia. After trials of the test units Apsaras I and II, Apsaras III wiped out a Fed. base in combat, but was destroyed by the Ez8.",
+   "note": "JP writes Ez8 (the Gundam Ez8)."
+  },
+  {
+   "id": "H-07",
+   "name_en": "Operation Rubicon",
+   "label_en": "H07 Operation Rubicon",
+   "model_en": "A Zeon plan to steal a Gundam after",
+   "desc_en": "learning of a new Fed. Gundam project. Special forces Cyclops Team tried twice, in Antarctica and at Side 6, and failed. Desperate, Cmdr. Killing plotted a nuclear strike to destroy the Gundam, colony and all, but the Fed. stopped it just in time."
+  },
+  {
+   "id": "H-08",
+   "name_en": "Delaz Conflict - Operation Stardust -",
+   "label_en": "H08 Delaz Conflict - Operation Stardust -",
+   "model_en": "A conflict started in U.C. 0083 by the",
+   "desc_en": "Delaz Fleet, a Zeon remnant force. It aimed to drop a colony on Earth to hit its food supply, making Earth more dependent on space for food and turning Federation eyes to space. The operation succeeded, but led to the rise of the Titans."
+  },
+  {
+   "id": "H-09",
+   "name_en": "Theft of the Gundam GP02",
+   "label_en": "H09 Theft of the Gundam GP02",
+   "model_en": "Phase one of the Delaz Fleet's Operation",
+   "desc_en": "Stardust. Major Anavel Gato stole the Gundam GP02 as it was moved to Australia, joined the Zeon remnant forces in Africa, and carried it off into space. The GP02 was armed with a nuclear warhead, later used to attack the Naval Review."
+  },
+  {
+   "id": "H-10",
+   "name_en": "Assault on the Naval Review",
+   "label_en": "H10 Assault on the Naval Review",
+   "model_en": "Phase two of the Delaz Fleet's Operation",
+   "desc_en": "Stardust: an attack on the Naval Review at Konpei Island (formerly Solomon) with the stolen GP02's nuclear warhead, to cut Fed. strength in space and pave the way for the colony drop, the main Stardust operation. The Fed. fleet took a heavy blow."
+  },
+  {
+   "id": "H-11",
+   "name_en": "Formation of the Titans",
+   "label_en": "H11 Formation of the Titans",
+   "model_en": "Exploiting the turmoil of the Delaz",
+   "desc_en": "Conflict, radical Fed. official Jamitov Hymen managed to found the Titans, an elite force created in the name of \"hunting Zeon remnants.\" The Titans' leaders, centered on Bask Om, were prejudiced against Spacenoids and oppressed them."
+  },
+  {
+   "id": "H-12",
+   "name_en": "Gryps Conflict",
+   "label_en": "H12 Gryps Conflict",
+   "model_en": "The AEUG formed to resist the Titans'",
+   "desc_en": "oppression of Spacenoids. Axis, a Zeon remnant force, then joined the fight, making it three-way. The period from the Gundam Mk-II theft to the Titans' defeat is called the Gryps Conflict. Gryps is a colony converted into a laser cannon."
+  },
+  {
+   "id": "H-13",
+   "name_en": "30 Bunch Incident",
+   "label_en": "H13 30 Bunch Incident",
+   "model_en": "In U.C. 0085, when residents of the 30",
+   "desc_en": "Bunch colony in Side 1 staged an anti-Federation demonstration, the Titans gassed the colony, massacring 15 million residents. A media blackout kept it secret, but anti-Titans voices grew in the Fed. Forces, sparking the AEUG's founding."
+  },
+  {
+   "id": "H-14",
+   "name_en": "Second Battle of Jaburo",
+   "label_en": "H14 Second Battle of Jaburo",
+   "model_en": "An AEUG attack on the Fed. HQ. The plan was",
+   "desc_en": "to drop MS from outside the atmosphere and seize Jaburo directly, but the Titans had set a trap to wipe out the AEUG forces with a nuclear bomb. The AEUG units sensed it and escaped, so neither side gained much from the operation."
+  },
+  {
+   "id": "H-15",
+   "name_en": "Axis Returns to the Earth Sphere",
+   "label_en": "H15 Axis Returns to the Earth Sphere",
+   "model_en": "Exploiting the AEUG-Titans strife, Axis,",
+   "desc_en": "the largest Zeon remnant force, led by Haman Karn, returned to the Earth Sphere. After 7 years building up in the Asteroid Belt, Axis held its forces back in the Gryps Conflict, using shrewd maneuvering to drive the Titans to collapse."
+  },
+  {
+   "id": "H-16",
+   "name_en": "Hong Kong City Attack",
+   "label_en": "H16 Hong Kong City Attack",
+   "model_en": "The Titans kept pursuing the Audhumla",
+   "desc_en": "(AEUG-Karaba alliance) after it went from N. America to Hong Kong to resupply. Their reinforcements: the Psycho Gundam and its pilot, Cyber Newtype Four Murasame. The Psycho Gundam fought a street battle in Hong Kong City, causing heavy damage."
+  },
+  {
+   "id": "H-17",
+   "name_en": "Operation Apollo",
+   "label_en": "H17 Operation Apollo",
+   "model_en": "The Titans moved to seize the lunar city of",
+   "desc_en": "Von Braun, to gain a base for attacking Granada, the AEUG's lunar HQ, and to flaunt their power to the Fed. Assembly so a bill expanding their authority would pass. The takeover succeeded at first, but the AEUG's efforts won the city back.",
+   "note": "Translated as written (JP calls Granada the AEUG's lunar base)."
+  },
+  {
+   "id": "H-18",
+   "name_en": "Assassination of Brigadier General Blex",
+   "label_en": "H18 Assassination of Brigadier General Blex",
+   "model_en": "A bill to maximize the Titans' power went",
+   "desc_en": "before the Fed. Assembly. The AEUG's Brig. Gen. Blex attended the assembly to block it, planning to expose the Titans' atrocities. But the Titans assassinated Blex at the hotel where he was staying, and as a result the bill was passed."
+  },
+  {
+   "id": "H-19",
+   "name_en": "Attack on Kilimanjaro",
+   "label_en": "H19 Attack on Kilimanjaro",
+   "model_en": "An attack on Kilimanjaro base, the Titans'",
+   "desc_en": "largest stronghold on Earth. Led by Karaba, with the Argama joining in, a lightning strike captured the base. Titans Supreme Commander Jamitov was at Kilimanjaro at the time, but escaped into space under the Psycho Gundam's escort."
+  },
+  {
+   "id": "H-20",
+   "name_en": "Seizure of the Dakar Assembly",
+   "label_en": "H20 Seizure of the Dakar Assembly",
+   "model_en": "Gaining the upper hand in the fighting on",
+   "desc_en": "Earth, the AEUG and Karaba moved to seize the assembly in Dakar. There, the AEUG's Quattro Bajeena revealed he was Char Aznable and denounced the Titans' tyranny to the world. The speech swung public opinion strongly toward the AEUG."
+  },
+  {
+   "id": "H-21",
+   "name_en": "Operation Maelstrom",
+   "label_en": "H21 Operation Maelstrom",
+   "model_en": "Amid the chaos after Jamitov's",
+   "desc_en": "assassination, Axis took the Gryps 2 colony laser from the Titans, and the AEUG planned to retake it. Maelstrom refers to five fleets advancing as if drawing a whirlpool. The operation succeeded and also stopped the Axis drop on Granada."
+  },
+  {
+   "id": "H-22",
+   "name_en": "First Neo Zeon War",
+   "label_en": "H22 First Neo Zeon War",
+   "model_en": "The Gryps Conflict ended with the Titans'",
+   "desc_en": "destruction, but Haman's Axis still had ample forces left. Declaring the revival of Zeon, it renamed itself \"Neo Zeon.\" The weakened Earth Federation and AEUG could not stop Neo Zeon's invasion, and war broke out once again, lasting about a year."
+  },
+  {
+   "id": "H-23",
+   "name_en": "Capture of Dakar",
+   "label_en": "H23 Capture of Dakar",
+   "model_en": "Haman's Neo Zeon forces sent descent units",
+   "desc_en": "to conquer Earth. Their very first target was Dakar, seat of the Fed. Assembly. Fearing Haman's power, Federation lawmakers recognized the restoration of the Zabi family for the sake of peace, and handed Side 3 over to Neo Zeon."
+  },
+  {
+   "id": "H-24",
+   "name_en": "Destruction of Dublin",
+   "label_en": "H24 Destruction of Dublin",
+   "model_en": "Blocked at Dakar from winning recognition",
+   "desc_en": "of Neo Zeon as a nation, Haman launched her next plan: a colony drop on Dublin to show off Neo Zeon's power. Some top Fed. officials suppressed the information, hoping to use it to cut Earth's population. It caused a massive death toll.",
+   "note": "Haman is female (glossary), so 'her'."
+  },
+  {
+   "id": "H-25",
+   "name_en": "Glemy's Rebellion",
+   "label_en": "H25 Glemy's Rebellion",
+   "model_en": "Glemy Toto, a commander leading troops,",
+   "desc_en": "suddenly seized Axis, declared to Haman that he was Zeon's rightful heir, and rebelled. This split Neo Zeon in two. Caught between Haman and the AEUG (Nahel Argama), Glemy's forces were worn down, and he himself fell in battle."
+  },
+  {
+   "id": "H-26",
+   "name_en": "Second Neo Zeon War",
+   "label_en": "H26 Second Neo Zeon War",
+   "model_en": "Four years after Haman fell in the First",
+   "desc_en": "Neo Zeon War, the missing Char Aznable reappeared in the Earth Sphere, seized Sweetwater, and declared Neo Zeon's revival. Vowing to free the souls of people bound by Earth's gravity, Char declared war on the Earth Federation Government."
+  },
+  {
+   "id": "H-27",
+   "name_en": "Fifth Luna Drop",
+   "label_en": "H27 Fifth Luna Drop",
+   "model_en": "Having declared war on the Federation, Char",
+   "desc_en": "moved at once to drop the resource asteroid Fifth Luna on the Fed. Forces HQ in Tibet to weaken them. The Fed. Forces tried to stop it, but their only real force was the new Londo Bell, and Fifth Luna hit Earth before they were ready."
+  },
+  {
+   "id": "H-28",
+   "name_en": "Operation Earth Cooling",
+   "label_en": "H28 Operation Earth Cooling",
+   "model_en": "After the Fifth Luna drop, Char obtained",
+   "desc_en": "the asteroid Axis in a secret deal with the Fed. government. Deceiving the Fed., Char tried to drop Axis on Earth. Londo Bell failed to stop it and Axis entered its fall trajectory, but the miraculous power of the Psycho-Frame pushed it off course."
+  },
+  {
+   "id": "H-29",
+   "name_en": "Founding of Cosmo Babylonia",
+   "label_en": "H29 Founding of Cosmo Babylonia",
+   "model_en": "In U.C. 0123, the founding of Cosmo",
+   "desc_en": "Babylonia was declared in the Frontier Side, a new colony cluster. Its leader Meitzer upheld \"aristocratism,\" swiftly took military control of the Frontier Side with the private army Crossbone Vanguard, and declared war on the Earth Federation."
+  },
+  {
+   "id": "H-30",
+   "name_en": "Rafflesia Project",
+   "label_en": "H30 Rafflesia Project",
+   "model_en": "Carozzo Ronah, alias Iron Mask, Supreme",
+   "desc_en": "Commander of the Crossbone Vanguard, secretly planned to cut the unneeded population to make humanity endure, building the unmanned killing weapon \"Bug\" and giant MA \"Rafflesia.\" But Seabook and his allies foiled the plan."
+  }
+ ],
+ "decisions": [
+  "M cards: titles reuse the stage titles already in out/briefing_0*.json; model_jp is a blank full-width space, so model_en and desc_en are empty.",
+  "S and H cards: model_jp holds the first line of the description and desc_jp the rest (the JP even splits words across the two). The English was written as one paragraph and split at a word boundary: model_en = first <=43 bytes, desc_en = the rest, checked to wrap (43 B/line) within desc_lines_max. The orchestrator may re-split.",
+  "S cards with a different label_jp (S16-S19) translate the shorter label text.",
+  "H card names use the glossary event names, capitalised as titles.",
+  "JP quote brackets around Operation Stardust in H-09/H-10 dropped (the name is self-evident); other quoted terms kept in double quotes.",
+  "U.C. dates written 'U.C. 0083' style."
+ ],
+ "uncertain": [
+  "H-06: Apsaras I not in glossary (II/III are); wrote 'Apsaras I'. JP 'Ez8' kept as 'the Ez8'.",
+  "M-50/M-51: 'Hong Kong City' card titles have no matching briefing title (the Hong Kong story stage is 'Cinderella Four'); kept literal."
+ ]
+}

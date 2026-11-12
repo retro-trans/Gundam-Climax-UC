@@ -1,0 +1,71 @@
+{
+ "card_panel": {
+  "screen": "Card Collection list / Unit Viewer",
+  "shot": "work/ui/shots/cg10.png",
+  "source": "card_info.inf",
+  "elements": [
+   {
+    "id": "card_label",
+    "field": "+0x030 char[44]",
+    "x": 10,
+    "y": 378,
+    "w": 380,
+    "h": 18,
+    "max_bytes": 43
+   },
+   {
+    "id": "card_model",
+    "field": "+0x05C char[44]",
+    "x": 10,
+    "y": 396,
+    "w": 380,
+    "h": 18,
+    "max_bytes": 43
+   },
+   {
+    "id": "card_desc_1",
+    "field": "+0x088 char[44]",
+    "x": 10,
+    "y": 420,
+    "w": 380,
+    "h": 18,
+    "max_bytes": 43,
+    "max_px": 380
+   },
+   {
+    "id": "card_desc_2",
+    "field": "+0x0B4 char[44]",
+    "x": 10,
+    "y": 440,
+    "w": 380,
+    "h": 18,
+    "max_bytes": 43,
+    "max_px": 380,
+    "note": "lines 3-6 are not drawn for U/P/C/B/M/S cards; H cards use 6 lines (screen not yet checked)"
+   }
+  ]
+ },
+ "tutorial_select": {
+  "screen": "Stage select (tutorial)",
+  "shot": "work/ui/shots/vwf_test_iso.png",
+  "source": "tutorial.bin (C2B bmes)",
+  "elements": [
+   {
+    "id": "stage_title",
+    "x": 372,
+    "y": 172,
+    "w": 230,
+    "h": 20,
+    "note": "yellow title over the preview image; preview box is ~236 px wide"
+   },
+   {
+    "id": "help_line",
+    "x": 120,
+    "y": 428,
+    "w": 400,
+    "h": 20,
+    "note": "centred"
+   }
+  ]
+ }
+}

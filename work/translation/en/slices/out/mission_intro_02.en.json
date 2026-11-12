@@ -1,0 +1,360 @@
+{
+ "slice": "mission_intro_02",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "S01828",
+   "en": "the Zeon raid on the Alex was six days past.",
+   "note": "Continues S01827 (prev slice, 'later called Operation Rubicon,'). Cut so S01827 can read e.g. 'Later to be called Operation Rubicon,' + this row; orchestrator should check the join."
+  },
+  {
+   "id": "S01829",
+   "en": "While the town celebrated Christmas,"
+  },
+  {
+   "id": "S01830",
+   "en": "a Zeon mobile suit once again"
+  },
+  {
+   "id": "S01831",
+   "en": "attacked the base.",
+   "note": "'base' moved from S01830 to fit English word order."
+  },
+  {
+   "id": "S01832",
+   "en": "With no defense forces, the Federation"
+  },
+  {
+   "id": "S01833",
+   "en": "had no choice but to send out the Alex again."
+  },
+  {
+   "id": "S01834",
+   "en": "Strangely enough, this attack"
+  },
+  {
+   "id": "S01835",
+   "en": "came from a single Zaku, but...",
+   "note": "Trailing 'but...' kept (JP trails off)."
+  },
+  {
+   "id": "S01836",
+   "en": "U.C. 0083.11"
+  },
+  {
+   "id": "S01837",
+   "en": "Konpeito Area",
+   "note": "Game's own English subtitle, kept as written (glossary form for the place is 'Konpei Island')."
+  },
+  {
+   "id": "S01838",
+   "en": "Universal Century 0083, November 10.",
+   "note": "Shared by 8301 and 8302 intros."
+  },
+  {
+   "id": "S01839",
+   "en": "At Konpei Island, formerly Solomon,"
+  },
+  {
+   "id": "S01840",
+   "en": "as the EFF's Naval Review",
+   "note": "EFF short form (glossary) to keep the line narrow."
+  },
+  {
+   "id": "S01841",
+   "en": "was about to begin,"
+  },
+  {
+   "id": "S01842",
+   "en": "Zeon remnant mobile suits,"
+  },
+  {
+   "id": "S01843",
+   "en": "bound to join the Delaz Fleet,"
+  },
+  {
+   "id": "S01844",
+   "en": "were appearing one by one around Solomon."
+  },
+  {
+   "id": "S01845",
+   "en": "Wary of this suspicious activity,"
+  },
+  {
+   "id": "S01846",
+   "en": "still hunting the stolen Gundam GP02,",
+   "note": "'still' added for flow (the search is ongoing); GP02 per terms.json 'Gundam GP02'."
+  },
+  {
+   "id": "S01847",
+   "en": "the Albion team, too,"
+  },
+  {
+   "id": "S01848",
+   "en": "was on sweep duty in the same sector."
+  },
+  {
+   "id": "S01849",
+   "en": "And there appeared..."
+  },
+  {
+   "id": "S01850",
+   "en": "As the Federation Forces' Naval Review neared,"
+  },
+  {
+   "id": "S01851",
+   "en": "in the space around Solomon,"
+  },
+  {
+   "id": "S01852",
+   "en": "the main force of the Zeon remnant",
+   "note": "'main force' moved up from S01853 for English order."
+  },
+  {
+   "id": "S01853",
+   "en": "\"Delaz Fleet\""
+  },
+  {
+   "id": "S01854",
+   "en": "was gathering."
+  },
+  {
+   "id": "S01855",
+   "en": "The mission of Anavel Gato, one of its own,"
+  },
+  {
+   "id": "S01856",
+   "en": "was to attack the Naval Review."
+  },
+  {
+   "id": "S01857",
+   "en": "Stolen by his own hand from the Federation,"
+  },
+  {
+   "id": "S01858",
+   "en": "the \"Gundam GP02\" would"
+  },
+  {
+   "id": "S01859",
+   "en": "unleash its nuclear warhead...",
+   "note": "S01857-59 is an inverted afterthought in JP ('with the nuclear warhead of the GP02 he stole himself...'); recast as one sentence, trailing '...' kept."
+  },
+  {
+   "id": "S01860",
+   "en": "Act One of \"Operation Stardust\" had begun."
+  },
+  {
+   "id": "S01861",
+   "en": "On the Earth orbit",
+   "note": "Game's own English subtitle, kept as written (shared by 14 intros)."
+  },
+  {
+   "id": "S01862",
+   "en": "The Delaz Fleet's \"Operation Stardust.\""
+  },
+  {
+   "id": "S01863",
+   "en": "Its ultimate aim was to drop a colony"
+  },
+  {
+   "id": "S01864",
+   "en": "onto the Earth."
+  },
+  {
+   "id": "S01865",
+   "en": "Doing all they could to stop it,"
+  },
+  {
+   "id": "S01866",
+   "en": "the Albion team fought on, but"
+  },
+  {
+   "id": "S01867",
+   "en": "the colony finally passed the point of no return",
+   "note": "Shared by 8303 (after S01866 '...but') and 8304 (after S01878 '...and'); worded to follow both. No trailing comma since S01868/S01879 begin with 'and'."
+  },
+  {
+   "id": "S01868",
+   "en": "and began to be drawn toward the Earth."
+  },
+  {
+   "id": "S01869",
+   "en": "With Cima Garahau's fleet"
+  },
+  {
+   "id": "S01870",
+   "en": "defecting to the Federation,"
+  },
+  {
+   "id": "S01871",
+   "en": "the Solar System II struck the colony,"
+  },
+  {
+   "id": "S01872",
+   "en": "but with too little power,"
+  },
+  {
+   "id": "S01873",
+   "en": "the colony did not break apart"
+  },
+  {
+   "id": "S01874",
+   "en": "and kept on moving."
+  },
+  {
+   "id": "S01875",
+   "en": "The fight now turns to the Solar System's second shot..."
+  },
+  {
+   "id": "S01876",
+   "en": "The battle with no victor goes on."
+  },
+  {
+   "id": "S01877",
+   "en": "Despite every effort to stop it,"
+  },
+  {
+   "id": "S01878",
+   "en": "the Albion team was held off by Gato, and",
+   "note": "JP: 'partly thanks to Gato intercepting the Albion team, which strove to stop it'; recast so shared S01867 can follow."
+  },
+  {
+   "id": "S01879",
+   "en": "and entered a falling orbit toward Earth.",
+   "note": "Follows S01867 in 8304."
+  },
+  {
+   "id": "S01880",
+   "en": "The game-changer, Solar System II,",
+   "note": "'gyakuten no saku' = the plan to turn the tables."
+  },
+  {
+   "id": "S01881",
+   "en": "struck the colony, but"
+  },
+  {
+   "id": "S01882",
+   "en": "with too little power, the colony"
+  },
+  {
+   "id": "S01883",
+   "en": "did not break apart and kept on moving."
+  },
+  {
+   "id": "S01884",
+   "en": "Through the Delaz Fleet's desperate"
+  },
+  {
+   "id": "S01885",
+   "en": "\"Operation Stardust,\""
+  },
+  {
+   "id": "S01886",
+   "en": "the colony began its fall to Earth."
+  },
+  {
+   "id": "S01887",
+   "en": "Choosing this very moment, Cima"
+  },
+  {
+   "id": "S01888",
+   "en": "swiftly took Supreme Commander Delaz hostage."
+  },
+  {
+   "id": "S01889",
+   "en": "To defect to the Federation,"
+  },
+  {
+   "id": "S01890",
+   "en": "she had planned to hand Delaz over.",
+   "note": "'Delaz' moved from S01889 for English order. Cima female per glossary."
+  },
+  {
+   "id": "S01891",
+   "en": "After years of neglect and bitterness in Zeon,"
+  },
+  {
+   "id": "S01892",
+   "en": "this was, for Cima,"
+  },
+  {
+   "id": "S01893",
+   "en": "the gamble of a lifetime."
+  },
+  {
+   "id": "S01894",
+   "en": "But in a sudden reversal, Delaz killed himself,"
+  },
+  {
+   "id": "S01895",
+   "en": "and Gato destroyed the Gwaden's bridge."
+  },
+  {
+   "id": "S01896",
+   "en": "Cima had narrowly managed to escape,",
+   "note": "Name moved up from S01897 so the sentence reads naturally."
+  },
+  {
+   "id": "S01897",
+   "en": "but even so,"
+  },
+  {
+   "id": "S01898",
+   "en": "the gears of her plan had begun to slip..."
+  },
+  {
+   "id": "S01899",
+   "en": "U.C. 0123.03"
+  },
+  {
+   "id": "S01900",
+   "en": "Frontier I",
+   "note": "Game's own English subtitle; roman numeral converted to ASCII."
+  },
+  {
+   "id": "S01901",
+   "en": "Universal Century 0123."
+  },
+  {
+   "id": "S01902",
+   "en": "Far from Earth, the new space colonies of"
+  },
+  {
+   "id": "S01903",
+   "en": "Frontier Side"
+  },
+  {
+   "id": "S01904",
+   "en": "were suddenly attacked by unknown mobile suits.",
+   "note": "JP is a noun phrase ('the mysterious MS unit that suddenly attacked...'); recast as a clause. 47 chars vs 16 JP chars - may be wide; 'MS' is a fallback abbreviation."
+  },
+  {
+   "id": "S01905",
+   "en": "Seabook, a civilian boy,"
+  },
+  {
+   "id": "S01906",
+   "en": "escaped the colony with his friends, but"
+  },
+  {
+   "id": "S01907",
+   "en": "along the way, his girlfriend",
+   "note": "Continues into S01908-09 (next slice: 'Cecily Fairchild' / 'became separated'); next slice should read e.g. 'Cecily Fairchild' + 'was separated from him.'"
+  }
+ ],
+ "decisions": [
+  "Narration in past tense throughout, except S01875-76 (JP closing present-tense lines kept present).",
+  "Where JP word order forces it, a word moves to the neighbouring row of the same sentence (noted per row); no rows merged or split, trailing '...' kept.",
+  "Bracketed JP terms (Operation Stardust, Delaz Fleet, Gundam GP02) kept in double quotes where the JP brackets them.",
+  "Full-width English subtitles (S01837, S01861, S01900) kept as the game's own wording, converted to ASCII."
+ ],
+ "uncertain": [
+  "S01828: join with S01827 (prev slice) depends on how that row was cut; I wrote 'the Zeon raid on the Alex was six days past.'",
+  "S01837/S01839: subtitle says 'Konpeito Area' (kept), narration uses glossary 'Konpei Island' - mismatch on screen.",
+  "S01867: 'point of no return' for sokushi genkaiten (literally 'interception limit point'); not in glossary.",
+  "S01888: 'Supreme Commander' for Delaz from glossary entry marked unverified.",
+  "S01895: 'Gwaden' (Delaz's flagship) not in glossary; used Gundam Wiki spelling.",
+  "S01907: cut assumes next slice puts Cecily Fairchild as the subject of 'became separated'."
+ ]
+}

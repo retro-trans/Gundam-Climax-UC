@@ -1,0 +1,27 @@
+# game data / outputs
+*.iso
+*.p2s
+work/source/
+work/build/
+work/output/*.iso
+work/emulator/
+incoming/
+
+# translation working files contain Japanese script: commit only *.en.json (tools/strip_jp.py)
+work/translation/**/*.json
+!work/translation/**/*.en.json
+# review exports (JP | EN lines) also contain Japanese script
+work/translation/**/*.txt
+work/glossary/_raw_names.json
+
+__pycache__/
+*.pyc
+
+# third-party binaries (xdelta3 downloaded from github.com/jmacd/xdelta-gpl v3.1.0)
+work/bin/
+
+# game artwork: UI screenshots and texture previews stay local
+work/ui/**/*.png
+work/translation/en/tex/
+# patches are published as release assets, not committed
+work/output/

@@ -1,0 +1,612 @@
+{
+ "slice": "stage_01",
+ "rows_in_slice": 145,
+ "rows_examined": 145,
+ "rows": [
+  {
+   "id": "S00494",
+   "en": "Select a character."
+  },
+  {
+   "id": "S00495",
+   "en": "Select a stage."
+  },
+  {
+   "id": "S00496",
+   "en": "Confirm the stage.",
+   "note": "Help line for confirming the stage choice; shared with tutorial and other stage-select screens."
+  },
+  {
+   "id": "S00497",
+   "en": "\"Into the Atmosphere\""
+  },
+  {
+   "id": "S00498",
+   "en": "\"Battle of Jaburo\""
+  },
+  {
+   "id": "S00499",
+   "en": "\"Terror! The Mobile Big Zam\""
+  },
+  {
+   "id": "S00500",
+   "en": "\"Space Fortress A Baoa Qu\""
+  },
+  {
+   "id": "S00501",
+   "en": "\"Desert Front Line\""
+  },
+  {
+   "id": "S00502",
+   "en": "\"The Trembling Mountain\""
+  },
+  {
+   "id": "S00503",
+   "en": "\"Order to Destroy the Alex\""
+  },
+  {
+   "id": "S00504",
+   "en": "\"War in the Pocket\""
+  },
+  {
+   "id": "S00505",
+   "en": "\"Clash Zone\""
+  },
+  {
+   "id": "S00506",
+   "en": "\"The Storm Rushes Through\""
+  },
+  {
+   "id": "S00507",
+   "en": "\"The Black Gundam\""
+  },
+  {
+   "id": "S00508",
+   "en": "\"Battle on the Moon\""
+  },
+  {
+   "id": "S00509",
+   "en": "\"Shuttle Launch\""
+  },
+  {
+   "id": "S00510",
+   "en": "\"Through the White Darkness\""
+  },
+  {
+   "id": "S00511",
+   "en": "\"Cinderella Four\""
+  },
+  {
+   "id": "S00512",
+   "en": "\"Four Forever\""
+  },
+  {
+   "id": "S00513",
+   "en": "\"Vortex of Space\""
+  },
+  {
+   "id": "S00514",
+   "en": "\"Racing Through Space\""
+  },
+  {
+   "id": "S00515",
+   "en": "\"The Burning Earth\""
+  },
+  {
+   "id": "S00516",
+   "en": "\"The Fall of Emary\""
+  },
+  {
+   "id": "S00517",
+   "en": "\"Warrior, Once Again\""
+  },
+  {
+   "id": "S00518",
+   "en": "\"Battle at Axis\""
+  },
+  {
+   "id": "S00519",
+   "en": "\"Vibration\""
+  },
+  {
+   "id": "S00520",
+   "en": "\"Destiny\""
+  },
+  {
+   "id": "S00521",
+   "en": "\"Char's Counterattack\""
+  },
+  {
+   "id": "S00522",
+   "en": "\"The Formula Sorties\""
+  },
+  {
+   "id": "S00523",
+   "en": "\"Black Vanguard\""
+  },
+  {
+   "id": "S00524",
+   "en": "\"Eternal Wind\""
+  },
+  {
+   "id": "S00525",
+   "en": "\"Final Stage\""
+  },
+  {
+   "id": "S00526",
+   "en": "gtChronicle (First Gundam)",
+   "note": "'gt' prefix looks like a code, kept as-is. First Gundam = the original Mobile Suit Gundam series."
+  },
+  {
+   "id": "S00527",
+   "en": "gtChronicle (08th MS Team)"
+  },
+  {
+   "id": "S00528",
+   "en": "gtChronicle (0080)"
+  },
+  {
+   "id": "S00529",
+   "en": "gtChronicle (0083)"
+  },
+  {
+   "id": "S00530",
+   "en": "gtChronicle (Zeta Gundam)"
+  },
+  {
+   "id": "S00531",
+   "en": "gtChronicle (Gundam ZZ)",
+   "note": "Series title in its official order 'Gundam ZZ' (not the suit name 'ZZ Gundam')."
+  },
+  {
+   "id": "S00532",
+   "en": "gtChronicle (CCA)",
+   "note": "Char's Counterattack abbreviated CCA, as in the glossary entries."
+  },
+  {
+   "id": "S00533",
+   "en": "gtChronicle (F91)"
+  },
+  {
+   "id": "S00534",
+   "en": "gtChronicle (Final)"
+  },
+  {
+   "id": "S00535",
+   "en": "Amuro Ray"
+  },
+  {
+   "id": "S00536",
+   "en": "Char Aznable"
+  },
+  {
+   "id": "S00537",
+   "en": "Shiro Amada"
+  },
+  {
+   "id": "S00538",
+   "en": "Aina Sakhalin"
+  },
+  {
+   "id": "S00539",
+   "en": "Norris Packard"
+  },
+  {
+   "id": "S00540",
+   "en": "Christina Mackenzie"
+  },
+  {
+   "id": "S00541",
+   "en": "Bernard Wiseman"
+  },
+  {
+   "id": "S00542",
+   "en": "Kou Uraki"
+  },
+  {
+   "id": "S00543",
+   "en": "Anavel Gato"
+  },
+  {
+   "id": "S00544",
+   "en": "Cima Garahau"
+  },
+  {
+   "id": "S00545",
+   "en": "Kamille Bidan"
+  },
+  {
+   "id": "S00546",
+   "en": "Quattro Bajeena"
+  },
+  {
+   "id": "S00547",
+   "en": "Jerid Messa"
+  },
+  {
+   "id": "S00548",
+   "en": "Four Murasame"
+  },
+  {
+   "id": "S00549",
+   "en": "Paptimus Scirocco",
+   "note": "Source spelling differs by one kana from the glossary entry; same character, glossary English used."
+  },
+  {
+   "id": "S00550",
+   "en": "Haman Karn"
+  },
+  {
+   "id": "S00551",
+   "en": "Judau Ashta"
+  },
+  {
+   "id": "S00552",
+   "en": "Roux Louka"
+  },
+  {
+   "id": "S00553",
+   "en": "Elpeo Ple"
+  },
+  {
+   "id": "S00554",
+   "en": "Mashymre Cello"
+  },
+  {
+   "id": "S00555",
+   "en": "Haman Karn (ZZ)"
+  },
+  {
+   "id": "S00556",
+   "en": "Amuro Ray (CCA)"
+  },
+  {
+   "id": "S00557",
+   "en": "Char Aznable (CCA)"
+  },
+  {
+   "id": "S00558",
+   "en": "Seabook Arno"
+  },
+  {
+   "id": "S00559",
+   "en": "Cecily Fairchild"
+  },
+  {
+   "id": "S00560",
+   "en": "Zabine Chareux"
+  },
+  {
+   "id": "S00561",
+   "en": "C)AMR_FG Into the Atmosphere"
+  },
+  {
+   "id": "S00562",
+   "en": "C)AMR_FG Jaburo",
+   "note": "Source truncates the stage title; kept truncated."
+  },
+  {
+   "id": "S00563",
+   "en": "C)AMR_FG Terror!",
+   "note": "Source truncates 'Terror! The Mobile Big Zam'; kept truncated, matching the briefing title's first word."
+  },
+  {
+   "id": "S00564",
+   "en": "C)AMR_FG Space Fortress",
+   "note": "Source truncates the stage title; kept truncated."
+  },
+  {
+   "id": "S00565",
+   "en": "C)CHR_FG Into the Atmosphere"
+  },
+  {
+   "id": "S00566",
+   "en": "C)CHR_FG Space Fortress A Baoa Qu"
+  },
+  {
+   "id": "S00567",
+   "en": "C)SIR_08 Desert Front Line"
+  },
+  {
+   "id": "S00568",
+   "en": "C)SIR_08 The Trembling Mountain"
+  },
+  {
+   "id": "S00569",
+   "en": "C)AIN_08 Desert Front Line"
+  },
+  {
+   "id": "S00570",
+   "en": "C)NRS_08 The Trembling Mountain"
+  },
+  {
+   "id": "S00571",
+   "en": "C)CRS_80 Over the River and Through the Woods",
+   "note": "0080 episode 3 title; the final briefing uses 'Order to Destroy the Alex' for Chris STAGE 1."
+  },
+  {
+   "id": "S00572",
+   "en": "C)CRS_80 War in the Pocket"
+  },
+  {
+   "id": "S00573",
+   "en": "C)BER_80 War in the Pocket"
+  },
+  {
+   "id": "S00574",
+   "en": "C)KOU_83 Clash Zone"
+  },
+  {
+   "id": "S00575",
+   "en": "C)KOU_83 The Storm Rushes Through"
+  },
+  {
+   "id": "S00576",
+   "en": "C)GAT_83 Clash Zone"
+  },
+  {
+   "id": "S00577",
+   "en": "C)GAT_83 The Storm Rushes Through"
+  },
+  {
+   "id": "S00578",
+   "en": "C)CMA_83 The Storm Rushes Through"
+  },
+  {
+   "id": "S00579",
+   "en": "C)KAM_ZG The Black Gundam"
+  },
+  {
+   "id": "S00580",
+   "en": "C)KAM_ZG Reunion",
+   "note": "Older stage title with no matching briefing title (Kamille STAGE 2 is 'Battle on the Moon' in the briefings)."
+  },
+  {
+   "id": "S00581",
+   "en": "C)KAM_ZG Shuttle Launch"
+  },
+  {
+   "id": "S00582",
+   "en": "C)KAM_ZG Through the White Darkness"
+  },
+  {
+   "id": "S00583",
+   "en": "C)KAM_ZG Cinderella Four"
+  },
+  {
+   "id": "S00584",
+   "en": "C)KAM_ZG Four Forever"
+  },
+  {
+   "id": "S00585",
+   "en": "C)KAM_ZG Vortex of Space"
+  },
+  {
+   "id": "S00586",
+   "en": "C)KAM_ZG Racing Through Space"
+  },
+  {
+   "id": "S00587",
+   "en": "C)JER_ZG Reunion",
+   "note": "Older stage title; Jerid STAGE 1 briefing is 'Battle on the Moon'."
+  },
+  {
+   "id": "S00588",
+   "en": "C)FOU_ZG Cinderella Four"
+  },
+  {
+   "id": "S00589",
+   "en": "C)FOU_ZG Four Forever"
+  },
+  {
+   "id": "S00590",
+   "en": "C)PAP_ZG Racing Through Space"
+  },
+  {
+   "id": "S00591",
+   "en": "C)QUA_ZG Shuttle Launch"
+  },
+  {
+   "id": "S00592",
+   "en": "C)QUA_ZG Racing Through Space"
+  },
+  {
+   "id": "S00593",
+   "en": "C)HAM_ZG Vortex of Space"
+  },
+  {
+   "id": "S00594",
+   "en": "C)HAM_ZG Racing Through Space"
+  },
+  {
+   "id": "S00595",
+   "en": "C)JUD_ZZ The Burning Earth"
+  },
+  {
+   "id": "S00596",
+   "en": "C)JUD_ZZ The Fall of Emary"
+  },
+  {
+   "id": "S00597",
+   "en": "C)JUD_ZZ Warrior, Once Again"
+  },
+  {
+   "id": "S00598",
+   "en": "C)PLE_ZZ The Burning Earth"
+  },
+  {
+   "id": "S00599",
+   "en": "C)MSM_ZZ Battle at Axis"
+  },
+  {
+   "id": "S00600",
+   "en": "C)RLK_ZZ Vibration"
+  },
+  {
+   "id": "S00601",
+   "en": "C)HAM_ZZ Warrior, Once Again"
+  },
+  {
+   "id": "S00602",
+   "en": "C)AMR_CC Destiny"
+  },
+  {
+   "id": "S00603",
+   "en": "C)AMR_CC Char's Counterattack"
+  },
+  {
+   "id": "S00604",
+   "en": "C)CHR_CC Destiny"
+  },
+  {
+   "id": "S00605",
+   "en": "C)CHR_CC Char's Counterattack"
+  },
+  {
+   "id": "S00606",
+   "en": "C)SBK_91 The Formula Sorties"
+  },
+  {
+   "id": "S00607",
+   "en": "C)SBK_91 Black Vanguard"
+  },
+  {
+   "id": "S00608",
+   "en": "C)SBK_91 Eternal Wind"
+  },
+  {
+   "id": "S00609",
+   "en": "C)CCL_91 Eternal Wind"
+  },
+  {
+   "id": "S00610",
+   "en": "C)ZBN_91 Black Vanguard"
+  },
+  {
+   "id": "S00611",
+   "en": "C)Final Stage"
+  },
+  {
+   "id": "S00612",
+   "en": "Planet of the Zaku"
+  },
+  {
+   "id": "S00613",
+   "en": "GM Stands in Space"
+  },
+  {
+   "id": "S00614",
+   "en": "Bewitching Blossom"
+  },
+  {
+   "id": "S00615",
+   "en": "Heroines"
+  },
+  {
+   "id": "S00616",
+   "en": "The Veterans Strike Back"
+  },
+  {
+   "id": "S00617",
+   "en": "Heroes of the Sky"
+  },
+  {
+   "id": "S00618",
+   "en": "The Boy from Shangri-La"
+  },
+  {
+   "id": "S00619",
+   "en": "The Three Qubeley Sisters"
+  },
+  {
+   "id": "S00620",
+   "en": "The Rival Returns"
+  },
+  {
+   "id": "S00621",
+   "en": "Don't Give In to the Pressure!"
+  },
+  {
+   "id": "S00622",
+   "en": "Fistfight on Earth"
+  },
+  {
+   "id": "S00623",
+   "en": "Bigger Is Better?"
+  },
+  {
+   "id": "S00624",
+   "en": "The Phantom Fleet"
+  },
+  {
+   "id": "S00625",
+   "en": "Fortress of Steel"
+  },
+  {
+   "id": "S00626",
+   "en": "The Space Pirates Appear"
+  },
+  {
+   "id": "S00627",
+   "en": "The Red Comet Returns"
+  },
+  {
+   "id": "S00628",
+   "en": "Another Final"
+  },
+  {
+   "id": "S00629",
+   "en": "Newtype Nightmare"
+  },
+  {
+   "id": "S00630",
+   "en": "Devil of the Earth"
+  },
+  {
+   "id": "S00631",
+   "en": "Grim Reaper of Space"
+  },
+  {
+   "id": "S00632",
+   "en": "Start EXTRA: Beginner.",
+   "note": "Same 'Start the mission.' style as ui_01 S00169."
+  },
+  {
+   "id": "S00633",
+   "en": "Start EXTRA: Intermediate."
+  },
+  {
+   "id": "S00634",
+   "en": "Start EXTRA: Advanced."
+  },
+  {
+   "id": "S00635",
+   "en": "Confirm the stage."
+  },
+  {
+   "id": "S00636",
+   "en": "EX Beginner"
+  },
+  {
+   "id": "S00637",
+   "en": "EX Intermediate"
+  },
+  {
+   "id": "S00638",
+   "en": "EX Advanced"
+  }
+ ],
+ "decisions": [
+  "Stage titles reuse the English of the matching main briefing titles (S00187-S00296, S00335-S00363), not the variant forms used in briefing_03's 'All Maps' debug labels.",
+  "Japanese corner brackets around chronicle stage titles converted to double quotes, as in ui_01.",
+  "C)XXX_YY labels (chronicle_stage sel#61-87) look like stage-select/debug labels: code prefix kept verbatim, one space before the translated title, same pattern as briefing_03's 'All Maps C)...' rows.",
+  "Character names from the glossary excerpt.",
+  "EX tiers Beginner/Intermediate/Advanced, as in briefing_02/03."
+ ],
+ "uncertain": [
+  "S00526-S00534: 'gt' prefix assumed to be a code and kept; series labels First Gundam / Zeta Gundam / Gundam ZZ / CCA are my choice - may be player-visible in the Chronicle series list.",
+  "S00561-S00611: assumed debug/internal labels, translated anyway. briefing_03 S00381-S00424 used other wording for the same titles (Burning Sands Front, Rushing Storm, Space Vortex, Burning Earth, Emary's Fall, Battle of Axis, The Black Vanguard, Fear!); I followed the main briefing titles - briefing_03 may need aligning.",
+  "S00580/S00587: 'Reunion' has no matching final briefing title; literal.",
+  "S00632-S00634: rendered as help line 'Start EXTRA: <tier>.' on the assumption it is button help text like ui_01 S00169."
+ ]
+}

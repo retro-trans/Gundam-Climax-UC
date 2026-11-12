@@ -1,0 +1,350 @@
+{
+ "slice": "briefing_02",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "S00267",
+   "en": "Vibration [U.C.0089]\n\nRoux Story - STAGE 1"
+  },
+  {
+   "id": "S00268",
+   "en": "Engage Glemy Faction forces"
+  },
+  {
+   "id": "S00269",
+   "en": "The Burning Earth [U.C.0088]\n\nPle Story - STAGE 1"
+  },
+  {
+   "id": "S00270",
+   "en": "Engage AEUG forces"
+  },
+  {
+   "id": "S00271",
+   "en": "Battle at Axis [U.C.0089]\n\nMashymre Story - STAGE 1"
+  },
+  {
+   "id": "S00272",
+   "en": "Warrior, Once Again [U.C.0089]\n\nHaman (ZZ) Story - STAGE 1",
+   "note": "Kept the (ZZ) tag that tells this Haman story apart from her Zeta-era one."
+  },
+  {
+   "id": "S00273",
+   "en": "Engage the ZZ Gundam"
+  },
+  {
+   "id": "S00274",
+   "en": "Destroy the ZZ Gundam"
+  },
+  {
+   "id": "S00275",
+   "en": "Destiny [U.C.0093]\n\nAmuro Story - STAGE 1"
+  },
+  {
+   "id": "S00276",
+   "en": "Engage Neo Zeon mobile suit forces"
+  },
+  {
+   "id": "S00277",
+   "en": "Destroy the Sazabi"
+  },
+  {
+   "id": "S00278",
+   "en": "Char's Counterattack [U.C.0093]\n\nAmuro Story - STAGE 2",
+   "note": "Official English film title."
+  },
+  {
+   "id": "S00279",
+   "en": "Destiny [U.C.0093]\n\nChar Story - STAGE 1"
+  },
+  {
+   "id": "S00280",
+   "en": "Engage Londo Bell mobile suit forces"
+  },
+  {
+   "id": "S00281",
+   "en": "Destroy the Re-GZ"
+  },
+  {
+   "id": "S00282",
+   "en": "Char's Counterattack [U.C.0093]\n\nChar Story - STAGE 2"
+  },
+  {
+   "id": "S00283",
+   "en": "Destroy the Nu Gundam"
+  },
+  {
+   "id": "S00284",
+   "en": "The Formula Sorties [U.C.0123]\n\nSeabook Story - STAGE 1",
+   "note": "'Formula' = the F91 (Formula project); kept as in the Japanese."
+  },
+  {
+   "id": "S00285",
+   "en": "Engage Crossbone Vanguard forces"
+  },
+  {
+   "id": "S00286",
+   "en": "Destroy the Berga-Dalas"
+  },
+  {
+   "id": "S00287",
+   "en": "Black Vanguard [U.C.0123]\n\nSeabook Story - STAGE 2"
+  },
+  {
+   "id": "S00288",
+   "en": "Engage Crossbone forces' mobile suit units"
+  },
+  {
+   "id": "S00289",
+   "en": "Destroy the Vigna-Ghina"
+  },
+  {
+   "id": "S00290",
+   "en": "Eternal Wind [U.C.0123]\n\nSeabook Story - STAGE 3"
+  },
+  {
+   "id": "S00291",
+   "en": "Engage the unidentified mobile armor"
+  },
+  {
+   "id": "S00292",
+   "en": "Destroy the Rafflesia"
+  },
+  {
+   "id": "S00293",
+   "en": "Eternal Wind [U.C.0123]\n\nCecily Story - STAGE 1"
+  },
+  {
+   "id": "S00294",
+   "en": "Black Vanguard [U.C.0123]\n\nZabine Story - STAGE 1"
+  },
+  {
+   "id": "S00295",
+   "en": "Destroy the Gundam F91",
+   "note": "Japanese writes just F91; used the glossary full name."
+  },
+  {
+   "id": "S00296",
+   "en": "Final Stage"
+  },
+  {
+   "id": "S00297",
+   "en": "Engage the mysterious mobile suits"
+  },
+  {
+   "id": "S00298",
+   "en": "Defense of Jaburo [U.C.0079]\n\nSTAGE 1 - Federation Forces -"
+  },
+  {
+   "id": "S00299",
+   "en": "Battle of Jaburo [U.C.0079]\n\nSTAGE 1 - Zeon Forces -"
+  },
+  {
+   "id": "S00300",
+   "en": "Engage Federation Forces defense units"
+  },
+  {
+   "id": "S00301",
+   "en": "Destroy a set number of enemy turrets"
+  },
+  {
+   "id": "S00302",
+   "en": "Your unit destroyed, or 6 Gaws shot down",
+   "note": "Defeat condition (rec3): descriptive, not imperative."
+  },
+  {
+   "id": "S00303",
+   "en": "Showdown at A Baoa Qu [U.C.0079]\n\nSTAGE 2 - Federation Forces -"
+  },
+  {
+   "id": "S00304",
+   "en": "Destroy a set number of enemies or fight for a set time"
+  },
+  {
+   "id": "S00305",
+   "en": "Battle of A Baoa Qu [U.C.0079]\n\nSTAGE 2 - Zeon Forces -"
+  },
+  {
+   "id": "S00306",
+   "en": "Destroy all enemy battleships"
+  },
+  {
+   "id": "S00307",
+   "en": "Stop Operation Stardust [U.C.0083]\n\nSTAGE 3 - Federation Forces -"
+  },
+  {
+   "id": "S00308",
+   "en": "Codename: \"Stardust\" [U.C.0083]\n\nSTAGE 3 - Zeon Forces -"
+  },
+  {
+   "id": "S00309",
+   "en": "Shuttle Defense [U.C.0087]\n\nSTAGE 4 - AEUG -"
+  },
+  {
+   "id": "S00310",
+   "en": "Fight for a set time or destroy the Asshimar"
+  },
+  {
+   "id": "S00311",
+   "en": "Battle for Hong Kong City [U.C.0087]\n\nSTAGE 4 - Titans -"
+  },
+  {
+   "id": "S00312",
+   "en": "Destroy a set number of enemies, incl. the Gundam Mk-II"
+  },
+  {
+   "id": "S00313",
+   "en": "Support the Earthbound Uprising [U.C.0087]\n\nSTAGE 4 - Axis -"
+  },
+  {
+   "id": "S00314",
+   "en": "All allied units destroyed",
+   "note": "Defeat condition (rec3)."
+  },
+  {
+   "id": "S00315",
+   "en": "Colony Laser Defense [U.C.0088]\n\nSTAGE 5 - AEUG -"
+  },
+  {
+   "id": "S00316",
+   "en": "Destroy a set number of enemies"
+  },
+  {
+   "id": "S00317",
+   "en": "Retake the Colony Laser [U.C.0088]\n\nSTAGE 5 - Titans -"
+  },
+  {
+   "id": "S00318",
+   "en": "Your unit destroyed, or the Alexandria destroyed",
+   "note": "Defeat condition (rec3)."
+  },
+  {
+   "id": "S00319",
+   "en": "Showdown! The Three Powers [U.C.0088]\n\nSTAGE 5 - Axis -"
+  },
+  {
+   "id": "S00320",
+   "en": "Showdown at Core 3 [U.C.0089]\n\nSTAGE 6 - AEUG -"
+  },
+  {
+   "id": "S00321",
+   "en": "Engage Neo Zeon mobile suit forces"
+  },
+  {
+   "id": "S00322",
+   "en": "Nahel Argama shot down",
+   "note": "Defeat condition (rec3) on the AEUG side: the player's own mothership."
+  },
+  {
+   "id": "S00323",
+   "en": "Crush the Rebel Army [U.C.0089]\n\nSTAGE 6 - Axis -"
+  },
+  {
+   "id": "S00324",
+   "en": "Engage Glemy Faction mobile suit forces"
+  },
+  {
+   "id": "S00325",
+   "en": "Your unit destroyed, or 3 allied ships shot down",
+   "note": "Defeat condition (rec3)."
+  },
+  {
+   "id": "S00326",
+   "en": "Stop the Axis Drop [U.C.0093]\n\nSTAGE 7 - Londo Bell -"
+  },
+  {
+   "id": "S00327",
+   "en": "Operation Earth Cooling [U.C.0093]\n\nSTAGE 7 - Neo Zeon -"
+  },
+  {
+   "id": "S00328",
+   "en": "Intercept the Mystery Small MS [U.C.0122]\n\nSTAGE 8 - Federation Forces -"
+  },
+  {
+   "id": "S00329",
+   "en": "Engage MS forces of unknown affiliation"
+  },
+  {
+   "id": "S00330",
+   "en": "Seize the Resource Base [U.C.0122]\n\nSTAGE 8 - Crossbone Forces -"
+  },
+  {
+   "id": "S00331",
+   "en": "Clash with the Crossbone Elite [U.C.0123]\n\nSTAGE 9 - Federation Forces -"
+  },
+  {
+   "id": "S00332",
+   "en": "Battle for Frontier I [U.C.0123]\n\nSTAGE 9 - Crossbone Forces -"
+  },
+  {
+   "id": "S00333",
+   "en": "Under the Pirate Flag [U.C.0133]\n\nSTAGE 10 - Crossbone Forces -"
+  },
+  {
+   "id": "S00334",
+   "en": "Engage Jupiter Empire mobile suit forces"
+  },
+  {
+   "id": "S00335",
+   "en": "Planet of the Zaku\n\nEXTRA - Beginner STAGE 1",
+   "note": "Middle line in JP is only padding spaces; kept as an empty line (3 lines)."
+  },
+  {
+   "id": "S00336",
+   "en": "Engage enemy mobile suit forces"
+  },
+  {
+   "id": "S00337",
+   "en": "GM Stands in Space\n\nEXTRA - Beginner STAGE 2",
+   "note": "Riff on the first Gundam episode title; middle padding line emptied."
+  },
+  {
+   "id": "S00338",
+   "en": "Bewitching Blossom\n\nEXTRA - Beginner STAGE 3",
+   "note": "Middle padding line emptied."
+  },
+  {
+   "id": "S00339",
+   "en": "Heroines\n\nEXTRA - Beginner STAGE 4"
+  },
+  {
+   "id": "S00340",
+   "en": "The Veterans Strike Back\n\nEXTRA - Beginner STAGE 5"
+  },
+  {
+   "id": "S00341",
+   "en": "Heroes of the Sky\n\nEXTRA - Beginner STAGE 6"
+  },
+  {
+   "id": "S00342",
+   "en": "Skills disabled. Engage enemy forces."
+  },
+  {
+   "id": "S00343",
+   "en": "Destroy all enemy MS"
+  },
+  {
+   "id": "S00344",
+   "en": "The Boy from Shangri-La\n\nEXTRA - Beginner STAGE 7"
+  },
+  {
+   "id": "S00345",
+   "en": "The Three Qubeley Sisters\n\nEXTRA - Intermediate STAGE 1"
+  },
+  {
+   "id": "S00346",
+   "en": "The Rival Returns\n\nEXTRA - Intermediate STAGE 2"
+  }
+ ],
+ "decisions": [
+  "Title rows: 'Title [U.C.00xx]\n\n<Name> Story - STAGE n' (en_short names); faction stages: 'STAGE n - Faction -'. Leading full-width padding dropped.",
+  "Faction labels use title case ('Zeon Forces', 'Crossbone Forces') to match 'Federation Forces'; glossary lowercases 'forces' for running text.",
+  "rec1 = engage line, rec2 = victory condition (imperative), rec3 = defeat condition (descriptive: 'Your unit destroyed, or ...')."
+ ],
+ "uncertain": [
+  "S00327: glossary 'Operation Earth Cooling' is marked unverified; used as given.",
+  "S00302/S00314/S00318/S00322/S00325: read rec3 as defeat conditions (S00322 Nahel Argama on the AEUG side supports this).",
+  "S00340: ibushi-gin no gyakushuu - 'The Veterans Strike Back'; idiomatic, no official English.",
+  "S00267/S00269/S00271/S00346: episode-style titles translated literally; may have official ZZ episode English titles worth checking."
+ ]
+}

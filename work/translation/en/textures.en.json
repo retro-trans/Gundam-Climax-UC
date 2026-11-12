@@ -1,0 +1,1385 @@
+[
+ {
+  "xts": "saga_title0.fpk_/title_03.xts",
+  "image": "sub_01",
+  "style": "title_sub",
+  "en": [
+   "< Chronicle Mode >",
+   "Story mode for each character."
+  ]
+ },
+ {
+  "xts": "saga_title0.fpk_/title_03.xts",
+  "image": "sub_02",
+  "style": "title_sub",
+  "en": [
+   "< Progress Mode >",
+   "Raise your own original character."
+  ]
+ },
+ {
+  "xts": "saga_title0.fpk_/title_03.xts",
+  "image": "sub_03",
+  "style": "title_sub",
+  "en": [
+   "< Extra Mode >",
+   "Special battles for experts."
+  ]
+ },
+ {
+  "xts": "saga_title0.fpk_/title_03.xts",
+  "image": "sub_04",
+  "style": "title_sub",
+  "en": [
+   "< VS Mode >",
+   "One-on-one, two-player battles."
+  ]
+ },
+ {
+  "xts": "saga_title0.fpk_/title_03.xts",
+  "image": "sub_05",
+  "style": "title_sub",
+  "en": [
+   "< Card Collection >",
+   "View cards collected in each mode."
+  ]
+ },
+ {
+  "xts": "saga_title0.fpk_/title_03.xts",
+  "image": "sub_06",
+  "style": "title_sub",
+  "en": [
+   "< Option >",
+   "Change controls and settings."
+  ]
+ },
+ {
+  "xts": "saga_title0.fpk_/title_03.xts",
+  "image": "sub_07",
+  "style": "title_sub",
+  "en": [
+   "< Tutorial >",
+   "Learn the controls hands-on."
+  ]
+ },
+ {
+  "xts": "briefingb.fpk_/BRI_33_BASE.xts",
+  "image": "mission_text",
+  "style": "label3",
+  "en": [
+   "Mission",
+   "Victory",
+   "Defeat"
+  ]
+ },
+ {
+  "xts": "skill_panel.fpk_/AS_CYOKUGEKI.xts",
+  "image": "as_cyokugeki",
+  "style": "plate",
+  "family": "AS",
+  "en": "Bullseye"
+ },
+ {
+  "xts": "skill_panel.fpk_/AS_CYOU_HATSU.xts",
+  "image": "as_cyou_hatsu",
+  "style": "plate",
+  "family": "AS",
+  "en": "Taunt"
+ },
+ {
+  "xts": "skill_panel.fpk_/AS_DAI_KONNRAN.xts",
+  "image": "as_dai_konnran",
+  "style": "plate",
+  "family": "AS",
+  "en": "Havoc"
+ },
+ {
+  "xts": "skill_panel.fpk_/AS_FUI_UCHI.xts",
+  "image": "as_fui_uchi",
+  "style": "plate",
+  "family": "AS",
+  "en": "Sneak Attack"
+ },
+ {
+  "xts": "skill_panel.fpk_/AS_FULL_RELOAD.xts",
+  "image": "as_full_reload",
+  "style": "plate",
+  "family": "AS",
+  "en": "Full Reload"
+ },
+ {
+  "xts": "skill_panel.fpk_/AS_IATSU.xts",
+  "image": "as_iatsu",
+  "style": "plate",
+  "family": "AS",
+  "en": "Daunt"
+ },
+ {
+  "xts": "skill_panel.fpk_/AS_ICHIGEKI.xts",
+  "image": "as_ichigeki",
+  "style": "plate",
+  "family": "AS",
+  "en": "Strike"
+ },
+ {
+  "xts": "skill_panel.fpk_/AS_IKAKU.xts",
+  "image": "as_ikaku",
+  "style": "plate",
+  "family": "AS",
+  "en": "Menace"
+ },
+ {
+  "xts": "skill_panel.fpk_/AS_ISHIKI_KAKUDAI.xts",
+  "image": "as_ishiki_kakudai",
+  "style": "plate",
+  "family": "AS",
+  "en": "Mind Expansion"
+ },
+ {
+  "xts": "skill_panel.fpk_/AS_KAKURAN.xts",
+  "image": "as_kakuran",
+  "style": "plate",
+  "family": "AS",
+  "en": "Disrupt"
+ },
+ {
+  "xts": "skill_panel.fpk_/AS_KAKUSHIWAZA.xts",
+  "image": "as_kakushiwaza",
+  "style": "plate",
+  "family": "AS",
+  "en": "Secret"
+ },
+ {
+  "xts": "skill_panel.fpk_/AS_MIKIRI.xts",
+  "image": "as_mikiri",
+  "style": "plate",
+  "family": "AS",
+  "en": "Insight"
+ },
+ {
+  "xts": "skill_panel.fpk_/AS_PRESSURE.xts",
+  "image": "as_pressure",
+  "style": "plate",
+  "family": "AS",
+  "en": "Pressure"
+ },
+ {
+  "xts": "skill_panel.fpk_/AS_RUSH.xts",
+  "image": "as_rush",
+  "style": "plate",
+  "family": "AS",
+  "en": "Rush"
+ },
+ {
+  "xts": "skill_panel.fpk_/AS_SEISHIN_BOUGYO.xts",
+  "image": "as_seishin_bougyo",
+  "style": "plate",
+  "family": "AS",
+  "en": "Mental Guard"
+ },
+ {
+  "xts": "skill_panel.fpk_/AS_SNIPE.xts",
+  "image": "as_snipe",
+  "style": "plate",
+  "family": "AS",
+  "en": "Snipe"
+ },
+ {
+  "xts": "skill_panel.fpk_/AS_YUUIN.xts",
+  "image": "as_yuuin",
+  "style": "plate",
+  "family": "AS",
+  "en": "Lure"
+ },
+ {
+  "xts": "skill_panel.fpk_/AS_ZENRYOKU_KAIHOU.xts",
+  "image": "as_zenryoku_kaihou",
+  "style": "plate",
+  "family": "AS",
+  "en": "Full Release"
+ },
+ {
+  "xts": "skill_panel.fpk_/PS_AURA.xts",
+  "image": "ps_aura",
+  "style": "plate",
+  "family": "PS",
+  "en": "Aura"
+ },
+ {
+  "xts": "skill_panel.fpk_/PS_EIBIN.xts",
+  "image": "ps_eibin",
+  "style": "plate",
+  "family": "PS",
+  "en": "Keen"
+ },
+ {
+  "xts": "skill_panel.fpk_/PS_ELITE.xts",
+  "image": "ps_elite",
+  "style": "plate",
+  "family": "PS",
+  "en": "Elite"
+ },
+ {
+  "xts": "skill_panel.fpk_/PS_FUKUTU.xts",
+  "image": "ps_fukutu",
+  "style": "plate",
+  "family": "PS",
+  "en": "Resolve"
+ },
+ {
+  "xts": "skill_panel.fpk_/PS_HANDAN_RYOKU.xts",
+  "image": "ps_handan_ryoku",
+  "style": "plate",
+  "family": "PS",
+  "en": "Acumen"
+ },
+ {
+  "xts": "skill_panel.fpk_/PS_HIGH_CHARGE.xts",
+  "image": "ps_high_charge",
+  "style": "plate",
+  "family": "PS",
+  "en": "High Charge"
+ },
+ {
+  "xts": "skill_panel.fpk_/PS_HIGH_SHIELD.xts",
+  "image": "ps_high_shield",
+  "style": "plate",
+  "family": "PS",
+  "en": "High Shield"
+ },
+ {
+  "xts": "skill_panel.fpk_/PS_HISSATSU.xts",
+  "image": "ps_hissatsu",
+  "style": "plate",
+  "family": "PS",
+  "en": "Lethal"
+ },
+ {
+  "xts": "skill_panel.fpk_/PS_JUKUREN.xts",
+  "image": "ps_jukuren",
+  "style": "plate",
+  "family": "PS",
+  "en": "Veteran"
+ },
+ {
+  "xts": "skill_panel.fpk_/PS_JUNK_SHOP.xts",
+  "image": "ps_junk_shop",
+  "style": "plate",
+  "family": "PS",
+  "en": "Junk Dealer"
+ },
+ {
+  "xts": "skill_panel.fpk_/PS_KAKUSEI.xts",
+  "image": "ps_kakusei",
+  "style": "plate",
+  "family": "PS",
+  "en": "Awaken"
+ },
+ {
+  "xts": "skill_panel.fpk_/PS_KIAI.xts",
+  "image": "ps_kiai",
+  "style": "plate",
+  "family": "PS",
+  "en": "Spirit"
+ },
+ {
+  "xts": "skill_panel.fpk_/PS_KIMAGURE.xts",
+  "image": "ps_kimagure",
+  "style": "plate",
+  "family": "PS",
+  "en": "Whimsy"
+ },
+ {
+  "xts": "skill_panel.fpk_/PS_KINKYUU_BOUGYO.xts",
+  "image": "ps_kinkyuu_bougyo",
+  "style": "plate",
+  "family": "PS",
+  "en": "Emergency Guard"
+ },
+ {
+  "xts": "skill_panel.fpk_/PS_KOUKI.xts",
+  "image": "ps_kouki",
+  "style": "plate",
+  "family": "PS",
+  "en": "Noble"
+ },
+ {
+  "xts": "skill_panel.fpk_/PS_KOUSOKU_SENTOU.xts",
+  "image": "ps_kousoku_sentou",
+  "style": "plate",
+  "family": "PS",
+  "en": "Speed Combat"
+ },
+ {
+  "xts": "skill_panel.fpk_/PS_KOUUN.xts",
+  "image": "ps_kouun",
+  "style": "plate",
+  "family": "PS",
+  "en": "Luck"
+ },
+ {
+  "xts": "skill_panel.fpk_/PS_KUUCHUUSEN_PLUS.xts",
+  "image": "ps_kuuchuusen_plus",
+  "style": "plate",
+  "family": "PS",
+  "en": "Air Combat+"
+ },
+ {
+  "xts": "skill_panel.fpk_/PS_KYOUKA_NINGEN.xts",
+  "image": "ps_kyouka_ningen",
+  "style": "plate",
+  "family": "PS",
+  "en": "Cyber Newtype"
+ },
+ {
+  "xts": "skill_panel.fpk_/PS_MIWAKU.xts",
+  "image": "ps_miwaku",
+  "style": "plate",
+  "family": "PS",
+  "en": "Charm"
+ },
+ {
+  "xts": "skill_panel.fpk_/PS_NANJYAKU.xts",
+  "image": "ps_nanjyaku",
+  "style": "plate",
+  "family": "PS",
+  "en": "Wimp"
+ },
+ {
+  "xts": "skill_panel.fpk_/PS_NIGEASHI.xts",
+  "image": "ps_nigeashi",
+  "style": "plate",
+  "family": "PS",
+  "en": "Escape"
+ },
+ {
+  "xts": "skill_panel.fpk_/PS_OOGATAKI_NORI.xts",
+  "image": "ps_oogataki_nori",
+  "style": "plate",
+  "family": "PS",
+  "en": "Big Unit Pilot"
+ },
+ {
+  "xts": "skill_panel.fpk_/PS_POWER_CUSTOM.xts",
+  "image": "ps_power_custom",
+  "style": "plate",
+  "family": "PS",
+  "en": "Power Custom"
+ },
+ {
+  "xts": "skill_panel.fpk_/PS_QUICK_RELOAD.xts",
+  "image": "ps_quick_reload",
+  "style": "plate",
+  "family": "PS",
+  "en": "Quick Reload"
+ },
+ {
+  "xts": "skill_panel.fpk_/PS_SAKUTEKI.xts",
+  "image": "ps_sakuteki",
+  "style": "plate",
+  "family": "PS",
+  "en": "Recon"
+ },
+ {
+  "xts": "skill_panel.fpk_/PS_SEIJI_RYOKU.xts",
+  "image": "ps_seiji_ryoku",
+  "style": "plate",
+  "family": "PS",
+  "en": "Clout"
+ },
+ {
+  "xts": "skill_panel.fpk_/PS_SEISHIN_SYUCYU.xts",
+  "image": "ps_seishin_syucyu",
+  "style": "plate",
+  "family": "PS",
+  "en": "Concentration"
+ },
+ {
+  "xts": "skill_panel.fpk_/PS_SHUNPATSURYOKU.xts",
+  "image": "ps_shunpatsuryoku",
+  "style": "plate",
+  "family": "PS",
+  "en": "Burst"
+ },
+ {
+  "xts": "skill_panel.fpk_/PS_SOKODIKARA.xts",
+  "image": "ps_sokodikara",
+  "style": "plate",
+  "family": "PS",
+  "en": "Prevail"
+ },
+ {
+  "xts": "skill_panel.fpk_/PS_SPEED_SHOT.xts",
+  "image": "ps_speed_shot",
+  "style": "plate",
+  "family": "PS",
+  "en": "Speed Shot"
+ },
+ {
+  "xts": "skill_panel.fpk_/PS_TIJYOSEN_PLUS.xts",
+  "image": "ps_tijyosen_plus",
+  "style": "plate",
+  "family": "PS",
+  "en": "Ground Combat+"
+ },
+ {
+  "xts": "skill_panel.fpk_/PS_TOUJYOU_AEUG.xts",
+  "image": "ps_toujyou_aeug",
+  "style": "plate",
+  "family": "PS",
+  "en": "Pilot+ [AEUG]"
+ },
+ {
+  "xts": "skill_panel.fpk_/PS_TOUJYOU_AXIS.xts",
+  "image": "ps_toujyou_axis",
+  "style": "plate",
+  "family": "PS",
+  "en": "Pilot+ [Axis]"
+ },
+ {
+  "xts": "skill_panel.fpk_/PS_TOUJYOU_CROSSBONE.xts",
+  "image": "ps_toujyou_crossbone",
+  "style": "plate",
+  "family": "PS",
+  "en": "Pilot+ [Crossbone]"
+ },
+ {
+  "xts": "skill_panel.fpk_/PS_TOUJYOU_EFSF.xts",
+  "image": "ps_toujyou_efsf",
+  "style": "plate",
+  "family": "PS",
+  "en": "Pilot+ [Federation]"
+ },
+ {
+  "xts": "skill_panel.fpk_/PS_TOUJYOU_NEO_ZEON.xts",
+  "image": "ps_toujyou_neo_zeon",
+  "style": "plate",
+  "family": "PS",
+  "en": "Pilot+ [Neo Zeon]"
+ },
+ {
+  "xts": "skill_panel.fpk_/PS_TOUJYOU_NEW_EFSF.xts",
+  "image": "ps_toujyou_new_efsf",
+  "style": "plate",
+  "family": "PS",
+  "en": "Pilot+ [New Fed.]"
+ },
+ {
+  "xts": "skill_panel.fpk_/PS_TOUJYOU_TITANS.xts",
+  "image": "ps_toujyou_titans",
+  "style": "plate",
+  "family": "PS",
+  "en": "Pilot+ [Titans]"
+ },
+ {
+  "xts": "skill_panel.fpk_/PS_TOUJYOU_ZEON.xts",
+  "image": "ps_toujyou_zeon",
+  "style": "plate",
+  "family": "PS",
+  "en": "Pilot+ [Zeon]"
+ },
+ {
+  "xts": "skill_panel.fpk_/PS_TOUSHI.xts",
+  "image": "ps_toushi",
+  "style": "plate",
+  "family": "PS",
+  "en": "Fervor"
+ },
+ {
+  "xts": "skill_panel.fpk_/PS_TOUSOTSU.xts",
+  "image": "ps_tousotsu",
+  "style": "plate",
+  "family": "PS",
+  "en": "Command"
+ },
+ {
+  "xts": "skill_panel.fpk_/PS_UCYUUSEN_PLUS.xts",
+  "image": "ps_ucyuusen_plus",
+  "style": "plate",
+  "family": "PS",
+  "en": "Space Combat+"
+ },
+ {
+  "xts": "msskill_panel.fpk_/MS_BUG.xts",
+  "image": "ms_bug",
+  "style": "plate",
+  "family": "MS",
+  "en": "Call Bug"
+ },
+ {
+  "xts": "msskill_panel.fpk_/MS_BWS.xts",
+  "image": "ms_bws",
+  "style": "plate",
+  "family": "MS",
+  "en": "BWS Separation"
+ },
+ {
+  "xts": "msskill_panel.fpk_/MS_CHAINMAIN.xts",
+  "image": "ms_chainmain",
+  "style": "plate",
+  "family": "MS",
+  "en": "Chain Mine"
+ },
+ {
+  "xts": "msskill_panel.fpk_/MS_CHARGEKICK.xts",
+  "image": "ms_chargekick",
+  "style": "plate",
+  "family": "MS",
+  "en": "Charge Kick"
+ },
+ {
+  "xts": "msskill_panel.fpk_/MS_COMBINATION.xts",
+  "image": "ms_combination",
+  "style": "plate",
+  "family": "MS",
+  "en": "Combination"
+ },
+ {
+  "xts": "msskill_panel.fpk_/MS_DUMMY.xts",
+  "image": "ms_dummy",
+  "style": "plate",
+  "family": "MS",
+  "en": "Dummy Balloon"
+ },
+ {
+  "xts": "msskill_panel.fpk_/MS_E_WIRE.xts",
+  "image": "ms_e_wire",
+  "style": "plate",
+  "family": "MS",
+  "en": "Electromag. Wire"
+ },
+ {
+  "xts": "msskill_panel.fpk_/MS_FULL_RELOAD.xts",
+  "image": "ms_full_reload",
+  "style": "plate",
+  "family": "MS",
+  "en": "Hyper Saber"
+ },
+ {
+  "xts": "msskill_panel.fpk_/MS_GUTS.xts",
+  "image": "ms_guts",
+  "style": "plate",
+  "family": "MS",
+  "en": "Guts"
+ },
+ {
+  "xts": "msskill_panel.fpk_/MS_HEATROD.xts",
+  "image": "ms_heatrod",
+  "style": "plate",
+  "family": "MS",
+  "en": "Heat Rod"
+ },
+ {
+  "xts": "msskill_panel.fpk_/MS_HENKEI.xts",
+  "image": "ms_henkei",
+  "style": "plate",
+  "family": "MS",
+  "en": "Transformation"
+ },
+ {
+  "xts": "msskill_panel.fpk_/MS_HIDE_BOMB.xts",
+  "image": "ms_hide_bomb",
+  "style": "plate",
+  "family": "MS",
+  "en": "Hide Bomb"
+ },
+ {
+  "xts": "msskill_panel.fpk_/MS_HIGHSPEED.xts",
+  "image": "ms_highspeed",
+  "style": "plate",
+  "family": "MS",
+  "en": "High Speed Mode"
+ },
+ {
+  "xts": "msskill_panel.fpk_/MS_IFIELD.xts",
+  "image": "ms_ifield",
+  "style": "plate",
+  "family": "MS",
+  "en": "I.F. Attack"
+ },
+ {
+  "xts": "msskill_panel.fpk_/MS_INVINCIBLE.xts",
+  "image": "ms_invincible",
+  "style": "plate",
+  "family": "MS",
+  "en": "Invincible"
+ },
+ {
+  "xts": "msskill_panel.fpk_/MS_KAKUSHI_UDE.xts",
+  "image": "ms_kakushi_ude",
+  "style": "plate",
+  "family": "MS",
+  "en": "Hidden Arm"
+ },
+ {
+  "xts": "msskill_panel.fpk_/MS_KOUKIDOU.xts",
+  "image": "ms_koukidou",
+  "style": "plate",
+  "family": "MS",
+  "en": "Maneuverability"
+ },
+ {
+  "xts": "msskill_panel.fpk_/MS_LIMIT_DISARM.xts",
+  "image": "ms_limit_disarm",
+  "style": "plate",
+  "family": "MS",
+  "en": "Limit Disarm"
+ },
+ {
+  "xts": "msskill_panel.fpk_/MS_LONGRIFLE.xts",
+  "image": "ms_longrifle",
+  "style": "plate",
+  "family": "MS",
+  "en": "Long Rifle"
+ },
+ {
+  "xts": "msskill_panel.fpk_/MS_MISSILE.xts",
+  "image": "ms_missile",
+  "style": "plate",
+  "family": "MS",
+  "en": "Missile"
+ },
+ {
+  "xts": "msskill_panel.fpk_/MS_MSDUMMY.xts",
+  "image": "ms_msdummy",
+  "style": "plate",
+  "family": "MS",
+  "en": "Dummy Balloon"
+ },
+ {
+  "xts": "msskill_panel.fpk_/MS_NAGINATA.xts",
+  "image": "ms_naginata",
+  "style": "plate",
+  "family": "MS",
+  "en": "Naginata Guard"
+ },
+ {
+  "xts": "msskill_panel.fpk_/MS_POWERARMOR.xts",
+  "image": "ms_powerarmor",
+  "style": "plate",
+  "family": "MS",
+  "en": "Power Armor"
+ },
+ {
+  "xts": "msskill_panel.fpk_/MS_PSYCHOMU.xts",
+  "image": "ms_psychomu",
+  "style": "plate",
+  "family": "MS",
+  "en": "Psychomu"
+ },
+ {
+  "xts": "msskill_panel.fpk_/MS_RAPIDSHOT.xts",
+  "image": "ms_rapidshot",
+  "style": "plate",
+  "family": "MS",
+  "en": "Rapid Shot"
+ },
+ {
+  "xts": "msskill_panel.fpk_/MS_SB_COATING.xts",
+  "image": "ms_sb_coating",
+  "style": "plate",
+  "family": "MS",
+  "en": "Beam Coating"
+ },
+ {
+  "xts": "msskill_panel.fpk_/MS_SIELD_RELOAD.xts",
+  "image": "ms_sield_reload",
+  "style": "plate",
+  "family": "MS",
+  "en": "Shield Reload"
+ },
+ {
+  "xts": "msskill_panel.fpk_/MS_SNIPESHOT.xts",
+  "image": "ms_snipeshot",
+  "style": "plate",
+  "family": "MS",
+  "en": "Snipe Shot"
+ },
+ {
+  "xts": "msskill_panel.fpk_/MS_S_ANCHOR.xts",
+  "image": "ms_s_anchor",
+  "style": "plate",
+  "family": "MS",
+  "en": "Scissor Anchor"
+ },
+ {
+  "xts": "msskill_panel.fpk_/MS_S_BEAMGUN.xts",
+  "image": "ms_s_beamgun",
+  "style": "plate",
+  "family": "MS",
+  "en": "S. Beam Gun"
+ },
+ {
+  "xts": "msskill_panel.fpk_/MS_S_CHARGE.xts",
+  "image": "ms_s_charge",
+  "style": "plate",
+  "family": "MS",
+  "en": "Shoulder Charge"
+ },
+ {
+  "xts": "msskill_panel.fpk_/MS_THRUST.xts",
+  "image": "ms_thrust",
+  "style": "plate",
+  "family": "MS",
+  "en": "Thrust"
+ },
+ {
+  "xts": "msskill_panel.fpk_/MS_TORIMOCHI.xts",
+  "image": "ms_torimochi",
+  "style": "plate",
+  "family": "MS",
+  "en": "Torimochi Launcher"
+ },
+ {
+  "xts": "msskill_panel.fpk_/MS_TSUME_MISSILE.xts",
+  "image": "ms_tsume_missile",
+  "style": "plate",
+  "family": "MS",
+  "en": "Claw Missile"
+ },
+ {
+  "xts": "msskill_panel.fpk_/MS_VSBR.xts",
+  "image": "ms_vsbr",
+  "style": "plate",
+  "family": "MS",
+  "en": "V.S.B.R Snipe Shot"
+ },
+ {
+  "xts": "msskill_panel.fpk_/MS_WIREARM.xts",
+  "image": "ms_wirearm",
+  "style": "plate",
+  "family": "MS",
+  "en": "Wire Arm"
+ },
+ {
+  "xts": "resultedit.fpk_/PARAMETER.xts",
+  "image": "armor",
+  "style": "stat_result",
+  "en": "Defense"
+ },
+ {
+  "xts": "resultedit.fpk_/PARAMETER.xts",
+  "image": "cp",
+  "style": "stat_result",
+  "en": "Condition Pts"
+ },
+ {
+  "xts": "resultedit.fpk_/PARAMETER.xts",
+  "image": "infighting",
+  "style": "stat_result",
+  "en": "Melee"
+ },
+ {
+  "xts": "resultedit.fpk_/PARAMETER.xts",
+  "image": "mainweapon",
+  "style": "stat_result",
+  "en": "Shooting"
+ },
+ {
+  "xts": "resultedit.fpk_/PARAMETER.xts",
+  "image": "mobility",
+  "style": "stat_result",
+  "en": "Mobility"
+ },
+ {
+  "xts": "resultedit.fpk_/PARAMETER.xts",
+  "image": "nt",
+  "style": "stat_result",
+  "en": "Newtype"
+ },
+ {
+  "xts": "abilities.pack.fpk_/status_icon.fpk_/Class01.xts",
+  "image": "class_souchou",
+  "style": "rank_plate",
+  "en": [
+   "Master",
+   "Sergeant"
+  ]
+ },
+ {
+  "xts": "abilities.pack.fpk_/status_icon.fpk_/Class02.xts",
+  "image": "class_shoui",
+  "style": "rank_plate",
+  "en": [
+   "2nd",
+   "Lieutenant"
+  ]
+ },
+ {
+  "xts": "abilities.pack.fpk_/status_icon.fpk_/Class03.xts",
+  "image": "class_chuui",
+  "style": "rank_plate",
+  "en": [
+   "1st",
+   "Lieutenant"
+  ]
+ },
+ {
+  "xts": "abilities.pack.fpk_/status_icon.fpk_/Class04.xts",
+  "image": "class_taii",
+  "style": "rank_plate",
+  "en": [
+   "Captain"
+  ]
+ },
+ {
+  "xts": "abilities.pack.fpk_/status_icon.fpk_/Class05.xts",
+  "image": "class_shousa",
+  "style": "rank_plate",
+  "en": [
+   "Major"
+  ]
+ },
+ {
+  "xts": "abilities.pack.fpk_/status_icon.fpk_/Class06.xts",
+  "image": "class_chuusa",
+  "style": "rank_plate",
+  "en": [
+   "Lieutenant",
+   "Colonel"
+  ]
+ },
+ {
+  "xts": "abilities.pack.fpk_/status_icon.fpk_/Class07.xts",
+  "image": "class_taisa",
+  "style": "rank_plate",
+  "en": [
+   "Colonel"
+  ]
+ },
+ {
+  "xts": "abilities.pack.fpk_/status_icon.fpk_/parson_gentle.xts",
+  "image": "parson_gentle",
+  "style": "personality",
+  "en": "GENTLE"
+ },
+ {
+  "xts": "characteredit1.fpk_/CE_61_PARSONAL.xts",
+  "image": "parson_gentle",
+  "style": "personality",
+  "en": "GENTLE"
+ },
+ {
+  "xts": "abilities.pack.fpk_/status_icon.fpk_/parson_hot.xts",
+  "image": "parson_hot",
+  "style": "personality",
+  "en": "HOT-BLOOD"
+ },
+ {
+  "xts": "characteredit1.fpk_/CE_61_PARSONAL.xts",
+  "image": "parson_hot",
+  "style": "personality",
+  "en": "HOT-BLOOD"
+ },
+ {
+  "xts": "abilities.pack.fpk_/status_icon.fpk_/parson_cool.xts",
+  "image": "parson_cool",
+  "style": "personality",
+  "en": "COOL"
+ },
+ {
+  "xts": "characteredit1.fpk_/CE_61_PARSONAL.xts",
+  "image": "parson_cool",
+  "style": "personality",
+  "en": "COOL"
+ },
+ {
+  "xts": "resultedit.fpk_/STATUS.xts",
+  "image": "parson_hot",
+  "style": "personality",
+  "en": "HOT-BLOOD"
+ },
+ {
+  "xts": "resultedit.fpk_/STATUS.xts",
+  "image": "class_shoui",
+  "style": "rank_plate",
+  "en": [
+   "2nd",
+   "Lieutenant"
+  ]
+ },
+ {
+  "xts": "resultedit.fpk_/xCLASSUP.xts",
+  "image": "class_shoui",
+  "style": "rank_plate",
+  "en": [
+   "2nd",
+   "Lieutenant"
+  ]
+ },
+ {
+  "xts": "abilities.fpk_/ABI_30_ABILITY.xts",
+  "image": "armor",
+  "style": "stat_word",
+  "en": [
+   "ARMOR",
+   null
+  ]
+ },
+ {
+  "xts": "abilities.fpk_/ABI_30_ABILITY.xts",
+  "image": "cp",
+  "style": "stat_word",
+  "en": [
+   "CP",
+   "Condition Pts"
+  ]
+ },
+ {
+  "xts": "abilities.fpk_/ABI_30_ABILITY.xts",
+  "image": "infighting",
+  "style": "stat_word",
+  "en": [
+   "INFIGHTING",
+   null
+  ]
+ },
+ {
+  "xts": "abilities.fpk_/ABI_30_ABILITY.xts",
+  "image": "mainweapon",
+  "style": "stat_word",
+  "en": [
+   "MAIN WEAPON",
+   null
+  ]
+ },
+ {
+  "xts": "abilities.fpk_/ABI_30_ABILITY.xts",
+  "image": "mobility",
+  "style": "stat_word",
+  "en": [
+   "MOBILITY",
+   null
+  ]
+ },
+ {
+  "xts": "abilities.fpk_/ABI_30_ABILITY.xts",
+  "image": "nt",
+  "style": "stat_word",
+  "en": [
+   "NT",
+   "Newtype"
+  ]
+ },
+ {
+  "xts": "abilities2.fpk_/A2_50_ABILITY.xts",
+  "image": "armor",
+  "style": "stat_word",
+  "en": [
+   "ARMOR",
+   null
+  ]
+ },
+ {
+  "xts": "abilities2.fpk_/A2_50_ABILITY.xts",
+  "image": "cp",
+  "style": "stat_word",
+  "en": [
+   "CP",
+   "Condition Pts"
+  ]
+ },
+ {
+  "xts": "abilities2.fpk_/A2_50_ABILITY.xts",
+  "image": "infighting",
+  "style": "stat_word",
+  "en": [
+   "INFIGHTING",
+   null
+  ]
+ },
+ {
+  "xts": "abilities2.fpk_/A2_50_ABILITY.xts",
+  "image": "mainweapon",
+  "style": "stat_word",
+  "en": [
+   "MAIN WEAPON",
+   null
+  ]
+ },
+ {
+  "xts": "abilities2.fpk_/A2_50_ABILITY.xts",
+  "image": "mobility",
+  "style": "stat_word",
+  "en": [
+   "MOBILITY",
+   null
+  ]
+ },
+ {
+  "xts": "abilities2.fpk_/A2_50_ABILITY.xts",
+  "image": "nt",
+  "style": "stat_word",
+  "en": [
+   "NT",
+   "Newtype"
+  ]
+ },
+ {
+  "xts": "mainmenu.fpk_/MM_21_ABILITY.xts",
+  "image": "armor",
+  "style": "stat_word",
+  "en": [
+   "ARMOR",
+   null
+  ]
+ },
+ {
+  "xts": "mainmenu.fpk_/MM_21_ABILITY.xts",
+  "image": "cp",
+  "style": "stat_word",
+  "en": [
+   "CP",
+   "Condition Pts"
+  ]
+ },
+ {
+  "xts": "mainmenu.fpk_/MM_21_ABILITY.xts",
+  "image": "infighting",
+  "style": "stat_word",
+  "en": [
+   "INFIGHTING",
+   null
+  ]
+ },
+ {
+  "xts": "mainmenu.fpk_/MM_21_ABILITY.xts",
+  "image": "mainweapon",
+  "style": "stat_word",
+  "en": [
+   "MAIN WEAPON",
+   null
+  ]
+ },
+ {
+  "xts": "mainmenu.fpk_/MM_21_ABILITY.xts",
+  "image": "mobility",
+  "style": "stat_word",
+  "en": [
+   "MOBILITY",
+   null
+  ]
+ },
+ {
+  "xts": "mainmenu.fpk_/MM_21_ABILITY.xts",
+  "image": "nt",
+  "style": "stat_word",
+  "en": [
+   "NT",
+   "Newtype"
+  ]
+ },
+ {
+  "xts": "pilot_parameter.fpk_/pilot_parameter.xts",
+  "image": "armor",
+  "style": "stat_word",
+  "en": [
+   "ARMOR",
+   null
+  ]
+ },
+ {
+  "xts": "pilot_parameter.fpk_/pilot_parameter.xts",
+  "image": "cp",
+  "style": "stat_word",
+  "en": [
+   "CP",
+   "Condition Pts"
+  ]
+ },
+ {
+  "xts": "pilot_parameter.fpk_/pilot_parameter.xts",
+  "image": "infighting",
+  "style": "stat_word",
+  "en": [
+   "INFIGHTING",
+   null
+  ]
+ },
+ {
+  "xts": "pilot_parameter.fpk_/pilot_parameter.xts",
+  "image": "mainweapon",
+  "style": "stat_word",
+  "en": [
+   "MAIN WEAPON",
+   null
+  ]
+ },
+ {
+  "xts": "pilot_parameter.fpk_/pilot_parameter.xts",
+  "image": "mobility",
+  "style": "stat_word",
+  "en": [
+   "MOBILITY",
+   null
+  ]
+ },
+ {
+  "xts": "pilot_parameter.fpk_/pilot_parameter.xts",
+  "image": "nt",
+  "style": "stat_word",
+  "en": [
+   "NT",
+   "Newtype"
+  ]
+ },
+ {
+  "xts": "pause.fpk_/SKILL.xts",
+  "image": "armor",
+  "style": "stat_word",
+  "en": [
+   "ARMOR",
+   null
+  ]
+ },
+ {
+  "xts": "pause.fpk_/SKILL.xts",
+  "image": "cp",
+  "style": "stat_word",
+  "en": [
+   "CP",
+   "Condition Pts"
+  ]
+ },
+ {
+  "xts": "pause.fpk_/SKILL.xts",
+  "image": "infighting",
+  "style": "stat_word",
+  "en": [
+   "INFIGHTING",
+   null
+  ]
+ },
+ {
+  "xts": "pause.fpk_/SKILL.xts",
+  "image": "mainweapon",
+  "style": "stat_word",
+  "en": [
+   "MAIN WEAPON",
+   null
+  ]
+ },
+ {
+  "xts": "pause.fpk_/SKILL.xts",
+  "image": "mobility",
+  "style": "stat_word",
+  "en": [
+   "MOBILITY",
+   null
+  ]
+ },
+ {
+  "xts": "pause.fpk_/SKILL.xts",
+  "image": "nt",
+  "style": "stat_word",
+  "en": [
+   "NT",
+   "Newtype"
+  ]
+ },
+ {
+  "xts": "resultedit.fpk_/TITLE.xts",
+  "image": "edit_button",
+  "style": "ops",
+  "en": "RESET",
+  "ops": [
+   {
+    "rect": [
+     38,
+     43,
+     80,
+     59
+    ],
+    "text": "RESET",
+    "align": "left",
+    "outline": [
+     20,
+     20,
+     40
+    ],
+    "dy": 1,
+    "heavy": true
+   }
+  ]
+ },
+ {
+  "xts": "resultedit.fpk_/xJOUKEN.xts",
+  "image": "edit_06",
+  "style": "ops",
+  "en": "Need",
+  "ops": [
+   {
+    "rect": [
+     4,
+     4,
+     59,
+     25
+    ],
+    "text": "Need"
+   }
+  ]
+ },
+ {
+  "xts": "resultedit.fpk_/xJOUKEN.xts",
+  "image": "edit_05",
+  "style": "ops",
+  "en": "Shoot / Melee / Def. / Mobil. / Skill Req.",
+  "ops": [
+   {
+    "rect": [
+     3,
+     4,
+     50,
+     25
+    ],
+    "text": "Shoot"
+   },
+   {
+    "rect": [
+     61,
+     3,
+     104,
+     24
+    ],
+    "text": "Melee"
+   },
+   {
+    "rect": [
+     5,
+     35,
+     48,
+     56
+    ],
+    "text": "Def."
+   },
+   {
+    "rect": [
+     62,
+     35,
+     105,
+     56
+    ],
+    "text": "Mobil."
+   },
+   {
+    "rect": [
+     0,
+     93,
+     85,
+     109
+    ],
+    "text": "Skill Req.",
+    "align": "left",
+    "bold": false
+   }
+  ]
+ },
+ {
+  "xts": "abilities.pack.fpk_/status_icon.fpk_/army_aeug.xts",
+  "image": "aeug00",
+  "style": "faction",
+  "en": ""
+ },
+ {
+  "xts": "abilities.pack.fpk_/status_icon.fpk_/army_axis.xts",
+  "image": "axis00",
+  "style": "faction",
+  "en": ""
+ },
+ {
+  "xts": "abilities.pack.fpk_/status_icon.fpk_/army_cb.xts",
+  "image": "c_bone00",
+  "style": "faction",
+  "en": ""
+ },
+ {
+  "xts": "abilities.pack.fpk_/status_icon.fpk_/army_delaz.xts",
+  "image": "delaz00",
+  "style": "faction",
+  "en": ""
+ },
+ {
+  "xts": "abilities.pack.fpk_/status_icon.fpk_/army_efsf.xts",
+  "image": "efsf00",
+  "style": "faction",
+  "en": ""
+ },
+ {
+  "xts": "abilities.pack.fpk_/status_icon.fpk_/army_londbell.xts",
+  "image": "londbell00",
+  "style": "faction",
+  "en": ""
+ },
+ {
+  "xts": "abilities.pack.fpk_/status_icon.fpk_/army_neozeon.xts",
+  "image": "neozeon00",
+  "style": "faction",
+  "en": ""
+ },
+ {
+  "xts": "abilities.pack.fpk_/status_icon.fpk_/army_titans.xts",
+  "image": "titans00",
+  "style": "faction",
+  "en": ""
+ },
+ {
+  "xts": "abilities.pack.fpk_/status_icon.fpk_/army_zeon.xts",
+  "image": "zeon00",
+  "style": "faction",
+  "en": ""
+ },
+ {
+  "xts": "abilities.pack.fpk_/status_icon.fpk_/select_aeug.xts",
+  "image": "aeug00",
+  "style": "faction",
+  "en": ""
+ },
+ {
+  "xts": "abilities.pack.fpk_/status_icon.fpk_/select_axis.xts",
+  "image": "axis00",
+  "style": "faction",
+  "en": ""
+ },
+ {
+  "xts": "abilities.pack.fpk_/status_icon.fpk_/select_cb.xts",
+  "image": "c_bone00",
+  "style": "faction",
+  "en": ""
+ },
+ {
+  "xts": "abilities.pack.fpk_/status_icon.fpk_/select_delaz.xts",
+  "image": "delaz00",
+  "style": "faction",
+  "en": ""
+ },
+ {
+  "xts": "abilities.pack.fpk_/status_icon.fpk_/select_efsf.xts",
+  "image": "efsf00",
+  "style": "faction",
+  "en": ""
+ },
+ {
+  "xts": "abilities.pack.fpk_/status_icon.fpk_/select_londbell.xts",
+  "image": "londbell00",
+  "style": "faction",
+  "en": ""
+ },
+ {
+  "xts": "abilities.pack.fpk_/status_icon.fpk_/select_neozeon.xts",
+  "image": "neozeon00",
+  "style": "faction",
+  "en": ""
+ },
+ {
+  "xts": "abilities.pack.fpk_/status_icon.fpk_/select_titans.xts",
+  "image": "titans00",
+  "style": "faction",
+  "en": ""
+ },
+ {
+  "xts": "abilities.pack.fpk_/status_icon.fpk_/select_zeon.xts",
+  "image": "zeon00",
+  "style": "faction",
+  "en": ""
+ }
+]

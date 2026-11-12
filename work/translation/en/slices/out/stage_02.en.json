@@ -1,0 +1,590 @@
+{
+ "slice": "stage_02",
+ "rows_in_slice": 138,
+ "rows_examined": 138,
+ "rows": [
+  {
+   "id": "S00639",
+   "en": "EX) Beginner 1: It's No Different from a Zaku",
+   "note": "matches stage_01 S00447; parody of Ramba Ral's famous Zaku line, inverted"
+  },
+  {
+   "id": "S00640",
+   "en": "EX) Beginner 2: GM Stands in Space"
+  },
+  {
+   "id": "S00641",
+   "en": "EX) Beginner 3: Bewitching Blossom",
+   "note": "briefing S00338 title 'Bewitching Blossom' (stage_01 S00449 has 'Bewitching Flower')"
+  },
+  {
+   "id": "S00642",
+   "en": "EX) Beginner 4: Heroines"
+  },
+  {
+   "id": "S00643",
+   "en": "EX) Beginner 5: Poor Man's All-Stars"
+  },
+  {
+   "id": "S00644",
+   "en": "EX) Beginner 6: Heroes of the Sky"
+  },
+  {
+   "id": "S00645",
+   "en": "EX) Beginner 7: The Boy from Shangri-La"
+  },
+  {
+   "id": "S00646",
+   "en": "EX) Intermediate 1: The Three Qubeley Sisters"
+  },
+  {
+   "id": "S00647",
+   "en": "EX) Intermediate 2: Rival's Counterattack",
+   "note": "pun on Char's Counterattack; the briefing title for this stage is different Japanese"
+  },
+  {
+   "id": "S00648",
+   "en": "EX) Intermediate 3: Don't Give In to the Pressure!"
+  },
+  {
+   "id": "S00649",
+   "en": "EX) Intermediate 4: Fistfight on Earth"
+  },
+  {
+   "id": "S00650",
+   "en": "EX) Intermediate 5: Bigger Is Better?"
+  },
+  {
+   "id": "S00651",
+   "en": "EX) Intermediate 6: The Invincible? Fleet",
+   "note": "'?' inside title kept as in source"
+  },
+  {
+   "id": "S00652",
+   "en": "EX) Intermediate 7: Fortress of Steel"
+  },
+  {
+   "id": "S00653",
+   "en": "EX) Advanced 1: Whose Sea Is the Sea of Space?",
+   "note": "parody of Harlock's 'the sea of space is my sea'"
+  },
+  {
+   "id": "S00654",
+   "en": "EX) Advanced 2: The Red Comet Returns"
+  },
+  {
+   "id": "S00655",
+   "en": "EX) Advanced 3: Final - An Alternate Tale"
+  },
+  {
+   "id": "S00656",
+   "en": "EX) Advanced 4: Newtype Nightmare",
+   "note": "briefing S00361 title"
+  },
+  {
+   "id": "S00657",
+   "en": "EX) Advanced 5: Fight to the Death! Earth Chapter"
+  },
+  {
+   "id": "S00658",
+   "en": "EX) Advanced 6: Fight to the Death! Space Chapter"
+  },
+  {
+   "id": "S00965",
+   "en": "Viewer"
+  },
+  {
+   "id": "S00966",
+   "en": "Title"
+  },
+  {
+   "id": "S00967",
+   "en": "Battle"
+  },
+  {
+   "id": "S00968",
+   "en": "P) Create/Delete Character"
+  },
+  {
+   "id": "S00969",
+   "en": "P) Parent: Force & Personality",
+   "note": "force = faction, as in ui S00483"
+  },
+  {
+   "id": "S00970",
+   "en": "P) Force Select"
+  },
+  {
+   "id": "S00971",
+   "en": "P) Parent: Confirm Stats"
+  },
+  {
+   "id": "S00972",
+   "en": "P) Briefing"
+  },
+  {
+   "id": "S00973",
+   "en": "P) Unit Select"
+  },
+  {
+   "id": "S00974",
+   "en": "P) Card Acquired"
+  },
+  {
+   "id": "S00975",
+   "en": "P) Character Growth"
+  },
+  {
+   "id": "S00976",
+   "en": "P) Stage Clear Art",
+   "note": "single still image shown on stage clear"
+  },
+  {
+   "id": "S00977",
+   "en": "P) Save Select"
+  },
+  {
+   "id": "S00978",
+   "en": "P) Child: Pre-Marriage Info"
+  },
+  {
+   "id": "S00979",
+   "en": "P) Child: Spouse Select"
+  },
+  {
+   "id": "S00980",
+   "en": "P) Child: Post-Marriage Info"
+  },
+  {
+   "id": "S00981",
+   "en": "P) Child: Force & Personality"
+  },
+  {
+   "id": "S00982",
+   "en": "P) Child: Name Entry"
+  },
+  {
+   "id": "S00983",
+   "en": "P) Child: Confirm Stats"
+  },
+  {
+   "id": "S00984",
+   "en": "P) Timeline"
+  },
+  {
+   "id": "S00985",
+   "en": "C) Stage Select"
+  },
+  {
+   "id": "S00986",
+   "en": "C) Stage Clear Art"
+  },
+  {
+   "id": "S00987",
+   "en": "C) Briefing"
+  },
+  {
+   "id": "S00988",
+   "en": "C) Unit Select"
+  },
+  {
+   "id": "S00989",
+   "en": "C) Card Acquired"
+  },
+  {
+   "id": "S00990",
+   "en": "C) Save Select"
+  },
+  {
+   "id": "S00991",
+   "en": "EX) Stage Select"
+  },
+  {
+   "id": "S00992",
+   "en": "EX) Briefing"
+  },
+  {
+   "id": "S00993",
+   "en": "EX) Unit Select"
+  },
+  {
+   "id": "S00994",
+   "en": "EX) Card Acquired"
+  },
+  {
+   "id": "S00995",
+   "en": "EX) Save Select"
+  },
+  {
+   "id": "S00996",
+   "en": "T) Stage Select"
+  },
+  {
+   "id": "S00997",
+   "en": "T) Briefing"
+  },
+  {
+   "id": "S00998",
+   "en": "V2) Stage Select"
+  },
+  {
+   "id": "S00999",
+   "en": "V2) Unit Select"
+  },
+  {
+   "id": "S01000",
+   "en": "VC) Stage Select"
+  },
+  {
+   "id": "S01001",
+   "en": "VC) Unit Select"
+  },
+  {
+   "id": "S01002",
+   "en": "G) Card Gallery"
+  },
+  {
+   "id": "S01003",
+   "en": "G) Unit Cards"
+  },
+  {
+   "id": "S01004",
+   "en": "G) Pilot Cards"
+  },
+  {
+   "id": "S01005",
+   "en": "G) Character Cards"
+  },
+  {
+   "id": "S01006",
+   "en": "G) BGM Cards"
+  },
+  {
+   "id": "S01007",
+   "en": "G) Movie Cards"
+  },
+  {
+   "id": "S01008",
+   "en": "G) Stage Cards"
+  },
+  {
+   "id": "S01009",
+   "en": "G) History Cards"
+  },
+  {
+   "id": "S01010",
+   "en": "G) Pilot Viewer"
+  },
+  {
+   "id": "S01011",
+   "en": "G) Unit Viewer"
+  },
+  {
+   "id": "S01012",
+   "en": "PE) Ending Timeline"
+  },
+  {
+   "id": "S01013",
+   "en": "T) Unit Select"
+  },
+  {
+   "id": "S01273",
+   "en": "Into the Atmosphere",
+   "note": "briefing S00187 title"
+  },
+  {
+   "id": "S01274",
+   "en": "A Baoa Qu"
+  },
+  {
+   "id": "S01275",
+   "en": "Jaburo - Surface"
+  },
+  {
+   "id": "S01276",
+   "en": "Arid Canyon",
+   "note": "lit. 'arid-zone canyon'"
+  },
+  {
+   "id": "S01277",
+   "en": "Ruined City"
+  },
+  {
+   "id": "S01278",
+   "en": "Libot Federation Forces Base"
+  },
+  {
+   "id": "S01279",
+   "en": "Colony Interior - Mountains"
+  },
+  {
+   "id": "S01280",
+   "en": "Solomon"
+  },
+  {
+   "id": "S01281",
+   "en": "Colony Drop"
+  },
+  {
+   "id": "S01282",
+   "en": "Colony Laser"
+  },
+  {
+   "id": "S01283",
+   "en": "Jupitris"
+  },
+  {
+   "id": "S01284",
+   "en": "Wreckage"
+  },
+  {
+   "id": "S01285",
+   "en": "Green Noa Federation Forces Base"
+  },
+  {
+   "id": "S01286",
+   "en": "Lunar Surface"
+  },
+  {
+   "id": "S01287",
+   "en": "Kennedy Spaceport"
+  },
+  {
+   "id": "S01288",
+   "en": "Hong Kong City"
+  },
+  {
+   "id": "S01289",
+   "en": "Aerial - Hickory",
+   "note": "'Aerial' used throughout for the air stage type (Space / Ground / Aerial)"
+  },
+  {
+   "id": "S01290",
+   "en": "Aerial - Snowy Mountains"
+  },
+  {
+   "id": "S01291",
+   "en": "La Vie en Rose"
+  },
+  {
+   "id": "S01292",
+   "en": "Core 3"
+  },
+  {
+   "id": "S01293",
+   "en": "Axis Interior"
+  },
+  {
+   "id": "S01294",
+   "en": "Fifth Luna"
+  },
+  {
+   "id": "S01295",
+   "en": "Axis"
+  },
+  {
+   "id": "S01296",
+   "en": "Colony Cluster"
+  },
+  {
+   "id": "S01297",
+   "en": "Frontier I"
+  },
+  {
+   "id": "S01298",
+   "en": "Aerial - Colony"
+  },
+  {
+   "id": "S01299",
+   "en": "Select a space stage.",
+   "note": "leading full-width space dropped"
+  },
+  {
+   "id": "S01300",
+   "en": "Select a ground stage."
+  },
+  {
+   "id": "S01301",
+   "en": "Select an aerial stage."
+  },
+  {
+   "id": "S01302",
+   "en": "Original Space List",
+   "note": "original series (0079)"
+  },
+  {
+   "id": "S01303",
+   "en": "Original Ground List"
+  },
+  {
+   "id": "S01304",
+   "en": "08 Ground List",
+   "note": "series numbers kept as written (08/80/83/91)"
+  },
+  {
+   "id": "S01305",
+   "en": "80 Ground List"
+  },
+  {
+   "id": "S01306",
+   "en": "83 Space List"
+  },
+  {
+   "id": "S01307",
+   "en": "Z Space List"
+  },
+  {
+   "id": "S01308",
+   "en": "Z Ground List"
+  },
+  {
+   "id": "S01309",
+   "en": "Z Aerial List"
+  },
+  {
+   "id": "S01310",
+   "en": "ZZ Space List"
+  },
+  {
+   "id": "S01311",
+   "en": "ZZ Ground List"
+  },
+  {
+   "id": "S01312",
+   "en": "CCA Space List",
+   "note": "Char's Counterattack"
+  },
+  {
+   "id": "S01313",
+   "en": "91 Space List"
+  },
+  {
+   "id": "S01314",
+   "en": "91 Ground List"
+  },
+  {
+   "id": "S01315",
+   "en": "91 Aerial List"
+  },
+  {
+   "id": "S01316",
+   "en": "VS) Into the Atmosphere"
+  },
+  {
+   "id": "S01317",
+   "en": "VS) A Baoa Qu"
+  },
+  {
+   "id": "S01318",
+   "en": "VS) Jaburo - Surface"
+  },
+  {
+   "id": "S01319",
+   "en": "VS) Arid Canyon"
+  },
+  {
+   "id": "S01320",
+   "en": "VS) Ruined City"
+  },
+  {
+   "id": "S01321",
+   "en": "VS) Colony Interior - Libot Federation Forces Base"
+  },
+  {
+   "id": "S01322",
+   "en": "VS) Colony Interior - Mountains"
+  },
+  {
+   "id": "S01323",
+   "en": "VS) Solomon"
+  },
+  {
+   "id": "S01324",
+   "en": "VS) Colony Drop"
+  },
+  {
+   "id": "S01325",
+   "en": "VS) Colony Laser"
+  },
+  {
+   "id": "S01326",
+   "en": "VS) Jupitris"
+  },
+  {
+   "id": "S01327",
+   "en": "VS) Wreckage"
+  },
+  {
+   "id": "S01328",
+   "en": "VS) Colony Interior - Green Noa Federation Forces Base"
+  },
+  {
+   "id": "S01329",
+   "en": "VS) Lunar Surface"
+  },
+  {
+   "id": "S01330",
+   "en": "VS) Kennedy Spaceport"
+  },
+  {
+   "id": "S01331",
+   "en": "VS) Hong Kong City"
+  },
+  {
+   "id": "S01332",
+   "en": "VS) Aerial - Hickory"
+  },
+  {
+   "id": "S01333",
+   "en": "VS) Aerial - Snowy Mountains"
+  },
+  {
+   "id": "S01334",
+   "en": "VS) La Vie en Rose"
+  },
+  {
+   "id": "S01335",
+   "en": "VS) Core 3"
+  },
+  {
+   "id": "S01336",
+   "en": "VS) Axis Interior"
+  },
+  {
+   "id": "S01337",
+   "en": "VS) Fifth Luna"
+  },
+  {
+   "id": "S01338",
+   "en": "VS) Axis"
+  },
+  {
+   "id": "S01339",
+   "en": "VS) Colony Cluster"
+  },
+  {
+   "id": "S01340",
+   "en": "VS) Colony Interior - Frontier I"
+  },
+  {
+   "id": "S01341",
+   "en": "VS) Aerial - Colony"
+  }
+ ],
+ "decisions": [
+  "EX stage list labels mirror stage_01 'All Maps EX)' rows (S00447-S00466) without the 'All Maps' prefix; where the same Japanese is a briefing title, the briefing English wins (S00641, S00656).",
+  "Scene/stage-list prefixes (P) C) EX) T) V2) VC) G) PE) VS)) kept as written, followed by a space as in stage_01.",
+  "Air stage type = 'Aerial' (Space / Ground / Aerial); Federation base = 'Federation Forces Base' per glossary; force selection = 'Force' as in ui S00483.",
+  "Location separator (middle dot) rendered as ' - '."
+ ],
+ "uncertain": [
+  "S00641: used briefing's 'Bewitching Blossom'; stage_01 S00449 says 'Bewitching Flower' - one should be aligned.",
+  "S00656: used briefing's 'Newtype Nightmare'; stage_01 S00464 has 'The Newtype Nightmare'.",
+  "S01276/S01319: arid-zone canyon rendered 'Arid Canyon' (could be 'Desert Canyon').",
+  "S01284/S01327: 'Wreckage' (could be 'Debris Field').",
+  "S01296/S01339: 'Colony Cluster'.",
+  "S01302-S01315: VS list labels (likely internal/debug); series kept terse: Original, 08, 80, 83, Z, ZZ, CCA, 91.",
+  "S00965-S01013: scene-list labels look like a debug menu; translated anyway ('Stage Clear Art', 'Card Acquired').",
+  "S00969: 'P) Parent: Force & Personality' is 30 of 31 bytes - tight if the terminator counts inside max_bytes."
+ ]
+}

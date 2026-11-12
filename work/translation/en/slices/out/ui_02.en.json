@@ -1,0 +1,873 @@
+{
+ "slice": "ui_02",
+ "rows_in_slice": 210,
+ "rows_examined": 210,
+ "rows": [
+  {
+   "id": "S00659",
+   "en": "Confirm your selection."
+  },
+  {
+   "id": "S00660",
+   "en": "Choose your force again."
+  },
+  {
+   "id": "S00661",
+   "en": "No Force Affiliation"
+  },
+  {
+   "id": "S00662",
+   "en": "A childhood friend waiting for\nyou to come home. Inherited\nabilities are all unknown."
+  },
+  {
+   "id": "S00663",
+   "en": "Your unit's dedicated operator.\nInherited abilities excel in\nshooting and defense."
+  },
+  {
+   "id": "S00664",
+   "en": "A skilled pilot in your unit.\nInherited abilities excel in\nmelee and mobility."
+  },
+  {
+   "id": "S00665",
+   "en": "This is the Generation Change\nevent. Depending on whom you\nmarry, the pilot abilities\npassed down to your child\nwill vary greatly.\nPlease choose carefully."
+  },
+  {
+   "id": "S00666",
+   "en": "Confirm this choice?"
+  },
+  {
+   "id": "S00667",
+   "en": "Think it over again"
+  },
+  {
+   "id": "S00668",
+   "en": "Ellen Rochefil\n\nOperator"
+  },
+  {
+   "id": "S00669",
+   "en": "Shirley Ramsey\n\nPilot"
+  },
+  {
+   "id": "S00670",
+   "en": "Nagisa Florin\n\nChildhood Friend"
+  },
+  {
+   "id": "S00671",
+   "en": "Shooting"
+  },
+  {
+   "id": "S00672",
+   "en": "Defense"
+  },
+  {
+   "id": "S00673",
+   "en": "CP"
+  },
+  {
+   "id": "S00674",
+   "en": "Melee"
+  },
+  {
+   "id": "S00675",
+   "en": "Mobility"
+  },
+  {
+   "id": "S00676",
+   "en": "NT"
+  },
+  {
+   "id": "S00677",
+   "en": "chNagisa Florin",
+   "note": "S00677-S00679: 'ch'-prefixed labels, probably developer-only; prefix kept as in ui_01."
+  },
+  {
+   "id": "S00678",
+   "en": "chEllen Rochefil"
+  },
+  {
+   "id": "S00679",
+   "en": "chShirley Ramsey"
+  },
+  {
+   "id": "S00680",
+   "en": "Londo Bell"
+  },
+  {
+   "id": "S00681",
+   "en": "Neo Zeon"
+  },
+  {
+   "id": "S00682",
+   "en": "Many years pass,\nand the child becomes an adult.\n\nInheriting the name of the hero\netched into space,\n\nthe child steps onto the battlefield...",
+   "note": "Subject of the last line (omitted in Japanese) restored as 'the child' from line 2; 'the hero' = the parent."
+  },
+  {
+   "id": "S00683",
+   "en": "With every battle over,\n\nKamuna\ndecides to retire as a pilot.\n\nAnd then..."
+  },
+  {
+   "id": "S00840",
+   "en": "Resume the game."
+  },
+  {
+   "id": "S00841",
+   "en": "Delete this character."
+  },
+  {
+   "id": "S00842",
+   "en": "View this character's timeline."
+  },
+  {
+   "id": "S00843",
+   "en": "Start the game with a new character."
+  },
+  {
+   "id": "S00844",
+   "en": "Return to data selection."
+  },
+  {
+   "id": "S00845",
+   "en": "Are you sure you want to delete it?",
+   "note": "Object 'it' = the character from S00841; Japanese leaves it unstated."
+  },
+  {
+   "id": "S00846",
+   "en": "Slot 1"
+  },
+  {
+   "id": "S00847",
+   "en": "Slot 2"
+  },
+  {
+   "id": "S00848",
+   "en": "Slot 3"
+  },
+  {
+   "id": "S00849",
+   "en": "Slot 4"
+  },
+  {
+   "id": "S00850",
+   "en": "Slot 5"
+  },
+  {
+   "id": "S00851",
+   "en": "Slot 6"
+  },
+  {
+   "id": "S00852",
+   "en": "Slot 7"
+  },
+  {
+   "id": "S00853",
+   "en": "Slot 8"
+  },
+  {
+   "id": "S00854",
+   "en": "Slot 9"
+  },
+  {
+   "id": "S00855",
+   "en": "Slot 10"
+  },
+  {
+   "id": "S00856",
+   "en": "Slot 11"
+  },
+  {
+   "id": "S00857",
+   "en": "Slot 12"
+  },
+  {
+   "id": "S00858",
+   "en": "Resume"
+  },
+  {
+   "id": "S00859",
+   "en": "Delete"
+  },
+  {
+   "id": "S00860",
+   "en": "Timeline"
+  },
+  {
+   "id": "S00861",
+   "en": "2nd-Gen Character"
+  },
+  {
+   "id": "S00862",
+   "en": "Enter a name."
+  },
+  {
+   "id": "S00863",
+   "en": "cdP01 Amuro Ray",
+   "note": "S00863-S00926: 'cd'-prefixed pilot_parameter list labels, probably developer-only; 'cd' prefix and P-number kept, full-width converted to ASCII. LB/NZ/CV kept as in source (Londo Bell / Neo Zeon / Crossbone Vanguard)."
+  },
+  {
+   "id": "S00864",
+   "en": "cdP02 Kai Shiden"
+  },
+  {
+   "id": "S00865",
+   "en": "cdP03 Hayato Kobayashi"
+  },
+  {
+   "id": "S00866",
+   "en": "cdP04 Char Aznable"
+  },
+  {
+   "id": "S00867",
+   "en": "cdP05 Dozle Zabi"
+  },
+  {
+   "id": "S00868",
+   "en": "cdP06 Shiro Amada"
+  },
+  {
+   "id": "S00869",
+   "en": "cdP07 Karen Joshua"
+  },
+  {
+   "id": "S00870",
+   "en": "cdP08 Terry Sanders Jr."
+  },
+  {
+   "id": "S00871",
+   "en": "cdP09 Aina Sakhalin"
+  },
+  {
+   "id": "S00872",
+   "en": "cdP10 Norris Packard"
+  },
+  {
+   "id": "S00873",
+   "en": "cdP11 Christina Mackenzie"
+  },
+  {
+   "id": "S00874",
+   "en": "cdP12 Bernard Wiseman"
+  },
+  {
+   "id": "S00875",
+   "en": "cdP13 Kou Uraki"
+  },
+  {
+   "id": "S00876",
+   "en": "cdP14 South Burning"
+  },
+  {
+   "id": "S00877",
+   "en": "cdP15 Anavel Gato"
+  },
+  {
+   "id": "S00878",
+   "en": "cdP16 Cima Garahau"
+  },
+  {
+   "id": "S00879",
+   "en": "cdP17 Kamille Bidan"
+  },
+  {
+   "id": "S00880",
+   "en": "cdP18 Quattro Bajeena"
+  },
+  {
+   "id": "S00881",
+   "en": "cdP19 Emma Sheen"
+  },
+  {
+   "id": "S00882",
+   "en": "cdP20 Amuro Ray (Z)"
+  },
+  {
+   "id": "S00883",
+   "en": "cdP21 Jerid Messa"
+  },
+  {
+   "id": "S00884",
+   "en": "cdP22 Four Murasame"
+  },
+  {
+   "id": "S00885",
+   "en": "cdP23 Paptimus Scirocco"
+  },
+  {
+   "id": "S00886",
+   "en": "cdP24 Buran Blutarch"
+  },
+  {
+   "id": "S00887",
+   "en": "cdP25 Yazan Gable"
+  },
+  {
+   "id": "S00888",
+   "en": "cdP26 Haman Karn"
+  },
+  {
+   "id": "S00889",
+   "en": "cdP27 Judau Ashta"
+  },
+  {
+   "id": "S00890",
+   "en": "cdP28 Roux Louka"
+  },
+  {
+   "id": "S00891",
+   "en": "cdP29 Haman Karn (ZZ)"
+  },
+  {
+   "id": "S00892",
+   "en": "cdP30 Elpeo Ple"
+  },
+  {
+   "id": "S00893",
+   "en": "cdP31 Ple-Two"
+  },
+  {
+   "id": "S00894",
+   "en": "cdP32 Mashymre Cello"
+  },
+  {
+   "id": "S00895",
+   "en": "cdP33 Rakan Dahkaran"
+  },
+  {
+   "id": "S00896",
+   "en": "cdP34 Glemy Toto"
+  },
+  {
+   "id": "S00897",
+   "en": "cdP35 Amuro Ray (CCA)"
+  },
+  {
+   "id": "S00898",
+   "en": "cdP36 Kayra Su"
+  },
+  {
+   "id": "S00899",
+   "en": "cdP37 Char Aznable (CCA)"
+  },
+  {
+   "id": "S00900",
+   "en": "cdP38 Quess Paraya"
+  },
+  {
+   "id": "S00901",
+   "en": "cdP39 Gyunei Guss"
+  },
+  {
+   "id": "S00902",
+   "en": "cdP40 Rezin Schnyder"
+  },
+  {
+   "id": "S00903",
+   "en": "cdP41 Seabook Arno"
+  },
+  {
+   "id": "S00904",
+   "en": "cdP42 Cecily Fairchild"
+  },
+  {
+   "id": "S00905",
+   "en": "cdP43 Zabine Chareux"
+  },
+  {
+   "id": "S00906",
+   "en": "cdP44 Carozzo Ronah"
+  },
+  {
+   "id": "S00907",
+   "en": "cdP45 Dorel Ronah"
+  },
+  {
+   "id": "S00908",
+   "en": "cdP46 Kincade Nau"
+  },
+  {
+   "id": "S00909",
+   "en": "cdP47 Tobia Arronax"
+  },
+  {
+   "id": "S00910",
+   "en": "cdP48 Zabine Chareux (XcdB)",
+   "note": "Source reads '(X cd B)' - 'cd' inside the bracket looks like a stray code or typo for XB (Crossbone); kept verbatim."
+  },
+  {
+   "id": "S00911",
+   "en": "cdP49 Kamuna Tachibana (LB)"
+  },
+  {
+   "id": "S00912",
+   "en": "cdP50 Kamuna Tachibana (NZ)"
+  },
+  {
+   "id": "S00913",
+   "en": "cdP51 Shirley Ramsey (LB)"
+  },
+  {
+   "id": "S00914",
+   "en": "cdP52 Shirley Ramsey (NZ)"
+  },
+  {
+   "id": "S00915",
+   "en": "cdP53 Pamir McDamil (LB)",
+   "note": "Source spells the surname Magudamiru here; glossary spelling McDamil used."
+  },
+  {
+   "id": "S00916",
+   "en": "cdP54 Pamir McDamil (NZ)"
+  },
+  {
+   "id": "S00917",
+   "en": "cdP55 Aegis Veracruz (Federation)"
+  },
+  {
+   "id": "S00918",
+   "en": "cdP56 Aegis Veracruz (CV)"
+  },
+  {
+   "id": "S00919",
+   "en": "cdP57 Progress Male A (Federation)"
+  },
+  {
+   "id": "S00920",
+   "en": "cdP58 Progress Male A (CV)"
+  },
+  {
+   "id": "S00921",
+   "en": "cdP59 Progress Male B (Federation)"
+  },
+  {
+   "id": "S00922",
+   "en": "cdP60 Progress Male B (CV)"
+  },
+  {
+   "id": "S00923",
+   "en": "cdP61 Progress Female A (Federation)"
+  },
+  {
+   "id": "S00924",
+   "en": "cdP62 Progress Female A (CV)"
+  },
+  {
+   "id": "S00925",
+   "en": "cdP63 Progress Female B (Federation)"
+  },
+  {
+   "id": "S00926",
+   "en": "cdP64 Progress Female B (CV)"
+  },
+  {
+   "id": "S00927",
+   "en": "Kai Shiden"
+  },
+  {
+   "id": "S00928",
+   "en": "Hayato Kobayashi"
+  },
+  {
+   "id": "S00929",
+   "en": "Dozle Zabi"
+  },
+  {
+   "id": "S00930",
+   "en": "Karen Joshua"
+  },
+  {
+   "id": "S00931",
+   "en": "Terry Sanders Jr."
+  },
+  {
+   "id": "S00932",
+   "en": "South Burning"
+  },
+  {
+   "id": "S00933",
+   "en": "Emma Sheen"
+  },
+  {
+   "id": "S00934",
+   "en": "Amuro Ray (Z)"
+  },
+  {
+   "id": "S00935",
+   "en": "Buran Blutarch"
+  },
+  {
+   "id": "S00936",
+   "en": "Yazan Gable"
+  },
+  {
+   "id": "S00937",
+   "en": "Ple-Two"
+  },
+  {
+   "id": "S00938",
+   "en": "Rakan Dahkaran"
+  },
+  {
+   "id": "S00939",
+   "en": "Glemy Toto"
+  },
+  {
+   "id": "S00940",
+   "en": "Kayra Su"
+  },
+  {
+   "id": "S00941",
+   "en": "Quess Paraya"
+  },
+  {
+   "id": "S00942",
+   "en": "Gyunei Guss"
+  },
+  {
+   "id": "S00943",
+   "en": "Rezin Schnyder"
+  },
+  {
+   "id": "S00944",
+   "en": "Carozzo Ronah"
+  },
+  {
+   "id": "S00945",
+   "en": "Dorel Ronah"
+  },
+  {
+   "id": "S00946",
+   "en": "Kincade Nau"
+  },
+  {
+   "id": "S00947",
+   "en": "Tobia Arronax"
+  },
+  {
+   "id": "S00948",
+   "en": "Zabine Chareux (XV)",
+   "note": "(XV) kept as in source; presumably Crossbone Vanguard."
+  },
+  {
+   "id": "S00949",
+   "en": "Kamuna Tachibana (Londo Bell)"
+  },
+  {
+   "id": "S00950",
+   "en": "Kamuna Tachibana (Neo Zeon)"
+  },
+  {
+   "id": "S00951",
+   "en": "Shirley Ramsey (Londo Bell)"
+  },
+  {
+   "id": "S00952",
+   "en": "Shirley Ramsey (Neo Zeon)"
+  },
+  {
+   "id": "S00953",
+   "en": "Pamir McDamil (Londo Bell)"
+  },
+  {
+   "id": "S00954",
+   "en": "Pamir McDamil (Neo Zeon)"
+  },
+  {
+   "id": "S00955",
+   "en": "Aegis Veracruz (Earth Federation Forces)"
+  },
+  {
+   "id": "S00956",
+   "en": "Aegis Veracruz (Crossbone Vanguard)"
+  },
+  {
+   "id": "S00957",
+   "en": "Jr. Male A (Federation)"
+  },
+  {
+   "id": "S00958",
+   "en": "Jr. Male A (CV)"
+  },
+  {
+   "id": "S00959",
+   "en": "Jr. Male B (Federation)"
+  },
+  {
+   "id": "S00960",
+   "en": "Jr. Male B (CV)"
+  },
+  {
+   "id": "S00961",
+   "en": "Jr. Female A (Federation)"
+  },
+  {
+   "id": "S00962",
+   "en": "Jr. Female A (CV)"
+  },
+  {
+   "id": "S00963",
+   "en": "Jr. Female B (Federation)"
+  },
+  {
+   "id": "S00964",
+   "en": "Jr. Female B (CV)"
+  },
+  {
+   "id": "S01014",
+   "en": "Beginner: Movement Controls"
+  },
+  {
+   "id": "S01015",
+   "en": "Intermediate: Attack Controls"
+  },
+  {
+   "id": "S01016",
+   "en": "Tutorial Level"
+  },
+  {
+   "id": "S01017",
+   "en": "Advanced: Applied Skills & Combat,"
+  },
+  {
+   "id": "S01018",
+   "en": "Advanced: Applied Skills & Practice"
+  },
+  {
+   "id": "S01019",
+   "en": "Start Tutorial: Beginner."
+  },
+  {
+   "id": "S01020",
+   "en": "Start Tutorial: Intermediate."
+  },
+  {
+   "id": "S01021",
+   "en": "Start Tutorial: Advanced."
+  },
+  {
+   "id": "S01022",
+   "en": "T)Stage 1_Beginner",
+   "note": "S01022-S01024: label-like strings; 'T)' and '_' kept."
+  },
+  {
+   "id": "S01023",
+   "en": "T)Stage 2_Intermediate"
+  },
+  {
+   "id": "S01024",
+   "en": "T)Stage 3_Advanced"
+  },
+  {
+   "id": "S01025",
+   "en": "Select an MS."
+  },
+  {
+   "id": "S01026",
+   "en": "Select an MS: Player 1"
+  },
+  {
+   "id": "S01027",
+   "en": "Select an MS: Player 2"
+  },
+  {
+   "id": "S01028",
+   "en": "Select a pilot."
+  },
+  {
+   "id": "S01029",
+   "en": "Select a pilot: Player 1"
+  },
+  {
+   "id": "S01030",
+   "en": "Select a pilot: Player 2"
+  },
+  {
+   "id": "S01031",
+   "en": "Select a skill to use."
+  },
+  {
+   "id": "S01032",
+   "en": "Select a skill to use: Player 1"
+  },
+  {
+   "id": "S01033",
+   "en": "Select a skill to use: Player 2"
+  },
+  {
+   "id": "S01034",
+   "en": "Show the MS active skill description."
+  },
+  {
+   "id": "S01035",
+   "en": "Show the pilot active skill description."
+  },
+  {
+   "id": "S01036",
+   "en": "Confirm and start the stage."
+  },
+  {
+   "id": "S01037",
+   "en": "Return to skill selection."
+  },
+  {
+   "id": "S01038",
+   "en": "Gundam"
+  },
+  {
+   "id": "S01039",
+   "en": "Guncannon"
+  },
+  {
+   "id": "S01040",
+   "en": "GM"
+  },
+  {
+   "id": "S01041",
+   "en": "Zaku II F Type (near F2)",
+   "note": "Developer-style note: F Type leaning toward the F2."
+  },
+  {
+   "id": "S01042",
+   "en": "Char's Zaku II"
+  },
+  {
+   "id": "S01043",
+   "en": "Dom"
+  },
+  {
+   "id": "S01044",
+   "en": "Rick Dom"
+  },
+  {
+   "id": "S01045",
+   "en": "Gelgoog"
+  },
+  {
+   "id": "S01046",
+   "en": "Big Zam"
+  },
+  {
+   "id": "S01047",
+   "en": "Zeong"
+  },
+  {
+   "id": "S01048",
+   "en": "Ez8",
+   "note": "Short form as in source (glossary: Gundam Ez8)."
+  },
+  {
+   "id": "S01049",
+   "en": "Gundam Ground Type"
+  },
+  {
+   "id": "S01050",
+   "en": "Zaku II J Type"
+  },
+  {
+   "id": "S01051",
+   "en": "Gouf Custom"
+  },
+  {
+   "id": "S01052",
+   "en": "Apsaras II"
+  },
+  {
+   "id": "S01053",
+   "en": "Alex"
+  },
+  {
+   "id": "S01054",
+   "en": "Kampfer"
+  },
+  {
+   "id": "S01055",
+   "en": "Zaku II FZ"
+  },
+  {
+   "id": "S01056",
+   "en": "GP-01Fb",
+   "note": "Model code kept as written in source."
+  },
+  {
+   "id": "S01057",
+   "en": "Dendrobium",
+   "note": "Short form as in source; full 'Gundam GP03 Dendrobium' would exceed 19 bytes."
+  },
+  {
+   "id": "S01058",
+   "en": "GM Custom"
+  },
+  {
+   "id": "S01059",
+   "en": "GP-02A"
+  },
+  {
+   "id": "S01060",
+   "en": "Neue Ziel"
+  },
+  {
+   "id": "S01061",
+   "en": "Gerbera Tetra"
+  },
+  {
+   "id": "S01062",
+   "en": "Zeta Gundam"
+  },
+  {
+   "id": "S01063",
+   "en": "Gundam Mk-II (AEUG)"
+  },
+  {
+   "id": "S01064",
+   "en": "Hyaku-Shiki"
+  },
+  {
+   "id": "S01065",
+   "en": "GM II (Green)"
+  },
+  {
+   "id": "S01066",
+   "en": "GM II"
+  },
+  {
+   "id": "S01067",
+   "en": "Hizack (Green)"
+  },
+  {
+   "id": "S01068",
+   "en": "Hizack (Blue)"
+  },
+  {
+   "id": "S01069",
+   "en": "Gundam Mk-II (Titans)"
+  },
+  {
+   "id": "S01070",
+   "en": "Marasai"
+  },
+  {
+   "id": "S01071",
+   "en": "Asshimar"
+  },
+  {
+   "id": "S01072",
+   "en": "Psycho Gundam"
+  },
+  {
+   "id": "S01073",
+   "en": "The-O",
+   "note": "Glossary spelling (source writes THE-O)."
+  }
+ ],
+ "decisions": [
+  "Leading full-width centring spaces dropped; line counts kept on all multi-line rows.",
+  "'ch' and 'cd' prefixed label rows (S00677-S00679, S00863-S00926) look developer-only; prefixes kept like ui_01's 'io'/'ch' rows.",
+  "Mobile suit short forms in the source (Ez8, Dendrobium, GP-01Fb, GP-02A) kept short; 19-byte slots all fit."
+ ],
+ "uncertain": [
+  "S00910: '(X cd B)' in source - stray 'cd' code or typo for XB; kept verbatim as '(XcdB)'.",
+  "S00948: '(XV)' tag meaning unclear (Crossbone Vanguard?); kept as XV.",
+  "S00682: last-line subject restored as 'the child' (gender unknown); 'the hero' assumed to be the parent.",
+  "S00845: object 'it' (the character) inferred from S00841.",
+  "S00861: '2nd-Gen Character' abbreviated for width; full form 'Second-Generation Character' if room.",
+  "S00662: 'waiting for you to come home' - 'you' = player character (Kamuna)."
+ ]
+}

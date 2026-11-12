@@ -1,0 +1,350 @@
+{
+ "slice": "mission_intro_04",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "S01988",
+   "en": "Amuro and the rest of Londo Bell",
+   "note": "cc03 continues from S01982-S01987 (prev slice)"
+  },
+  {
+   "id": "S01989",
+   "en": "draw up a plan to blow Axis apart from within"
+  },
+  {
+   "id": "S01990",
+   "en": "and clash with Char's main force."
+  },
+  {
+   "id": "S01991",
+   "en": "And the new mobile suit Amuro designed,"
+  },
+  {
+   "id": "S01992",
+   "en": "the \"Nu Gundam,\""
+  },
+  {
+   "id": "S01993",
+   "en": "was about to be unveiled."
+  },
+  {
+   "id": "S01994",
+   "en": "With his operation on track, Char"
+  },
+  {
+   "id": "S01995",
+   "en": "goes after the greatest obstacle left, Londo Bell,"
+  },
+  {
+   "id": "S01996",
+   "en": "launching to meet them head-on.",
+   "note": "shutsugeki + mukaeutsu = sortie to intercept; split across 1995/1996 to keep cut point"
+  },
+  {
+   "id": "S01997",
+   "en": "It was also a chance to face his longtime rival,"
+  },
+  {
+   "id": "S01998",
+   "en": "Amuro, and settle things once and for all."
+  },
+  {
+   "id": "S01999",
+   "en": "U.C. 0079.10"
+  },
+  {
+   "id": "S02000",
+   "en": "Universal Century 0079."
+  },
+  {
+   "id": "S02001",
+   "en": "The Principality of Zeon challenged the Earth Federation Forces",
+   "note": "jionkoukokugun rendered 'Principality of Zeon' (not '...Forces') to keep width; if too wide: 'Zeon challenged the Earth Federation Forces'"
+  },
+  {
+   "id": "S02002",
+   "en": "in a war of independence, and with the front in deadlock,"
+  },
+  {
+   "id": "S02003",
+   "en": "more than eight months had passed."
+  },
+  {
+   "id": "S02004",
+   "en": "Major Char Aznable of the Zeon forces,"
+  },
+  {
+   "id": "S02005",
+   "en": "learning that in the space colony Side 7"
+  },
+  {
+   "id": "S02006",
+   "en": "the Federation Forces are developing a new weapon,"
+  },
+  {
+   "id": "S02007",
+   "en": "launches a surprise attack on it."
+  },
+  {
+   "id": "S02008",
+   "en": "But a civilian boy caught in the evacuation,"
+  },
+  {
+   "id": "S02009",
+   "en": "Amuro Ray, happens upon the Earth Federation Forces'",
+   "note": "guuzen (by chance) carried by 'happens upon'"
+  },
+  {
+   "id": "S02010",
+   "en": "newest mobile suit, the \"Gundam,\""
+  },
+  {
+   "id": "S02011",
+   "en": "climbs aboard, and takes on the Zeon mobile suits,"
+  },
+  {
+   "id": "S02012",
+   "en": "destroying them."
+  },
+  {
+   "id": "S02013",
+   "en": "Having narrowly escaped Side 7,"
+  },
+  {
+   "id": "S02014",
+   "en": "Amuro and the others, and the near-amateur crew"
+  },
+  {
+   "id": "S02015",
+   "en": "of the cutting-edge warship White Base,"
+  },
+  {
+   "id": "S02016",
+   "en": "head for the Federation Forces' HQ on Earth,"
+  },
+  {
+   "id": "S02017",
+   "en": "\"Jaburo.\""
+  },
+  {
+   "id": "S02018",
+   "en": "But Char, relentlessly pursuing them,"
+  },
+  {
+   "id": "S02019",
+   "en": "targets the moment they enter the atmosphere"
+  },
+  {
+   "id": "S02020",
+   "en": "and launches his attack."
+  },
+  {
+   "id": "S02021",
+   "en": "Jaburo",
+   "note": "full-width subtitle converted to ASCII; shared by fg03/pr_0a01/pr_0b01"
+  },
+  {
+   "id": "S02022",
+   "en": "After countless fierce battles, the White Base"
+  },
+  {
+   "id": "S02023",
+   "en": "had at last reached the Federation Forces base \"Jaburo,\""
+  },
+  {
+   "id": "S02024",
+   "en": "but even so,",
+   "note": "subject White Base moved up to S02022 for English word order; this row keeps the 'but' (de atta ga)"
+  },
+  {
+   "id": "S02025",
+   "en": "the fighting does not end."
+  },
+  {
+   "id": "S02026",
+   "en": "Char, who had pursued the White Base there,"
+  },
+  {
+   "id": "S02027",
+   "en": "succeeds in finding a secret entrance"
+  },
+  {
+   "id": "S02028",
+   "en": "to Jaburo.",
+   "note": "'Jaburo' shifted from 2027 to 2028 and 'succeeds' to 2027 for English order"
+  },
+  {
+   "id": "S02029",
+   "en": "Seizing this chance, the Zeon forces'"
+  },
+  {
+   "id": "S02030",
+   "en": "\"Jaburo Invasion Operation\""
+  },
+  {
+   "id": "S02031",
+   "en": "is set to begin."
+  },
+  {
+   "id": "S02032",
+   "en": "Solomon"
+  },
+  {
+   "id": "S02033",
+   "en": "The space fortress Solomon."
+  },
+  {
+   "id": "S02034",
+   "en": "The pride of the Zeon forces, their forward base in space."
+  },
+  {
+   "id": "S02035",
+   "en": "Having retaken Zeon's bases on Earth one after another,"
+  },
+  {
+   "id": "S02036",
+   "en": "the Earth Federation Forces set their next target:"
+  },
+  {
+   "id": "S02037",
+   "en": "Solomon."
+  },
+  {
+   "id": "S02038",
+   "en": "Taking this very fortress"
+  },
+  {
+   "id": "S02039",
+   "en": "will be the first step of the Federation's counteroffensive in space."
+  },
+  {
+   "id": "S02040",
+   "en": "The White Base, too,"
+  },
+  {
+   "id": "S02041",
+   "en": "was to be pressed into this battle."
+  },
+  {
+   "id": "S02042",
+   "en": "The demon lurking in Solomon..."
+  },
+  {
+   "id": "S02043",
+   "en": "Against the giant mobile armor \"Big Zam,\""
+  },
+  {
+   "id": "S02044",
+   "en": "a fierce battle begins."
+  },
+  {
+   "id": "S02045",
+   "en": "A Baoa Qu",
+   "note": "full-width subtitle converted to ASCII; shared by several files"
+  },
+  {
+   "id": "S02046",
+   "en": "Universal Century 0079, December 29."
+  },
+  {
+   "id": "S02047",
+   "en": "The Earth Federation Forces' space counteroffensive,"
+  },
+  {
+   "id": "S02048",
+   "en": "\"Operation Star One,\" had entered its final stage,"
+  },
+  {
+   "id": "S02049",
+   "en": "and from the captured space fortress Solomon,"
+  },
+  {
+   "id": "S02050",
+   "en": "the Federation's main fleet, led by General Revil,"
+  },
+  {
+   "id": "S02051",
+   "en": "set out for A Baoa Qu."
+  },
+  {
+   "id": "S02052",
+   "en": "But suddenly, a single beam of light streaked across space."
+  },
+  {
+   "id": "S02053",
+   "en": "The Principality of Zeon's ultimate weapon,"
+  },
+  {
+   "id": "S02054",
+   "en": "the colony laser cannon \"Solar Ray,\""
+  },
+  {
+   "id": "S02055",
+   "en": "had blasted a third of the Federation fleet"
+  },
+  {
+   "id": "S02056",
+   "en": "out of existence."
+  },
+  {
+   "id": "S02057",
+   "en": "With General Revil lost to this blow,"
+  },
+  {
+   "id": "S02058",
+   "en": "the Federation Forces still push ahead with the operation."
+  },
+  {
+   "id": "S02059",
+   "en": "Now, the last great battle of the One Year War,"
+  },
+  {
+   "id": "S02060",
+   "en": "the operation to take A Baoa Qu,",
+   "note": "source uses half-width dots here; same name"
+  },
+  {
+   "id": "S02061",
+   "en": "is about to begin."
+  },
+  {
+   "id": "S02062",
+   "en": "Destined rivals, Amuro and Char."
+  },
+  {
+   "id": "S02063",
+   "en": "How will their battle end...?"
+  },
+  {
+   "id": "S02064",
+   "en": "Universal Century 0079, December 30."
+  },
+  {
+   "id": "S02065",
+   "en": "Though he attacks the White Base again and again,",
+   "note": "'he' anticipates Char (named in S02067), as the Japanese delays the subject"
+  },
+  {
+   "id": "S02066",
+   "en": "the power of the Gundam piloted by Amuro Ray"
+  },
+  {
+   "id": "S02067",
+   "en": "leaves Char Aznable with nothing to show for it.",
+   "note": "Japanese is a noun phrase ending on Char's name; sentence may continue in mission_intro_05"
+  }
+ ],
+ "decisions": [
+  "Narration tense follows the source: past where the Japanese uses ta/teita, narrative present elsewhere.",
+  "jionkoukokugun (Principality of Zeon Forces) written as 'Principality of Zeon' in S02001/S02053 for width; jiongun = 'Zeon forces'; rengougun = 'Federation Forces' (or 'Federation' as possessive where the line was long: S02039, S02050, S02055).",
+  "Bracketed names keep double quotes (\"Nu Gundam\", \"Gundam\", \"Jaburo\", \"Big Zam\", \"Solar Ray\", \"Operation Star One\").",
+  "Small cross-row word shifts where English order demanded it (S01995-96, S02022-24, S02027-28); no rows merged or split."
+ ],
+ "uncertain": [
+  "S02030: 'Jaburo Invasion Operation' is a literal rendering of the operation name; no glossary entry. Could be 'invasion of Jaburo' if a canonical name exists.",
+  "S02001/S02053: used 'Principality of Zeon' instead of glossary 'Principality of Zeon Forces' to save width; restore if the line fits.",
+  "S02024: 'but even so,' is a thin row because the White Base subject moved to S02022; check it reads well on screen.",
+  "S02001, S02039, S02052: longer than the 2.4x width guide; need measurement."
+ ]
+}

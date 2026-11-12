@@ -1,0 +1,316 @@
+{
+ "slice": "elf_02",
+ "rows_in_slice": 75,
+ "rows_examined": 75,
+ "rows": [
+  {
+   "id": "S02665",
+   "en": "Recon"
+  },
+  {
+   "id": "S02666",
+   "en": "Emergency Guard"
+  },
+  {
+   "id": "S02667",
+   "en": "Clout"
+  },
+  {
+   "id": "S02668",
+   "en": "Elite"
+  },
+  {
+   "id": "S02669",
+   "en": "Pilot+ [Federation]"
+  },
+  {
+   "id": "S02670",
+   "en": "Pilot+ [Zeon]"
+  },
+  {
+   "id": "S02671",
+   "en": "Pilot+ [AEUG]"
+  },
+  {
+   "id": "S02672",
+   "en": "Pilot+ [Titans]"
+  },
+  {
+   "id": "S02673",
+   "en": "Pilot+ [Axis]"
+  },
+  {
+   "id": "S02674",
+   "en": "Pilot+ [Neo Zeon]"
+  },
+  {
+   "id": "S02675",
+   "en": "Pilot+ [Crossbone]"
+  },
+  {
+   "id": "S02676",
+   "en": "Pilot+ [Federation F91]"
+  },
+  {
+   "id": "S02677",
+   "en": "Dai Tachibana"
+  },
+  {
+   "id": "S02678",
+   "en": "Hisa Tachibana"
+  },
+  {
+   "id": "S02679",
+   "en": "Hyde Tachibana"
+  },
+  {
+   "id": "S02680",
+   "en": "Takuma Tachibana"
+  },
+  {
+   "id": "S02681",
+   "en": "Anri Tachibana",
+   "note": "Could also be French 'Henri'; kept Hepburn"
+  },
+  {
+   "id": "S02682",
+   "en": "Hagane Tachibana"
+  },
+  {
+   "id": "S02683",
+   "en": "Subaru Tachibana"
+  },
+  {
+   "id": "S02684",
+   "en": "Vino Tachibana"
+  },
+  {
+   "id": "S02685",
+   "en": "Jay Tachibana"
+  },
+  {
+   "id": "S02686",
+   "en": "Amon Tachibana"
+  },
+  {
+   "id": "S02687",
+   "en": "Reiji Tachibana"
+  },
+  {
+   "id": "S02688",
+   "en": "Rai Tachibana"
+  },
+  {
+   "id": "S02689",
+   "en": "Edge Tachibana"
+  },
+  {
+   "id": "S02690",
+   "en": "Ryo Tachibana"
+  },
+  {
+   "id": "S02691",
+   "en": "Dan Tachibana"
+  },
+  {
+   "id": "S02692",
+   "en": "Takumi Tachibana"
+  },
+  {
+   "id": "S02693",
+   "en": "Kyo Tachibana"
+  },
+  {
+   "id": "S02694",
+   "en": "Shion Tachibana"
+  },
+  {
+   "id": "S02695",
+   "en": "Akira Tachibana"
+  },
+  {
+   "id": "S02696",
+   "en": "Shun Tachibana"
+  },
+  {
+   "id": "S02697",
+   "en": "Bray the Inferno"
+  },
+  {
+   "id": "S02698",
+   "en": "Eagle the Skywalker"
+  },
+  {
+   "id": "S02699",
+   "en": "Kite the Surge"
+  },
+  {
+   "id": "S02700",
+   "en": "Steadfast Rock"
+  },
+  {
+   "id": "S02701",
+   "en": "Frous the Iceman"
+  },
+  {
+   "id": "S02702",
+   "en": "Ein of Iron Will"
+  },
+  {
+   "id": "S02703",
+   "en": "Fenri the Silver Wolf"
+  },
+  {
+   "id": "S02704",
+   "en": "Iska the Golden Lion"
+  },
+  {
+   "id": "S02705",
+   "en": "Reaper Wraith"
+  },
+  {
+   "id": "S02706",
+   "en": "War Demon Stein"
+  },
+  {
+   "id": "S02707",
+   "en": "Alfred"
+  },
+  {
+   "id": "S02708",
+   "en": "Frederick"
+  },
+  {
+   "id": "S02709",
+   "en": "Wernhard"
+  },
+  {
+   "id": "S02710",
+   "en": "Wedgwood"
+  },
+  {
+   "id": "S02711",
+   "en": "Edwin"
+  },
+  {
+   "id": "S02712",
+   "en": "Aviars"
+  },
+  {
+   "id": "S02713",
+   "en": "Danjuro"
+  },
+  {
+   "id": "S02714",
+   "en": "Sigurd"
+  },
+  {
+   "id": "S02715",
+   "en": "Cheiwon"
+  },
+  {
+   "id": "S02716",
+   "en": "Shisou"
+  },
+  {
+   "id": "S02717",
+   "en": "Nana Tachibana"
+  },
+  {
+   "id": "S02718",
+   "en": "Akeno Tachibana"
+  },
+  {
+   "id": "S02719",
+   "en": "Risa Tachibana",
+   "note": "Hepburn 'Risa' (not 'Lisa'); 14 bytes"
+  },
+  {
+   "id": "S02720",
+   "en": "Yui Tachibana"
+  },
+  {
+   "id": "S02721",
+   "en": "Mami Tachibana"
+  },
+  {
+   "id": "S02722",
+   "en": "Naru Tachibana"
+  },
+  {
+   "id": "S02723",
+   "en": "Robin Tachibana"
+  },
+  {
+   "id": "S02724",
+   "en": "Shinobu Tachibana"
+  },
+  {
+   "id": "S02725",
+   "en": "Hikari Tachibana"
+  },
+  {
+   "id": "S02726",
+   "en": "Ai Tachibana"
+  },
+  {
+   "id": "S02727",
+   "en": "Suzune Tachibana"
+  },
+  {
+   "id": "S02728",
+   "en": "Homura Tachibana"
+  },
+  {
+   "id": "S02729",
+   "en": "Kureha Tachibana"
+  },
+  {
+   "id": "S02730",
+   "en": "Akane Tachibana"
+  },
+  {
+   "id": "S02731",
+   "en": "Sakuya Tachibana"
+  },
+  {
+   "id": "S02732",
+   "en": "Kairi Tachibana"
+  },
+  {
+   "id": "S02733",
+   "en": "Koto Tachibana"
+  },
+  {
+   "id": "S02734",
+   "en": "Chigusa Tachibana"
+  },
+  {
+   "id": "S02735",
+   "en": "Karin Tachibana"
+  },
+  {
+   "id": "S02736",
+   "en": "Mana Tachibana"
+  },
+  {
+   "id": "S02737",
+   "en": "Crimson Maiden Regina",
+   "note": "'Regina the Crimson Maiden' is 25 > 23, so title-first like the Japanese"
+  },
+  {
+   "id": "S02738",
+   "en": "Sylphy the Gale"
+  },
+  {
+   "id": "S02739",
+   "en": "Blue Wave Marin"
+  }
+ ],
+ "decisions": [
+  "Default pilot names: given name + 'Tachibana', Hepburn without macrons for Japanese names, natural spelling for foreign-sounding ones (Hyde, Jay, Edge, Robin).",
+  "Epithet names: 'Name the Epithet' where it fits, epithet-first ('Steadfast Rock', 'Crimson Maiden Regina') where the slot is too short.",
+  "All rows within slot_bytes; no overflow needed."
+ ],
+ "uncertain": []
+}

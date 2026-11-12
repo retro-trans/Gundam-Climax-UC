@@ -1,0 +1,881 @@
+{
+ "slice": "data_01",
+ "rows_in_slice": 205,
+ "rows_examined": 205,
+ "rows": [
+  {
+   "id": "S01342",
+   "en": "GM"
+  },
+  {
+   "id": "S01343",
+   "en": "Zaku II F Type"
+  },
+  {
+   "id": "S01344",
+   "en": "Gundam Ez8"
+  },
+  {
+   "id": "S01345",
+   "en": "Gundam Ground Type"
+  },
+  {
+   "id": "S01346",
+   "en": "Zaku II FZ"
+  },
+  {
+   "id": "S01347",
+   "en": "Gundam GP01 Full Burnern"
+  },
+  {
+   "id": "S01348",
+   "en": "Full Burnern"
+  },
+  {
+   "id": "S01349",
+   "en": "Gundam GP02A Physalis"
+  },
+  {
+   "id": "S01350",
+   "en": "Physalis"
+  },
+  {
+   "id": "S01351",
+   "en": "Gundam GP03 Dendrobium"
+  },
+  {
+   "id": "S01352",
+   "en": "Gundam Mk-II (AEUG)"
+  },
+  {
+   "id": "S01353",
+   "en": "Gundam Mk-II (AEUG)"
+  },
+  {
+   "id": "S01354",
+   "en": "Gundam Mk-II (Titans)"
+  },
+  {
+   "id": "S01355",
+   "en": "Gundam Mk-II (T)",
+   "note": "Full 'Gundam Mk-II (Titans)' is 21 bytes; mirrors the Japanese one-letter abbreviation (Te)."
+  },
+  {
+   "id": "S01356",
+   "en": "GM II"
+  },
+  {
+   "id": "S01357",
+   "en": "GM II (AEUG)"
+  },
+  {
+   "id": "S01358",
+   "en": "The-O"
+  },
+  {
+   "id": "S01359",
+   "en": "Hizack"
+  },
+  {
+   "id": "S01360",
+   "en": "Hizack (E.F.S.F.)"
+  },
+  {
+   "id": "S01361",
+   "en": "Hizack (Federation)",
+   "note": "Short label says only 'Federation' (renpou); fits exactly at 19."
+  },
+  {
+   "id": "S01362",
+   "en": "Quin Mantha"
+  },
+  {
+   "id": "S01363",
+   "en": "Qubeley Mk-2"
+  },
+  {
+   "id": "S01364",
+   "en": "Jagd Doga (Gyunei)"
+  },
+  {
+   "id": "S01365",
+   "en": "Jagd Doga (Gyunei)"
+  },
+  {
+   "id": "S01366",
+   "en": "Jagd Doga (Quess)",
+   "note": "QP = Quess Paraya; glossary 'Jagd Doga (Quess)'."
+  },
+  {
+   "id": "S01367",
+   "en": "Geara Doga (Rezin)"
+  },
+  {
+   "id": "S01368",
+   "en": "Geara Doga (Rezin)"
+  },
+  {
+   "id": "S01369",
+   "en": "Gundam F91"
+  },
+  {
+   "id": "S01370",
+   "en": "###Berga Giros###",
+   "note": "Japanese wraps the name in three black squares (unused/placeholder record); kept as ASCII '###' markers since output must be ASCII."
+  },
+  {
+   "id": "S01371",
+   "en": "Berga Giros"
+  },
+  {
+   "id": "S01372",
+   "en": "###Berga-Dalas (Black)###",
+   "note": "Japanese wraps the name in three black squares (unused/placeholder record); kept as ASCII '###' markers since output must be ASCII."
+  },
+  {
+   "id": "S01373",
+   "en": "Den'an-Zon (Black Vanguard)"
+  },
+  {
+   "id": "S01374",
+   "en": "Den'an-Zon (Black)"
+  },
+  {
+   "id": "S01375",
+   "en": "###Gundam (Progress Original)###",
+   "note": "Japanese wraps the name in three black squares (unused/placeholder record); kept as ASCII '###' markers since output must be ASCII."
+  },
+  {
+   "id": "S01376",
+   "en": "###G-3 Gundam###",
+   "note": "Japanese wraps the name in three black squares (unused/placeholder record); kept as ASCII '###' markers since output must be ASCII."
+  },
+  {
+   "id": "S01377",
+   "en": "###Char's Gelgoog###",
+   "note": "Japanese wraps the name in three black squares (unused/placeholder record); kept as ASCII '###' markers since output must be ASCII."
+  },
+  {
+   "id": "S01378",
+   "en": "###Char's Zeong###",
+   "note": "Japanese wraps the name in three black squares (unused/placeholder record); kept as ASCII '###' markers since output must be ASCII."
+  },
+  {
+   "id": "S01379",
+   "en": "###Zaku (Pilot Custom)###",
+   "note": "Japanese wraps the name in three black squares (unused/placeholder record); kept as ASCII '###' markers since output must be ASCII."
+  },
+  {
+   "id": "S01380",
+   "en": "Qubeley Mk-2 (Ple-Two)"
+  },
+  {
+   "id": "S01381",
+   "en": "Qubeley Mk-2 (Red)",
+   "note": "'aka' = red; Ple-Two's red Qubeley Mk-II."
+  },
+  {
+   "id": "S01382",
+   "en": "###F91 (Blue)###",
+   "note": "Japanese wraps the name in three black squares (unused/placeholder record); kept as ASCII '###' markers since output must be ASCII."
+  },
+  {
+   "id": "S01383",
+   "en": "###Zaku II F2 Type (Nuclear-Armed)###",
+   "note": "Japanese wraps the name in three black squares (unused/placeholder record); kept as ASCII '###' markers since output must be ASCII."
+  },
+  {
+   "id": "S01384",
+   "en": "###Zaku II S Type###",
+   "note": "Japanese wraps the name in three black squares (unused/placeholder record); kept as ASCII '###' markers since output must be ASCII."
+  },
+  {
+   "id": "S01385",
+   "en": "Z Zaku"
+  },
+  {
+   "id": "S01386",
+   "en": "Qubeley Mass Prod.",
+   "note": "Glossary 'Qubeley Mass Production Type' is 28 bytes; abbreviated."
+  },
+  {
+   "id": "S01387",
+   "en": "###GM Ground Type###",
+   "note": "Japanese wraps the name in three black squares (unused/placeholder record); kept as ASCII '###' markers since output must be ASCII."
+  },
+  {
+   "id": "S01388",
+   "en": "###GM Quel###",
+   "note": "Japanese wraps the name in three black squares (unused/placeholder record); kept as ASCII '###' markers since output must be ASCII."
+  },
+  {
+   "id": "S01389",
+   "en": "###Super Gundam###",
+   "note": "Japanese wraps the name in three black squares (unused/placeholder record); kept as ASCII '###' markers since output must be ASCII."
+  },
+  {
+   "id": "S01390",
+   "en": "###Hizack Custom###",
+   "note": "Japanese wraps the name in three black squares (unused/placeholder record); kept as ASCII '###' markers since output must be ASCII."
+  },
+  {
+   "id": "S01391",
+   "en": "###Baund Doc###",
+   "note": "Japanese wraps the name in three black squares (unused/placeholder record); kept as ASCII '###' markers since output must be ASCII."
+  },
+  {
+   "id": "S01392",
+   "en": "###Baund Doc (Gates)###",
+   "note": "Japanese wraps the name in three black squares (unused/placeholder record); kept as ASCII '###' markers since output must be ASCII."
+  },
+  {
+   "id": "S01393",
+   "en": "###Baund Doc (Jerid)###",
+   "note": "Japanese wraps the name in three black squares (unused/placeholder record); kept as ASCII '###' markers since output must be ASCII."
+  },
+  {
+   "id": "S01394",
+   "en": "###Gaplant###",
+   "note": "Japanese wraps the name in three black squares (unused/placeholder record); kept as ASCII '###' markers since output must be ASCII."
+  },
+  {
+   "id": "S01395",
+   "en": "###Hambrabi###",
+   "note": "Japanese wraps the name in three black squares (unused/placeholder record); kept as ASCII '###' markers since output must be ASCII."
+  },
+  {
+   "id": "S01396",
+   "en": "###Gabthley###",
+   "note": "Japanese wraps the name in three black squares (unused/placeholder record); kept as ASCII '###' markers since output must be ASCII."
+  },
+  {
+   "id": "S01397",
+   "en": "XB Gundam X-1"
+  },
+  {
+   "id": "S01398",
+   "en": "XB Gundam X-2"
+  },
+  {
+   "id": "S01399",
+   "en": "XB Gundam X-3"
+  },
+  {
+   "id": "S01400",
+   "en": "Gundam F90V"
+  },
+  {
+   "id": "S01401",
+   "en": "Hizack (+Base Jabber)"
+  },
+  {
+   "id": "S01402",
+   "en": "Hizack+Base Jabber",
+   "note": "'Hizack (+Base Jabber)' is 21 bytes; dropped the parentheses."
+  },
+  {
+   "id": "S01403",
+   "en": "###Zaku (Low Model)###",
+   "note": "Japanese wraps the name in three black squares (unused/placeholder record); kept as ASCII '###' markers since output must be ASCII."
+  },
+  {
+   "id": "S01404",
+   "en": "###Dopp###",
+   "note": "Japanese wraps the name in three black squares (unused/placeholder record); kept as ASCII '###' markers since output must be ASCII."
+  },
+  {
+   "id": "S01405",
+   "en": "###Core Fighter###",
+   "note": "Japanese wraps the name in three black squares (unused/placeholder record); kept as ASCII '###' markers since output must be ASCII."
+  },
+  {
+   "id": "S01406",
+   "en": "###Core Fighter (Full Burnern)###",
+   "note": "Japanese wraps the name in three black squares (unused/placeholder record); kept as ASCII '###' markers since output must be ASCII."
+  },
+  {
+   "id": "S01407",
+   "en": "###Saberfish###",
+   "note": "Japanese wraps the name in three black squares (unused/placeholder record); kept as ASCII '###' markers since output must be ASCII."
+  },
+  {
+   "id": "S01408",
+   "en": "Waverider"
+  },
+  {
+   "id": "S01409",
+   "en": "Psycho (MA Mode)",
+   "note": "Japanese short form is just 'Psycho'; 'Psycho Gundam (MA Mode)' is 23 bytes."
+  },
+  {
+   "id": "S01410",
+   "en": "Asshimar (MA Mode)"
+  },
+  {
+   "id": "S01411",
+   "en": "Re-GZ (MA Mode)"
+  },
+  {
+   "id": "S01412",
+   "en": "Gaza C (MA Mode)"
+  },
+  {
+   "id": "S01413",
+   "en": "Download MS 0"
+  },
+  {
+   "id": "S01414",
+   "en": "Download MS 1"
+  },
+  {
+   "id": "S01415",
+   "en": "Download MS 2"
+  },
+  {
+   "id": "S01416",
+   "en": "Download MS 3"
+  },
+  {
+   "id": "S01417",
+   "en": "Download MS 4"
+  },
+  {
+   "id": "S01418",
+   "en": "Download MS 5"
+  },
+  {
+   "id": "S01419",
+   "en": "Download MS 6"
+  },
+  {
+   "id": "S01420",
+   "en": "Download MS 7"
+  },
+  {
+   "id": "S01421",
+   "en": "Download MS 8"
+  },
+  {
+   "id": "S01422",
+   "en": "Download MS 9"
+  },
+  {
+   "id": "S01423",
+   "en": "Amuro"
+  },
+  {
+   "id": "S01424",
+   "en": "Kai"
+  },
+  {
+   "id": "S01425",
+   "en": "Hayato"
+  },
+  {
+   "id": "S01426",
+   "en": "Char"
+  },
+  {
+   "id": "S01427",
+   "en": "Dozle"
+  },
+  {
+   "id": "S01428",
+   "en": "Shiro"
+  },
+  {
+   "id": "S01429",
+   "en": "Karen"
+  },
+  {
+   "id": "S01430",
+   "en": "Sanders"
+  },
+  {
+   "id": "S01431",
+   "en": "Aina"
+  },
+  {
+   "id": "S01432",
+   "en": "Norris"
+  },
+  {
+   "id": "S01433",
+   "en": "Chris"
+  },
+  {
+   "id": "S01434",
+   "en": "Bernie"
+  },
+  {
+   "id": "S01435",
+   "en": "Kou"
+  },
+  {
+   "id": "S01436",
+   "en": "Burning"
+  },
+  {
+   "id": "S01437",
+   "en": "Gato"
+  },
+  {
+   "id": "S01438",
+   "en": "Cima"
+  },
+  {
+   "id": "S01439",
+   "en": "Kamille"
+  },
+  {
+   "id": "S01440",
+   "en": "Quattro"
+  },
+  {
+   "id": "S01441",
+   "en": "Emma"
+  },
+  {
+   "id": "S01442",
+   "en": "Amuro (Z)"
+  },
+  {
+   "id": "S01443",
+   "en": "Jerid"
+  },
+  {
+   "id": "S01444",
+   "en": "Four"
+  },
+  {
+   "id": "S01445",
+   "en": "Paptimus Scirocco"
+  },
+  {
+   "id": "S01446",
+   "en": "Scirocco"
+  },
+  {
+   "id": "S01447",
+   "en": "Buran"
+  },
+  {
+   "id": "S01448",
+   "en": "Yazan"
+  },
+  {
+   "id": "S01449",
+   "en": "Haman"
+  },
+  {
+   "id": "S01450",
+   "en": "Judau"
+  },
+  {
+   "id": "S01451",
+   "en": "Roux"
+  },
+  {
+   "id": "S01452",
+   "en": "Haman (ZZ)"
+  },
+  {
+   "id": "S01453",
+   "en": "Ple"
+  },
+  {
+   "id": "S01454",
+   "en": "Mashymre"
+  },
+  {
+   "id": "S01455",
+   "en": "Rakan"
+  },
+  {
+   "id": "S01456",
+   "en": "Glemy"
+  },
+  {
+   "id": "S01457",
+   "en": "Amuro (CCA)"
+  },
+  {
+   "id": "S01458",
+   "en": "Kayra"
+  },
+  {
+   "id": "S01459",
+   "en": "Char Aznable (CCA)"
+  },
+  {
+   "id": "S01460",
+   "en": "Char (CCA)"
+  },
+  {
+   "id": "S01461",
+   "en": "Quess"
+  },
+  {
+   "id": "S01462",
+   "en": "Gyunei"
+  },
+  {
+   "id": "S01463",
+   "en": "Rezin"
+  },
+  {
+   "id": "S01464",
+   "en": "Seabook"
+  },
+  {
+   "id": "S01465",
+   "en": "Cecily"
+  },
+  {
+   "id": "S01466",
+   "en": "Zabine"
+  },
+  {
+   "id": "S01467",
+   "en": "Carozzo"
+  },
+  {
+   "id": "S01468",
+   "en": "Dorel"
+  },
+  {
+   "id": "S01469",
+   "en": "Kincade"
+  },
+  {
+   "id": "S01470",
+   "en": "Tobia"
+  },
+  {
+   "id": "S01471",
+   "en": "Zabine Chareux (XB)"
+  },
+  {
+   "id": "S01472",
+   "en": "Zabine (XB)"
+  },
+  {
+   "id": "S01473",
+   "en": "Soldier A (Federation)"
+  },
+  {
+   "id": "S01474",
+   "en": "Soldier A",
+   "note": "Shared short name for all soldier-A slots."
+  },
+  {
+   "id": "S01475",
+   "en": "Soldier B (Federation)"
+  },
+  {
+   "id": "S01476",
+   "en": "Soldier B",
+   "note": "Shared short name for all soldier-B slots."
+  },
+  {
+   "id": "S01477",
+   "en": "Soldier A (Zeon)"
+  },
+  {
+   "id": "S01478",
+   "en": "Soldier B (Zeon)"
+  },
+  {
+   "id": "S01479",
+   "en": "Soldier A (AEUG)"
+  },
+  {
+   "id": "S01480",
+   "en": "Soldier B (AEUG)"
+  },
+  {
+   "id": "S01481",
+   "en": "Soldier A (Delaz)"
+  },
+  {
+   "id": "S01482",
+   "en": "Soldier B (Delaz)"
+  },
+  {
+   "id": "S01483",
+   "en": "Soldier A (Titans)"
+  },
+  {
+   "id": "S01484",
+   "en": "Soldier B (Titans)"
+  },
+  {
+   "id": "S01485",
+   "en": "Soldier A (Axis)"
+  },
+  {
+   "id": "S01486",
+   "en": "Soldier B (Axis)"
+  },
+  {
+   "id": "S01487",
+   "en": "Soldier A (Londo Bell)"
+  },
+  {
+   "id": "S01488",
+   "en": "Soldier B (Londo Bell)"
+  },
+  {
+   "id": "S01489",
+   "en": "Soldier A (Neo Zeon)"
+  },
+  {
+   "id": "S01490",
+   "en": "Soldier B (Neo Zeon)"
+  },
+  {
+   "id": "S01491",
+   "en": "Soldier A (Crossbone)"
+  },
+  {
+   "id": "S01492",
+   "en": "Soldier B (Crossbone)"
+  },
+  {
+   "id": "S01493",
+   "en": "Soldier A (Neo Crossbone)"
+  },
+  {
+   "id": "S01494",
+   "en": "Soldier B (Neo Crossbone)"
+  },
+  {
+   "id": "S01495",
+   "en": "Soldier A (New Federation (F91))"
+  },
+  {
+   "id": "S01496",
+   "en": "Soldier B (New Federation (F91))"
+  },
+  {
+   "id": "S01497",
+   "en": "Soldier A (Final Stage Grunt)",
+   "note": "zako = grunt; final-stage generic enemy voice slot."
+  },
+  {
+   "id": "S01498",
+   "en": "Soldier B (Final Stage Boss)"
+  },
+  {
+   "id": "S01499",
+   "en": "Soldier A (No Voice)"
+  },
+  {
+   "id": "S01500",
+   "en": "Soldier B (No Voice)"
+  },
+  {
+   "id": "S01501",
+   "en": "Operator A"
+  },
+  {
+   "id": "S01502",
+   "en": "Mikhail Kaminsky"
+  },
+  {
+   "id": "S01503",
+   "en": "Misha"
+  },
+  {
+   "id": "S01504",
+   "en": "Kamuna Tachibana (Gentle)"
+  },
+  {
+   "id": "S01505",
+   "en": "Kamuna Tachibana (Calm)"
+  },
+  {
+   "id": "S01506",
+   "en": "Kamuna Tachibana (Hot-blooded)"
+  },
+  {
+   "id": "S01507",
+   "en": "Jr. Male A (Gentle)"
+  },
+  {
+   "id": "S01508",
+   "en": "Jr. Male A"
+  },
+  {
+   "id": "S01509",
+   "en": "Jr. Male A (Calm)"
+  },
+  {
+   "id": "S01510",
+   "en": "Jr. Male A (Hot-blooded)"
+  },
+  {
+   "id": "S01511",
+   "en": "Jr. Male B (Gentle)"
+  },
+  {
+   "id": "S01512",
+   "en": "Jr. Male B"
+  },
+  {
+   "id": "S01513",
+   "en": "Jr. Male B (Calm)"
+  },
+  {
+   "id": "S01514",
+   "en": "Jr. Male B (Hot-blooded)"
+  },
+  {
+   "id": "S01515",
+   "en": "Jr. Female A (Gentle)"
+  },
+  {
+   "id": "S01516",
+   "en": "Jr. Female A"
+  },
+  {
+   "id": "S01517",
+   "en": "Jr. Female A (Calm)"
+  },
+  {
+   "id": "S01518",
+   "en": "Jr. Female A (Hot-blooded)"
+  },
+  {
+   "id": "S01519",
+   "en": "Jr. Female B (Gentle)"
+  },
+  {
+   "id": "S01520",
+   "en": "Jr. Female B"
+  },
+  {
+   "id": "S01521",
+   "en": "Jr. Female B (Calm)"
+  },
+  {
+   "id": "S01522",
+   "en": "Jr. Female B (Hot-blooded)"
+  },
+  {
+   "id": "S01523",
+   "en": "Ellen Rochefil"
+  },
+  {
+   "id": "S01524",
+   "en": "Ellen"
+  },
+  {
+   "id": "S01525",
+   "en": "Shirley Ramsey"
+  },
+  {
+   "id": "S01526",
+   "en": "Shirley"
+  },
+  {
+   "id": "S01527",
+   "en": "Nagisa Florin"
+  },
+  {
+   "id": "S01528",
+   "en": "Nagisa"
+  },
+  {
+   "id": "S01529",
+   "en": "Pamir McDamil"
+  },
+  {
+   "id": "S01530",
+   "en": "Pamir"
+  },
+  {
+   "id": "S01531",
+   "en": "Aegis Veracruz"
+  },
+  {
+   "id": "S01532",
+   "en": "Aegis"
+  },
+  {
+   "id": "S01533",
+   "en": "Sleggar Law"
+  },
+  {
+   "id": "S01534",
+   "en": "Bright Noa"
+  },
+  {
+   "id": "S01535",
+   "en": "Gihren Zabi"
+  },
+  {
+   "id": "S01536",
+   "en": "Kycilia Zabi"
+  },
+  {
+   "id": "S01537",
+   "en": "Michel Ninorich"
+  },
+  {
+   "id": "S01538",
+   "en": "Zeon Female Soldier"
+  },
+  {
+   "id": "S01539",
+   "en": "Eyphar Sinapus"
+  },
+  {
+   "id": "S01540",
+   "en": "Jacqueline Simon"
+  },
+  {
+   "id": "S01541",
+   "en": "Bask Om"
+  },
+  {
+   "id": "S01542",
+   "en": "Aboly"
+  },
+  {
+   "id": "S01543",
+   "en": "Roberto"
+  },
+  {
+   "id": "S01544",
+   "en": "Bright Noa (Z)"
+  },
+  {
+   "id": "S01545",
+   "en": "Henken Bekkener"
+  },
+  {
+   "id": "S01546",
+   "en": "Torres"
+  }
+ ],
+ "decisions": [
+  "Black-square markers (U+25A0 x3) around unused/placeholder unit names rendered as ASCII '###' on both sides; name inside translated per glossary.",
+  "Short (+0x80, 19-byte) unit names use the glossary name when it fits; otherwise abbreviated (see row notes).",
+  "Pilot short names (+0x5E) use glossary en_short; full names (+0xE) use glossary en.",
+  "MA-form units use '(MA Mode)' consistently.",
+  "Generic soldier slots: 'Soldier A/B (<faction>)' per glossary; personality variants Gentle/Calm/Hot-blooded per glossary."
+ ],
+ "uncertain": [
+  "S01370-S01407 (### rows): ASCII '###' chosen for the black-square markers; orchestrator may prefer dropping them or restoring the SJIS squares.",
+  "S01355: 'Gundam Mk-II (T)' (Titans) to fit 19 bytes; alternative 'Mk-II (Titans)'.",
+  "S01386: 'Qubeley Mass Prod.' abbreviates glossary 'Qubeley Mass Production Type'.",
+  "S01409: 'Psycho (MA Mode)' follows the Japanese short form; 'Psycho Gundam (MA)' is the alternative.",
+  "S01361: 'Hizack (Federation)' differs in wording from the long label 'Hizack (E.F.S.F.)' (S01360), as the Japanese does.",
+  "S01385: 'Z Zaku' is glossary-unverified (no wiki article).",
+  "S01379, S01382, S01383, S01403: glossary marks these placeholder names unverified.",
+  "S01540: wrote glossary 'Jacqueline Simon' (official site); wiki has 'Simone'.",
+  "S01542: wrote glossary 'Aboly' (official site); wiki has 'Apolly'.",
+  "S01397-S01399: 'XB Gundam X-1/2/3' mirrors the Japanese XB abbreviation; 'Crossbone Gundam X-1' (20 bytes) exceeds 19."
+ ]
+}

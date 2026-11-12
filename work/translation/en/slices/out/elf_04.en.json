@@ -1,0 +1,314 @@
+{
+ "slice": "elf_04",
+ "rows_in_slice": 72,
+ "rows_examined": 72,
+ "rows": [
+  {
+   "id": "S02815",
+   "en": "F90D",
+   "note": "Unit name; JP omits 'Gundam', kept as F90D."
+  },
+  {
+   "id": "S02816",
+   "en": "F90II",
+   "note": "Unit name (wiki 'Gundam F90II'); JP omits 'Gundam'."
+  },
+  {
+   "id": "S02817",
+   "en": "Den'an-Gei",
+   "note": "Official EN spelling (en.gundam-official.com)."
+  },
+  {
+   "id": "S02818",
+   "en": "Dahgi-Iris",
+   "note": "Official EN 'DAHGI-IRIS', written in title case."
+  },
+  {
+   "id": "S02819",
+   "en": "Defense of Frontier I"
+  },
+  {
+   "id": "S02820",
+   "en": "Seizure of Frontier"
+  },
+  {
+   "id": "S02821",
+   "en": "Sided with Berah Ronah's faction,\njoined the Babylonia Banguard crew",
+   "note": "Ship name not in glossary; 'Babylonia Banguard' from memory."
+  },
+  {
+   "id": "S02822",
+   "en": "0133.06  Joined the New\nCrossbone Vanguard"
+  },
+  {
+   "id": "S02823",
+   "en": "Zaku II S Type"
+  },
+  {
+   "id": "S02824",
+   "en": "Barzam"
+  },
+  {
+   "id": "S02825",
+   "en": "Rick Dom II"
+  },
+  {
+   "id": "S02826",
+   "en": "Heavygun"
+  },
+  {
+   "id": "S02827",
+   "en": "Ebirhu-S",
+   "note": "Official EN spelling."
+  },
+  {
+   "id": "S02828",
+   "en": "Joined Jupiter Fleet"
+  },
+  {
+   "id": "S02829",
+   "en": "D",
+   "note": "Grade letter."
+  },
+  {
+   "id": "S02830",
+   "en": "E"
+  },
+  {
+   "id": "S02831",
+   "en": "S"
+  },
+  {
+   "id": "S02832",
+   "en": "A"
+  },
+  {
+   "id": "S02833",
+   "en": "B"
+  },
+  {
+   "id": "S02834",
+   "en": "C"
+  },
+  {
+   "id": "S02835",
+   "en": "Wilds Explorer"
+  },
+  {
+   "id": "S02836",
+   "en": "Retired and explored\nthe world's uncharted lands,\nmaking historic discoveries"
+  },
+  {
+   "id": "S02837",
+   "en": "Fabled General"
+  },
+  {
+   "id": "S02838",
+   "en": "Promoted to EFF General;\nran a base with formidable skill"
+  },
+  {
+   "id": "S02839",
+   "en": "Famous Founder"
+  },
+  {
+   "id": "S02840",
+   "en": "Went into business and\nthrived in the restaurant trade"
+  },
+  {
+   "id": "S02841",
+   "en": "Assembly Member"
+  },
+  {
+   "id": "S02842",
+   "en": "Went into politics and\nshone in the Federation Assembly"
+  },
+  {
+   "id": "S02843",
+   "en": "Lone Seeker"
+  },
+  {
+   "id": "S02844",
+   "en": "After retiring, became\na seeker of the Newtype way\nand traveled the world"
+  },
+  {
+   "id": "S02845",
+   "en": "Peace Activist"
+  },
+  {
+   "id": "S02846",
+   "en": "Retired and founded\na peacekeeping\norganization and\ndid much for peace"
+  },
+  {
+   "id": "S02847",
+   "en": "Died with Honor"
+  },
+  {
+   "id": "S02848",
+   "en": "Fighting an anti-Federation group,\nfell with honor"
+  },
+  {
+   "id": "S02849",
+   "en": "Supply Ship Captain"
+  },
+  {
+   "id": "S02850",
+   "en": "After retiring as a pilot,\nexcelled as captain of an\nEFF supply ship"
+  },
+  {
+   "id": "S02851",
+   "en": "Academy Teacher"
+  },
+  {
+   "id": "S02852",
+   "en": "Promoted to EFF Maj. General;\nmentored cadets at the academy"
+  },
+  {
+   "id": "S02853",
+   "en": "Base Commander"
+  },
+  {
+   "id": "S02854",
+   "en": "Promoted to EFF Lt. General;\nran a base with formidable skill"
+  },
+  {
+   "id": "S02855",
+   "en": "Reform Champion"
+  },
+  {
+   "id": "S02856",
+   "en": "Promoted to EFF Lt. General;\nled many military reforms\nand left a name in history"
+  },
+  {
+   "id": "S02857",
+   "en": "Unbeaten Fighter"
+  },
+  {
+   "id": "S02858",
+   "en": "Retired and became\na martial artist hero\nunbeaten in 100 bouts"
+  },
+  {
+   "id": "S02859",
+   "en": "World's Best Shot"
+  },
+  {
+   "id": "S02860",
+   "en": "Retired and became\nworld champion at the\ninternational shooting games"
+  },
+  {
+   "id": "S02861",
+   "en": "Grand Prix Racer"
+  },
+  {
+   "id": "S02862",
+   "en": "Retired and became an\nelectric-car Grand Prix\nchampion and racing star"
+  },
+  {
+   "id": "S02863",
+   "en": "Moon City Mayor"
+  },
+  {
+   "id": "S02864",
+   "en": "Went into politics and\nrose to become mayor\nof Von Braun City"
+  },
+  {
+   "id": "S02865",
+   "en": "Side Premier"
+  },
+  {
+   "id": "S02866",
+   "en": "Went into politics and\nrose to be premier of Side 2",
+   "note": "Glossary pattern Side 1/3/6/7 -> 'Side 2'."
+  },
+  {
+   "id": "S02867",
+   "en": "Arms King"
+  },
+  {
+   "id": "S02868",
+   "en": "Went into business and\nbuilt a huge arms-industry\nconglomerate"
+  },
+  {
+   "id": "S02869",
+   "en": "Wealthy Investor"
+  },
+  {
+   "id": "S02870",
+   "en": "Went into business and\nfounded a toy company\nwith smash-hit MS models"
+  },
+  {
+   "id": "S02871",
+   "en": "MS Developer"
+  },
+  {
+   "id": "S02872",
+   "en": "After retiring, became\nSNRI's head of MS development,\ndirecting new MS research"
+  },
+  {
+   "id": "S02873",
+   "en": "TV Personality"
+  },
+  {
+   "id": "S02874",
+   "en": "Retired and became\na TV personality and\na big star as an actor\nand commentator"
+  },
+  {
+   "id": "S02875",
+   "en": "Retired to Heal"
+  },
+  {
+   "id": "S02876",
+   "en": "After retiring, an accident\nmeant life in a wheelchair"
+  },
+  {
+   "id": "S02877",
+   "en": "Popular Author"
+  },
+  {
+   "id": "S02878",
+   "en": "After retiring, wrote\nan autobiography and\nbecame a bestselling author"
+  },
+  {
+   "id": "S02879",
+   "en": "Conservationist"
+  },
+  {
+   "id": "S02880",
+   "en": "After retiring, became\na conservationist,\nliving amid nature"
+  },
+  {
+   "id": "S02881",
+   "en": "Missing"
+  },
+  {
+   "id": "S02882",
+   "en": "After retiring, vanished\nto parts unknown"
+  },
+  {
+   "id": "S02883",
+   "en": "NT Researcher"
+  },
+  {
+   "id": "S02884",
+   "en": "After retiring, published\npapers on Newtype research\nthat advanced the field"
+  },
+  {
+   "id": "S02885",
+   "en": "N Prize Winner"
+  },
+  {
+   "id": "S02886",
+   "en": "After retiring, strove to\ndismantle the Cyber Newtype\nresearch labs"
+  }
+ ],
+ "decisions": [
+  "The endings use one style throughout: a past-tense resume with no subject ('Retired and...', 'After retiring, ...', 'Went into politics and...', 'Promoted to EFF ...'). The pilot is the player's own original character, and leaving out the subject also avoids choosing a pronoun. This is deliberate narration style, not a dropped subject in dialogue.",
+  "Earth Federation Forces is shortened to EFF (the glossary's short form) and ranks to Lt. General / Maj. General so the promotion lines fit their slots.",
+  "The \\n line count of every row matches the JP; the indentation spaces are dropped.",
+  "History rows: unit names use official EN spellings and battle names follow 'Defense of X'."
+ ],
+ "uncertain": [
+  "S02821: 'Babylonia Banguard' (F91 Crossbone Vanguard flagship) is not in the glossary; spelling is from memory and needs checking.",
+  "S02822: the date prefix '0133.06' plus two spaces is kept as in the JP; unclear whether the game lays it out in a date column.",
+  "S02867: 'Arms King' is 9 bytes in a 7-byte slot; fallback is 'Tycoon'."
+ ]
+}

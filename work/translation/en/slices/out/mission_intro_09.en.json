@@ -1,0 +1,357 @@
+{
+ "slice": "mission_intro_09",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "S02388",
+   "en": "Foreseeing this, the AEUG",
+   "note": "Seam with S02387 (slice 08, object clause ending in wo): S02387 should read as a full statement, e.g. 'It was clear fighting in space would intensify again.' If S02387 already says 'Foreseeing/Anticipating...', change this row to 'the AEUG'."
+  },
+  {
+   "id": "S02389",
+   "en": "launched the pilots on Earth"
+  },
+  {
+   "id": "S02390",
+   "en": "back into space"
+  },
+  {
+   "id": "S02391",
+   "en": "and regrouped its forces."
+  },
+  {
+   "id": "S02392",
+   "en": "Having covered the shuttle launches in this battle,"
+  },
+  {
+   "id": "S02393",
+   "en": "Kamuna's unit, too,"
+  },
+  {
+   "id": "S02394",
+   "en": "preparing for the battles to come,"
+  },
+  {
+   "id": "S02395",
+   "en": "would head up into space."
+  },
+  {
+   "id": "S02396",
+   "en": "Struck by a laser beam a full 6 km wide,"
+  },
+  {
+   "id": "S02397",
+   "en": "the Titans fleet was annihilated."
+  },
+  {
+   "id": "S02398",
+   "en": "Paptimus Scirocco and"
+  },
+  {
+   "id": "S02399",
+   "en": "all its key officers fell in battle,",
+   "note": "Shared with 0e05 (after S02459). 'its' = the Titans, named in the line before in both intros."
+  },
+  {
+   "id": "S02400",
+   "en": "the Titans utterly collapsed,",
+   "note": "Shared with 0e05 (followed by S02460)."
+  },
+  {
+   "id": "S02401",
+   "en": "and the organization was disbanded."
+  },
+  {
+   "id": "S02402",
+   "en": "But the AEUG, too, paid a heavy price,"
+  },
+  {
+   "id": "S02403",
+   "en": "and its key pilots",
+   "note": "Shared with 0e05 (after S02461); 'and' joins both preceding lines."
+  },
+  {
+   "id": "S02404",
+   "en": "had all been killed or wounded."
+  },
+  {
+   "id": "S02405",
+   "en": "Kamuna Tachibana was no exception:"
+  },
+  {
+   "id": "S02406",
+   "en": "he was wounded and withdrew from the front,"
+  },
+  {
+   "id": "S02407",
+   "en": "and was forced to spend time recovering."
+  },
+  {
+   "id": "S02408",
+   "en": "At this point, having left the front early",
+   "note": "Shared with 0e05."
+  },
+  {
+   "id": "S02409",
+   "en": "and kept its forces intact, Axis"
+  },
+  {
+   "id": "S02410",
+   "en": "truly reaped the spoils of the others' war.",
+   "note": "Idiom gyofu no ri (third party profits from two others fighting)."
+  },
+  {
+   "id": "S02411",
+   "en": "No one able to halt Haman's invasion"
+  },
+  {
+   "id": "S02412",
+   "en": "remained any longer."
+  },
+  {
+   "id": "S02413",
+   "en": "In the final battle at Core 3,"
+  },
+  {
+   "id": "S02414",
+   "en": "Judau Ashta"
+  },
+  {
+   "id": "S02415",
+   "en": "defeated Haman Karn,"
+  },
+  {
+   "id": "S02416",
+   "en": "and Axis, having lost its leader, collapsed."
+  },
+  {
+   "id": "S02417",
+   "en": "With all its enemies in the Earth Sphere gone, the AEUG"
+  },
+  {
+   "id": "S02418",
+   "en": "effectively merged into the Earth Federation Forces"
+  },
+  {
+   "id": "S02419",
+   "en": "and disbanded as a step forward.",
+   "note": "hatten-teki kaisan = dissolution as a constructive move, not a defeat."
+  },
+  {
+   "id": "S02420",
+   "en": "And so humanity"
+  },
+  {
+   "id": "S02421",
+   "en": "once again entered a time of peace, but"
+  },
+  {
+   "id": "S02422",
+   "en": "Kamuna had a feeling that someday"
+  },
+  {
+   "id": "S02423",
+   "en": "he would throw himself into battle again -"
+  },
+  {
+   "id": "S02424",
+   "en": "he felt it in his bones."
+  },
+  {
+   "id": "S02425",
+   "en": "Someone who had vanished a year before -",
+   "note": "JP inverts: '(he felt it), picturing one person who went missing a year ago...'. Kept as a trailing fragment across 2425-2426; the person's gender is not stated, kept neutral."
+  },
+  {
+   "id": "S02426",
+   "en": "that one person was on his mind..."
+  },
+  {
+   "id": "S02427",
+   "en": "Having seen Operation Stardust completed,"
+  },
+  {
+   "id": "S02428",
+   "en": "the defeated remnants of the Delaz Fleet"
+  },
+  {
+   "id": "S02429",
+   "en": "went their ways: some fled to Axis,",
+   "note": "'went their ways' added only to frame the 'some... others...' pair; can be cut to 'some fled to Axis,'."
+  },
+  {
+   "id": "S02430",
+   "en": "and others surrendered to the Federation Forces."
+  },
+  {
+   "id": "S02431",
+   "en": "But, ironically,"
+  },
+  {
+   "id": "S02432",
+   "en": "Jamitov Hymen and other senior Federation officials"
+  },
+  {
+   "id": "S02433",
+   "en": "turned the incident to their own advantage."
+  },
+  {
+   "id": "S02434",
+   "en": "The turmoil in Hong Kong City"
+  },
+  {
+   "id": "S02435",
+   "en": "ended in a costly draw.",
+   "note": "itami-wake: a draw where both sides were hurt."
+  },
+  {
+   "id": "S02436",
+   "en": "To mop up the forces on Earth"
+  },
+  {
+   "id": "S02437",
+   "en": "of the AEUG and Karaba,"
+  },
+  {
+   "id": "S02438",
+   "en": "the Titans"
+  },
+  {
+   "id": "S02439",
+   "en": "threw powerful Cyber Newtype pilots"
+  },
+  {
+   "id": "S02440",
+   "en": "and mobile suits into battle one after another."
+  },
+  {
+   "id": "S02441",
+   "en": "But Kamille Bidan,"
+  },
+  {
+   "id": "S02442",
+   "en": "Amuro Ray, and other"
+  },
+  {
+   "id": "S02443",
+   "en": "ace pilots fought back,",
+   "note": "JP 'met resistance from the aces' turned active; result clause follows."
+  },
+  {
+   "id": "S02444",
+   "en": "and the Titans' gains fell short of their hopes."
+  },
+  {
+   "id": "S02445",
+   "en": "Meanwhile,"
+  },
+  {
+   "id": "S02446",
+   "en": "consolidating their power in space"
+  },
+  {
+   "id": "S02447",
+   "en": "were Paptimus Scirocco and"
+  },
+  {
+   "id": "S02448",
+   "en": "Haman Karn."
+  },
+  {
+   "id": "S02449",
+   "en": "The war, with these two"
+  },
+  {
+   "id": "S02450",
+   "en": "and Quattro Bajeena -"
+  },
+  {
+   "id": "S02451",
+   "en": "three new leaders - at its center,"
+  },
+  {
+   "id": "S02452",
+   "en": "would shift its battlefield to space."
+  },
+  {
+   "id": "S02453",
+   "en": "Kamuna Tachibana, gravely wounded in battle,",
+   "note": "Shared with 0f05 line 16 (followed by S02488, a 'forced into recovery' predicate); wording works for both."
+  },
+  {
+   "id": "S02454",
+   "en": "withdrew from the front,"
+  },
+  {
+   "id": "S02455",
+   "en": "and Tachibana's unit, left without its leader,"
+  },
+  {
+   "id": "S02456",
+   "en": "could only watch the war unfold from then on."
+  },
+  {
+   "id": "S02457",
+   "en": "The AEUG's colony laser cannon",
+   "note": "Shared with 0f05 line 4, where it follows S02476 (ends in a comma) and precedes S02477. There a lowercase 'the' is needed; one string cannot serve both. Capital kept for 0e05 (sentence start)."
+  },
+  {
+   "id": "S02458",
+   "en": "incinerated the Titans' main fleet."
+  },
+  {
+   "id": "S02459",
+   "en": "Then Paptimus Scirocco and",
+   "note": "0e05 continues with S02399, S02400, S02460."
+  },
+  {
+   "id": "S02460",
+   "en": "and the organization was dissolved."
+  },
+  {
+   "id": "S02461",
+   "en": "The AEUG, for its part, also paid a heavy price,",
+   "note": "0e05 continues with S02403/S02404."
+  },
+  {
+   "id": "S02462",
+   "en": "Africa",
+   "note": "Full-width English subtitle converted to ASCII."
+  },
+  {
+   "id": "S02463",
+   "en": "This uprising in Africa"
+  },
+  {
+   "id": "S02464",
+   "en": "was a small one, but"
+  },
+  {
+   "id": "S02465",
+   "en": "after seven long years"
+  },
+  {
+   "id": "S02466",
+   "en": "of hiding and resistance,"
+  },
+  {
+   "id": "S02467",
+   "en": "it hugely boosted the Zeon remnants' morale.",
+   "note": "JP relative clause (remnants who hid and resisted for 7 years) recast so each row keeps its own content; meaning unchanged."
+  }
+ ],
+ "decisions": [
+  "Narration in past tense throughout; JP historical present (houkai suru, yaku) rendered as past.",
+  "'the AEUG' with article mid-sentence; glossary forms used for all names.",
+  "Shared rows (0c05/0e05/0f05) worded to read correctly in every intro that uses them, except S02457 (see uncertain)."
+ ],
+ "uncertain": [
+  "S02455: 'tachibana-tai' not in glossary; wrote 'Tachibana's unit' to parallel the glossary 'Kamuna's unit'.",
+  "S02457: shared with 0f05 line 4, which follows a comma (S02476); capital 'The' is wrong there. Needs S02476 reworded to end a sentence, or a split row.",
+  "S02388: seam with S02387 (slice 08) not yet translated; chose 'Foreseeing this, the AEUG', which assumes S02387 is a full statement.",
+  "S02425-26: inverted fragment rendered as 'Someone who had vanished a year before - / that one person was on his mind...'; gender kept neutral.",
+  "S02429: added 'went their ways:' as a frame for 'some... others...'; optional.",
+  "S02397 vs S02458: 'the Titans fleet' (attributive) vs 'the Titans' main fleet' (possessive); harmonise if a corpus style exists."
+ ]
+}

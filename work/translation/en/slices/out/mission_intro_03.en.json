@@ -1,0 +1,359 @@
+{
+ "slice": "mission_intro_03",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "S01908",
+   "en": "Cecily Fairchild",
+   "note": "Continues S01907 (prev slice, 'In the chaos, his girlfriend'). Written to follow an S01907 ending in 'his girlfriend'."
+  },
+  {
+   "id": "S01909",
+   "en": "gets separated from him.",
+   "note": "Subject of hagureru is Seabook; rendered from the girlfriend's side so the row order matches S01907/S01908."
+  },
+  {
+   "id": "S01910",
+   "en": "Cecily is, in truth,"
+  },
+  {
+   "id": "S01911",
+   "en": "the granddaughter of Cosmo Babylonia's leader,",
+   "note": "toushu = head of the (Ronah) house; 'leader' chosen."
+  },
+  {
+   "id": "S01912",
+   "en": "Berah Ronah,"
+  },
+  {
+   "id": "S01913",
+   "en": "and to make her their next queen,"
+  },
+  {
+   "id": "S01914",
+   "en": "the Crossbone Vanguard"
+  },
+  {
+   "id": "S01915",
+   "en": "had carried her away.",
+   "note": "Passive 'had been taken' turned active so the row cut matches; past perfect keeps the reveal."
+  },
+  {
+   "id": "S01916",
+   "en": "After reaching nearby Frontier I,"
+  },
+  {
+   "id": "S01917",
+   "en": "Seabook joins up with an Earth Federation Forces ship."
+  },
+  {
+   "id": "S01918",
+   "en": "But once again comes an attack by"
+  },
+  {
+   "id": "S01919",
+   "en": "Crossbone Vanguard",
+   "note": "Shared row: 9101 ('...an attack by / Crossbone Vanguard / mobile suits.') and 9103 line 3 (sentence start before S01934). No article and no possessive so it reads in both."
+  },
+  {
+   "id": "S01920",
+   "en": "mobile suits."
+  },
+  {
+   "id": "S01921",
+   "en": "With pilots in short supply, Seabook"
+  },
+  {
+   "id": "S01922",
+   "en": "is given the latest mobile suit, the F91,"
+  },
+  {
+   "id": "S01923",
+   "en": "and as its pilot,"
+  },
+  {
+   "id": "S01924",
+   "en": "he is forced into battle.",
+   "note": "shutsugeki saserareru: the causative-passive (made to sortie) kept as 'forced'."
+  },
+  {
+   "id": "S01925",
+   "en": "With the F91, Seabook repelled one attack"
+  },
+  {
+   "id": "S01926",
+   "en": "by the Crossbone forces, but",
+   "note": "Subject Seabook moved up to S01925; S01926 carries the rest of the clause."
+  },
+  {
+   "id": "S01927",
+   "en": "the Crossbone forces once again"
+  },
+  {
+   "id": "S01928",
+   "en": "begin an operation to seize control",
+   "note": "English verb-before-object order: the verb from S01929 moves up, 'every colony' moves down."
+  },
+  {
+   "id": "S01929",
+   "en": "of every colony in the Frontier Side."
+  },
+  {
+   "id": "S01930",
+   "en": "Led by an enemy defector,"
+  },
+  {
+   "id": "S01931",
+   "en": "2nd Lt. Annamarie,",
+   "note": "Name not in glossary; official list (_official_names.json f91/character) has 'Annamarie Bourget'. Shoui = Second Lieutenant."
+  },
+  {
+   "id": "S01932",
+   "en": "Seabook and the regular Federation troops"
+  },
+  {
+   "id": "S01933",
+   "en": "move to intercept the enemy."
+  },
+  {
+   "id": "S01934",
+   "en": "begins its full-scale invasion of Frontier Side.",
+   "note": "Follows shared S01919 'Crossbone Vanguard' in 9103. JP passive ('is begun') made active."
+  },
+  {
+   "id": "S01935",
+   "en": "Cosmo Babylonia's candidate for queen,"
+  },
+  {
+   "id": "S01936",
+   "en": "Cecily, now known as Berah Ronah,"
+  },
+  {
+   "id": "S01937",
+   "en": "seeking to win the people's trust,"
+  },
+  {
+   "id": "S01938",
+   "en": "sorties in a mobile suit."
+  },
+  {
+   "id": "S01939",
+   "en": "The Crossbone Vanguard's finest,"
+  },
+  {
+   "id": "S01940",
+   "en": "the elite \"Black Vanguard\" unit,"
+  },
+  {
+   "id": "S01941",
+   "en": "goes with her as escort, heading for",
+   "note": "'where Seabook is' moved to S01942 for English order."
+  },
+  {
+   "id": "S01942",
+   "en": "Frontier I, where Seabook is.",
+   "note": "JP past tense; kept present to match the surrounding narration."
+  },
+  {
+   "id": "S01943",
+   "en": "Frontier Side"
+  },
+  {
+   "id": "S01944",
+   "en": "By chance or by fate, they meet again"
+  },
+  {
+   "id": "S01945",
+   "en": "and now fight the Crossbone forces together -"
+  },
+  {
+   "id": "S01946",
+   "en": "Seabook and Cecily."
+  },
+  {
+   "id": "S01947",
+   "en": "In the colony, still under attack,"
+  },
+  {
+   "id": "S01948",
+   "en": "to repel a mysterious new Crossbone weapon,",
+   "note": "'Crossbone' (glossary short form) instead of 'the Crossbone forces'' to keep the line from running long."
+  },
+  {
+   "id": "S01949",
+   "en": "Seabook and the others head out"
+  },
+  {
+   "id": "S01950",
+   "en": "and witness a horrifying sight."
+  },
+  {
+   "id": "S01951",
+   "en": "Machines code-named \"Bug,\""
+  },
+  {
+   "id": "S01952",
+   "en": "unmanned weapons,"
+  },
+  {
+   "id": "S01953",
+   "en": "are murdering people indiscriminately.",
+   "note": "'It was the sight of...' framing folded into S01950's 'sight'; present tense kept."
+  },
+  {
+   "id": "S01954",
+   "en": "Cecily is outraged,"
+  },
+  {
+   "id": "S01955",
+   "en": "and, believing he planned this massacre,",
+   "note": "de arou (presumably) kept as 'believing'; 'he' points ahead to her father in S01956."
+  },
+  {
+   "id": "S01956",
+   "en": "resolves to strike down her father, Iron Mask."
+  },
+  {
+   "id": "S01957",
+   "en": "U.C. 0093.03"
+  },
+  {
+   "id": "S01958",
+   "en": "5th Luna"
+  },
+  {
+   "id": "S01959",
+   "en": "Universal Century 0093."
+  },
+  {
+   "id": "S01960",
+   "en": "After six years, Neo Zeon rises once more"
+  },
+  {
+   "id": "S01961",
+   "en": "under Char Aznable.",
+   "note": "JP 'Char, who raised Neo Zeon in revolt' as a noun phrase; restructured so each row keeps its content."
+  },
+  {
+   "id": "S01962",
+   "en": "After taking the colony \"Sweetwater\""
+  },
+  {
+   "id": "S01963",
+   "en": "in the blink of an eye, Char"
+  },
+  {
+   "id": "S01964",
+   "en": "declares war on the Earth Federation."
+  },
+  {
+   "id": "S01965",
+   "en": "Within a week,"
+  },
+  {
+   "id": "S01966",
+   "en": "he sets out to drop the asteroid \"Fifth Luna\""
+  },
+  {
+   "id": "S01967",
+   "en": "onto the Earth.",
+   "note": "sakusen wo kekkou (carry out the operation) rendered as 'sets out to' in S01966."
+  },
+  {
+   "id": "S01968",
+   "en": "From the Federation Forces' task force",
+   "note": "yuugeki butai = independent strike/task force."
+  },
+  {
+   "id": "S01969",
+   "en": "\"Londo Bell,\"",
+   "note": "Shared row: cc01 (after S01968) and cc02 (after S01975). Both lead-ins are worded 'From the Federation Forces' task force' so this works in both."
+  },
+  {
+   "id": "S01970",
+   "en": "Amuro Ray and Bright Noa,"
+  },
+  {
+   "id": "S01971",
+   "en": "determined to stop Char's rampage,"
+  },
+  {
+   "id": "S01972",
+   "en": "muster forces and make for Earth orbit"
+  },
+  {
+   "id": "S01973",
+   "en": "with all haste."
+  },
+  {
+   "id": "S01974",
+   "en": "Its target: Lhasa, Tibet."
+  },
+  {
+   "id": "S01975",
+   "en": "From the Federation Forces' task force"
+  },
+  {
+   "id": "S01976",
+   "en": "Amuro Ray and Bright Noa"
+  },
+  {
+   "id": "S01977",
+   "en": "move to stop it, but"
+  },
+  {
+   "id": "S01978",
+   "en": "with a hastily assembled unit,"
+  },
+  {
+   "id": "S01979",
+   "en": "they stand no chance."
+  },
+  {
+   "id": "S01980",
+   "en": "Its engines ignited, Fifth Luna"
+  },
+  {
+   "id": "S01981",
+   "en": "is already slowly heading for Earth.",
+   "note": "-hajimeteita (had begun heading) rendered as 'is already ... heading'."
+  },
+  {
+   "id": "S01982",
+   "en": "Through a backroom deal with the Federation government,",
+   "note": "Wider than guide (JP 10 chars); can shorten to 'Federation gov't' if it does not fit."
+  },
+  {
+   "id": "S01983",
+   "en": "Char, having acquired Axis,"
+  },
+  {
+   "id": "S01984",
+   "en": "pulls off a surprise attack on Luna II,"
+  },
+  {
+   "id": "S01985",
+   "en": "then, with Axis packed with nukes,"
+  },
+  {
+   "id": "S01986",
+   "en": "launches an operation to drop it on Earth."
+  },
+  {
+   "id": "S01987",
+   "en": "Moment by moment, Axis closes in on Earth orbit."
+  }
+ ],
+ "decisions": [
+  "Narration is in present tense throughout, as in most of the JP. Past perfect is used only for the backstory reveal (S01915).",
+  "Japanese row content is kept per row, but where English word order forces it, a verb or modifier moves to the adjacent row in the same sentence (S01926, S01928/29, S01941/42). Each such move is noted on the row.",
+  "Shared rows S01919 and S01969 are worded to read correctly in every file that uses them."
+ ],
+ "uncertain": [
+  "S01908/S01909: depends on S01907 (prev slice) ending in 'his girlfriend'. If S01907 is phrased differently, these two rows need to be adjusted to match it.",
+  "S01931: 'Annamarie' is from the official list (Annamarie Bourget), not the glossary; rank 'Ensign' vs '2nd Lt.' not verified, chose 2nd Lt.",
+  "S01919: shared row with no article ('Crossbone Vanguard begins its full-scale invasion...' in 9103); add 'The' only if 9101 gets its own copy.",
+  "S01951-S01953: number not marked in JP; plural 'Machines'/'weapons' chosen since Bugs appear in numbers in F91."
+ ]
+}

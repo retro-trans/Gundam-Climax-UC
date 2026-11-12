@@ -1,0 +1,197 @@
+{
+ "slice": "mission_intro_11",
+ "rows_in_slice": 42,
+ "rows_examined": 42,
+ "rows": [
+  {
+   "id": "S02548",
+   "en": "plan to exterminate humanity,",
+   "note": "Continues S02546-47 (Berah, having left the Ronah family ... the Iron Mask's secret). Assumes S02547 ends on 'the Iron Mask's secret' or similar; check the join."
+  },
+  {
+   "id": "S02549",
+   "en": "and the contradictions of aristocratism,"
+  },
+  {
+   "id": "S02550",
+   "en": "she brought before the people.",
+   "note": "Object-fronted narration: '[the plan] and [the contradictions] she brought before the people.' Subject 'she' = Berah (S02546)."
+  },
+  {
+   "id": "S02551",
+   "en": "Before long, the nation,"
+  },
+  {
+   "id": "S02552",
+   "en": "between the aristocratists led by the Ronah family"
+  },
+  {
+   "id": "S02553",
+   "en": "and the resistance sworn above all to topple them,"
+  },
+  {
+   "id": "S02554",
+   "en": "was split in two.",
+   "note": "Kept the JP cut: 'the nation, between X and Y, was split in two.'"
+  },
+  {
+   "id": "S02555",
+   "en": "Torn apart from within, Cosmo Babylonia"
+  },
+  {
+   "id": "S02556",
+   "en": "lacked the strength to endure it,"
+  },
+  {
+   "id": "S02557",
+   "en": "and at last it collapsed."
+  },
+  {
+   "id": "S02558",
+   "en": "This incident would later be called",
+   "note": "'be called' moved up from S02560 to fit English word order."
+  },
+  {
+   "id": "S02559",
+   "en": "the \"Cosmo Babylonia War,\"",
+   "note": "JP literally 'Babylonia Founding War'; glossary binds 'Cosmo Babylonia War'."
+  },
+  {
+   "id": "S02560",
+   "en": "but amid the everyday lives"
+  },
+  {
+   "id": "S02561",
+   "en": "of the people of Earth,"
+  },
+  {
+   "id": "S02562",
+   "en": "it was gradually forgotten."
+  },
+  {
+   "id": "S02563",
+   "en": "U.C. 0133.08"
+  },
+  {
+   "id": "S02564",
+   "en": "After this battle,"
+  },
+  {
+   "id": "S02565",
+   "en": "the Jupiter Empire declared war on the Earth Federation.",
+   "note": "JP says Earth Federation Government; dropped 'Government' for width (full form would be ~67 chars). Restore if it fits."
+  },
+  {
+   "id": "S02566",
+   "en": "Earth was plunged into all-out war."
+  },
+  {
+   "id": "S02567",
+   "en": "Among the people,"
+  },
+  {
+   "id": "S02568",
+   "en": "those who find in the Crossbone Vanguard"
+  },
+  {
+   "id": "S02569",
+   "en": "names they recognize"
+  },
+  {
+   "id": "S02570",
+   "en": "may well exist.",
+   "note": "Kept the JP structure so 'may' lands on the row holding kamoshirenai."
+  },
+  {
+   "id": "S02571",
+   "en": "And they will tell future generations"
+  },
+  {
+   "id": "S02572",
+   "en": "that there were Kincade Nau,"
+  },
+  {
+   "id": "S02573",
+   "en": "Tobia Arronax,"
+  },
+  {
+   "id": "S02574",
+   "en": "and one more hero..."
+  },
+  {
+   "id": "S02575",
+   "en": "U.C. 0122.10"
+  },
+  {
+   "id": "S02576",
+   "en": "SIDE4 area",
+   "note": "Full-width English subtitle converted to ASCII as written."
+  },
+  {
+   "id": "S02577",
+   "en": "Universal Century 0122."
+  },
+  {
+   "id": "S02578",
+   "en": "The battle against the mysterious army that raided the resource base",
+   "note": "Long (~69 chars) vs JP 17 chars; may need wrapping or 'mystery army that hit the resource base'."
+  },
+  {
+   "id": "S02579",
+   "en": "came to an end for the time being."
+  },
+  {
+   "id": "S02580",
+   "en": "But as long as the enemy's identity"
+  },
+  {
+   "id": "S02581",
+   "en": "remained unknown,"
+  },
+  {
+   "id": "S02582",
+   "en": "the fact that this was not the end of it all"
+  },
+  {
+   "id": "S02583",
+   "en": "was plain for anyone to see."
+  },
+  {
+   "id": "S02584",
+   "en": "The following year, 0123,"
+  },
+  {
+   "id": "S02585",
+   "en": "a massive attack on Frontier IV"
+  },
+  {
+   "id": "S02586",
+   "en": "revealed the enemy's true identity."
+  },
+  {
+   "id": "S02587",
+   "en": "The Crossbone Vanguard."
+  },
+  {
+   "id": "S02588",
+   "en": "Such was the name that heralded the end"
+  },
+  {
+   "id": "S02589",
+   "en": "of the Earth Sphere's peace.",
+   "note": "'peace' moved from S02588 to S02589 for English order; 'name' moved up."
+  }
+ ],
+ "decisions": [
+  "Rows S02548-S02562 are shared by mp_pr_0i09_001 and mp_pr_0k09_001; translated once.",
+  "aristocratism / aristocratists used per glossary (term marked unverified).",
+  "Where English word order forced it, small pieces moved between rows of the same sentence (S02558/S02560, S02588/S02589); no sentence ends were dropped."
+ ],
+ "uncertain": [
+  "S02548-S02550: join depends on how S02547 (previous slice) was cut; I assumed it ends with 'the Iron Mask's secret'.",
+  "S02552: 'aristocratists' (from glossary 'aristocratism', marked unverified); alternative 'aristocrats'.",
+  "S02565: wrote 'Earth Federation' instead of 'Earth Federation Government' for width.",
+  "S02570: 'may well exist' keeps the JP row structure but reads a little stiff.",
+  "S02576: kept 'SIDE4 area' as written (no space)."
+ ]
+}

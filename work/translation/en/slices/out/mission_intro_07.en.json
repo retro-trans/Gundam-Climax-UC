@@ -1,0 +1,352 @@
+{
+ "slice": "mission_intro_07",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "S02228",
+   "en": "Hoping the AEUG and Titans would destroy each other,",
+   "note": "continues zg16 intro from S02227 (prev slice); lines 3-5 of zg16 not in either neighbour slice"
+  },
+  {
+   "id": "S02229",
+   "en": "Haman bides her time, but"
+  },
+  {
+   "id": "S02230",
+   "en": "to cut her lingering ties to Quattro,"
+  },
+  {
+   "id": "S02231",
+   "en": "she launches in her Qubeley herself."
+  },
+  {
+   "id": "S02232",
+   "en": "U.C. 0088.08"
+  },
+  {
+   "id": "S02233",
+   "en": "Universal Century 0088."
+  },
+  {
+   "id": "S02234",
+   "en": "In the Shangri-La colony in Side 1,"
+  },
+  {
+   "id": "S02235",
+   "en": "a boy who works as a junk dealer,"
+  },
+  {
+   "id": "S02236",
+   "en": "Judau Ashta,"
+  },
+  {
+   "id": "S02237",
+   "en": "by a string of coincidences,"
+  },
+  {
+   "id": "S02238",
+   "en": "is recruited to pilot the Zeta Gundam"
+  },
+  {
+   "id": "S02239",
+   "en": "by the Argama."
+  },
+  {
+   "id": "S02240",
+   "en": "Handling even the new ZZ Gundam"
+  },
+  {
+   "id": "S02241",
+   "en": "with ease,"
+  },
+  {
+   "id": "S02242",
+   "en": "following Amuro and Kamille,"
+  },
+  {
+   "id": "S02243",
+   "en": "Judau comes into his own as a Newtype."
+  },
+  {
+   "id": "S02244",
+   "en": "But one day,"
+  },
+  {
+   "id": "S02245",
+   "en": "the one dearest to him,"
+  },
+  {
+   "id": "S02246",
+   "en": "his sister Leina, is kidnapped by Axis."
+  },
+  {
+   "id": "S02247",
+   "en": "In repeated clashes as he searches for her,",
+   "note": "'her' = Leina (his sister, previous row)"
+  },
+  {
+   "id": "S02248",
+   "en": "he meets a mysterious girl:"
+  },
+  {
+   "id": "S02249",
+   "en": "Elpeo Ple."
+  },
+  {
+   "id": "S02250",
+   "en": "Ple had been raised by Axis"
+  },
+  {
+   "id": "S02251",
+   "en": "to be a Newtype pilot."
+  },
+  {
+   "id": "S02252",
+   "en": "Raised by Axis,"
+  },
+  {
+   "id": "S02253",
+   "en": "the Newtype girl Elpeo Ple."
+  },
+  {
+   "id": "S02254",
+   "en": "Searching for his sister Leina,"
+  },
+  {
+   "id": "S02255",
+   "en": "Judau sneaks into Axis,"
+  },
+  {
+   "id": "S02256",
+   "en": "where Ple meets him in town.",
+   "note": "JP is one sentence with Ple as subject (Ple, who met Judau in town, likes him...); split into two English sentences at the same row boundaries"
+  },
+  {
+   "id": "S02257",
+   "en": "She takes a liking to Judau",
+   "note": "subject restored; Ple is female per glossary"
+  },
+  {
+   "id": "S02258",
+   "en": "and even thinks of replacing Leina as his sister."
+  },
+  {
+   "id": "S02259",
+   "en": "But through Glemy Toto's mind control,"
+  },
+  {
+   "id": "S02260",
+   "en": "she is made to remember",
+   "note": "JP order is 'Judau as enemy' / 'made to remember'; English swaps the content of S02260/S02261, sentence end unchanged"
+  },
+  {
+   "id": "S02261",
+   "en": "Judau as an enemy."
+  },
+  {
+   "id": "S02262",
+   "en": "U.C. 0089.01"
+  },
+  {
+   "id": "S02263",
+   "en": "Side3 Area",
+   "note": "source subtitle has no space ('Side3'); kept verbatim. Use 'Side 3 Area' if the glossary form is preferred"
+  },
+  {
+   "id": "S02264",
+   "en": "Glemy Toto of Axis"
+  },
+  {
+   "id": "S02265",
+   "en": "rises in rebellion against Haman,"
+  },
+  {
+   "id": "S02266",
+   "en": "and the Axis forces split into two camps."
+  },
+  {
+   "id": "S02267",
+   "en": "Taking advantage of the chaos,"
+  },
+  {
+   "id": "S02268",
+   "en": "Judau launches a plan to kidnap",
+   "note": "JP puts 'Judau' in S02269 and 'Mineva Zabi kidnap plan' in S02268; English swaps them, cut before 'but' kept"
+  },
+  {
+   "id": "S02269",
+   "en": "Mineva Zabi, but"
+  },
+  {
+   "id": "S02270",
+   "en": "just before getting Mineva onto the escape craft,"
+  },
+  {
+   "id": "S02271",
+   "en": "he is discovered by Haman."
+  },
+  {
+   "id": "S02272",
+   "en": "Holding Mineva hostage"
+  },
+  {
+   "id": "S02273",
+   "en": "fails to sway Haman,"
+  },
+  {
+   "id": "S02274",
+   "en": "and Judau is made to see that he"
+  },
+  {
+   "id": "S02275",
+   "en": "is doing the same thing as Haman,"
+  },
+  {
+   "id": "S02276",
+   "en": "and he retreats with good grace."
+  },
+  {
+   "id": "S02277",
+   "en": "Disgraced after repeated failures,"
+  },
+  {
+   "id": "S02278",
+   "en": "Mashymre Cello."
+  },
+  {
+   "id": "S02279",
+   "en": "Pitifully, as a Cyber Newtype"
+  },
+  {
+   "id": "S02280",
+   "en": "he returns to the battlefield,"
+  },
+  {
+   "id": "S02281",
+   "en": "with no trace of his old self."
+  },
+  {
+   "id": "S02282",
+   "en": "All that remains is"
+  },
+  {
+   "id": "S02283",
+   "en": "absolute loyalty to Haman."
+  },
+  {
+   "id": "S02284",
+   "en": "To face the Glemy Faction, Haman"
+  },
+  {
+   "id": "S02285",
+   "en": "uses Mashymre as a mere pawn"
+  },
+  {
+   "id": "S02286",
+   "en": "and gives him a ruthless order."
+  },
+  {
+   "id": "S02287",
+   "en": "Mashymre and Rakan."
+  },
+  {
+   "id": "S02288",
+   "en": "Comrades once united in devotion to Haman"
+  },
+  {
+   "id": "S02289",
+   "en": "now head into a battle to the death..."
+  },
+  {
+   "id": "S02290",
+   "en": "Inside AXIS",
+   "note": "source subtitle wording and capitals kept"
+  },
+  {
+   "id": "S02291",
+   "en": "As the Glemy Faction and Haman clash fiercely,"
+  },
+  {
+   "id": "S02292",
+   "en": "Judau and the others target"
+  },
+  {
+   "id": "S02293",
+   "en": "the Glemy Faction and head for its base, Axis."
+  },
+  {
+   "id": "S02294",
+   "en": "On the way, Judau senses Ple-Two,",
+   "note": "JP puts 'Judau' in S02295; moved up so the sentence reads naturally"
+  },
+  {
+   "id": "S02295",
+   "en": "her mind thrown into chaos,"
+  },
+  {
+   "id": "S02296",
+   "en": "and gives chase, plunging deep into Axis."
+  },
+  {
+   "id": "S02297",
+   "en": "Ple-Two was a mind-controlled"
+  },
+  {
+   "id": "S02298",
+   "en": "clone of Ple,"
+  },
+  {
+   "id": "S02299",
+   "en": "and because Judau had lost Ple,"
+  },
+  {
+   "id": "S02300",
+   "en": "the urge to save Ple-Two"
+  },
+  {
+   "id": "S02301",
+   "en": "had taken hold of him."
+  },
+  {
+   "id": "S02302",
+   "en": "Worried for Judau on his own,"
+  },
+  {
+   "id": "S02303",
+   "en": "Roux's Zeta charges into Axis too.",
+   "note": "JP 'Roux's Z' = Roux's Zeta Gundam; short form 'Zeta'"
+  },
+  {
+   "id": "S02304",
+   "en": "Inside Core3",
+   "note": "source subtitle has no space ('Core3'); kept verbatim"
+  },
+  {
+   "id": "S02305",
+   "en": "With Glemy's death,"
+  },
+  {
+   "id": "S02306",
+   "en": "the Glemy Faction has collapsed."
+  },
+  {
+   "id": "S02307",
+   "en": "But Haman's remaining forces",
+   "note": "sentence continues in S02308 (next slice: 'show no sign of moving'); no trailing comma so the English joins"
+  }
+ ],
+ "decisions": [
+  "Narration in present tense where the JP uses the plain non-past (most rows); explanatory 'no de aru' backstory (S02297-S02301) in past/past perfect.",
+  "Where English word order forces it, content within a sentence is reordered across adjacent rows (S02260/61, S02268/69, S02294/95); sentence-ending row boundaries always match the JP.",
+  "Row-1 English subtitles converted to ASCII verbatim, including missing spaces (Side3, Core3).",
+  "Widths follow the 2.4x guide loosely; a few lines exceed it (S02228, S02237, S02247, S02270, S02291, S02293) and need measuring."
+ ],
+ "uncertain": [
+  "S02228: zg16 lines 3-5 not found in neighbour slices, so the start of this sentence has no context; assumed it opens a new sentence after S02227.",
+  "S02263/S02304: kept 'Side3 Area' / 'Inside Core3' without a space, as in the source; could be 'Side 3' / 'Core 3'.",
+  "S02289: read the line as a fight to the death between former comrades (Rakan is in the Glemy Faction); chose 'battle to the death'.",
+  "S02276: 'isagiyoku' rendered 'with good grace'; could also be 'without a fuss' / 'graciously'.",
+  "S02242: 'following Amuro and Kamille' means following their line as Newtypes; slightly ambiguous in English but kept the row cut."
+ ]
+}

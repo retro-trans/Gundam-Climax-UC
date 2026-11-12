@@ -1,0 +1,765 @@
+{
+ "slice": "cards_01",
+ "rows_in_slice": 106,
+ "rows_examined": 106,
+ "rows": [
+  {
+   "id": "U-01",
+   "name_en": "Gundam",
+   "label_en": "U01 Gundam",
+   "model_en": "RX-78-2",
+   "desc_en": "Built under the Earth Fed. Forces' Operation V. Later given magnetic coating."
+  },
+  {
+   "id": "U-02",
+   "name_en": "GM",
+   "label_en": "U02 GM",
+   "model_en": "RGM-79",
+   "desc_en": "The Federation's first mass-produced mobile suit. Uses combat data from Amuro's Gundam."
+  },
+  {
+   "id": "U-03",
+   "name_en": "Char's Zaku II",
+   "label_en": "U03 Char's Zaku II",
+   "model_en": "MS-06S",
+   "desc_en": "The Red Comet Char Aznable's own Zaku. Its thrust is up by about 30%."
+  },
+  {
+   "id": "U-04",
+   "name_en": "Zeong",
+   "label_en": "U04 Zeong",
+   "model_en": "MSN-02",
+   "desc_en": "Large Newtype MS. Highly mobile, with mega particle cannons all over its body."
+  },
+  {
+   "id": "U-05",
+   "name_en": "Big Zam",
+   "label_en": "U05 Big Zam",
+   "model_en": "MA-08",
+   "desc_en": "Giant MA Lt. Gen. Dozle flew at Solomon. Its short operating time is its weakness."
+  },
+  {
+   "id": "U-06",
+   "name_en": "Guncannon",
+   "label_en": "U06 Guncannon",
+   "model_en": "RX-77-2",
+   "desc_en": "Built under the Fed. Forces' Operation V. Artillery MS made for mid-range support."
+  },
+  {
+   "id": "U-07",
+   "name_en": "Zaku II F Type",
+   "label_en": "U07 Zaku II F Type",
+   "model_en": "MS-06F",
+   "desc_en": "Zeon's main general-purpose MS, the most produced unit of the One Year War."
+  },
+  {
+   "id": "U-08",
+   "name_en": "Dom",
+   "label_en": "U08 Dom",
+   "model_en": "MS-09",
+   "desc_en": "Heavy MS for ground combat. Known for fast hover movement and its Giant Bazooka."
+  },
+  {
+   "id": "U-09",
+   "name_en": "Rick Dom",
+   "label_en": "U09 Rick Dom",
+   "model_en": "MS-09R",
+   "desc_en": "A Dom modified for space. Deployed in large numbers, replacing the Zaku II F Type."
+  },
+  {
+   "id": "U-10",
+   "name_en": "Gelgoog",
+   "label_en": "U10 Gelgoog",
+   "model_en": "MS-14A",
+   "desc_en": "Zeon's last high-end production MS. A lack of pilots kept it from showing its worth."
+  },
+  {
+   "id": "U-11",
+   "name_en": "Gundam Ez8",
+   "label_en": "U11 Gundam Ez8",
+   "model_en": "RX-79[G]Ez-8",
+   "desc_en": "Field-modified custom of a Gundam Ground Type wrecked fighting the Apsaras."
+  },
+  {
+   "id": "U-12",
+   "name_en": "Gundam Ground Type",
+   "label_en": "U12 Gundam Ground Type",
+   "model_en": "RX-79[G]",
+   "desc_en": "Ground unit built from surplus RX-78 parts. About 20 were made and sent to Asia."
+  },
+  {
+   "id": "U-13",
+   "name_en": "Gouf Custom",
+   "label_en": "U13 Gouf Custom",
+   "model_en": "MS-07B-3",
+   "desc_en": "Custom redesign fixing the Gouf's flaws: narrow attack range and low versatility."
+  },
+  {
+   "id": "U-14",
+   "name_en": "Apsaras II",
+   "label_en": "U14 Apsaras II",
+   "model_en": "Unknown",
+   "desc_en": "Zeon prototype MA. Has a huge mega particle cannon and the ability to fly."
+  },
+  {
+   "id": "U-15",
+   "name_en": "Zaku II J Type",
+   "label_en": "U15 Zaku II J Type",
+   "model_en": "MS-06J",
+   "desc_en": "A Zaku II F Type with its space equipment removed, modified for ground use."
+  },
+  {
+   "id": "U-16",
+   "name_en": "Alex",
+   "label_en": "U16 Alex",
+   "model_en": "RX-78NT-1",
+   "desc_en": "Official name: Gundam NT-1. An experimental Newtype unit incorporating new technology."
+  },
+  {
+   "id": "U-17",
+   "name_en": "Kampfer",
+   "label_en": "U17 Kampfer",
+   "model_en": "MS-18E",
+   "desc_en": "Lightly armored, highly mobile assault MS. Carries many solid-ammo weapons."
+  },
+  {
+   "id": "U-18",
+   "name_en": "Zaku II FZ",
+   "label_en": "U18 Zaku II FZ",
+   "model_en": "MS-06FZ",
+   "desc_en": "Integrated Re-engineering Program Zaku II. Its mobility etc. exceed the Rick Dom's."
+  },
+  {
+   "id": "U-19",
+   "name_en": "Full Burnern",
+   "label_en": "U19 Full Burnern",
+   "model_en": "RX-78GP01-Fb",
+   "desc_en": "Space type of the Gundam Development Project's Unit 1. Has two big thrusters."
+  },
+  {
+   "id": "U-20",
+   "name_en": "Physalis",
+   "label_en": "U20 Physalis",
+   "model_en": "RX-78GP02A",
+   "desc_en": "Unit 2 of the Gundam Development Project. Designed for assaults with a tactical nuke."
+  },
+  {
+   "id": "U-21",
+   "name_en": "Gerbera Tetra",
+   "label_en": "U21 Gerbera Tetra",
+   "model_en": "AGX-04",
+   "desc_en": "Disguised form of the unit being built as Gundam Development Project Unit 4."
+  },
+  {
+   "id": "U-22",
+   "name_en": "Dendrobium",
+   "label_en": "U22 Dendrobium",
+   "model_en": "RX-78GP03",
+   "desc_en": "Unit 3 of the Gundam Development Project. A huge unit mainly for space base defense."
+  },
+  {
+   "id": "U-23",
+   "name_en": "Neue Ziel",
+   "label_en": "U23 Neue Ziel",
+   "model_en": "AMX-X2",
+   "desc_en": "Large mobile armor built by Axis. Equipped with many beam cannons and an I-field."
+  },
+  {
+   "id": "U-24",
+   "name_en": "GM Custom",
+   "label_en": "U24 GM Custom",
+   "model_en": "RGM-79N",
+   "desc_en": "An upgraded GM built after the One Year War. Issued to ace pilots."
+  },
+  {
+   "id": "U-25",
+   "name_en": "Zeta Gundam",
+   "label_en": "U25 Zeta Gundam",
+   "model_en": "MSZ-006",
+   "desc_en": "The AEUG's transformable ace unit. Later enhanced with a bio-sensor."
+  },
+  {
+   "id": "U-26",
+   "name_en": "Waverider",
+   "label_en": "U26 Waverider",
+   "model_en": "MSZ-006",
+   "desc_en": "The Zeta Gundam's high-speed mode. Can enter the atmosphere and fly solo in it."
+  },
+  {
+   "id": "U-27",
+   "name_en": "Gundam Mk-II (AEUG)",
+   "label_en": "U27 Gundam Mk-II (AEUG)",
+   "model_en": "RX-178",
+   "desc_en": "A Titans-built Gundam Mk-II, stolen by the AEUG and repainted."
+  },
+  {
+   "id": "U-28",
+   "name_en": "Gundam Mk-II (Titans)",
+   "label_en": "U28 Gundam Mk-II (Titans)",
+   "model_en": "RX-178",
+   "desc_en": "New-gen Gundam built by the Titans with new tech as a next mainstay MS candidate."
+  },
+  {
+   "id": "U-29",
+   "name_en": "GM II",
+   "label_en": "U29 GM II",
+   "model_en": "RGM-179",
+   "desc_en": "Upgrade of the GM, the Fed.'s One Year War mainstay. Its basic specs barely improved."
+  },
+  {
+   "id": "U-30",
+   "name_en": "GM II (AEUG)",
+   "label_en": "U30 GM II (AEUG)",
+   "model_en": "RGM-79R",
+   "desc_en": "Units the AEUG seized from the Fed. Forces at its founding and used. Repainted green."
+  },
+  {
+   "id": "U-31",
+   "name_en": "Hyaku-Shiki",
+   "label_en": "U31 Hyaku-Shiki",
+   "model_en": "MSN-100",
+   "desc_en": "Capt. Quattro's gold-armored unit. It can't transform, but its basic specs are high."
+  },
+  {
+   "id": "U-32",
+   "name_en": "Qubeley",
+   "label_en": "U32 Qubeley",
+   "model_en": "AMX-004",
+   "desc_en": "Haman Karn's personal mobile suit. The first unit ever equipped with funnels."
+  },
+  {
+   "id": "U-33",
+   "name_en": "Gaza C",
+   "label_en": "U33 Gaza C",
+   "model_en": "AMX-003",
+   "desc_en": "Axis mass-production MS. Has simple transformation and a powerful beam cannon."
+  },
+  {
+   "id": "U-34",
+   "name_en": "Gaza C (MA Mode)",
+   "label_en": "U34 Gaza C (MA Mode)",
+   "model_en": "AMX-003",
+   "desc_en": "The Gaza C's MA mode. Mobility improves, but close combat becomes impossible."
+  },
+  {
+   "id": "U-35",
+   "name_en": "The-O",
+   "label_en": "U35 The-O",
+   "model_en": "PMX-003",
+   "desc_en": "Paptimus Scirocco's self-developed personal unit. Equipped with a bio-sensor."
+  },
+  {
+   "id": "U-36",
+   "name_en": "Psycho Gundam",
+   "label_en": "U36 Psycho Gundam",
+   "model_en": "MRX-009",
+   "desc_en": "Large transformable Newtype unit with psycommu. Boasts heavy firepower and armor."
+  },
+  {
+   "id": "U-37",
+   "name_en": "Psycho Gundam (MA Mode)",
+   "label_en": "U37 Psycho Gundam (MA Mode)",
+   "model_en": "MRX-009",
+   "desc_en": "The Psycho Gundam's mobile armor mode. It can fly using its Minovsky craft."
+  },
+  {
+   "id": "U-38",
+   "name_en": "Asshimar",
+   "label_en": "U38 Asshimar",
+   "model_en": "NRX-044",
+   "desc_en": "An Earth Fed. Forces unit for atmospheric use. Known for its unique disc shape."
+  },
+  {
+   "id": "U-39",
+   "name_en": "Asshimar (MA Mode)",
+   "label_en": "U39 Asshimar (MA Mode)",
+   "model_en": "NRX-044",
+   "desc_en": "With no melee weapons, the Asshimar's MA mode could well be called its true form."
+  },
+  {
+   "id": "U-40",
+   "name_en": "Hizack",
+   "label_en": "U40 Hizack",
+   "model_en": "RMS-106",
+   "desc_en": "Built mainly by ex-Zeon engineers. Lacking output, it's on par with the GM II."
+  },
+  {
+   "id": "U-41",
+   "name_en": "Hizack (E.F.S.F.)",
+   "label_en": "U41 Hizack (E.F.S.F.)",
+   "model_en": "RMS-106",
+   "desc_en": "To tell them from Titans units, the Earth Fed. Forces painted theirs blue.",
+   "note": "name follows glossary entry for the same unit"
+  },
+  {
+   "id": "U-42",
+   "name_en": "Marasai",
+   "label_en": "U42 Marasai",
+   "model_en": "RMS-108",
+   "desc_en": "Adopted as a step up from the Hizack. Used mainly as a commander's unit."
+  },
+  {
+   "id": "U-43",
+   "name_en": "ZZ Gundam",
+   "label_en": "U43 ZZ Gundam",
+   "model_en": "MSZ-010",
+   "desc_en": "The AEUG's top MS after the Zeta. Heavily armed and armored; transforms and combines."
+  },
+  {
+   "id": "U-44",
+   "name_en": "Zaku III",
+   "label_en": "U44 Zaku III",
+   "model_en": "AMX-011",
+   "desc_en": "Its versatility and stable performance befit the Zaku name, but cost was an issue."
+  },
+  {
+   "id": "U-45",
+   "name_en": "Zaku III Custom",
+   "label_en": "U45 Zaku III Custom",
+   "model_en": "AMX-011S",
+   "desc_en": "Zaku III with swapped parts for commanders. Noted for extra weapons and propellant."
+  },
+  {
+   "id": "U-46",
+   "name_en": "Doven Wolf",
+   "label_en": "U46 Doven Wolf",
+   "model_en": "AMX-014",
+   "desc_en": "High-end production MS with heavy weapons incl. Incom. Flown by the Space Wolf team."
+  },
+  {
+   "id": "U-47",
+   "name_en": "Quin Mantha",
+   "label_en": "U47 Quin Mantha",
+   "model_en": "MZ-000",
+   "desc_en": "Giant Newtype mobile suit built with technology seized from the Titans."
+  },
+  {
+   "id": "U-48",
+   "name_en": "Qubeley Mk-2 (Ple)",
+   "label_en": "U48 Qubeley Mk-2 (Ple)",
+   "model_en": "AMX-004-2",
+   "desc_en": "Equal in performance to Haman's Qubeley. The dark blue one is Elpeo Ple's own.",
+   "note": "name built on glossary 'Qubeley Mk-2 (Ple-Two)' pattern"
+  },
+  {
+   "id": "U-49",
+   "name_en": "Qubeley Mk-2 (Ple-Two)",
+   "label_en": "U49 Qubeley Mk-2 (Ple-Two)",
+   "model_en": "AMX-004-3",
+   "desc_en": "Equal in performance to Haman's Qubeley. This red one is Ple-Two's own."
+  },
+  {
+   "id": "U-50",
+   "name_en": "Qubeley Mass Production Type",
+   "label_en": "U50 Qubeley Mass Production Type",
+   "model_en": "AMX-004G",
+   "desc_en": "Mass-produced Qubeley with the same specs, plus funnels and other added weapons."
+  },
+  {
+   "id": "U-51",
+   "name_en": "Z Zaku",
+   "label_en": "U51 Z Zaku",
+   "model_en": "???",
+   "desc_en": "A Zeta whose damaged head was swapped for a found Zaku II head. Not an official name."
+  },
+  {
+   "id": "U-52",
+   "name_en": "Nu Gundam",
+   "label_en": "U52 Nu Gundam",
+   "model_en": "RX-93",
+   "desc_en": "Amuro's own unit, overwhelmingly strong, with a Psycho-Frame and fin funnels."
+  },
+  {
+   "id": "U-53",
+   "name_en": "Sazabi",
+   "label_en": "U53 Sazabi",
+   "model_en": "MSN-04",
+   "desc_en": "Char's crimson personal mobile suit. Powerfully armed, built around its funnels."
+  },
+  {
+   "id": "U-54",
+   "name_en": "Re-GZ",
+   "label_en": "U54 Re-GZ",
+   "model_en": "RGZ-91",
+   "desc_en": "Meant as a simplified mass-production Zeta, but only prototyped. High basic specs."
+  },
+  {
+   "id": "U-55",
+   "name_en": "Re-GZ (BWS)",
+   "label_en": "U55 Re-GZ (BWS)",
+   "model_en": "RGZ-91",
+   "desc_en": "The Back Weapon System is a detachable part that adds both flight ability and weapons."
+  },
+  {
+   "id": "U-56",
+   "name_en": "Jegan",
+   "label_en": "U56 Jegan",
+   "model_en": "RGM-89",
+   "desc_en": "The Fed.'s main mass-production MS after the GM III. So good it served 30 years."
+  },
+  {
+   "id": "U-57",
+   "name_en": "Jagd Doga (Gyunei)",
+   "label_en": "U57 Jagd Doga (Gyunei)",
+   "model_en": "MSN-03",
+   "desc_en": "Newtype unit armed with funnels. Piloted by Gyunei, a Cyber Newtype."
+  },
+  {
+   "id": "U-58",
+   "name_en": "Jagd Doga (Quess)",
+   "label_en": "U58 Jagd Doga (Quess)",
+   "model_en": "MSN-03",
+   "desc_en": "Of the two built, Quess used the red one. It has no commander's antenna."
+  },
+  {
+   "id": "U-59",
+   "name_en": "Geara Doga",
+   "label_en": "U59 Geara Doga",
+   "model_en": "AMS-119",
+   "desc_en": "Neo Zeon's main production MS. Developed by ex-Zeon engineers from the Zaku line."
+  },
+  {
+   "id": "U-60",
+   "name_en": "Geara Doga (Rezin)",
+   "label_en": "U60 Geara Doga (Rezin)",
+   "model_en": "AMS-119",
+   "desc_en": "A unit with commander customization. Dark blue is Ens. Rezin's personal color."
+  },
+  {
+   "id": "U-61",
+   "name_en": "Alpha Azieru",
+   "label_en": "U61 Alpha Azieru",
+   "model_en": "NZ-333",
+   "desc_en": "Large mobile armor for Newtypes. Has overwhelming firepower and an I-field."
+  },
+  {
+   "id": "U-62",
+   "name_en": "Gundam F91",
+   "label_en": "U62 Gundam F91",
+   "model_en": "F91",
+   "desc_en": "Top unit of SNRI's small MS project. Armed with many new-generation beam weapons."
+  },
+  {
+   "id": "U-63",
+   "name_en": "Berga Giros",
+   "label_en": "U63 Berga Giros",
+   "model_en": "XM-05",
+   "desc_en": "Crossbone Vanguard commander's mobile suit. Zabine Chareux's unit."
+  },
+  {
+   "id": "U-64",
+   "name_en": "Berga-Dalas",
+   "label_en": "U64 Berga-Dalas",
+   "model_en": "XM-04",
+   "desc_en": "Crossbone Vanguard commander's mobile suit. Not the newest model, but high-spec."
+  },
+  {
+   "id": "U-65",
+   "name_en": "Rafflesia",
+   "label_en": "U65 Rafflesia",
+   "model_en": "XMA-01",
+   "desc_en": "A giant, oddly shaped mobile armor that Iron Mask (Carozzo) had secretly developed."
+  },
+  {
+   "id": "U-66",
+   "name_en": "Vigna-Ghina",
+   "label_en": "U66 Vigna-Ghina",
+   "model_en": "XM-07",
+   "desc_en": "The Crossbone Vanguard's latest high-end MS. Piloted by Berah (Cecily)."
+  },
+  {
+   "id": "U-67",
+   "name_en": "Den'an-Zon",
+   "label_en": "U67 Den'an-Zon",
+   "model_en": "XM-01",
+   "desc_en": "Base unit of the Den'an line, Crossbone's main production MS. Mobile and versatile."
+  },
+  {
+   "id": "U-68",
+   "name_en": "Den'an-Zon (Black Vanguard)",
+   "label_en": "U68 Den'an-Zon (Black Vanguard)",
+   "model_en": "XM-01",
+   "desc_en": "A Den'an-Zon of the \"Black Vanguard\" led by Zabine Chareux."
+  },
+  {
+   "id": "U-69",
+   "name_en": "Gundam F90V",
+   "label_en": "U69 Gundam F90V",
+   "model_en": "F90V",
+   "desc_en": "The VSBR-equipped version of the F90, base unit of SNRI's Formula Project."
+  },
+  {
+   "id": "U-70",
+   "name_en": "Crossbone Gundam X-1",
+   "label_en": "U70 Crossbone Gundam X-1",
+   "model_en": "XM-X1",
+   "desc_en": "Core unit of the new Crossbone Vanguard led by Berah. Excels at close combat."
+  },
+  {
+   "id": "U-71",
+   "name_en": "Crossbone Gundam X-2",
+   "label_en": "U71 Crossbone Gundam X-2",
+   "model_en": "XM-X2",
+   "desc_en": "Core unit of the new Crossbone Vanguard led by Berah. Piloted by Zabine Chareux."
+  },
+  {
+   "id": "U-72",
+   "name_en": "Crossbone Gundam X-3",
+   "label_en": "U72 Crossbone Gundam X-3",
+   "model_en": "XM-X3",
+   "desc_en": "Core unit of the new Crossbone Vanguard led by Berah. Piloted by Tobia Arronax."
+  },
+  {
+   "id": "P-01",
+   "name_en": "Amuro Ray",
+   "label_en": "P01 Amuro Ray",
+   "model_en": "A boy living in Side 7. Caught in battle,",
+   "desc_en": "he becomes the Gundam's pilot. Awakening as a Newtype, he grows to be the strongest."
+  },
+  {
+   "id": "P-02",
+   "name_en": "Kai Shiden",
+   "label_en": "P02 Kai Shiden",
+   "model_en": "White Base's Guncannon pilot. Once a cynic",
+   "desc_en": "and a coward, he finds meaning in the fight after meeting Miharu, a young girl spy."
+  },
+  {
+   "id": "P-03",
+   "name_en": "Hayato Kobayashi",
+   "label_en": "P03 Hayato Kobayashi",
+   "model_en": "Amuro's classmate from Side 7. On White",
+   "desc_en": "Base, he mostly pilots the Guntank. Though small, he is fiercely competitive."
+  },
+  {
+   "id": "P-04",
+   "name_en": "Char Aznable",
+   "label_en": "P04 Char Aznable",
+   "model_en": "Zeon's ace pilot, known as the Red Comet.",
+   "desc_en": "Behind his mask, he is really Casval, the orphaned son of Zeon Zum Deikun."
+  },
+  {
+   "id": "P-05",
+   "name_en": "Dozle Zabi",
+   "label_en": "P05 Dozle Zabi",
+   "model_en": "Third Zabi son and born soldier, he led the",
+   "desc_en": "Space Attack Force and Solomon. He sortied in the Big Zam but fell to the Gundam."
+  },
+  {
+   "id": "P-06",
+   "name_en": "Shiro Amada",
+   "label_en": "P06 Shiro Amada",
+   "model_en": "Rookie leader of the 08th MS Team, Kojima",
+   "desc_en": "Battalion. He bonded with Zeon's Aina Sakhalin, met in battle, and left the army."
+  },
+  {
+   "id": "P-07",
+   "name_en": "Karen Joshua",
+   "label_en": "P07 Karen Joshua",
+   "model_en": "An MS pilot of the 08th MS Team and its",
+   "desc_en": "second-in-command. Sharp-tongued, she called her leader Shiro a softie at first."
+  },
+  {
+   "id": "P-08",
+   "name_en": "Terry Sanders Jr.",
+   "label_en": "P08 Terry Sanders Jr.",
+   "model_en": "An MS pilot of the 08th MS Team. Two units",
+   "desc_en": "he served in were wiped out. It weighed on him, but Shiro helped him move past it."
+  },
+  {
+   "id": "P-09",
+   "name_en": "Aina Sakhalin",
+   "label_en": "P09 Aina Sakhalin",
+   "model_en": "Daughter of the noble Sakhalin family and a",
+   "desc_en": "Zeon test pilot. Meeting enemy soldier Shiro Amada slowly changes how she lives."
+  },
+  {
+   "id": "P-10",
+   "name_en": "Norris Packard",
+   "label_en": "P10 Norris Packard",
+   "model_en": "A veteran pilot serving the Sakhalins. In a",
+   "desc_en": "Gouf Custom, he let his revered Aina and the wounded escape, then fell, duty done."
+  },
+  {
+   "id": "P-11",
+   "name_en": "Christina Mackenzie",
+   "label_en": "P11 Christina Mackenzie",
+   "model_en": "A Federation test pilot, known as Chris.",
+   "desc_en": "She grew fond of Bernie, met by chance, but unknowingly destroyed his Zaku."
+  },
+  {
+   "id": "P-12",
+   "name_en": "Bernard Wiseman",
+   "label_en": "P12 Bernard Wiseman",
+   "model_en": "A Zeon recruit, known as Bernie. Young Al",
+   "desc_en": "learns who he is and joins him. He fights to save the colony, but meets a tragic end."
+  },
+  {
+   "id": "P-13",
+   "name_en": "Kou Uraki",
+   "label_en": "P13 Kou Uraki",
+   "model_en": "A rookie test pilot at Torrington Base.",
+   "desc_en": "After the GP02 theft, he hurls himself into fierce battles with his nemesis Gato."
+  },
+  {
+   "id": "P-14",
+   "name_en": "South Burning",
+   "label_en": "P14 South Burning",
+   "model_en": "An MS pilot instructor at Torrington, he",
+   "desc_en": "became the Albion's combat leader after the GP02 theft. He died in an MS accident."
+  },
+  {
+   "id": "P-15",
+   "name_en": "Anavel Gato",
+   "label_en": "P15 Anavel Gato",
+   "model_en": "Zeon ace dubbed the Nightmare of Solomon.",
+   "desc_en": "Serving Delaz, he spearheaded Operation Stardust and waged a fierce fight with Kou."
+  },
+  {
+   "id": "P-16",
+   "name_en": "Cima Garahau",
+   "label_en": "P16 Cima Garahau",
+   "model_en": "A Zeon officer. She joined the Delaz Fleet",
+   "desc_en": "intending all along to defect to the Fed. Gato and Kou foiled it; she died in battle."
+  },
+  {
+   "id": "P-17",
+   "name_en": "Kamille Bidan",
+   "label_en": "P17 Kamille Bidan",
+   "model_en": "A civilian student who hated the Titans and",
+   "desc_en": "joined the AEUG. Hailed as Amuro reborn for his superb combat skill, he became an ace."
+  },
+  {
+   "id": "P-18",
+   "name_en": "Quattro Bajeena",
+   "label_en": "P18 Quattro Bajeena",
+   "model_en": "The alias Char Aznable used after leaving",
+   "desc_en": "Axis, when he became an AEUG officer. He lost his fight with Haman and went missing."
+  },
+  {
+   "id": "P-19",
+   "name_en": "Emma Sheen",
+   "label_en": "P19 Emma Sheen",
+   "model_en": "Once a Titans officer, she defected to the",
+   "desc_en": "AEUG after being shown their cruelty, and fought as one of its key pilots."
+  },
+  {
+   "id": "P-20",
+   "name_en": "Amuro Ray (Z)",
+   "label_en": "P20 Amuro Ray (Z)",
+   "model_en": "Feared for his One Year War feats, he was",
+   "desc_en": "confined by the Fed. Roused by Katz, he joined Karaba, fighting with Hayato and co."
+  },
+  {
+   "id": "P-21",
+   "name_en": "Jerid Messa",
+   "label_en": "P21 Jerid Messa",
+   "model_en": "A Titans pilot. Supposedly elite, he lost",
+   "desc_en": "again and again after meeting Kamille, and died without ever getting his revenge."
+  },
+  {
+   "id": "P-22",
+   "name_en": "Four Murasame",
+   "label_en": "P22 Four Murasame",
+   "model_en": "A Titans Cyber Newtype pilot. She met",
+   "desc_en": "Kamille in Hong Kong. They fell in love, but Jerid shot her as she shielded him."
+  },
+  {
+   "id": "P-23",
+   "name_en": "Paptimus Scirocco",
+   "label_en": "P23 Paptimus Scirocco",
+   "model_en": "A Newtype back from Jupiter. A charismatic",
+   "desc_en": "genius, he killed Jamitov and took over the Titans. Kamille's suicide charge slew him."
+  },
+  {
+   "id": "P-24",
+   "name_en": "Buran Blutarch",
+   "label_en": "P24 Buran Blutarch",
+   "model_en": "Ex-Fed. major. Though he inwardly hated the",
+   "desc_en": "Titans, he did his duty well. Flying the Asshimar, he plagued the AEUG many times."
+  },
+  {
+   "id": "P-25",
+   "name_en": "Yazan Gable",
+   "label_en": "P25 Yazan Gable",
+   "model_en": "A Titans ace pilot, belligerent enough to",
+   "desc_en": "be called a beast. A stubborn survivor, he later fought Judau and the others too."
+  },
+  {
+   "id": "P-26",
+   "name_en": "Haman Karn",
+   "label_en": "P26 Haman Karn",
+   "model_en": "Guardian of Mineva, the last Zabi. She used",
+   "desc_en": "charisma and statecraft to unite Axis' Zeon remnants and return to the Earth Sphere."
+  },
+  {
+   "id": "P-27",
+   "name_en": "Judau Ashta",
+   "label_en": "P27 Judau Ashta",
+   "model_en": "A Side 1 boy living tough as a junk dealer.",
+   "desc_en": "Scouted by the AEUG for his Newtype talent, he fights Haman in the ZZ."
+  },
+  {
+   "id": "P-28",
+   "name_en": "Roux Louka",
+   "label_en": "P28 Roux Louka",
+   "model_en": "AEUG volunteer. On the Argama she mostly",
+   "desc_en": "flew the Zeta Gundam. After the war, she and Judau joined a Jupiter fleet's crew."
+  },
+  {
+   "id": "P-29",
+   "name_en": "Haman Karn (ZZ)",
+   "label_en": "P29 Haman Karn (ZZ)",
+   "model_en": "After the Titans fell, she led Axis, now",
+   "desc_en": "Neo Zeon, nearly taking the Earth Sphere. Insisting on dueling Judau, she lost."
+  },
+  {
+   "id": "P-30",
+   "name_en": "Elpeo Ple",
+   "label_en": "P30 Elpeo Ple",
+   "model_en": "A girl Glemy was training as a Newtype.",
+   "desc_en": "Drawn to Judau, she joined the AEUG. She died fighting her sister, Ple-Two."
+  },
+  {
+   "id": "P-31",
+   "name_en": "Ple-Two",
+   "label_en": "P31 Ple-Two",
+   "model_en": "Said to be Ple's clone, or her sister. She",
+   "desc_en": "is combative. Fighting Judau, she hears the dead Ple's voice and turns on Glemy."
+  },
+  {
+   "id": "P-32",
+   "name_en": "Mashymre Cello",
+   "label_en": "P32 Mashymre Cello",
+   "model_en": "Sworn to Haman, he prizes chivalry. After",
+   "desc_en": "repeated failures, Haman had him made a Cyber Newtype; he died a disposable pawn."
+  },
+  {
+   "id": "P-33",
+   "name_en": "Rakan Dahkaran",
+   "label_en": "P33 Rakan Dahkaran",
+   "model_en": "Haman's fierce warrior. In new MS he often",
+   "desc_en": "plagued Judau's team, but ambition made him defect to Glemy. He fell to the ZZ."
+  },
+  {
+   "id": "P-34",
+   "name_en": "Glemy Toto",
+   "label_en": "P34 Glemy Toto",
+   "model_en": "He rose from private to commander under",
+   "desc_en": "Haman, then suddenly rebelled from hidden ambition. Roux, whom he loved, killed him."
+  }
+ ],
+ "decisions": [
+  "Desc fit checked with tools/textenc.wrap (380 px, 43 bytes/line): every desc_en wraps to 2 lines. The 43-byte line cap, not pixel width, is the binding limit, so real capacity is ~80-85 chars, not 85-90.",
+  "Pilot cards: model_jp is the first line of the bio and desc_jp continues it mid-sentence; model_en is written as the opening line (<=43 bytes) and desc_en continues the same sentence, cut at a matching English point.",
+  "Card names use the short card form (Full Burnern, Physalis, Dendrobium) rather than the glossary's long 'Gundam GPxx ...' unit names, matching the Japanese card names.",
+  "Abbreviations used: MS, MA, Fed., Lt. Gen., Capt., Ens., Ex-Fed., incl., co."
+ ],
+ "uncertain": [
+  "U-18: 'Integrated Re-engineering Program' is marked unverified in the glossary; sentence restructured to fit ('Integrated Re-engineering Program Zaku II.').",
+  "U-48: 'Qubeley Mk-2 (Ple)' built on the glossary 'Qubeley Mk-2 (Ple-Two)' pattern; no glossary entry for the Ple version.",
+  "U-51: model ？？？ kept as '???'; name 'Z Zaku' is unverified in the glossary.",
+  "U-46: 'Space Wolf team' is unverified in the glossary.",
+  "P-06: 'Kojima Battalion' not in glossary; used the standard English name.",
+  "P-12/P-03: 'Al' and 'Guntank' not in glossary excerpt; used standard spellings."
+ ]
+}

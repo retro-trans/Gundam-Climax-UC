@@ -1,0 +1,409 @@
+{
+ "slice": "briefing_03",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "S00347",
+   "en": "Don't Give In to the Pressure!\n\nEXTRA-Intermediate STAGE 3"
+  },
+  {
+   "id": "S00348",
+   "en": "LV3 shooting only; engage for a set time",
+   "note": "LV3 read as the level-3 (charged) shot; kept terse"
+  },
+  {
+   "id": "S00349",
+   "en": "Fistfight on Earth\n\nEXTRA-Intermediate STAGE 4",
+   "note": "Title plays on the meme phrase 'naguriai uchu' (space brawl) with Earth swapped in"
+  },
+  {
+   "id": "S00350",
+   "en": "Melee only; engage the enemy mobile suit squad"
+  },
+  {
+   "id": "S00351",
+   "en": "Bigger Is Better?\n\nEXTRA-Intermediate STAGE 5",
+   "note": "Idiom 'the large can serve for the small'"
+  },
+  {
+   "id": "S00352",
+   "en": "The Phantom Fleet\n\nEXTRA-Intermediate STAGE 6"
+  },
+  {
+   "id": "S00353",
+   "en": "Engage the enemy forces"
+  },
+  {
+   "id": "S00354",
+   "en": "Engage for a set time / destroy all enemies",
+   "note": "Source lists two conditions with a comma; whether either or both is required is not stated, '/' keeps it open"
+  },
+  {
+   "id": "S00355",
+   "en": "Fortress of Steel\n\nEXTRA-Intermediate STAGE 7"
+  },
+  {
+   "id": "S00356",
+   "en": "Destroy the enemy defense facilities"
+  },
+  {
+   "id": "S00357",
+   "en": "Destroy all enemy gun batteries"
+  },
+  {
+   "id": "S00358",
+   "en": "The Space Pirates Appear\n\nEXTRA-Advanced STAGE 1"
+  },
+  {
+   "id": "S00359",
+   "en": "The Red Comet Returns\n\nEXTRA-Advanced STAGE 2"
+  },
+  {
+   "id": "S00360",
+   "en": "Another Final\n\nEXTRA-Advanced STAGE 3",
+   "note": "Source is an English loanword"
+  },
+  {
+   "id": "S00361",
+   "en": "Newtype Nightmare\n\nEXTRA-Advanced STAGE 4",
+   "note": "Whose nightmare is unstated; kept open"
+  },
+  {
+   "id": "S00362",
+   "en": "Devil of the Earth\n\nEXTRA-Advanced STAGE 5",
+   "note": "chijo = Earth's surface (vs space); paired with S00363"
+  },
+  {
+   "id": "S00363",
+   "en": "Grim Reaper of Space\n\nEXTRA-Advanced STAGE 6"
+  },
+  {
+   "id": "S00364",
+   "en": "Tutorial: Beginner\n\nMovement Controls"
+  },
+  {
+   "id": "S00365",
+   "en": "Mobile suit control training",
+   "note": "Shared by tutorial briefings #119-#121 and more"
+  },
+  {
+   "id": "S00366",
+   "en": "Follow the instructions"
+  },
+  {
+   "id": "S00367",
+   "en": "None",
+   "note": "Shared; likely the defeat-condition field"
+  },
+  {
+   "id": "S00368",
+   "en": "Tutorial: Intermediate\n\nAttack Controls"
+  },
+  {
+   "id": "S00369",
+   "en": "Tutorial: Advanced\n\nApplied Skills & Practice"
+  },
+  {
+   "id": "S00370",
+   "en": "Face 0",
+   "note": "Internal label (sel#284, portrait slot?); likely not player-facing"
+  },
+  {
+   "id": "S00371",
+   "en": "L Front",
+   "note": "Internal label: left, front position; likely not player-facing"
+  },
+  {
+   "id": "S00372",
+   "en": "L Back",
+   "note": "Internal label: left, rear position; likely not player-facing"
+  },
+  {
+   "id": "S00373",
+   "en": "R Front",
+   "note": "Internal label: right, front position; likely not player-facing"
+  },
+  {
+   "id": "S00374",
+   "en": "R Back",
+   "note": "Internal label: right, rear position; likely not player-facing"
+  },
+  {
+   "id": "S00375",
+   "en": "All Maps C)AMR_FG Into the Atmosphere",
+   "note": "Debug stage-select label (sel#285): code prefix kept, Japanese part translated; likely not player-facing."
+  },
+  {
+   "id": "S00376",
+   "en": "All Maps C)AMR_FG Jaburo",
+   "note": "Debug stage-select label (sel#285): code prefix kept, Japanese part translated; likely not player-facing. Truncated form of the Battle of Jaburo title."
+  },
+  {
+   "id": "S00377",
+   "en": "All Maps C)AMR_FG Fear!",
+   "note": "Debug stage-select label (sel#285): code prefix kept, Japanese part translated; likely not player-facing. Truncated in source; full title is the Big Zam stage (S00195)."
+  },
+  {
+   "id": "S00378",
+   "en": "All Maps C)AMR_FG Space Fortress",
+   "note": "Debug stage-select label (sel#285): code prefix kept, Japanese part translated; likely not player-facing. Truncated form of 'Space Fortress A Baoa Qu'."
+  },
+  {
+   "id": "S00379",
+   "en": "All Maps C)CHR_FG Into the Atmosphere",
+   "note": "Debug stage-select label (sel#285): code prefix kept, Japanese part translated; likely not player-facing."
+  },
+  {
+   "id": "S00380",
+   "en": "All Maps C)CHR_FG Space Fortress A Baoa Qu",
+   "note": "Debug stage-select label (sel#285): code prefix kept, Japanese part translated; likely not player-facing."
+  },
+  {
+   "id": "S00381",
+   "en": "All Maps C)SIR_08 Burning Sands Front",
+   "note": "Debug stage-select label (sel#285): code prefix kept, Japanese part translated; likely not player-facing."
+  },
+  {
+   "id": "S00382",
+   "en": "All Maps C)SIR_08 The Trembling Mountain",
+   "note": "Debug stage-select label (sel#285): code prefix kept, Japanese part translated; likely not player-facing. 08th MS Team episode title."
+  },
+  {
+   "id": "S00383",
+   "en": "All Maps C)AIN_08 Burning Sands Front",
+   "note": "Debug stage-select label (sel#285): code prefix kept, Japanese part translated; likely not player-facing."
+  },
+  {
+   "id": "S00384",
+   "en": "All Maps C)NRS_08 The Trembling Mountain",
+   "note": "Debug stage-select label (sel#285): code prefix kept, Japanese part translated; likely not player-facing."
+  },
+  {
+   "id": "S00385",
+   "en": "All Maps C)CRS_80 Over the River and Through the Woods",
+   "note": "Debug stage-select label (sel#285): code prefix kept, Japanese part translated; likely not player-facing. 0080 episode title; final briefing uses a different title for Chris STAGE 1."
+  },
+  {
+   "id": "S00386",
+   "en": "All Maps C)CRS_80 War in the Pocket",
+   "note": "Debug stage-select label (sel#285): code prefix kept, Japanese part translated; likely not player-facing."
+  },
+  {
+   "id": "S00387",
+   "en": "All Maps C)BER_80 War in the Pocket",
+   "note": "Debug stage-select label (sel#285): code prefix kept, Japanese part translated; likely not player-facing."
+  },
+  {
+   "id": "S00388",
+   "en": "All Maps C)KOU_83 Clash Zone",
+   "note": "Debug stage-select label (sel#285): code prefix kept, Japanese part translated; likely not player-facing."
+  },
+  {
+   "id": "S00389",
+   "en": "All Maps C)KOU_83 Rushing Storm",
+   "note": "Debug stage-select label (sel#285): code prefix kept, Japanese part translated; likely not player-facing."
+  },
+  {
+   "id": "S00390",
+   "en": "All Maps C)GAT_83 Clash Zone",
+   "note": "Debug stage-select label (sel#285): code prefix kept, Japanese part translated; likely not player-facing."
+  },
+  {
+   "id": "S00391",
+   "en": "All Maps C)GAT_83 Rushing Storm",
+   "note": "Debug stage-select label (sel#285): code prefix kept, Japanese part translated; likely not player-facing."
+  },
+  {
+   "id": "S00392",
+   "en": "All Maps C)CMA_83 Rushing Storm",
+   "note": "Debug stage-select label (sel#285): code prefix kept, Japanese part translated; likely not player-facing."
+  },
+  {
+   "id": "S00393",
+   "en": "All Maps C)KAM_ZG The Black Gundam",
+   "note": "Debug stage-select label (sel#285): code prefix kept, Japanese part translated; likely not player-facing."
+  },
+  {
+   "id": "S00394",
+   "en": "All Maps C)KAM_ZG Reunion",
+   "note": "Debug stage-select label (sel#285): code prefix kept, Japanese part translated; likely not player-facing. Older title; final briefing uses a different one for Kamille STAGE 2."
+  },
+  {
+   "id": "S00395",
+   "en": "All Maps C)KAM_ZG Shuttle Launch",
+   "note": "Debug stage-select label (sel#285): code prefix kept, Japanese part translated; likely not player-facing."
+  },
+  {
+   "id": "S00396",
+   "en": "All Maps C)KAM_ZG Through the White Darkness",
+   "note": "Debug stage-select label (sel#285): code prefix kept, Japanese part translated; likely not player-facing."
+  },
+  {
+   "id": "S00397",
+   "en": "All Maps C)KAM_ZG Cinderella Four",
+   "note": "Debug stage-select label (sel#285): code prefix kept, Japanese part translated; likely not player-facing."
+  },
+  {
+   "id": "S00398",
+   "en": "All Maps C)KAM_ZG Four Forever",
+   "note": "Debug stage-select label (sel#285): code prefix kept, Japanese part translated; likely not player-facing."
+  },
+  {
+   "id": "S00399",
+   "en": "All Maps C)KAM_ZG Space Vortex",
+   "note": "Debug stage-select label (sel#285): code prefix kept, Japanese part translated; likely not player-facing."
+  },
+  {
+   "id": "S00400",
+   "en": "All Maps C)KAM_ZG Racing Through Space",
+   "note": "Debug stage-select label (sel#285): code prefix kept, Japanese part translated; likely not player-facing."
+  },
+  {
+   "id": "S00401",
+   "en": "All Maps C)QUA_ZG Shuttle Launch",
+   "note": "Debug stage-select label (sel#285): code prefix kept, Japanese part translated; likely not player-facing."
+  },
+  {
+   "id": "S00402",
+   "en": "All Maps C)QUA_ZG Racing Through Space",
+   "note": "Debug stage-select label (sel#285): code prefix kept, Japanese part translated; likely not player-facing."
+  },
+  {
+   "id": "S00403",
+   "en": "All Maps C)JER_ZG Reunion",
+   "note": "Debug stage-select label (sel#285): code prefix kept, Japanese part translated; likely not player-facing."
+  },
+  {
+   "id": "S00404",
+   "en": "All Maps C)FOU_ZG Cinderella Four",
+   "note": "Debug stage-select label (sel#285): code prefix kept, Japanese part translated; likely not player-facing."
+  },
+  {
+   "id": "S00405",
+   "en": "All Maps C)FOU_ZG Four Forever",
+   "note": "Debug stage-select label (sel#285): code prefix kept, Japanese part translated; likely not player-facing."
+  },
+  {
+   "id": "S00406",
+   "en": "All Maps C)PAP_ZG Racing Through Space",
+   "note": "Debug stage-select label (sel#285): code prefix kept, Japanese part translated; likely not player-facing."
+  },
+  {
+   "id": "S00407",
+   "en": "All Maps C)HAM_ZG Space Vortex",
+   "note": "Debug stage-select label (sel#285): code prefix kept, Japanese part translated; likely not player-facing."
+  },
+  {
+   "id": "S00408",
+   "en": "All Maps C)HAM_ZG Racing Through Space",
+   "note": "Debug stage-select label (sel#285): code prefix kept, Japanese part translated; likely not player-facing."
+  },
+  {
+   "id": "S00409",
+   "en": "All Maps C)JUD_ZZ Burning Earth",
+   "note": "Debug stage-select label (sel#285): code prefix kept, Japanese part translated; likely not player-facing."
+  },
+  {
+   "id": "S00410",
+   "en": "All Maps C)JUD_ZZ Emary's Fall",
+   "note": "Debug stage-select label (sel#285): code prefix kept, Japanese part translated; likely not player-facing. sange = a glorious death in battle."
+  },
+  {
+   "id": "S00411",
+   "en": "All Maps C)JUD_ZZ Warrior, Once Again",
+   "note": "Debug stage-select label (sel#285): code prefix kept, Japanese part translated; likely not player-facing."
+  },
+  {
+   "id": "S00412",
+   "en": "All Maps C)RLK_ZZ Vibration",
+   "note": "Debug stage-select label (sel#285): code prefix kept, Japanese part translated; likely not player-facing."
+  },
+  {
+   "id": "S00413",
+   "en": "All Maps C)PLE_ZZ Burning Earth",
+   "note": "Debug stage-select label (sel#285): code prefix kept, Japanese part translated; likely not player-facing."
+  },
+  {
+   "id": "S00414",
+   "en": "All Maps C)MSM_ZZ Battle of Axis",
+   "note": "Debug stage-select label (sel#285): code prefix kept, Japanese part translated; likely not player-facing."
+  },
+  {
+   "id": "S00415",
+   "en": "All Maps C)HAM_ZZ Warrior, Once Again",
+   "note": "Debug stage-select label (sel#285): code prefix kept, Japanese part translated; likely not player-facing."
+  },
+  {
+   "id": "S00416",
+   "en": "All Maps C)AMR_CC Destiny",
+   "note": "Debug stage-select label (sel#285): code prefix kept, Japanese part translated; likely not player-facing."
+  },
+  {
+   "id": "S00417",
+   "en": "All Maps C)AMR_CC Char's Counterattack",
+   "note": "Debug stage-select label (sel#285): code prefix kept, Japanese part translated; likely not player-facing."
+  },
+  {
+   "id": "S00418",
+   "en": "All Maps C)CHR_CC Destiny",
+   "note": "Debug stage-select label (sel#285): code prefix kept, Japanese part translated; likely not player-facing."
+  },
+  {
+   "id": "S00419",
+   "en": "All Maps C)CHR_CC Char's Counterattack",
+   "note": "Debug stage-select label (sel#285): code prefix kept, Japanese part translated; likely not player-facing."
+  },
+  {
+   "id": "S00420",
+   "en": "All Maps C)SBK_91 The Formula Sorties",
+   "note": "Debug stage-select label (sel#285): code prefix kept, Japanese part translated; likely not player-facing."
+  },
+  {
+   "id": "S00421",
+   "en": "All Maps C)SBK_91 The Black Vanguard",
+   "note": "Debug stage-select label (sel#285): code prefix kept, Japanese part translated; likely not player-facing."
+  },
+  {
+   "id": "S00422",
+   "en": "All Maps C)SBK_91 Eternal Wind",
+   "note": "Debug stage-select label (sel#285): code prefix kept, Japanese part translated; likely not player-facing."
+  },
+  {
+   "id": "S00423",
+   "en": "All Maps C)CCL_91 Eternal Wind",
+   "note": "Debug stage-select label (sel#285): code prefix kept, Japanese part translated; likely not player-facing."
+  },
+  {
+   "id": "S00424",
+   "en": "All Maps C)ZBN_91 The Black Vanguard",
+   "note": "Debug stage-select label (sel#285): code prefix kept, Japanese part translated; likely not player-facing."
+  },
+  {
+   "id": "S00425",
+   "en": "All Maps C)Final Stage",
+   "note": "Debug stage-select label (sel#285): code prefix kept, Japanese part translated; likely not player-facing."
+  },
+  {
+   "id": "S00426",
+   "en": "All Maps P)Stage 1 Jaburo Defense",
+   "note": "Debug stage-select label (sel#285): code prefix kept, Japanese part translated; likely not player-facing."
+  }
+ ],
+ "decisions": [
+  "Difficulty tiers: Beginner/Intermediate/Advanced; title layout kept as 'EXTRA-<Tier> STAGE n' following the source; must match briefing_02's choice.",
+  "Briefing rec1/rec2/rec3 appear to be summary / victory condition / defeat condition; objectives written as terse imperatives.",
+  "sel#284/#285 rows look like internal/debug labels (portrait positions, all-maps stage select). Codes (AMR_FG, C), P)) kept verbatim; only the Japanese stage titles translated. Stage titles must be harmonised with the briefing_01/02 renderings of the same titles.",
+  "Leading full-width centring spaces dropped."
+ ],
+ "uncertain": [
+  "S00348: LV3 shooting restriction read as level-3 shots only; chose 'LV3 shooting only'.",
+  "S00354: comma between two conditions (set time / annihilation), and/or unclear; chose 'Engage for a set time / destroy all enemies'.",
+  "S00349: pun title; chose 'Fistfight on Earth'.",
+  "S00362/S00363: chose 'Devil of the Earth' / 'Grim Reaper of Space'.",
+  "S00381/383 'Burning Sands Front', S00388/390 'Clash Zone', S00389/391/392 'Rushing Storm': no official English known; harmonise with briefing_01/02.",
+  "S00399/407 'Space Vortex', S00400/402/406/408 'Racing Through Space' (official Zeta ep. 50 English title may be 'Beyond the Stars'), S00396 'Through the White Darkness', S00398 'Four Forever': episode titles from memory, unverified.",
+  "S00410: 'Emary's Fall' (Emary Ounce per glossary).",
+  "S00370-S00374: assumed portrait-slot labels (face/left/right, front/back)."
+ ]
+}

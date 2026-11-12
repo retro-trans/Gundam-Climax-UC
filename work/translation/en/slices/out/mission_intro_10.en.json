@@ -1,0 +1,344 @@
+{
+ "slice": "mission_intro_10",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "S02468",
+   "en": "As a result, the Axis forces led by Haman"
+  },
+  {
+   "id": "S02469",
+   "en": "were recognized as the rightful heirs of Zeon,"
+  },
+  {
+   "id": "S02470",
+   "en": "and the hearts of the remaining soldiers"
+  },
+  {
+   "id": "S02471",
+   "en": "were brought together as one."
+  },
+  {
+   "id": "S02472",
+   "en": "Seizing this chance, the Axis forces"
+  },
+  {
+   "id": "S02473",
+   "en": "steadily began their advance"
+  },
+  {
+   "id": "S02474",
+   "en": "and gradually drained the Titans"
+  },
+  {
+   "id": "S02475",
+   "en": "of their strength."
+  },
+  {
+   "id": "S02476",
+   "en": "The tide of battle kept shifting."
+  },
+  {
+   "id": "S02477",
+   "en": "wiped out the Titans' main fleet,",
+   "note": "Follows shared row S02457 (AEUG colony laser cannon) as subject."
+  },
+  {
+   "id": "S02478",
+   "en": "and at that point"
+  },
+  {
+   "id": "S02479",
+   "en": "Haman decided to pull her forces back."
+  },
+  {
+   "id": "S02480",
+   "en": "Leaving behind the Titans, who had lost"
+  },
+  {
+   "id": "S02481",
+   "en": "their cohesion and were bound to disband,"
+  },
+  {
+   "id": "S02482",
+   "en": "and the AEUG, stripped of all its key pilots"
+  },
+  {
+   "id": "S02483",
+   "en": "and left all but powerless,"
+  },
+  {
+   "id": "S02484",
+   "en": "the Axis forces, their strength preserved,"
+  },
+  {
+   "id": "S02485",
+   "en": "launched a full-scale invasion of the Earth Sphere."
+  },
+  {
+   "id": "S02486",
+   "en": "Haman's scheme"
+  },
+  {
+   "id": "S02487",
+   "en": "had worked perfectly."
+  },
+  {
+   "id": "S02488",
+   "en": "was forced to spend some time",
+   "note": "Continues shared row S02453 (mp_pr_0f05 line 16: Kamuna Tachibana, gravely wounded in battle,) from mission_intro_09."
+  },
+  {
+   "id": "S02489",
+   "en": "recuperating, but"
+  },
+  {
+   "id": "S02490",
+   "en": "his achievements in battle so far had been great,",
+   "note": "'his' = Kamuna (glossary: male)."
+  },
+  {
+   "id": "S02491",
+   "en": "and for the sake of Zeon's coming revival,"
+  },
+  {
+   "id": "S02492",
+   "en": "he rested and recovered under special treatment."
+  },
+  {
+   "id": "S02493",
+   "en": "Haman's forces had defeated the Glemy Faction, but"
+  },
+  {
+   "id": "S02494",
+   "en": "in the final battle at Core 3 that followed,"
+  },
+  {
+   "id": "S02495",
+   "en": "their leader, Haman Karn,"
+  },
+  {
+   "id": "S02496",
+   "en": "was defeated in a duel with Judau Ashta,"
+  },
+  {
+   "id": "S02497",
+   "en": "and Axis collapsed with the loss of its leader."
+  },
+  {
+   "id": "S02498",
+   "en": "With this, the struggle over Zeon"
+  },
+  {
+   "id": "S02499",
+   "en": "seemed to have come to a complete end, but"
+  },
+  {
+   "id": "S02500",
+   "en": "in Kamuna's mind,"
+  },
+  {
+   "id": "S02501",
+   "en": "the memory of one who had vanished a year earlier"
+  },
+  {
+   "id": "S02502",
+   "en": "kept resurfacing..."
+  },
+  {
+   "id": "S02503",
+   "en": "That meant that before long"
+  },
+  {
+   "id": "S02504",
+   "en": "there would be another battle."
+  },
+  {
+   "id": "S02505",
+   "en": "Suddenly, as if guided by a mysterious light,"
+  },
+  {
+   "id": "S02506",
+   "en": "Axis veered off its falling trajectory."
+  },
+  {
+   "id": "S02507",
+   "en": "It was Amuro Ray and"
+  },
+  {
+   "id": "S02508",
+   "en": "Char Aznable's spirits, resonating"
+  },
+  {
+   "id": "S02509",
+   "en": "with the Psycho-Frame, that caused"
+  },
+  {
+   "id": "S02510",
+   "en": "this miracle."
+  },
+  {
+   "id": "S02511",
+   "en": "Sensing the end of all the fighting, Kamuna"
+  },
+  {
+   "id": "S02512",
+   "en": "made this battle his last and retired as a pilot."
+  },
+  {
+   "id": "S02513",
+   "en": "To a new generation,"
+  },
+  {
+   "id": "S02514",
+   "en": "humanity's hope would be passed on..."
+  },
+  {
+   "id": "S02515",
+   "en": "The light that enveloped Axis"
+  },
+  {
+   "id": "S02516",
+   "en": "may have been a symbol of",
+   "note": "Row content swapped with S02517 for English word order (JP: such wishes of the people / was a symbol of)."
+  },
+  {
+   "id": "S02517",
+   "en": "that very wish of the people."
+  },
+  {
+   "id": "S02518",
+   "en": "Universal Century 0123."
+  },
+  {
+   "id": "S02519",
+   "en": "After about a year of scheming in the shadows,"
+  },
+  {
+   "id": "S02520",
+   "en": "the Crossbone Vanguard came into the open and"
+  },
+  {
+   "id": "S02521",
+   "en": "declared war on the Earth Federation Government."
+  },
+  {
+   "id": "S02522",
+   "en": "Having been out of full-scale war"
+  },
+  {
+   "id": "S02523",
+   "en": "for a full 30 years, the Federation Forces"
+  },
+  {
+   "id": "S02524",
+   "en": "fought back mainly with outdated mobile suits, but"
+  },
+  {
+   "id": "S02525",
+   "en": "the colonies of Frontier Side"
+  },
+  {
+   "id": "S02526",
+   "en": "fell one after another."
+  },
+  {
+   "id": "S02527",
+   "en": "The Crossbone Vanguard belonged to"
+  },
+  {
+   "id": "S02528",
+   "en": "Cosmo Babylonia, whose ideals"
+  },
+  {
+   "id": "S02529",
+   "en": "won over quite a few ordinary citizens."
+  },
+  {
+   "id": "S02530",
+   "en": "It was just like the Principality of Zeon's"
+  },
+  {
+   "id": "S02531",
+   "en": "war of independence all over again."
+  },
+  {
+   "id": "S02532",
+   "en": "Aiming to achieve what Zeon never could,"
+  },
+  {
+   "id": "S02533",
+   "en": "the overthrow of the Earth Federation,"
+  },
+  {
+   "id": "S02534",
+   "en": "and welcoming new queen candidate Berah Ronah,"
+  },
+  {
+   "id": "S02535",
+   "en": "the morale of the Crossbone forces"
+  },
+  {
+   "id": "S02536",
+   "en": "rose ever higher."
+  },
+  {
+   "id": "S02537",
+   "en": "Having all but completed the Frontier Side campaign,"
+  },
+  {
+   "id": "S02538",
+   "en": "the main force of the Crossbone Vanguard",
+   "note": "Rows S02538/39 swap content for English subject-verb order (JP: triumphantly returned / CV main force)."
+  },
+  {
+   "id": "S02539",
+   "en": "made a proud, triumphant return."
+  },
+  {
+   "id": "S02540",
+   "en": "But of the grave events that had unfolded",
+   "note": "S02540-42 reordered within the sentence for English: 'But of the grave events that had unfolded / behind the scenes of that battle, / the soldiers knew nothing.'"
+  },
+  {
+   "id": "S02541",
+   "en": "behind the scenes of that battle,"
+  },
+  {
+   "id": "S02542",
+   "en": "the soldiers knew nothing."
+  },
+  {
+   "id": "S02543",
+   "en": "Iron Mask, their Supreme Commander, had fallen,"
+  },
+  {
+   "id": "S02544",
+   "en": "and the queen candidate Berah Ronah"
+  },
+  {
+   "id": "S02545",
+   "en": "had broken away from Cosmo Babylonia."
+  },
+  {
+   "id": "S02546",
+   "en": "Having left the Ronah family, Berah"
+  },
+  {
+   "id": "S02547",
+   "en": "spoke out against Iron Mask's covert"
+  }
+ ],
+ "decisions": [
+  "Narration rendered in past tense throughout, although the Japanese mixes in historic present.",
+  "Where English word order forces it, content shifts between adjacent rows of the same sentence; sentence boundaries and row counts are unchanged.",
+  "Kamuna referred to as 'he/his' (glossary: male)."
+ ],
+ "uncertain": [
+  "S02476: depends on shared S02457 (mission_intro_09) being sentence-initial 'The AEUG's colony laser cannon'; S02476 made a standalone sentence so either casing works.",
+  "S02488: continues shared S02453 (mission_intro_09) 'Kamuna Tachibana, gravely wounded in battle,' - check the join once both slices are merged.",
+  "S02501: unnamed missing person kept neutral ('one who had vanished'); probably Char, not stated in the text.",
+  "S02547: cross-slice sentence; the verb 'spoke out against' sits here, so S02548-50 (mission_intro_11) must continue it as a noun-phrase list plus 'appealing to the people'."
+ ]
+}

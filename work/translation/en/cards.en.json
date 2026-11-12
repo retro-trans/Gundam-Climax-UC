@@ -1,0 +1,5293 @@
+[
+ {
+  "id": "U-01",
+  "index": 0,
+  "lines_used": 2,
+  "name_en": "Gundam",
+  "label_en": "U01 Gundam",
+  "model_en": "RX-78-2",
+  "desc_en": "Built under the Earth Fed. Forces' Operation V. Later given magnetic coating.",
+  "note": ""
+ },
+ {
+  "id": "U-02",
+  "index": 1,
+  "lines_used": 2,
+  "name_en": "GM",
+  "label_en": "U02 GM",
+  "model_en": "RGM-79",
+  "desc_en": "The Federation's first mass-produced mobile suit. Uses combat data from Amuro's Gundam.",
+  "note": ""
+ },
+ {
+  "id": "U-03",
+  "index": 2,
+  "lines_used": 2,
+  "name_en": "Char's Zaku II",
+  "label_en": "U03 Char's Zaku II",
+  "model_en": "MS-06S",
+  "desc_en": "The Red Comet Char Aznable's own Zaku. Its thrust is up by about 30%.",
+  "note": ""
+ },
+ {
+  "id": "U-04",
+  "index": 3,
+  "lines_used": 2,
+  "name_en": "Zeong",
+  "label_en": "U04 Zeong",
+  "model_en": "MSN-02",
+  "desc_en": "Large Newtype MS. Highly mobile, with mega particle cannons all over its body.",
+  "note": ""
+ },
+ {
+  "id": "U-05",
+  "index": 4,
+  "lines_used": 2,
+  "name_en": "Big Zam",
+  "label_en": "U05 Big Zam",
+  "model_en": "MA-08",
+  "desc_en": "Giant MA flown by Lt. Gen. Dozle at Solomon. Its flaw: short operating time.",
+  "note": "",
+  "history": [
+   {
+    "stage": "editorial",
+    "old": {
+     "desc_en": "Giant MA Lt. Gen. Dozle flew at Solomon. Its short operating time is its weakness."
+    },
+    "reason": "'Giant MA Lt. Gen. Dozle flew' garden-path reduced relative"
+   }
+  ]
+ },
+ {
+  "id": "U-06",
+  "index": 5,
+  "lines_used": 2,
+  "name_en": "Guncannon",
+  "label_en": "U06 Guncannon",
+  "model_en": "RX-77-2",
+  "desc_en": "Built under the Fed. Forces' Operation V. Artillery MS made for mid-range support.",
+  "note": ""
+ },
+ {
+  "id": "U-07",
+  "index": 6,
+  "lines_used": 2,
+  "name_en": "Zaku II F Type",
+  "label_en": "U07 Zaku II F Type",
+  "model_en": "MS-06F",
+  "desc_en": "Zeon's main general-purpose MS, the most produced unit of the One Year War.",
+  "note": ""
+ },
+ {
+  "id": "U-08",
+  "index": 7,
+  "lines_used": 2,
+  "name_en": "Dom",
+  "label_en": "U08 Dom",
+  "model_en": "MS-09",
+  "desc_en": "Heavy MS for ground combat. Known for fast hover movement and its Giant Bazooka.",
+  "note": ""
+ },
+ {
+  "id": "U-09",
+  "index": 8,
+  "lines_used": 2,
+  "name_en": "Rick Dom",
+  "label_en": "U09 Rick Dom",
+  "model_en": "MS-09R",
+  "desc_en": "A Dom modified for space. Deployed in large numbers, replacing the Zaku II F Type.",
+  "note": ""
+ },
+ {
+  "id": "U-10",
+  "index": 9,
+  "lines_used": 2,
+  "name_en": "Gelgoog",
+  "label_en": "U10 Gelgoog",
+  "model_en": "MS-14A",
+  "desc_en": "Zeon's last high-end production MS. A lack of pilots kept it from showing its worth.",
+  "note": ""
+ },
+ {
+  "id": "U-11",
+  "index": 10,
+  "lines_used": 2,
+  "name_en": "Gundam Ez8",
+  "label_en": "U11 Gundam Ez8",
+  "model_en": "RX-79[G]Ez-8",
+  "desc_en": "Field-modified custom of a Gundam Ground Type wrecked fighting the Apsaras.",
+  "note": ""
+ },
+ {
+  "id": "U-12",
+  "index": 11,
+  "lines_used": 2,
+  "name_en": "Gundam Ground Type",
+  "label_en": "U12 Gundam Ground Type",
+  "model_en": "RX-79[G]",
+  "desc_en": "Ground unit built from surplus RX-78 parts. About 20 were made and sent to Asia.",
+  "note": ""
+ },
+ {
+  "id": "U-13",
+  "index": 12,
+  "lines_used": 2,
+  "name_en": "Gouf Custom",
+  "label_en": "U13 Gouf Custom",
+  "model_en": "MS-07B-3",
+  "desc_en": "Custom redesign fixing the Gouf's flaws: narrow attack range and low versatility.",
+  "note": ""
+ },
+ {
+  "id": "U-14",
+  "index": 13,
+  "lines_used": 2,
+  "name_en": "Apsaras II",
+  "label_en": "U14 Apsaras II",
+  "model_en": "Unknown",
+  "desc_en": "Zeon prototype MA. Has a huge mega particle cannon and the ability to fly.",
+  "note": ""
+ },
+ {
+  "id": "U-15",
+  "index": 14,
+  "lines_used": 2,
+  "name_en": "Zaku II J Type",
+  "label_en": "U15 Zaku II J Type",
+  "model_en": "MS-06J",
+  "desc_en": "A Zaku II F Type with its space equipment removed, modified for ground use.",
+  "note": ""
+ },
+ {
+  "id": "U-16",
+  "index": 15,
+  "lines_used": 2,
+  "name_en": "Alex",
+  "label_en": "U16 Alex",
+  "model_en": "RX-78NT-1",
+  "desc_en": "Official name: Gundam NT-1. An experimental Newtype unit incorporating new technology.",
+  "note": ""
+ },
+ {
+  "id": "U-17",
+  "index": 16,
+  "lines_used": 2,
+  "name_en": "Kampfer",
+  "label_en": "U17 Kampfer",
+  "model_en": "MS-18E",
+  "desc_en": "Lightly armored, highly mobile assault MS. Carries many solid-ammo weapons.",
+  "note": ""
+ },
+ {
+  "id": "U-18",
+  "index": 17,
+  "lines_used": 2,
+  "name_en": "Zaku II FZ",
+  "label_en": "U18 Zaku II FZ",
+  "model_en": "MS-06FZ",
+  "desc_en": "Integrated Re-engineering Program Zaku II. Its mobility etc. exceed the Rick Dom's.",
+  "note": ""
+ },
+ {
+  "id": "U-19",
+  "index": 18,
+  "lines_used": 2,
+  "name_en": "Full Burnern",
+  "label_en": "U19 Full Burnern",
+  "model_en": "RX-78GP01-Fb",
+  "desc_en": "Space type of the Gundam Development Project's Unit 1. Has two big thrusters.",
+  "note": ""
+ },
+ {
+  "id": "U-20",
+  "index": 19,
+  "lines_used": 2,
+  "name_en": "Physalis",
+  "label_en": "U20 Physalis",
+  "model_en": "RX-78GP02A",
+  "desc_en": "Unit 2 of the Gundam Development Project. Designed for assaults with a tactical nuke.",
+  "note": ""
+ },
+ {
+  "id": "U-21",
+  "index": 20,
+  "lines_used": 2,
+  "name_en": "Gerbera Tetra",
+  "label_en": "U21 Gerbera Tetra",
+  "model_en": "AGX-04",
+  "desc_en": "Disguised form of the unit being built as Gundam Development Project Unit 4.",
+  "note": ""
+ },
+ {
+  "id": "U-22",
+  "index": 21,
+  "lines_used": 2,
+  "name_en": "Dendrobium",
+  "label_en": "U22 Dendrobium",
+  "model_en": "RX-78GP03",
+  "desc_en": "Unit 3 of the Gundam Development Project. A huge unit mainly for space base defense.",
+  "note": ""
+ },
+ {
+  "id": "U-23",
+  "index": 22,
+  "lines_used": 2,
+  "name_en": "Neue Ziel",
+  "label_en": "U23 Neue Ziel",
+  "model_en": "AMX-X2",
+  "desc_en": "Large mobile armor built by Axis. Equipped with many beam cannons and an I-field.",
+  "note": ""
+ },
+ {
+  "id": "U-24",
+  "index": 23,
+  "lines_used": 2,
+  "name_en": "GM Custom",
+  "label_en": "U24 GM Custom",
+  "model_en": "RGM-79N",
+  "desc_en": "An upgraded GM built after the One Year War. Issued to ace pilots.",
+  "note": ""
+ },
+ {
+  "id": "U-25",
+  "index": 24,
+  "lines_used": 2,
+  "name_en": "Zeta Gundam",
+  "label_en": "U25 Zeta Gundam",
+  "model_en": "MSZ-006",
+  "desc_en": "The AEUG's transformable ace unit. Later enhanced with a bio-sensor.",
+  "note": ""
+ },
+ {
+  "id": "U-26",
+  "index": 25,
+  "lines_used": 2,
+  "name_en": "Waverider",
+  "label_en": "U26 Waverider",
+  "model_en": "MSZ-006",
+  "desc_en": "The Zeta Gundam's high-speed mode. Can enter the atmosphere and fly solo in it.",
+  "note": ""
+ },
+ {
+  "id": "U-27",
+  "index": 26,
+  "lines_used": 2,
+  "name_en": "Gundam Mk-II (AEUG)",
+  "label_en": "U27 Gundam Mk-II (AEUG)",
+  "model_en": "RX-178",
+  "desc_en": "A Titans-built Gundam Mk-II, stolen by the AEUG and repainted.",
+  "note": ""
+ },
+ {
+  "id": "U-28",
+  "index": 27,
+  "lines_used": 2,
+  "name_en": "Gundam Mk-II (Titans)",
+  "label_en": "U28 Gundam Mk-II (Titans)",
+  "model_en": "RX-178",
+  "desc_en": "New-gen Gundam the Titans built with new tech as a future mainstay candidate.",
+  "note": "",
+  "history": [
+   {
+    "stage": "editorial",
+    "old": {
+     "desc_en": "New-gen Gundam built by the Titans with new tech as a next mainstay MS candidate."
+    },
+    "reason": "'as a next mainstay MS candidate' clunky"
+   }
+  ]
+ },
+ {
+  "id": "U-29",
+  "index": 28,
+  "lines_used": 2,
+  "name_en": "GM II",
+  "label_en": "U29 GM II",
+  "model_en": "RGM-179",
+  "desc_en": "Upgrade of the GM, the Fed.'s One Year War mainstay. Its basic specs barely improved.",
+  "note": ""
+ },
+ {
+  "id": "U-30",
+  "index": 29,
+  "lines_used": 2,
+  "name_en": "GM II (AEUG)",
+  "label_en": "U30 GM II (AEUG)",
+  "model_en": "RGM-79R",
+  "desc_en": "Seized from the Fed. Forces and used by the AEUG at its founding. Repainted green.",
+  "note": "",
+  "history": [
+   {
+    "stage": "editorial",
+    "old": {
+     "desc_en": "Units the AEUG seized from the Fed. Forces at its founding and used. Repainted green."
+    },
+    "reason": "'seized ... at its founding and used' awkward"
+   }
+  ]
+ },
+ {
+  "id": "U-31",
+  "index": 30,
+  "lines_used": 2,
+  "name_en": "Hyaku-Shiki",
+  "label_en": "U31 Hyaku-Shiki",
+  "model_en": "MSN-100",
+  "desc_en": "Capt. Quattro's gold-armored unit. It can't transform, but its basic specs are high.",
+  "note": ""
+ },
+ {
+  "id": "U-32",
+  "index": 31,
+  "lines_used": 2,
+  "name_en": "Qubeley",
+  "label_en": "U32 Qubeley",
+  "model_en": "AMX-004",
+  "desc_en": "Haman Karn's personal mobile suit. The first unit ever equipped with funnels.",
+  "note": ""
+ },
+ {
+  "id": "U-33",
+  "index": 32,
+  "lines_used": 2,
+  "name_en": "Gaza C",
+  "label_en": "U33 Gaza C",
+  "model_en": "AMX-003",
+  "desc_en": "Axis mass-production MS. Has simple transformation and a powerful beam cannon.",
+  "note": ""
+ },
+ {
+  "id": "U-34",
+  "index": 33,
+  "lines_used": 2,
+  "name_en": "Gaza C (MA Mode)",
+  "label_en": "U34 Gaza C (MA Mode)",
+  "model_en": "AMX-003",
+  "desc_en": "The Gaza C's MA mode. Mobility improves, but close combat becomes impossible.",
+  "note": ""
+ },
+ {
+  "id": "U-35",
+  "index": 34,
+  "lines_used": 2,
+  "name_en": "The-O",
+  "label_en": "U35 The-O",
+  "model_en": "PMX-003",
+  "desc_en": "Paptimus Scirocco's self-developed personal unit. Equipped with a bio-sensor.",
+  "note": ""
+ },
+ {
+  "id": "U-36",
+  "index": 35,
+  "lines_used": 2,
+  "name_en": "Psycho Gundam",
+  "label_en": "U36 Psycho Gundam",
+  "model_en": "MRX-009",
+  "desc_en": "Large transformable Newtype unit with psycommu. Boasts heavy firepower and armor.",
+  "note": ""
+ },
+ {
+  "id": "U-37",
+  "index": 36,
+  "lines_used": 2,
+  "name_en": "Psycho Gundam (MA Mode)",
+  "label_en": "U37 Psycho Gundam (MA Mode)",
+  "model_en": "MRX-009",
+  "desc_en": "The Psycho Gundam's mobile armor mode. It can fly using its Minovsky craft.",
+  "note": ""
+ },
+ {
+  "id": "U-38",
+  "index": 37,
+  "lines_used": 2,
+  "name_en": "Asshimar",
+  "label_en": "U38 Asshimar",
+  "model_en": "NRX-044",
+  "desc_en": "An Earth Fed. Forces unit for atmospheric use. Known for its unique disc shape.",
+  "note": ""
+ },
+ {
+  "id": "U-39",
+  "index": 38,
+  "lines_used": 2,
+  "name_en": "Asshimar (MA Mode)",
+  "label_en": "U39 Asshimar (MA Mode)",
+  "model_en": "NRX-044",
+  "desc_en": "The Asshimar has no melee weapons, so its MA mode could well be called its true form.",
+  "note": "",
+  "history": [
+   {
+    "stage": "editorial",
+    "old": {
+     "desc_en": "With no melee weapons, the Asshimar's MA mode could well be called its true form."
+    },
+    "reason": "dangling 'With no melee weapons' attached to the MA mode"
+   }
+  ]
+ },
+ {
+  "id": "U-40",
+  "index": 39,
+  "lines_used": 2,
+  "name_en": "Hizack",
+  "label_en": "U40 Hizack",
+  "model_en": "RMS-106",
+  "desc_en": "Built mainly by ex-Zeon engineers. Lacking output, it's on par with the GM II.",
+  "note": ""
+ },
+ {
+  "id": "U-41",
+  "index": 40,
+  "lines_used": 2,
+  "name_en": "Hizack (E.F.S.F.)",
+  "label_en": "U41 Hizack (E.F.S.F.)",
+  "model_en": "RMS-106",
+  "desc_en": "To tell them from Titans units, the Earth Fed. Forces painted theirs blue.",
+  "note": "name follows glossary entry for the same unit"
+ },
+ {
+  "id": "U-42",
+  "index": 41,
+  "lines_used": 2,
+  "name_en": "Marasai",
+  "label_en": "U42 Marasai",
+  "model_en": "RMS-108",
+  "desc_en": "Adopted as a step up from the Hizack. Used mainly as a commander's unit.",
+  "note": ""
+ },
+ {
+  "id": "U-43",
+  "index": 42,
+  "lines_used": 2,
+  "name_en": "ZZ Gundam",
+  "label_en": "U43 ZZ Gundam",
+  "model_en": "MSZ-010",
+  "desc_en": "Replaced the Zeta as AEUG's top MS. Heavily armed and armored; transforms and combines.",
+  "note": "",
+  "history": [
+   {
+    "stage": "accuracy",
+    "old": {
+     "desc_en": "The AEUG's top MS after the Zeta. Heavily armed and armored; transforms and combines."
+    }
+   },
+   {
+    "stage": "editorial",
+    "old": {
+     "desc_en": "Succeeds the Zeta as AEUG's top MS. Heavily armed and armored; transforms and combines."
+    },
+    "reason": "restore 'the' before AEUG (editorial note)"
+   },
+   {
+    "stage": "recheck",
+    "old": {
+     "desc_en": "The AEUG's top MS after the Zeta. Heavily armed and armored; transforms and combines."
+    }
+   }
+  ]
+ },
+ {
+  "id": "U-44",
+  "index": 43,
+  "lines_used": 2,
+  "name_en": "Zaku III",
+  "label_en": "U44 Zaku III",
+  "model_en": "AMX-011",
+  "desc_en": "Its versatility and stable performance befit the Zaku name, but cost was an issue.",
+  "note": ""
+ },
+ {
+  "id": "U-45",
+  "index": 44,
+  "lines_used": 2,
+  "name_en": "Zaku III Custom",
+  "label_en": "U45 Zaku III Custom",
+  "model_en": "AMX-011S",
+  "desc_en": "Zaku III with swapped parts for commanders. Noted for extra weapons and propellant.",
+  "note": ""
+ },
+ {
+  "id": "U-46",
+  "index": 45,
+  "lines_used": 2,
+  "name_en": "Doven Wolf",
+  "label_en": "U46 Doven Wolf",
+  "model_en": "AMX-014",
+  "desc_en": "High-end production MS with heavy weapons incl. Incom. Flown by the Space Wolf team.",
+  "note": ""
+ },
+ {
+  "id": "U-47",
+  "index": 46,
+  "lines_used": 2,
+  "name_en": "Quin Mantha",
+  "label_en": "U47 Quin Mantha",
+  "model_en": "MZ-000",
+  "desc_en": "Giant Newtype mobile suit built with technology seized from the Titans.",
+  "note": ""
+ },
+ {
+  "id": "U-48",
+  "index": 47,
+  "lines_used": 2,
+  "name_en": "Qubeley Mk-2 (Ple)",
+  "label_en": "U48 Qubeley Mk-2 (Ple)",
+  "model_en": "AMX-004-2",
+  "desc_en": "Equal in performance to Haman's Qubeley. The dark blue one is Elpeo Ple's own.",
+  "note": "name built on glossary 'Qubeley Mk-2 (Ple-Two)' pattern"
+ },
+ {
+  "id": "U-49",
+  "index": 48,
+  "lines_used": 2,
+  "name_en": "Qubeley Mk-2 (Ple-Two)",
+  "label_en": "U49 Qubeley Mk-2 (Ple-Two)",
+  "model_en": "AMX-004-3",
+  "desc_en": "Equal in performance to Haman's Qubeley. This red one is Ple-Two's own.",
+  "note": ""
+ },
+ {
+  "id": "U-50",
+  "index": 49,
+  "lines_used": 2,
+  "name_en": "Qubeley Mass Production Type",
+  "label_en": "U50 Qubeley Mass Production Type",
+  "model_en": "AMX-004G",
+  "desc_en": "Mass-produced Qubeley with the same specs, plus funnels and other added weapons.",
+  "note": ""
+ },
+ {
+  "id": "U-51",
+  "index": 50,
+  "lines_used": 2,
+  "name_en": "Z Zaku",
+  "label_en": "U51 Z Zaku",
+  "model_en": "???",
+  "desc_en": "A Zeta whose damaged head was swapped for a salvaged Zaku II one. Not an official name.",
+  "note": "",
+  "history": [
+   {
+    "stage": "editorial",
+    "old": {
+     "desc_en": "A Zeta whose damaged head was swapped for a found Zaku II head. Not an official name."
+    },
+    "reason": "'a found Zaku II head' unidiomatic"
+   }
+  ]
+ },
+ {
+  "id": "U-52",
+  "index": 51,
+  "lines_used": 2,
+  "name_en": "Nu Gundam",
+  "label_en": "U52 Nu Gundam",
+  "model_en": "RX-93",
+  "desc_en": "Amuro's own unit, overwhelmingly strong, with a Psycho-Frame and fin funnels.",
+  "note": ""
+ },
+ {
+  "id": "U-53",
+  "index": 52,
+  "lines_used": 2,
+  "name_en": "Sazabi",
+  "label_en": "U53 Sazabi",
+  "model_en": "MSN-04",
+  "desc_en": "Char's crimson personal mobile suit. Powerfully armed, built around its funnels.",
+  "note": ""
+ },
+ {
+  "id": "U-54",
+  "index": 53,
+  "lines_used": 2,
+  "name_en": "Re-GZ",
+  "label_en": "U54 Re-GZ",
+  "model_en": "RGZ-91",
+  "desc_en": "Meant as a simplified mass-production Zeta, but only prototyped. High basic specs.",
+  "note": ""
+ },
+ {
+  "id": "U-55",
+  "index": 54,
+  "lines_used": 2,
+  "name_en": "Re-GZ (BWS)",
+  "label_en": "U55 Re-GZ (BWS)",
+  "model_en": "RGZ-91",
+  "desc_en": "The Back Weapon System is a detachable part that adds both flight ability and weapons.",
+  "note": ""
+ },
+ {
+  "id": "U-56",
+  "index": 55,
+  "lines_used": 2,
+  "name_en": "Jegan",
+  "label_en": "U56 Jegan",
+  "model_en": "RGM-89",
+  "desc_en": "The Fed.'s main mass-production MS after the GM III. So good it served 30 years.",
+  "note": ""
+ },
+ {
+  "id": "U-57",
+  "index": 56,
+  "lines_used": 2,
+  "name_en": "Jagd Doga (Gyunei)",
+  "label_en": "U57 Jagd Doga (Gyunei)",
+  "model_en": "MSN-03",
+  "desc_en": "Newtype unit armed with funnels. Piloted by Gyunei, a Cyber Newtype.",
+  "note": ""
+ },
+ {
+  "id": "U-58",
+  "index": 57,
+  "lines_used": 2,
+  "name_en": "Jagd Doga (Quess)",
+  "label_en": "U58 Jagd Doga (Quess)",
+  "model_en": "MSN-03",
+  "desc_en": "Of the two built, Quess used the red one. It has no commander's antenna.",
+  "note": ""
+ },
+ {
+  "id": "U-59",
+  "index": 58,
+  "lines_used": 2,
+  "name_en": "Geara Doga",
+  "label_en": "U59 Geara Doga",
+  "model_en": "AMS-119",
+  "desc_en": "Neo Zeon's main production MS. Developed by ex-Zeon engineers from the Zaku line.",
+  "note": ""
+ },
+ {
+  "id": "U-60",
+  "index": 59,
+  "lines_used": 2,
+  "name_en": "Geara Doga (Rezin)",
+  "label_en": "U60 Geara Doga (Rezin)",
+  "model_en": "AMS-119",
+  "desc_en": "A unit with commander customization. Dark blue is Ens. Rezin's personal color.",
+  "note": ""
+ },
+ {
+  "id": "U-61",
+  "index": 60,
+  "lines_used": 2,
+  "name_en": "Alpha Azieru",
+  "label_en": "U61 Alpha Azieru",
+  "model_en": "NZ-333",
+  "desc_en": "Large mobile armor for Newtypes. Has overwhelming firepower and an I-field.",
+  "note": ""
+ },
+ {
+  "id": "U-62",
+  "index": 61,
+  "lines_used": 2,
+  "name_en": "Gundam F91",
+  "label_en": "U62 Gundam F91",
+  "model_en": "F91",
+  "desc_en": "Top unit of SNRI's small MS project. Armed with many new-generation beam weapons.",
+  "note": ""
+ },
+ {
+  "id": "U-63",
+  "index": 62,
+  "lines_used": 2,
+  "name_en": "Berga Giros",
+  "label_en": "U63 Berga Giros",
+  "model_en": "XM-05",
+  "desc_en": "Crossbone Vanguard commander's mobile suit. Zabine Chareux's unit.",
+  "note": ""
+ },
+ {
+  "id": "U-64",
+  "index": 63,
+  "lines_used": 2,
+  "name_en": "Berga-Dalas",
+  "label_en": "U64 Berga-Dalas",
+  "model_en": "XM-04",
+  "desc_en": "Crossbone Vanguard commander's mobile suit. Not the newest model, but high-spec.",
+  "note": ""
+ },
+ {
+  "id": "U-65",
+  "index": 64,
+  "lines_used": 2,
+  "name_en": "Rafflesia",
+  "label_en": "U65 Rafflesia",
+  "model_en": "XMA-01",
+  "desc_en": "A giant, oddly shaped mobile armor that Iron Mask (Carozzo) had secretly developed.",
+  "note": ""
+ },
+ {
+  "id": "U-66",
+  "index": 65,
+  "lines_used": 2,
+  "name_en": "Vigna-Ghina",
+  "label_en": "U66 Vigna-Ghina",
+  "model_en": "XM-07",
+  "desc_en": "The Crossbone Vanguard's latest high-end MS. Piloted by Berah (Cecily).",
+  "note": ""
+ },
+ {
+  "id": "U-67",
+  "index": 66,
+  "lines_used": 2,
+  "name_en": "Den'an-Zon",
+  "label_en": "U67 Den'an-Zon",
+  "model_en": "XM-01",
+  "desc_en": "Base unit of the Den'an line, Crossbone's main production MS. Mobile and versatile.",
+  "note": ""
+ },
+ {
+  "id": "U-68",
+  "index": 67,
+  "lines_used": 2,
+  "name_en": "Den'an-Zon (Black Vanguard)",
+  "label_en": "U68 Den'an-Zon (Black Vanguard)",
+  "model_en": "XM-01",
+  "desc_en": "A Den'an-Zon of the \"Black Vanguard\" led by Zabine Chareux.",
+  "note": ""
+ },
+ {
+  "id": "U-69",
+  "index": 68,
+  "lines_used": 2,
+  "name_en": "Gundam F90V",
+  "label_en": "U69 Gundam F90V",
+  "model_en": "F90V",
+  "desc_en": "The VSBR-equipped version of the F90, base unit of SNRI's Formula Project.",
+  "note": ""
+ },
+ {
+  "id": "U-70",
+  "index": 69,
+  "lines_used": 2,
+  "name_en": "Crossbone Gundam X-1",
+  "label_en": "U70 Crossbone Gundam X-1",
+  "model_en": "XM-X1",
+  "desc_en": "Core unit of the new Crossbone Vanguard led by Berah. Excels at close combat.",
+  "note": ""
+ },
+ {
+  "id": "U-71",
+  "index": 70,
+  "lines_used": 2,
+  "name_en": "Crossbone Gundam X-2",
+  "label_en": "U71 Crossbone Gundam X-2",
+  "model_en": "XM-X2",
+  "desc_en": "Core unit of the new Crossbone Vanguard led by Berah. Piloted by Zabine Chareux.",
+  "note": ""
+ },
+ {
+  "id": "U-72",
+  "index": 71,
+  "lines_used": 2,
+  "name_en": "Crossbone Gundam X-3",
+  "label_en": "U72 Crossbone Gundam X-3",
+  "model_en": "XM-X3",
+  "desc_en": "Core unit of the new Crossbone Vanguard led by Berah. Piloted by Tobia Arronax.",
+  "note": ""
+ },
+ {
+  "id": "P-01",
+  "index": 72,
+  "lines_used": 2,
+  "name_en": "Amuro Ray",
+  "label_en": "P01 Amuro Ray",
+  "model_en": "A boy on Side 7. Caught up in the fighting,",
+  "desc_en": "he became the Gundam's pilot, awoke as a Newtype and grew into the strongest pilot.",
+  "note": "",
+  "history": [
+   {
+    "stage": "editorial",
+    "old": {
+     "model_en": "A boy living in Side 7. Caught in battle,",
+     "desc_en": "he becomes the Gundam's pilot. Awakening as a Newtype, he grows to be the strongest."
+    },
+    "reason": "keep the duplicate P/C cards of the same person identical; past tense for events"
+   }
+  ]
+ },
+ {
+  "id": "P-02",
+  "index": 73,
+  "lines_used": 2,
+  "name_en": "Kai Shiden",
+  "label_en": "P02 Kai Shiden",
+  "model_en": "White Base's Guncannon pilot. Once a cynic",
+  "desc_en": "and a coward, he found meaning in fighting after meeting Miharu, a young girl spy.",
+  "note": "",
+  "history": [
+   {
+    "stage": "editorial",
+    "old": {
+     "desc_en": "and a coward, he finds meaning in the fight after meeting Miharu, a young girl spy."
+    },
+    "reason": "keep the duplicate P/C cards of the same person identical; past tense for events"
+   }
+  ]
+ },
+ {
+  "id": "P-03",
+  "index": 74,
+  "lines_used": 2,
+  "name_en": "Hayato Kobayashi",
+  "label_en": "P03 Hayato Kobayashi",
+  "model_en": "Amuro's classmate from Side 7. On White",
+  "desc_en": "Base, he mostly piloted the Guntank. Though small, he is fiercely competitive.",
+  "note": "",
+  "history": [
+   {
+    "stage": "editorial",
+    "old": {
+     "desc_en": "Base, he mostly pilots the Guntank. Though small, he is fiercely competitive."
+    },
+    "reason": "keep the duplicate P/C cards of the same person identical; past for events, present for personality"
+   }
+  ]
+ },
+ {
+  "id": "P-04",
+  "index": 75,
+  "lines_used": 2,
+  "name_en": "Char Aznable",
+  "label_en": "P04 Char Aznable",
+  "model_en": "Zeon's ace pilot, known as the Red Comet.",
+  "desc_en": "Behind his mask, he is really Casval, the orphaned son of Zeon Zum Deikun.",
+  "note": ""
+ },
+ {
+  "id": "P-05",
+  "index": 76,
+  "lines_used": 2,
+  "name_en": "Dozle Zabi",
+  "label_en": "P05 Dozle Zabi",
+  "model_en": "Third Zabi son and born soldier, he led the",
+  "desc_en": "Space Attack Force and Solomon. He sortied in the Big Zam but fell to the Gundam.",
+  "note": ""
+ },
+ {
+  "id": "P-06",
+  "index": 77,
+  "lines_used": 2,
+  "name_en": "Shiro Amada",
+  "label_en": "P06 Shiro Amada",
+  "model_en": "Rookie leader of the 08th MS Team, Kojima",
+  "desc_en": "Battalion. He bonded with Zeon's Aina Sakhalin, met in battle, and left the army.",
+  "note": ""
+ },
+ {
+  "id": "P-07",
+  "index": 78,
+  "lines_used": 2,
+  "name_en": "Karen Joshua",
+  "label_en": "P07 Karen Joshua",
+  "model_en": "An MS pilot and second-in-command of the",
+  "desc_en": "08th MS Team. Sharp-tongued, she at first called her leader Shiro a naive softie.",
+  "note": "",
+  "history": [
+   {
+    "stage": "editorial",
+    "old": {
+     "model_en": "An MS pilot of the 08th MS Team and its",
+     "desc_en": "second-in-command. Sharp-tongued, she called her leader Shiro a softie at first."
+    },
+    "reason": "keep the duplicate P/C cards of the same person identical; 'at first' placement, 'naive softie' for amachan"
+   }
+  ]
+ },
+ {
+  "id": "P-08",
+  "index": 79,
+  "lines_used": 2,
+  "name_en": "Terry Sanders Jr.",
+  "label_en": "P08 Terry Sanders Jr.",
+  "model_en": "An MS pilot of the 08th MS Team. Two units",
+  "desc_en": "he served in were wiped out. It weighed on him, but Shiro helped him move past it.",
+  "note": ""
+ },
+ {
+  "id": "P-09",
+  "index": 80,
+  "lines_used": 2,
+  "name_en": "Aina Sakhalin",
+  "label_en": "P09 Aina Sakhalin",
+  "model_en": "Daughter of the noble Sakhalin family and a",
+  "desc_en": "Zeon test pilot. Meeting enemy soldier Shiro Amada slowly changed how she lived.",
+  "note": "",
+  "history": [
+   {
+    "stage": "editorial",
+    "old": {
+     "desc_en": "Zeon test pilot. Meeting enemy soldier Shiro Amada slowly changes how she lives."
+    },
+    "reason": "keep the duplicate P/C cards of the same person identical; past tense for events"
+   }
+  ]
+ },
+ {
+  "id": "P-10",
+  "index": 81,
+  "lines_used": 2,
+  "name_en": "Norris Packard",
+  "label_en": "P10 Norris Packard",
+  "model_en": "A veteran pilot serving the Sakhalins. In a",
+  "desc_en": "Gouf Custom, he let his revered Aina and the wounded escape, then fell, duty done.",
+  "note": ""
+ },
+ {
+  "id": "P-11",
+  "index": 82,
+  "lines_used": 2,
+  "name_en": "Christina Mackenzie",
+  "label_en": "P11 Christina Mackenzie",
+  "model_en": "A Federation test pilot, known as Chris.",
+  "desc_en": "She grew fond of Bernie, whom she met by chance, but unknowingly destroyed his Zaku.",
+  "note": "",
+  "history": [
+   {
+    "stage": "editorial",
+    "old": {
+     "desc_en": "She grew fond of Bernie, met by chance, but unknowingly destroyed his Zaku."
+    },
+    "reason": "keep the duplicate P/C cards of the same person identical; 'Bernie, met by chance' read awkwardly"
+   }
+  ]
+ },
+ {
+  "id": "P-12",
+  "index": 83,
+  "lines_used": 2,
+  "name_en": "Bernard Wiseman",
+  "label_en": "P12 Bernard Wiseman",
+  "model_en": "A Zeon rookie, called Bernie. Found out by",
+  "desc_en": "young Al, he teamed up with him. He fought to save the colony but met a tragic end.",
+  "note": "",
+  "history": [
+   {
+    "stage": "editorial",
+    "old": {
+     "model_en": "A Zeon recruit, known as Bernie. Young Al",
+     "desc_en": "learns who he is and joins him. He fights to save the colony, but meets a tragic end."
+    },
+    "reason": "keep the duplicate P/C cards of the same person identical; P-12 'joins him' was ambiguous and in present tense"
+   }
+  ]
+ },
+ {
+  "id": "P-13",
+  "index": 84,
+  "lines_used": 2,
+  "name_en": "Kou Uraki",
+  "label_en": "P13 Kou Uraki",
+  "model_en": "A rookie test pilot at Torrington Base.",
+  "desc_en": "After the GP02 theft, he threw himself into fierce battles with his nemesis Gato.",
+  "note": "",
+  "history": [
+   {
+    "stage": "editorial",
+    "old": {
+     "desc_en": "After the GP02 theft, he hurls himself into fierce battles with his nemesis Gato."
+    },
+    "reason": "keep the duplicate P/C cards of the same person identical; past tense for events"
+   }
+  ]
+ },
+ {
+  "id": "P-14",
+  "index": 85,
+  "lines_used": 2,
+  "name_en": "South Burning",
+  "label_en": "P14 South Burning",
+  "model_en": "An MS pilot instructor at Torrington, he",
+  "desc_en": "became the Albion's combat leader after the GP02 theft. He died in an MS accident.",
+  "note": ""
+ },
+ {
+  "id": "P-15",
+  "index": 86,
+  "lines_used": 2,
+  "name_en": "Anavel Gato",
+  "label_en": "P15 Anavel Gato",
+  "model_en": "A Zeon ace called the Nightmare of Solomon.",
+  "desc_en": "Serving Delaz, he spearheaded Operation Stardust and fought Kou fiercely.",
+  "note": "",
+  "history": [
+   {
+    "stage": "editorial",
+    "old": {
+     "model_en": "Zeon ace dubbed the Nightmare of Solomon.",
+     "desc_en": "Serving Delaz, he spearheaded Operation Stardust and waged a fierce fight with Kou."
+    },
+    "reason": "keep the duplicate P/C cards of the same person identical"
+   }
+  ]
+ },
+ {
+  "id": "P-16",
+  "index": 87,
+  "lines_used": 2,
+  "name_en": "Cima Garahau",
+  "label_en": "P16 Cima Garahau",
+  "model_en": "A female Zeon officer. She joined the Delaz",
+  "desc_en": "Fleet intending all along to betray it to the Fed. Foiled by Gato and Kou, she died.",
+  "note": "",
+  "history": [
+   {
+    "stage": "editorial",
+    "old": {
+     "model_en": "A Zeon officer. She joined the Delaz Fleet",
+     "desc_en": "intending all along to defect to the Fed. Gato and Kou foiled it; she died in battle."
+    },
+    "reason": "keep the duplicate P/C cards of the same person identical; keep 'female' (onna shoukou), clearer than 'foiled it'"
+   }
+  ]
+ },
+ {
+  "id": "P-17",
+  "index": 88,
+  "lines_used": 2,
+  "name_en": "Kamille Bidan",
+  "label_en": "P17 Kamille Bidan",
+  "model_en": "A civilian student who hated the Titans and",
+  "desc_en": "joined the AEUG. Hailed as Amuro reborn for his superb combat skill, he became an ace.",
+  "note": ""
+ },
+ {
+  "id": "P-18",
+  "index": 89,
+  "lines_used": 2,
+  "name_en": "Quattro Bajeena",
+  "label_en": "P18 Quattro Bajeena",
+  "model_en": "Char Aznable after he left Axis, now an",
+  "desc_en": "AEUG officer under an alias. He lost his battle with Haman and went missing.",
+  "note": "",
+  "history": [
+   {
+    "stage": "editorial",
+    "old": {
+     "model_en": "The alias Char Aznable used after leaving",
+     "desc_en": "Axis, when he became an AEUG officer. He lost his fight with Haman and went missing."
+    },
+    "reason": "keep the duplicate P/C cards of the same person identical; P-18 made 'the alias' the subject of 'He lost'"
+   }
+  ]
+ },
+ {
+  "id": "P-19",
+  "index": 90,
+  "lines_used": 2,
+  "name_en": "Emma Sheen",
+  "label_en": "P19 Emma Sheen",
+  "model_en": "Once a Titans officer, she was made to see",
+  "desc_en": "their atrocities and defected to the AEUG, fighting as one of its key pilots.",
+  "note": "",
+  "history": [
+   {
+    "stage": "editorial",
+    "old": {
+     "model_en": "Once a Titans officer, she defected to the",
+     "desc_en": "AEUG after being shown their cruelty, and fought as one of its key pilots."
+    },
+    "reason": "keep the duplicate P/C cards of the same person identical"
+   }
+  ]
+ },
+ {
+  "id": "P-20",
+  "index": 91,
+  "lines_used": 2,
+  "name_en": "Amuro Ray (Z)",
+  "label_en": "P20 Amuro Ray (Z)",
+  "model_en": "Feared for his One Year War feats, he was",
+  "desc_en": "confined by the Fed. Roused by Katz, he joined Karaba, fighting with Hayato and co.",
+  "note": ""
+ },
+ {
+  "id": "P-21",
+  "index": 92,
+  "lines_used": 2,
+  "name_en": "Jerid Messa",
+  "label_en": "P21 Jerid Messa",
+  "model_en": "A Titans pilot. Supposedly elite, he lost",
+  "desc_en": "again and again after meeting Kamille, and died without ever getting his revenge.",
+  "note": ""
+ },
+ {
+  "id": "P-22",
+  "index": 93,
+  "lines_used": 2,
+  "name_en": "Four Murasame",
+  "label_en": "P22 Four Murasame",
+  "model_en": "A Titans Cyber Newtype pilot. She met",
+  "desc_en": "Kamille in Hong Kong. They fell in love, but Jerid killed her as she shielded him.",
+  "note": "",
+  "history": [
+   {
+    "stage": "proofread",
+    "old": {
+     "desc_en": "Kamille in Hong Kong. They fell in love, but Jerid shot her as she shielded him."
+    }
+   }
+  ]
+ },
+ {
+  "id": "P-23",
+  "index": 94,
+  "lines_used": 2,
+  "name_en": "Paptimus Scirocco",
+  "label_en": "P23 Paptimus Scirocco",
+  "model_en": "A charismatic Newtype genius from Jupiter.",
+  "desc_en": "He assassinated Jamitov, seized the Titans, and fell to Kamille's suicide charge.",
+  "note": "",
+  "history": [
+   {
+    "stage": "editorial",
+    "old": {
+     "model_en": "A Newtype back from Jupiter. A charismatic",
+     "desc_en": "genius, he killed Jamitov and took over the Titans. Kamille's suicide charge slew him."
+    },
+    "reason": "keep the duplicate P/C cards of the same person identical; 'assassinated' for ansatsu, Scirocco stays the subject"
+   }
+  ]
+ },
+ {
+  "id": "P-24",
+  "index": 95,
+  "lines_used": 2,
+  "name_en": "Buran Blutarch",
+  "label_en": "P24 Buran Blutarch",
+  "model_en": "Ex-Fed. major. Though he inwardly hated the",
+  "desc_en": "Titans, he did his duty well. Flying the Asshimar, he plagued the AEUG many times.",
+  "note": ""
+ },
+ {
+  "id": "P-25",
+  "index": 96,
+  "lines_used": 2,
+  "name_en": "Yazan Gable",
+  "label_en": "P25 Yazan Gable",
+  "model_en": "A Titans ace pilot, so warlike he is called",
+  "desc_en": "a beast. He stubbornly survived and later fought Judau and the others as well.",
+  "note": "",
+  "history": [
+   {
+    "stage": "editorial",
+    "old": {
+     "model_en": "A Titans ace pilot, belligerent enough to",
+     "desc_en": "be called a beast. A stubborn survivor, he later fought Judau and the others too."
+    },
+    "reason": "keep the duplicate P/C cards of the same person identical"
+   }
+  ]
+ },
+ {
+  "id": "P-26",
+  "index": 97,
+  "lines_used": 2,
+  "name_en": "Haman Karn",
+  "label_en": "P26 Haman Karn",
+  "model_en": "Regent to Mineva, the last Zabi. She used",
+  "desc_en": "charisma and statecraft to unite Axis' Zeon remnants and return to the Earth Sphere.",
+  "note": "",
+  "history": [
+   {
+    "stage": "editorial",
+    "old": {
+     "model_en": "Guardian of Mineva, the last Zabi. She used"
+    },
+    "reason": "keep the duplicate P/C cards of the same person identical; 'regent' for koukennin"
+   }
+  ]
+ },
+ {
+  "id": "P-27",
+  "index": 98,
+  "lines_used": 2,
+  "name_en": "Judau Ashta",
+  "label_en": "P27 Judau Ashta",
+  "model_en": "A tough Side 1 boy living as a junk dealer.",
+  "desc_en": "Scouted by the AEUG for his Newtype talent, he fought Haman in the ZZ.",
+  "note": "",
+  "history": [
+   {
+    "stage": "editorial",
+    "old": {
+     "model_en": "A Side 1 boy living tough as a junk dealer.",
+     "desc_en": "Scouted by the AEUG for his Newtype talent, he fights Haman in the ZZ."
+    },
+    "reason": "keep the duplicate P/C cards of the same person identical; 'living tough' was unidiomatic; past tense for events"
+   }
+  ]
+ },
+ {
+  "id": "P-28",
+  "index": 99,
+  "lines_used": 2,
+  "name_en": "Roux Louka",
+  "label_en": "P28 Roux Louka",
+  "model_en": "An AEUG volunteer who mostly flew the Zeta",
+  "desc_en": "Gundam on the Argama. After the war she joined a Jupiter fleet crew with Judau.",
+  "note": "",
+  "history": [
+   {
+    "stage": "editorial",
+    "old": {
+     "model_en": "AEUG volunteer. On the Argama she mostly",
+     "desc_en": "flew the Zeta Gundam. After the war, she and Judau joined a Jupiter fleet's crew."
+    },
+    "reason": "keep the duplicate P/C cards of the same person identical"
+   }
+  ]
+ },
+ {
+  "id": "P-29",
+  "index": 100,
+  "lines_used": 2,
+  "name_en": "Haman Karn (ZZ)",
+  "label_en": "P29 Haman Karn (ZZ)",
+  "model_en": "After the Titans fell, she led Axis, now",
+  "desc_en": "Neo Zeon, and nearly took the Earth Sphere. Bent on dueling Judau, she lost.",
+  "note": "",
+  "history": [
+   {
+    "stage": "editorial",
+    "old": {
+     "desc_en": "Neo Zeon, nearly taking the Earth Sphere. Insisting on dueling Judau, she lost."
+    },
+    "reason": "keep the duplicate P/C cards of the same person identical"
+   }
+  ]
+ },
+ {
+  "id": "P-30",
+  "index": 101,
+  "lines_used": 2,
+  "name_en": "Elpeo Ple",
+  "label_en": "P30 Elpeo Ple",
+  "model_en": "A girl Glemy was training as a Newtype.",
+  "desc_en": "Drawn to Judau, she joined the AEUG. She died fighting her sister, Ple-Two.",
+  "note": ""
+ },
+ {
+  "id": "P-31",
+  "index": 102,
+  "lines_used": 2,
+  "name_en": "Ple-Two",
+  "label_en": "P31 Ple-Two",
+  "model_en": "Said to be Ple's clone, or her sister. She",
+  "desc_en": "is combative. Fighting Judau, she heard the dead Ple's voice and turned on Glemy.",
+  "note": "",
+  "history": [
+   {
+    "stage": "editorial",
+    "old": {
+     "desc_en": "is combative. Fighting Judau, she hears the dead Ple's voice and turns on Glemy."
+    },
+    "reason": "keep the duplicate P/C cards of the same person identical; subject kept, past tense for events"
+   }
+  ]
+ },
+ {
+  "id": "P-32",
+  "index": 103,
+  "lines_used": 2,
+  "name_en": "Mashymre Cello",
+  "label_en": "P32 Mashymre Cello",
+  "model_en": "Sworn to Haman, he prizes chivalry. After",
+  "desc_en": "repeated failures, Haman had him made a Cyber Newtype; he died a disposable pawn.",
+  "note": ""
+ },
+ {
+  "id": "P-33",
+  "index": 104,
+  "lines_used": 2,
+  "name_en": "Rakan Dahkaran",
+  "label_en": "P33 Rakan Dahkaran",
+  "model_en": "Haman's fierce warrior. In new MS he often",
+  "desc_en": "plagued Judau's team, but ambition made him defect to Glemy. He fell to the ZZ.",
+  "note": ""
+ },
+ {
+  "id": "P-34",
+  "index": 105,
+  "lines_used": 2,
+  "name_en": "Glemy Toto",
+  "label_en": "P34 Glemy Toto",
+  "model_en": "He rose from private to commander under",
+  "desc_en": "Haman, then suddenly rebelled out of hidden ambition. Roux, whom he loved, killed him.",
+  "note": "",
+  "history": [
+   {
+    "stage": "editorial",
+    "old": {
+     "desc_en": "Haman, then suddenly rebelled from hidden ambition. Roux, whom he loved, killed him."
+    },
+    "reason": "keep the duplicate P/C cards of the same person identical; 'rebelled from hidden ambition' read awkwardly"
+   }
+  ]
+ },
+ {
+  "id": "P-35",
+  "index": 106,
+  "lines_used": 2,
+  "name_en": "Amuro Ray (CCA)",
+  "label_en": "P35 Amuro Ray (CCA)",
+  "model_en": "A Londo Bell captain in the Earth Fed.",
+  "desc_en": "Forces. He flew the Nu Gundam to stop his lifelong rival Char's asteroid drop.",
+  "note": "",
+  "history": [
+   {
+    "stage": "editorial",
+    "old": {
+     "desc_en": "Forces. He flew the Nu Gundam to stop the asteroid drop of Char, his lifelong rival."
+    },
+    "reason": "'the asteroid drop of Char' was awkward"
+   }
+  ]
+ },
+ {
+  "id": "P-36",
+  "index": 107,
+  "lines_used": 2,
+  "name_en": "Kayra Su",
+  "label_en": "P36 Kayra Su",
+  "model_en": "A Londo Bell pilot second only to Amuro in",
+  "desc_en": "her unit. She took over the Re-GZ from Amuro but lost to Gyunei and was killed.",
+  "note": ""
+ },
+ {
+  "id": "P-37",
+  "index": 108,
+  "lines_used": 2,
+  "name_en": "Char Aznable (CCA)",
+  "label_en": "P37 Char Aznable (CCA)",
+  "model_en": "After 5 years in hiding, he returned as",
+  "desc_en": "Neo Zeon's Supreme Cmdr. Amuro foiled his plan to purge mankind with an Axis drop.",
+  "note": "'Supreme Cmdr.' per glossary. 'returned to the stage' compressed to 'Back ... as'.",
+  "history": [
+   {
+    "stage": "editorial",
+    "old": {
+     "model_en": "Back after 5 years in hiding as Neo Zeon's",
+     "desc_en": "Supreme Cmdr. He tried to purge mankind with an Axis drop, but Amuro stopped him."
+    },
+    "reason": "old text read as hiding AS Supreme Cmdr.; he returned as Supreme Cmdr. after 5 years in hiding"
+   }
+  ]
+ },
+ {
+  "id": "P-38",
+  "index": 109,
+  "lines_used": 2,
+  "name_en": "Quess Paraya",
+  "label_en": "P38 Quess Paraya",
+  "model_en": "A Newtype girl. Drawn to Amuro but brushed",
+  "desc_en": "off, she ran to Char. She died shielding Hathaway, with whom she finally connected.",
+  "note": "'finally' read as 'with whom she finally connected' (could also attach to her dying at the end)."
+ },
+ {
+  "id": "P-39",
+  "index": 110,
+  "lines_used": 2,
+  "name_en": "Gyunei Guss",
+  "label_en": "P39 Gyunei Guss",
+  "model_en": "A Cyber Newtype pilot under Char. Ambitious",
+  "desc_en": "and highly skilled, he racked up wins, but was no match for Amuro's Nu and was killed.",
+  "note": ""
+ },
+ {
+  "id": "P-40",
+  "index": 111,
+  "lines_used": 2,
+  "name_en": "Rezin Schnyder",
+  "label_en": "P40 Rezin Schnyder",
+  "model_en": "A Neo Zeon MS pilot of proven skill whose",
+  "desc_en": "personal unit is a blue Geara Doga. She despises Newtypes and Cyber Newtypes.",
+  "note": ""
+ },
+ {
+  "id": "P-41",
+  "index": 112,
+  "lines_used": 2,
+  "name_en": "Seabook Arno",
+  "label_en": "P41 Seabook Arno",
+  "model_en": "A student on Frontier Side. Fleeing a",
+  "desc_en": "sudden Crossbone attack, he found the new F91 by chance and became its pilot.",
+  "note": ""
+ },
+ {
+  "id": "P-42",
+  "index": 113,
+  "lines_used": 2,
+  "name_en": "Cecily Fairchild",
+  "label_en": "P42 Cecily Fairchild",
+  "model_en": "Seabook's classmate, really the next queen",
+  "desc_en": "of Cosmo Babylonia. She once rejoined the Ronahs, but Seabook led her to break away.",
+  "note": "",
+  "history": [
+   {
+    "stage": "editorial",
+    "old": {
+     "desc_en": "of Cosmo Babylonia. She once rejoined the Ronahs; Seabook led her to break away."
+    },
+    "reason": "choppy semicolon join; contrast made explicit"
+   }
+  ]
+ },
+ {
+  "id": "P-43",
+  "index": 114,
+  "lines_used": 2,
+  "name_en": "Zabine Chareux",
+  "label_en": "P43 Zabine Chareux",
+  "model_en": "Leader of the Black Vanguard, the Crossbone",
+  "desc_en": "Vanguard's elite unit. Having risen young, he is envied by some as an upstart.",
+  "note": ""
+ },
+ {
+  "id": "P-44",
+  "index": 115,
+  "lines_used": 2,
+  "name_en": "Iron Mask (Carozzo Ronah)",
+  "label_en": "P44 Iron Mask (Carozzo Ronah)",
+  "model_en": "Supreme Cmdr. of the Crossbone Vanguard and",
+  "desc_en": "Cecily's father. Shamed when his wife fled, he became a Cyber Newtype in an iron mask.",
+  "note": "Name keeps the card's form 'Iron Mask (Carozzo Ronah)'. 'real father' shortened to 'father' to fit."
+ },
+ {
+  "id": "P-45",
+  "index": 116,
+  "lines_used": 2,
+  "name_en": "Dorel Ronah",
+  "label_en": "P45 Dorel Ronah",
+  "model_en": "Cecily's half-brother, earnest by nature.",
+  "desc_en": "He earned command of a Crossbone MS unit, but fell just short of Zabine, his rival.",
+  "note": "",
+  "history": [
+   {
+    "stage": "editorial",
+    "old": {
+     "desc_en": "He earned command of a Crossbone MS unit, but falls just short of Zabine, his rival."
+    },
+    "reason": "tense switch inside one sentence (earned/falls)"
+   }
+  ]
+ },
+ {
+  "id": "P-46",
+  "index": 117,
+  "lines_used": 2,
+  "name_en": "Kincade Nau",
+  "label_en": "P46 Kincade Nau",
+  "model_en": "The new name Seabook took to support Berah",
+  "desc_en": "(Cecily), who toppled aristocratism and became captain of the Mother Vanguard.",
+  "note": "Subject of 'toppled aristocratism' taken as Berah."
+ },
+ {
+  "id": "P-47",
+  "index": 118,
+  "lines_used": 2,
+  "name_en": "Tobia Arronax",
+  "label_en": "P47 Tobia Arronax",
+  "model_en": "Attacked by the Crossbone Vanguard near",
+  "desc_en": "Jupiter, he joined Kincade and co., growing as a Newtype through many fierce battles.",
+  "note": ""
+ },
+ {
+  "id": "P-48",
+  "index": 119,
+  "lines_used": 2,
+  "name_en": "Zabine Chareux (XB)",
+  "label_en": "P48 Zabine Chareux (XB)",
+  "model_en": "After Cosmo Babylonia fell, he piloted for",
+  "desc_en": "Mother Vanguard. Secretly bent on reviving aristocratism, he went over to Jupiter.",
+  "note": ""
+ },
+ {
+  "id": "P-49",
+  "index": 120,
+  "lines_used": 2,
+  "name_en": "Kamuna Tachibana (LB)",
+  "label_en": "P49 Kamuna Tachibana (LB)",
+  "model_en": "Progress Mode's 1st-gen hero. From an elite",
+  "desc_en": "military family, he led a unit after the academy. His honest nature draws people in.",
+  "note": "(LB)/(NZ) suffixes kept as written; probably Londo Bell / Neo Zeon side."
+ },
+ {
+  "id": "P-50",
+  "index": 121,
+  "lines_used": 2,
+  "name_en": "Kamuna Tachibana (NZ)",
+  "label_en": "P50 Kamuna Tachibana (NZ)",
+  "model_en": "Progress Mode's 1st-gen hero. From an elite",
+  "desc_en": "military family, he led a unit after the academy. His honest nature draws people in.",
+  "note": ""
+ },
+ {
+  "id": "P-51",
+  "index": 122,
+  "lines_used": 2,
+  "name_en": "Shirley Ramsey (LB)",
+  "label_en": "P51 Shirley Ramsey (LB)",
+  "model_en": "A Progress Mode female pilot who has known",
+  "desc_en": "Kamuna since the academy. Skilled, with sound judgment. A long-haired beauty.",
+  "note": ""
+ },
+ {
+  "id": "P-52",
+  "index": 123,
+  "lines_used": 2,
+  "name_en": "Shirley Ramsey (NZ)",
+  "label_en": "P52 Shirley Ramsey (NZ)",
+  "model_en": "A Progress Mode female pilot who has known",
+  "desc_en": "Kamuna since the academy. Skilled, with sound judgment. A long-haired beauty.",
+  "note": ""
+ },
+ {
+  "id": "P-53",
+  "index": 124,
+  "lines_used": 2,
+  "name_en": "Pamir McDamil (LB)",
+  "label_en": "P53 Pamir McDamil (LB)",
+  "model_en": "A rookie Progress Mode pilot. A joker who",
+  "desc_en": "keeps the unit's spirits up, he is a psychic-powers buff who idolizes Newtypes.",
+  "note": ""
+ },
+ {
+  "id": "P-54",
+  "index": 125,
+  "lines_used": 2,
+  "name_en": "Pamir McDamil (NZ)",
+  "label_en": "P54 Pamir McDamil (NZ)",
+  "model_en": "A rookie Progress Mode pilot. A joker who",
+  "desc_en": "keeps the unit's spirits up, he is a psychic-powers buff who idolizes Newtypes.",
+  "note": ""
+ },
+ {
+  "id": "P-55",
+  "index": 126,
+  "lines_used": 2,
+  "name_en": "Aegis Veracruz (Federation)",
+  "label_en": "P55 Aegis Veracruz (Federation)",
+  "model_en": "A fellow pilot of the 2nd-gen Progress",
+  "desc_en": "hero. A smug womanizer who fiercely rivals the elite hero. A good guy at heart.",
+  "note": "Gender unverified in glossary; text avoids pronouns ('womanizer' and 'good guy' are in the source).",
+  "history": [
+   {
+    "stage": "accuracy",
+    "old": {
+     "model_en": "A colleague of the 2nd-gen Progress Mode"
+    }
+   }
+  ]
+ },
+ {
+  "id": "P-56",
+  "index": 127,
+  "lines_used": 2,
+  "name_en": "Aegis Veracruz (CV)",
+  "label_en": "P56 Aegis Veracruz (CV)",
+  "model_en": "A fellow pilot of the 2nd-gen Progress",
+  "desc_en": "hero. A smug womanizer who fiercely rivals the elite hero. A good guy at heart.",
+  "note": "Same as P-55.",
+  "history": [
+   {
+    "stage": "accuracy",
+    "old": {
+     "model_en": "A colleague of the 2nd-gen Progress Mode"
+    },
+    "reason": "same as P-55 (same card text)"
+   }
+  ]
+ },
+ {
+  "id": "P-57",
+  "index": 128,
+  "lines_used": 1,
+  "name_en": "Progress Male A (Federation)",
+  "label_en": "P57 Progress Male A (Federation)",
+  "model_en": "Progress Mode's 2nd-gen hero. He inherited",
+  "desc_en": "his parent's personality. Notable for his lively-looking short blue hair.",
+  "note": "'his parent' kept singular-neutral (which parent is not stated)."
+ },
+ {
+  "id": "P-58",
+  "index": 129,
+  "lines_used": 1,
+  "name_en": "Progress Male A (CV)",
+  "label_en": "P58 Progress Male A (CV)",
+  "model_en": "Progress Mode's 2nd-gen hero. He inherited",
+  "desc_en": "his parent's personality. Notable for his lively-looking short blue hair.",
+  "note": ""
+ },
+ {
+  "id": "P-59",
+  "index": 130,
+  "lines_used": 1,
+  "name_en": "Progress Male B (Federation)",
+  "label_en": "P59 Progress Male B (Federation)",
+  "model_en": "Progress Mode's 2nd-gen hero. He inherited",
+  "desc_en": "his parent's personality. A handsome blond with a piercing gaze.",
+  "note": ""
+ },
+ {
+  "id": "P-60",
+  "index": 131,
+  "lines_used": 1,
+  "name_en": "Progress Male B (CV)",
+  "label_en": "P60 Progress Male B (CV)",
+  "model_en": "Progress Mode's 2nd-gen hero. He inherited",
+  "desc_en": "his parent's personality. A handsome blond with a piercing gaze.",
+  "note": ""
+ },
+ {
+  "id": "P-61",
+  "index": 132,
+  "lines_used": 1,
+  "name_en": "Progress Female A (Federation)",
+  "label_en": "P61 Progress Female A (Federation)",
+  "model_en": "Progress Mode's 2nd-gen hero. She inherited",
+  "desc_en": "her parent's personality. Notable for her long pink hair, tied back.",
+  "note": ""
+ },
+ {
+  "id": "P-62",
+  "index": 133,
+  "lines_used": 1,
+  "name_en": "Progress Female A (CV)",
+  "label_en": "P62 Progress Female A (CV)",
+  "model_en": "Progress Mode's 2nd-gen hero. She inherited",
+  "desc_en": "her parent's personality. Notable for her long pink hair, tied back.",
+  "note": ""
+ },
+ {
+  "id": "P-63",
+  "index": 134,
+  "lines_used": 2,
+  "name_en": "Progress Female B (Federation)",
+  "label_en": "P63 Progress Female B (Federation)",
+  "model_en": "Progress Mode's 2nd-gen hero. She inherited",
+  "desc_en": "her parent's personality. Notable for green hair and mysterious orange eyes.",
+  "note": ""
+ },
+ {
+  "id": "P-64",
+  "index": 135,
+  "lines_used": 2,
+  "name_en": "Progress Female B (CV)",
+  "label_en": "P64 Progress Female B (CV)",
+  "model_en": "Progress Mode's 2nd-gen hero. She inherited",
+  "desc_en": "her parent's personality. Notable for green hair and mysterious orange eyes.",
+  "note": ""
+ },
+ {
+  "id": "C-01",
+  "index": 136,
+  "lines_used": 2,
+  "name_en": "Amuro Ray",
+  "label_en": "C01 Amuro Ray",
+  "model_en": "A boy on Side 7. Caught up in the fighting,",
+  "desc_en": "he became the Gundam's pilot, awoke as a Newtype and grew into the strongest pilot.",
+  "note": ""
+ },
+ {
+  "id": "C-02",
+  "index": 137,
+  "lines_used": 2,
+  "name_en": "Kai Shiden",
+  "label_en": "C02 Kai Shiden",
+  "model_en": "White Base's Guncannon pilot. Once a cynic",
+  "desc_en": "and a coward, he found meaning in fighting after meeting Miharu, a young girl spy.",
+  "note": ""
+ },
+ {
+  "id": "C-03",
+  "index": 138,
+  "lines_used": 2,
+  "name_en": "Hayato Kobayashi",
+  "label_en": "C03 Hayato Kobayashi",
+  "model_en": "Amuro's classmate from Side 7. On White",
+  "desc_en": "Base, he mostly piloted the Guntank. Though small, he is fiercely competitive.",
+  "note": "",
+  "history": [
+   {
+    "stage": "editorial",
+    "old": {
+     "desc_en": "Base he mainly piloted the Guntank. Small in build, but fiercely competitive."
+    },
+    "reason": "keep the duplicate P/C cards of the same person identical; past for events, present for personality"
+   }
+  ]
+ },
+ {
+  "id": "C-04",
+  "index": 139,
+  "lines_used": 2,
+  "name_en": "Sleggar Law",
+  "label_en": "C04 Sleggar Law",
+  "model_en": "A pilot sent to White Base at Jaburo. At",
+  "desc_en": "Solomon he made a suicide charge at the Big Zam and died showing what a real man is.",
+  "note": ""
+ },
+ {
+  "id": "C-05",
+  "index": 140,
+  "lines_used": 2,
+  "name_en": "Bright Noa",
+  "label_en": "C05 Bright Noa",
+  "model_en": "A cadet who became White Base's captain",
+  "desc_en": "when its regulars died. He pulled the green crew together and came into his own.",
+  "note": "'grew into a full-fledged one' read as Bright himself growing ('came into his own'); could refer to the crew."
+ },
+ {
+  "id": "C-06",
+  "index": 141,
+  "lines_used": 2,
+  "name_en": "Char Aznable",
+  "label_en": "C06 Char Aznable",
+  "model_en": "Zeon's ace pilot, known as the Red Comet.",
+  "desc_en": "Behind his mask, he is really Casval, the orphaned son of Zeon Zum Deikun.",
+  "note": ""
+ },
+ {
+  "id": "C-07",
+  "index": 142,
+  "lines_used": 2,
+  "name_en": "Dozle Zabi",
+  "label_en": "C07 Dozle Zabi",
+  "model_en": "Third Zabi son and born soldier, he led the",
+  "desc_en": "Space Attack Force and Solomon. He sortied in the Big Zam but fell to the Gundam.",
+  "note": "",
+  "history": [
+   {
+    "stage": "editorial",
+    "old": {
+     "model_en": "3rd Zabi son, a born soldier heading the"
+    },
+    "reason": "keep the duplicate P/C cards of the same person identical"
+   }
+  ]
+ },
+ {
+  "id": "C-08",
+  "index": 143,
+  "lines_used": 2,
+  "name_en": "Gihren Zabi",
+  "label_en": "C08 Gihren Zabi",
+  "model_en": "Eldest Zabi son. A 240 IQ and charisma made",
+  "desc_en": "him Zeon's Supreme Cmdr. His sister Kycilia slew him for their father Degwin's murder.",
+  "note": "younger sister kept as 'sister'; 'he was' dropped in the last clause to fit.",
+  "history": [
+   {
+    "stage": "accuracy",
+    "old": {
+     "desc_en": "him Zeon's Supreme Cmdr. Accused of killing father Degwin, slain by sister Kycilia."
+    }
+   },
+   {
+    "stage": "editorial",
+    "old": {
+     "desc_en": "him Zeon's Supreme Cmdr. Sister Kycilia slew him over father Degwin's murder."
+    },
+    "reason": "headline-style 'Sister Kycilia slew him over father Degwin's murder'"
+   }
+  ]
+ },
+ {
+  "id": "C-09",
+  "index": 144,
+  "lines_used": 2,
+  "name_en": "Kycilia Zabi",
+  "label_en": "C09 Kycilia Zabi",
+  "model_en": "Eldest Zabi daughter, head of Zeon's Mobile",
+  "desc_en": "Assault Force. Farsighted, e.g. in Newtype research. She slew Gihren but fell to Char.",
+  "note": "",
+  "history": [
+   {
+    "stage": "editorial",
+    "old": {
+     "desc_en": "Assault Force. Farsighted, e.g. in Newtype research. Killed Gihren, but fell to Char."
+    },
+    "reason": "restore subject 'She' (editorial note)"
+   }
+  ]
+ },
+ {
+  "id": "C-10",
+  "index": 145,
+  "lines_used": 2,
+  "name_en": "Shiro Amada",
+  "label_en": "C10 Shiro Amada",
+  "model_en": "Rookie leader of the 08th MS Team, Kojima",
+  "desc_en": "Battalion. He bonded with Zeon's Aina Sakhalin, met in battle, and left the army.",
+  "note": ""
+ },
+ {
+  "id": "C-11",
+  "index": 146,
+  "lines_used": 2,
+  "name_en": "Karen Joshua",
+  "label_en": "C11 Karen Joshua",
+  "model_en": "An MS pilot and second-in-command of the",
+  "desc_en": "08th MS Team. Sharp-tongued, she at first called her leader Shiro a naive softie.",
+  "note": ""
+ },
+ {
+  "id": "C-12",
+  "index": 147,
+  "lines_used": 2,
+  "name_en": "Terry Sanders Jr.",
+  "label_en": "C12 Terry Sanders Jr.",
+  "model_en": "An MS pilot of the 08th MS Team. Two units",
+  "desc_en": "he served in were wiped out. It weighed on him, but Shiro helped him move past it.",
+  "note": "",
+  "history": [
+   {
+    "stage": "editorial",
+    "old": {
+     "model_en": "An 08th MS Team MS pilot. He agonized over",
+     "desc_en": "having seen his units wiped out twice, but with Shiro's help he put it behind him."
+    },
+    "reason": "keep the duplicate P/C cards of the same person identical; C-12 'An 08th MS Team MS pilot' was clunky"
+   }
+  ]
+ },
+ {
+  "id": "C-13",
+  "index": 148,
+  "lines_used": 2,
+  "name_en": "Michel Ninorich",
+  "label_en": "C13 Michel Ninorich",
+  "model_en": "An 08th MS Team replacement, mainly on MS",
+  "desc_en": "backup. He has a knack for landing in trouble. He left the army after the war.",
+  "note": "",
+  "history": [
+   {
+    "stage": "editorial",
+    "old": {
+     "desc_en": "backup. Has a knack for landing in trouble. He left the army after the war."
+    },
+    "reason": "restore subject"
+   }
+  ]
+ },
+ {
+  "id": "C-14",
+  "index": 149,
+  "lines_used": 2,
+  "name_en": "Aina Sakhalin",
+  "label_en": "C14 Aina Sakhalin",
+  "model_en": "Daughter of the noble Sakhalin family and a",
+  "desc_en": "Zeon test pilot. Meeting enemy soldier Shiro Amada slowly changed how she lived.",
+  "note": "",
+  "history": [
+   {
+    "stage": "editorial",
+    "old": {
+     "desc_en": "Zeon test pilot. Meeting the enemy soldier Shiro Amada changes the way she lives."
+    },
+    "reason": "keep the duplicate P/C cards of the same person identical; past tense for events"
+   }
+  ]
+ },
+ {
+  "id": "C-15",
+  "index": 150,
+  "lines_used": 2,
+  "name_en": "Norris Packard",
+  "label_en": "C15 Norris Packard",
+  "model_en": "A veteran pilot serving the Sakhalins. In a",
+  "desc_en": "Gouf Custom, he let his revered Aina and the wounded escape, then fell, duty done.",
+  "note": "'revered and loved' -> 'revered'.",
+  "history": [
+   {
+    "stage": "editorial",
+    "old": {
+     "model_en": "Veteran pilot of the Sakhalins. He sortied",
+     "desc_en": "in the Gouf Custom so his revered Aina and the wounded could flee; he fell, duty done."
+    },
+    "reason": "keep the duplicate P/C cards of the same person identical"
+   }
+  ]
+ },
+ {
+  "id": "C-16",
+  "index": 151,
+  "lines_used": 2,
+  "name_en": "Zeon Female Soldier",
+  "label_en": "C16 Zeon Female Soldier",
+  "model_en": "At Zeon's Apsaras base in the Far East. She",
+  "desc_en": "is the operator of the Kergeren, the ship evacuating the sick and wounded to space.",
+  "note": "'Apsaras base' (glossary has Apsaras II/III)."
+ },
+ {
+  "id": "C-17",
+  "index": 152,
+  "lines_used": 2,
+  "name_en": "Christina Mackenzie",
+  "label_en": "C17 Christina Mackenzie",
+  "model_en": "A Federation test pilot, known as Chris.",
+  "desc_en": "She grew fond of Bernie, whom she met by chance, but unknowingly destroyed his Zaku.",
+  "note": "",
+  "history": [
+   {
+    "stage": "editorial",
+    "old": {
+     "model_en": "A Fed. Forces test pilot, called Chris. She",
+     "desc_en": "grew fond of Bernie, met by chance, but unknowingly destroyed his Zaku."
+    },
+    "reason": "keep the duplicate P/C cards of the same person identical; 'Bernie, met by chance' read awkwardly"
+   }
+  ]
+ },
+ {
+  "id": "C-18",
+  "index": 153,
+  "lines_used": 2,
+  "name_en": "Bernard Wiseman",
+  "label_en": "C18 Bernard Wiseman",
+  "model_en": "A Zeon rookie, called Bernie. Found out by",
+  "desc_en": "young Al, he teamed up with him. He fought to save the colony but met a tragic end.",
+  "note": "",
+  "history": [
+   {
+    "stage": "accuracy",
+    "old": {
+     "desc_en": "young Al, the two then teamed up. He fought to save the colony but met a tragic end."
+    },
+    "reason": "dangling 'Found out by young Al, the two...' made both of them the ones found out; JP: Bernie's identity is learned by Al; 2 lines"
+   }
+  ]
+ },
+ {
+  "id": "C-19",
+  "index": 154,
+  "lines_used": 2,
+  "name_en": "Mikhail Kaminsky",
+  "label_en": "C19 Mikhail Kaminsky",
+  "model_en": "A pilot of Zeon's special Cyclops Team. He",
+  "desc_en": "raided a Fed. base in the Kampfer, but was intercepted by the Alex and killed.",
+  "note": ""
+ },
+ {
+  "id": "C-20",
+  "index": 155,
+  "lines_used": 2,
+  "name_en": "Kou Uraki",
+  "label_en": "C20 Kou Uraki",
+  "model_en": "A rookie test pilot at Torrington Base.",
+  "desc_en": "After the GP02 theft, he threw himself into fierce battles with his nemesis Gato.",
+  "note": "",
+  "history": [
+   {
+    "stage": "editorial",
+    "old": {
+     "model_en": "A rookie test pilot at Torrington. After",
+     "desc_en": "the theft of Gundam Unit 2, he plunges into fierce battles with Gato as his nemesis."
+    },
+    "reason": "keep the duplicate P/C cards of the same person identical; past tense for events"
+   }
+  ]
+ },
+ {
+  "id": "C-21",
+  "index": 156,
+  "lines_used": 2,
+  "name_en": "South Burning",
+  "label_en": "C21 South Burning",
+  "model_en": "An MS pilot instructor at Torrington, he",
+  "desc_en": "became the Albion's combat leader after the GP02 theft. He died in an MS accident.",
+  "note": "Kept literal: 'Died in an MS accident'.",
+  "history": [
+   {
+    "stage": "editorial",
+    "old": {
+     "desc_en": "became the Albion's combat leader after the Gundam theft. Died in an MS accident."
+    },
+    "reason": "keep the duplicate P/C cards of the same person identical; C-21 dropped the subject"
+   }
+  ]
+ },
+ {
+  "id": "C-22",
+  "index": 157,
+  "lines_used": 2,
+  "name_en": "Eyphar Sinapus",
+  "label_en": "C22 Eyphar Sinapus",
+  "model_en": "Captain of the Pegasus-class assault ship",
+  "desc_en": "Albion. Able, upright and trusted, he was executed postwar in a Fed. brass plot.",
+  "note": "'trusted by his men' compressed to 'trusted'.",
+  "history": [
+   {
+    "stage": "editorial",
+    "old": {
+     "desc_en": "Albion. Able, upright and trusted, but executed postwar via Fed. brass plots."
+    },
+    "reason": "'executed postwar via Fed. brass plots' was clunky and lacked a subject"
+   }
+  ]
+ },
+ {
+  "id": "C-23",
+  "index": 158,
+  "lines_used": 2,
+  "name_en": "Jacqueline Simon",
+  "label_en": "C23 Jacqueline Simon",
+  "model_en": "An Albion bridge operator, a sergeant.",
+  "desc_en": "She is easygoing, but a bad drunk. After the war she was transferred to the Titans.",
+  "note": "Card says sergeant; glossary role says Warrant Officer - followed the card text.",
+  "history": [
+   {
+    "stage": "editorial",
+    "old": {
+     "model_en": "An Albion bridge operator, rank sergeant.",
+     "desc_en": "Easygoing, but a bad drunk. After the war she was transferred to the Titans."
+    },
+    "reason": "'rank sergeant' unidiomatic; restore subject"
+   }
+  ]
+ },
+ {
+  "id": "C-24",
+  "index": 159,
+  "lines_used": 2,
+  "name_en": "Bask Om",
+  "label_en": "C24 Bask Om",
+  "model_en": "He led the Solar System II firing to stop",
+  "desc_en": "Operation Stardust. Hating Spacenoids utterly, he later became a Titans colonel.",
+  "note": ""
+ },
+ {
+  "id": "C-25",
+  "index": 160,
+  "lines_used": 2,
+  "name_en": "Anavel Gato",
+  "label_en": "C25 Anavel Gato",
+  "model_en": "A Zeon ace called the Nightmare of Solomon.",
+  "desc_en": "Serving Delaz, he spearheaded Operation Stardust and fought Kou fiercely.",
+  "note": "",
+  "history": [
+   {
+    "stage": "accuracy",
+    "old": {
+     "desc_en": "Under Delaz, he led Operation Stardust and fought fierce battles with Kou."
+    }
+   },
+   {
+    "stage": "editorial",
+    "old": {
+     "desc_en": "Under Delaz, he was key to Operation Stardust and fought Kou fiercely."
+    },
+    "reason": "keep the duplicate P/C cards of the same person identical"
+   }
+  ]
+ },
+ {
+  "id": "C-26",
+  "index": 161,
+  "lines_used": 2,
+  "name_en": "Cima Garahau",
+  "label_en": "C26 Cima Garahau",
+  "model_en": "A female Zeon officer. She joined the Delaz",
+  "desc_en": "Fleet intending all along to betray it to the Fed. Foiled by Gato and Kou, she died.",
+  "note": "",
+  "history": [
+   {
+    "stage": "editorial",
+    "old": {
+     "model_en": "A female Zeon officer who joined the Delaz",
+     "desc_en": "Fleet meaning to betray it to the Fed., but Gato and Kou foiled her plan and she died."
+    },
+    "reason": "keep the duplicate P/C cards of the same person identical; keep 'female' (onna shoukou), clearer than 'foiled it'"
+   }
+  ]
+ },
+ {
+  "id": "C-27",
+  "index": 162,
+  "lines_used": 2,
+  "name_en": "Kamille Bidan",
+  "label_en": "C27 Kamille Bidan",
+  "model_en": "A civilian student who hated the Titans and",
+  "desc_en": "joined the AEUG. Hailed as Amuro reborn for his superb combat skill, he became an ace.",
+  "note": "",
+  "history": [
+   {
+    "stage": "editorial",
+    "old": {
+     "desc_en": "joined the AEUG. His superb combat skill, hailed as Amuro reborn, made him an ace."
+    },
+    "reason": "keep the duplicate P/C cards of the same person identical; C-27 attached 'hailed as Amuro reborn' to his skill"
+   }
+  ]
+ },
+ {
+  "id": "C-28",
+  "index": 163,
+  "lines_used": 2,
+  "name_en": "Quattro Bajeena",
+  "label_en": "C28 Quattro Bajeena",
+  "model_en": "Char Aznable after he left Axis, now an",
+  "desc_en": "AEUG officer under an alias. He lost his battle with Haman and went missing.",
+  "note": ""
+ },
+ {
+  "id": "C-29",
+  "index": 164,
+  "lines_used": 2,
+  "name_en": "Aboly",
+  "label_en": "C29 Aboly",
+  "model_en": "Char's trusted aide since his Zeon days, he",
+  "desc_en": "followed Quattro and served as an AEUG pilot. He fell to Jerid's attack.",
+  "note": ""
+ },
+ {
+  "id": "C-30",
+  "index": 165,
+  "lines_used": 2,
+  "name_en": "Roberto",
+  "label_en": "C30 Roberto",
+  "model_en": "With Aboly, he followed Quattro in a Rick",
+  "desc_en": "Dias. He was killed by an Asshimar's attack during the shuttle launch at Kennedy.",
+  "note": ""
+ },
+ {
+  "id": "C-31",
+  "index": 166,
+  "lines_used": 2,
+  "name_en": "Emma Sheen",
+  "label_en": "C31 Emma Sheen",
+  "model_en": "Once a Titans officer, she was made to see",
+  "desc_en": "their atrocities and defected to the AEUG, fighting as one of its key pilots.",
+  "note": ""
+ },
+ {
+  "id": "C-32",
+  "index": 167,
+  "lines_used": 2,
+  "name_en": "Bright Noa (Z)",
+  "label_en": "C32 Bright Noa (Z)",
+  "model_en": "Sidelined after the One Year War, he took",
+  "desc_en": "command of the Argama at the AEUG's call. A veteran CO, he led the AEUG to victory.",
+  "note": "",
+  "history": [
+   {
+    "stage": "accuracy",
+    "old": {
+     "desc_en": "command of the Argama at the AEUG's call. A seasoned leader, he steered it to victory."
+    }
+   }
+  ]
+ },
+ {
+  "id": "C-33",
+  "index": 168,
+  "lines_used": 2,
+  "name_en": "Henken Bekkener",
+  "label_en": "C33 Henken Bekkener",
+  "model_en": "A key AEUG figure and the Radish's captain,",
+  "desc_en": "with the rank of Cmdr. He died shielding the Mk-II of Lt. Emma, whom he loved.",
+  "note": "",
+  "history": [
+   {
+    "stage": "editorial",
+    "old": {
+     "desc_en": "a commander. He died shielding the Mk-II of Lt. Emma, whom he loved."
+    },
+    "reason": "'the Radish's captain, a commander' read ambiguously; rank made explicit"
+   }
+  ]
+ },
+ {
+  "id": "C-34",
+  "index": 169,
+  "lines_used": 2,
+  "name_en": "Torres",
+  "label_en": "C34 Torres",
+  "model_en": "Argama operator and Kamille's squabbling",
+  "desc_en": "pal, close in age. After the Gryps Conflict he served on the Argama and Nahel Argama.",
+  "note": "",
+  "history": [
+   {
+    "stage": "editorial",
+    "old": {
+     "desc_en": "pal, close in age. After the Gryps Conflict he served on Argama and Nahel Argama."
+    },
+    "reason": "missing article before ship name"
+   }
+  ]
+ },
+ {
+  "id": "C-35",
+  "index": 170,
+  "lines_used": 2,
+  "name_en": "Amuro Ray (Z)",
+  "label_en": "C35 Amuro Ray (Z)",
+  "model_en": "Feared for his One Year War feats, he was",
+  "desc_en": "confined by the Fed. Roused by Katz, he joined Karaba, fighting with Hayato and co.",
+  "note": "House arrest -> 'confined' to fit.",
+  "history": [
+   {
+    "stage": "editorial",
+    "old": {
+     "desc_en": "confined by the Fed. Roused by Katz, he joined Karaba to fight with Hayato & co."
+    },
+    "reason": "keep the duplicate P/C cards of the same person identical"
+   }
+  ]
+ },
+ {
+  "id": "C-36",
+  "index": 171,
+  "lines_used": 2,
+  "name_en": "Hayato Kobayashi (Z)",
+  "label_en": "C36 Hayato Kobayashi (Z)",
+  "model_en": "After the One Year War he ran a war museum,",
+  "desc_en": "but rose against Titans tyranny, joining Karaba and fighting as Audhumla captain.",
+  "note": ""
+ },
+ {
+  "id": "C-37",
+  "index": 172,
+  "lines_used": 2,
+  "name_en": "Beltorchika Irma",
+  "label_en": "C37 Beltorchika Irma",
+  "model_en": "In Karaba, the AEUG's support group. Drawn",
+  "desc_en": "to Amuro, she chased him hard. At Dakar, as an agent, she helped seize the Assembly.",
+  "note": ""
+ },
+ {
+  "id": "C-38",
+  "index": 173,
+  "lines_used": 2,
+  "name_en": "Jerid Messa",
+  "label_en": "C38 Jerid Messa",
+  "model_en": "A Titans pilot. Supposedly elite, he lost",
+  "desc_en": "again and again after meeting Kamille, and died without ever getting his revenge.",
+  "note": "",
+  "history": [
+   {
+    "stage": "editorial",
+    "old": {
+     "model_en": "A Titans pilot. Supposedly elite, he met",
+     "desc_en": "only defeat after meeting Kamille, and died without ever getting his revenge."
+    },
+    "reason": "keep the duplicate P/C cards of the same person identical; C-38 'met ... after meeting' repetition"
+   }
+  ]
+ },
+ {
+  "id": "C-39",
+  "index": 174,
+  "lines_used": 2,
+  "name_en": "Kacricon Cacooler",
+  "label_en": "C39 Kacricon Cacooler",
+  "model_en": "A Titans pilot, Jerid's comrade and",
+  "desc_en": "partner. He died when Kamille shot his ballute as he descended to Earth.",
+  "note": "",
+  "history": [
+   {
+    "stage": "editorial",
+    "old": {
+     "desc_en": "partner. While descending to Earth, Kamille shot his ballute and he died."
+    },
+    "reason": "dangling modifier: 'While descending to Earth, Kamille shot...'"
+   }
+  ]
+ },
+ {
+  "id": "C-40",
+  "index": 175,
+  "lines_used": 2,
+  "name_en": "Four Murasame",
+  "label_en": "C40 Four Murasame",
+  "model_en": "A Titans Cyber Newtype pilot. She met",
+  "desc_en": "Kamille in Hong Kong. They fell in love, but Jerid killed her as she shielded him.",
+  "note": "",
+  "history": [
+   {
+    "stage": "editorial",
+    "old": {
+     "model_en": "A Titans Cyber Newtype. She and Kamille met",
+     "desc_en": "in Hong Kong and fell for each other, but she died shielding him from Jerid."
+    },
+    "reason": "keep the duplicate P/C cards of the same person identical"
+   },
+   {
+    "stage": "recheck",
+    "old": {
+     "desc_en": "Kamille in Hong Kong. They fell in love, but Jerid shot her as she shielded him."
+    }
+   }
+  ]
+ },
+ {
+  "id": "C-41",
+  "index": 176,
+  "lines_used": 2,
+  "name_en": "Paptimus Scirocco",
+  "label_en": "C41 Paptimus Scirocco",
+  "model_en": "A charismatic Newtype genius from Jupiter.",
+  "desc_en": "He assassinated Jamitov, seized the Titans, and fell to Kamille's suicide charge.",
+  "note": ""
+ },
+ {
+  "id": "C-42",
+  "index": 177,
+  "lines_used": 2,
+  "name_en": "Buran Blutarch",
+  "label_en": "C42 Buran Blutarch",
+  "model_en": "Ex-Fed. major. Though he inwardly hated the",
+  "desc_en": "Titans, he did his duty well. Flying the Asshimar, he plagued the AEUG many times.",
+  "note": "",
+  "history": [
+   {
+    "stage": "editorial",
+    "old": {
+     "model_en": "Ex-Fed. Forces major. He quietly loathed",
+     "desc_en": "the Titans but did his job. In the Asshimar he plagued the AEUG again and again."
+    },
+    "reason": "keep the duplicate P/C cards of the same person identical"
+   }
+  ]
+ },
+ {
+  "id": "C-43",
+  "index": 178,
+  "lines_used": 2,
+  "name_en": "Yazan Gable",
+  "label_en": "C43 Yazan Gable",
+  "model_en": "A Titans ace pilot, so warlike he is called",
+  "desc_en": "a beast. He stubbornly survived and later fought Judau and the others as well.",
+  "note": ""
+ },
+ {
+  "id": "C-44",
+  "index": 179,
+  "lines_used": 2,
+  "name_en": "Haman Karn",
+  "label_en": "C44 Haman Karn",
+  "model_en": "Regent to Mineva, the last Zabi. She used",
+  "desc_en": "charisma and statecraft to unite Axis' Zeon remnants and return to the Earth Sphere.",
+  "note": "'political skill' -> 'politics' to fit.",
+  "history": [
+   {
+    "stage": "editorial",
+    "old": {
+     "model_en": "Regent to Mineva, last of the Zabis. With",
+     "desc_en": "charisma and politics she united Axis' Zeon remnants and returned to the Earth Sphere."
+    },
+    "reason": "keep the duplicate P/C cards of the same person identical; 'regent' for koukennin"
+   }
+  ]
+ },
+ {
+  "id": "C-45",
+  "index": 180,
+  "lines_used": 2,
+  "name_en": "Judau Ashta",
+  "label_en": "C45 Judau Ashta",
+  "model_en": "A tough Side 1 boy living as a junk dealer.",
+  "desc_en": "Scouted by the AEUG for his Newtype talent, he fought Haman in the ZZ.",
+  "note": "",
+  "history": [
+   {
+    "stage": "editorial",
+    "old": {
+     "model_en": "A boy living tough as a Side 1 junk dealer.",
+     "desc_en": "Scouted by the AEUG for his Newtype gift, he fights Haman in the ZZ."
+    },
+    "reason": "keep the duplicate P/C cards of the same person identical; 'living tough' was unidiomatic; past tense for events"
+   }
+  ]
+ },
+ {
+  "id": "C-46",
+  "index": 181,
+  "lines_used": 2,
+  "name_en": "Roux Louka",
+  "label_en": "C46 Roux Louka",
+  "model_en": "An AEUG volunteer who mostly flew the Zeta",
+  "desc_en": "Gundam on the Argama. After the war she joined a Jupiter fleet crew with Judau.",
+  "note": ""
+ },
+ {
+  "id": "C-47",
+  "index": 182,
+  "lines_used": 2,
+  "name_en": "Beecha Oleg",
+  "label_en": "C47 Beecha Oleg",
+  "model_en": "Judau's junk-dealer pal. The eldest, yet",
+  "desc_en": "selfish and twisted. Often at odds with Judau, he at last matured as a captain.",
+  "note": ""
+ },
+ {
+  "id": "C-48",
+  "index": 183,
+  "lines_used": 2,
+  "name_en": "Mondo Agake",
+  "label_en": "C48 Mondo Agake",
+  "model_en": "One of Judau's junk-dealer pals. He made",
+  "desc_en": "endless mischief with Beecha, but meeting Rasara, and losing her, made him grow up.",
+  "note": "'Rasara' (not in glossary)."
+ },
+ {
+  "id": "C-49",
+  "index": 184,
+  "lines_used": 2,
+  "name_en": "Elle Vianno",
+  "label_en": "C49 Elle Vianno",
+  "model_en": "Judau's junk-dealer pal, mainly on the",
+  "desc_en": "Mk-II aboard the Argama. She liked Judau, but finally returned Beecha's feelings.",
+  "note": ""
+ },
+ {
+  "id": "C-50",
+  "index": 185,
+  "lines_used": 2,
+  "name_en": "Emary Ounce",
+  "label_en": "C50 Emary Ounce",
+  "model_en": "Acting captain of Anaheim's dock ship La",
+  "desc_en": "Vie en Rose. A gifted young woman who can't hide her passion for married Bright.",
+  "note": ""
+ },
+ {
+  "id": "C-51",
+  "index": 186,
+  "lines_used": 2,
+  "name_en": "Haman Karn (ZZ)",
+  "label_en": "C51 Haman Karn (ZZ)",
+  "model_en": "After the Titans fell, she led Axis, now",
+  "desc_en": "Neo Zeon, and nearly took the Earth Sphere. Bent on dueling Judau, she lost.",
+  "note": ""
+ },
+ {
+  "id": "C-52",
+  "index": 187,
+  "lines_used": 2,
+  "name_en": "Elpeo Ple",
+  "label_en": "C52 Elpeo Ple",
+  "model_en": "A girl Glemy was training as a Newtype.",
+  "desc_en": "Drawn to Judau, she joined the AEUG. She died fighting her sister, Ple-Two.",
+  "note": "",
+  "history": [
+   {
+    "stage": "editorial",
+    "old": {
+     "model_en": "A girl Glemy was raising as a Newtype.",
+     "desc_en": "Drawn to Judau, she joined the AEUG. She died fighting her sister Ple-Two."
+    },
+    "reason": "keep the duplicate P/C cards of the same person identical; 'training' for yousei"
+   }
+  ]
+ },
+ {
+  "id": "C-53",
+  "index": 188,
+  "lines_used": 2,
+  "name_en": "Ple-Two",
+  "label_en": "C53 Ple-Two",
+  "model_en": "Said to be Ple's clone, or her sister. She",
+  "desc_en": "is combative. Fighting Judau, she heard the dead Ple's voice and turned on Glemy.",
+  "note": "",
+  "history": [
+   {
+    "stage": "editorial",
+    "old": {
+     "model_en": "Said to be Ple's clone or sister. Combative",
+     "desc_en": "by nature. Fighting Judau, she heard the voice of the dead Ple and turned on Glemy."
+    },
+    "reason": "keep the duplicate P/C cards of the same person identical; subject kept, past tense for events"
+   }
+  ]
+ },
+ {
+  "id": "C-54",
+  "index": 189,
+  "lines_used": 2,
+  "name_en": "Mashymre Cello",
+  "label_en": "C54 Mashymre Cello",
+  "model_en": "Sworn to Haman, he prizes chivalry. After",
+  "desc_en": "repeated failures, Haman had him made a Cyber Newtype; he died a disposable pawn.",
+  "note": "",
+  "history": [
+   {
+    "stage": "editorial",
+    "old": {
+     "model_en": "Sworn to Haman, he prized chivalry. After",
+     "desc_en": "repeated failures, Haman made him a Cyber Newtype; he died a sacrificial pawn."
+    },
+    "reason": "keep the duplicate P/C cards of the same person identical"
+   }
+  ]
+ },
+ {
+  "id": "C-55",
+  "index": 190,
+  "lines_used": 2,
+  "name_en": "Rakan Dahkaran",
+  "label_en": "C55 Rakan Dahkaran",
+  "model_en": "Haman's fierce warrior. In new MS he often",
+  "desc_en": "plagued Judau's team, but ambition made him defect to Glemy. He fell to the ZZ.",
+  "note": "Glemy's army shortened to 'Glemy' (glossary: Glemy Faction) to fit.",
+  "history": [
+   {
+    "stage": "editorial",
+    "old": {
+     "model_en": "Haman's fierce officer. In new MS he",
+     "desc_en": "hounded Judau and co., but ambition made him defect to Glemy. He fell to the ZZ."
+    },
+    "reason": "keep the duplicate P/C cards of the same person identical"
+   }
+  ]
+ },
+ {
+  "id": "C-56",
+  "index": 191,
+  "lines_used": 2,
+  "name_en": "Glemy Toto",
+  "label_en": "C56 Glemy Toto",
+  "model_en": "He rose from private to commander under",
+  "desc_en": "Haman, then suddenly rebelled out of hidden ambition. Roux, whom he loved, killed him.",
+  "note": "",
+  "history": [
+   {
+    "stage": "editorial",
+    "old": {
+     "model_en": "Rose from private to commander under Haman,",
+     "desc_en": "but hidden ambition drove him to sudden revolt. Slain by Roux, whom he loved."
+    },
+    "reason": "keep the duplicate P/C cards of the same person identical; 'rebelled from hidden ambition' read awkwardly"
+   }
+  ]
+ },
+ {
+  "id": "C-57",
+  "index": 192,
+  "lines_used": 2,
+  "name_en": "Amuro Ray (CCA)",
+  "label_en": "C57 Amuro Ray (CCA)",
+  "model_en": "A Londo Bell captain in the Earth Fed.",
+  "desc_en": "Forces. He flew the Nu Gundam to stop his lifelong rival Char's asteroid drop.",
+  "note": "",
+  "history": [
+   {
+    "stage": "editorial",
+    "old": {
+     "desc_en": "Forces. He flew the Nu Gundam to stop the asteroid drop of Char, his lifelong rival."
+    },
+    "reason": "'the asteroid drop of Char' was awkward"
+   }
+  ]
+ },
+ {
+  "id": "C-58",
+  "index": 193,
+  "lines_used": 2,
+  "name_en": "Kayra Su",
+  "label_en": "C58 Kayra Su",
+  "model_en": "A Londo Bell pilot second only to Amuro in",
+  "desc_en": "her unit. She took over the Re-GZ from Amuro but lost to Gyunei and was killed.",
+  "note": ""
+ },
+ {
+  "id": "C-59",
+  "index": 194,
+  "lines_used": 2,
+  "name_en": "Bright Noa (CCA)",
+  "label_en": "C59 Bright Noa (CCA)",
+  "model_en": "Fleet commander of the Fed. Forces' Londo",
+  "desc_en": "Bell. He and Amuro share total trust. He led from the front to stop Char's madness.",
+  "note": "",
+  "history": [
+   {
+    "stage": "editorial",
+    "old": {
+     "desc_en": "Bell. He and Amuro share total trust. He led from the front to stop Char's outrage."
+    },
+    "reason": "'Char's outrage' unidiomatic for boukyo"
+   }
+  ]
+ },
+ {
+  "id": "C-60",
+  "index": 195,
+  "lines_used": 2,
+  "name_en": "Char Aznable (CCA)",
+  "label_en": "C60 Char Aznable (CCA)",
+  "model_en": "After 5 years in hiding, he returned as",
+  "desc_en": "Neo Zeon's Supreme Cmdr. Amuro foiled his plan to purge mankind with an Axis drop.",
+  "note": "Same text as P-37.",
+  "history": [
+   {
+    "stage": "editorial",
+    "old": {
+     "model_en": "Back after 5 years in hiding as Neo Zeon's",
+     "desc_en": "Supreme Cmdr. He tried to purge mankind with an Axis drop, but Amuro stopped him."
+    },
+    "reason": "old text read as hiding AS Supreme Cmdr.; he returned as Supreme Cmdr. after 5 years in hiding"
+   }
+  ]
+ },
+ {
+  "id": "C-61",
+  "index": 196,
+  "lines_used": 2,
+  "name_en": "Quess Paraya",
+  "label_en": "C61 Quess Paraya",
+  "model_en": "A Newtype girl. Drawn to Amuro but brushed",
+  "desc_en": "off, she ran to Char. She died shielding Hathaway, with whom she finally connected.",
+  "note": "Same text as P-38."
+ },
+ {
+  "id": "C-62",
+  "index": 197,
+  "lines_used": 2,
+  "name_en": "Gyunei Guss",
+  "label_en": "C62 Gyunei Guss",
+  "model_en": "A Cyber Newtype pilot under Char. Ambitious",
+  "desc_en": "and highly skilled, he racked up wins, but was no match for Amuro's Nu and was killed.",
+  "note": ""
+ },
+ {
+  "id": "C-63",
+  "index": 198,
+  "lines_used": 2,
+  "name_en": "Rezin Schnyder",
+  "label_en": "C63 Rezin Schnyder",
+  "model_en": "A Neo Zeon MS pilot of proven skill whose",
+  "desc_en": "personal unit is a blue Geara Doga. She despises Newtypes and Cyber Newtypes.",
+  "note": ""
+ },
+ {
+  "id": "C-64",
+  "index": 199,
+  "lines_used": 2,
+  "name_en": "Nanai Miguel",
+  "label_en": "C64 Nanai Miguel",
+  "model_en": "Head of Neo Zeon's Newtype lab and an",
+  "desc_en": "operations officer. Also Char's lover in private, she does not get on with Quess.",
+  "note": ""
+ },
+ {
+  "id": "C-65",
+  "index": 200,
+  "lines_used": 2,
+  "name_en": "Seabook Arno",
+  "label_en": "C65 Seabook Arno",
+  "model_en": "A student on Frontier Side. Fleeing a",
+  "desc_en": "sudden Crossbone attack, he found the new F91 by chance and became its pilot.",
+  "note": ""
+ },
+ {
+  "id": "C-66",
+  "index": 201,
+  "lines_used": 2,
+  "name_en": "Cecily Fairchild",
+  "label_en": "C66 Cecily Fairchild",
+  "model_en": "Seabook's classmate, really the next queen",
+  "desc_en": "of Cosmo Babylonia. She once rejoined the Ronahs, but Seabook led her to break away.",
+  "note": "",
+  "history": [
+   {
+    "stage": "editorial",
+    "old": {
+     "desc_en": "of Cosmo Babylonia. She once rejoined the Ronahs; Seabook led her to break away."
+    },
+    "reason": "choppy semicolon join; contrast made explicit"
+   }
+  ]
+ },
+ {
+  "id": "C-67",
+  "index": 202,
+  "lines_used": 2,
+  "name_en": "Leahlee Edaberry",
+  "label_en": "C67 Leahlee Edaberry",
+  "model_en": "Acting captain of training ship Space Ark.",
+  "desc_en": "Flexible and quick, she took in refugees. Seeing the F91, she named it Gundam.",
+  "note": ""
+ },
+ {
+  "id": "C-68",
+  "index": 203,
+  "lines_used": 2,
+  "name_en": "Cosmo Eigesse",
+  "label_en": "C68 Cosmo Eigesse",
+  "model_en": "Retired Fed. Forces soldier leading the",
+  "desc_en": "anti-Crossbone resistance. A petty lowlife who lords it over civilians like Seabook.",
+  "note": "'a petty lowlife' (kept harsh).",
+  "history": [
+   {
+    "stage": "accuracy",
+    "old": {
+     "model_en": "Retired Fed. Forces officer leading the"
+    }
+   }
+  ]
+ },
+ {
+  "id": "C-69",
+  "index": 204,
+  "lines_used": 2,
+  "name_en": "Zabine Chareux",
+  "label_en": "C69 Zabine Chareux",
+  "model_en": "Leader of the Black Vanguard, the Crossbone",
+  "desc_en": "Vanguard's elite unit. Having risen young, he is envied by some as an upstart.",
+  "note": ""
+ },
+ {
+  "id": "C-70",
+  "index": 205,
+  "lines_used": 2,
+  "name_en": "Carozzo Ronah",
+  "label_en": "C70 Carozzo Ronah",
+  "model_en": "Supreme Cmdr. of the Crossbone Vanguard and",
+  "desc_en": "Cecily's father. Shamed when his wife fled, he became a Cyber Newtype in an iron mask.",
+  "note": "Same text as P-44 (name is plain Carozzo Ronah on this card)."
+ },
+ {
+  "id": "C-71",
+  "index": 206,
+  "lines_used": 2,
+  "name_en": "Dorel Ronah",
+  "label_en": "C71 Dorel Ronah",
+  "model_en": "Cecily's half-brother, earnest by nature.",
+  "desc_en": "He earned command of a Crossbone MS unit, but fell just short of Zabine, his rival.",
+  "note": "",
+  "history": [
+   {
+    "stage": "editorial",
+    "old": {
+     "desc_en": "He earned command of a Crossbone MS unit, but falls just short of Zabine, his rival."
+    },
+    "reason": "tense switch inside one sentence (earned/falls)"
+   }
+  ]
+ },
+ {
+  "id": "C-72",
+  "index": 207,
+  "lines_used": 2,
+  "name_en": "Kincade Nau",
+  "label_en": "C72 Kincade Nau",
+  "model_en": "The new name Seabook took to support Berah",
+  "desc_en": "(Cecily), who toppled aristocratism and became captain of the Mother Vanguard.",
+  "note": "Same text as P-46."
+ },
+ {
+  "id": "C-73",
+  "index": 208,
+  "lines_used": 2,
+  "name_en": "Berah Ronah",
+  "label_en": "C73 Berah Ronah",
+  "model_en": "After toppling aristocratism with Seabook,",
+  "desc_en": "she captains Mother Vanguard, leading new Crossbone forces vs. the Jupiter Empire.",
+  "note": ""
+ },
+ {
+  "id": "C-74",
+  "index": 209,
+  "lines_used": 2,
+  "name_en": "Tobia Arronax",
+  "label_en": "C74 Tobia Arronax",
+  "model_en": "Attacked by the Crossbone Vanguard near",
+  "desc_en": "Jupiter, he joined Kincade and co., growing as a Newtype through many fierce battles.",
+  "note": ""
+ },
+ {
+  "id": "C-75",
+  "index": 210,
+  "lines_used": 2,
+  "name_en": "Zabine Chareux (XB)",
+  "label_en": "C75 Zabine Chareux (XB)",
+  "model_en": "After Cosmo Babylonia fell, he piloted for",
+  "desc_en": "Mother Vanguard. Secretly bent on reviving aristocratism, he went over to Jupiter.",
+  "note": ""
+ },
+ {
+  "id": "C-76",
+  "index": 211,
+  "lines_used": 2,
+  "name_en": "Kamuna Tachibana (LB)",
+  "label_en": "C76 Kamuna Tachibana (LB)",
+  "model_en": "Progress Mode's 1st-gen hero. From an elite",
+  "desc_en": "military family, he led a unit after the academy. His honest nature draws people in.",
+  "note": ""
+ },
+ {
+  "id": "C-77",
+  "index": 212,
+  "lines_used": 2,
+  "name_en": "Kamuna Tachibana (NZ)",
+  "label_en": "C77 Kamuna Tachibana (NZ)",
+  "model_en": "Progress Mode's 1st-gen hero. From an elite",
+  "desc_en": "military family, he led a unit after the academy. His honest nature draws people in.",
+  "note": "",
+  "history": [
+   {
+    "stage": "proofread",
+    "old": {
+     "model_en": "Progress Mode 1st-gen protagonist. Raised",
+     "desc_en": "in an elite military family, he led a unit after the academy. Upright and charismatic."
+    },
+    "reason": "Match P-50 (identical Japanese) for consistency"
+   }
+  ]
+ },
+ {
+  "id": "C-78",
+  "index": 213,
+  "lines_used": 2,
+  "name_en": "Ellen Rochefil (LB)",
+  "label_en": "C78 Ellen Rochefil (LB)",
+  "model_en": "Progress Mode's female operator. Assigned",
+  "desc_en": "as comms officer to Kamuna's unit. Cheerful, she's like the unit's mascot.",
+  "note": ""
+ },
+ {
+  "id": "C-79",
+  "index": 214,
+  "lines_used": 2,
+  "name_en": "Ellen Rochefil (NZ)",
+  "label_en": "C79 Ellen Rochefil (NZ)",
+  "model_en": "Progress Mode's female operator. Assigned",
+  "desc_en": "as comms officer to Kamuna's unit. Cheerful, she's like the unit's mascot.",
+  "note": ""
+ },
+ {
+  "id": "C-80",
+  "index": 215,
+  "lines_used": 2,
+  "name_en": "Shirley Ramsey (LB)",
+  "label_en": "C80 Shirley Ramsey (LB)",
+  "model_en": "A Progress Mode female pilot who has known",
+  "desc_en": "Kamuna since the academy. Skilled, with sound judgment. A long-haired beauty.",
+  "note": "",
+  "history": [
+   {
+    "stage": "proofread",
+    "old": {
+     "model_en": "Progress Mode's female pilot. Has known"
+    },
+    "reason": "Match P-51 (identical Japanese) for consistency"
+   }
+  ]
+ },
+ {
+  "id": "C-81",
+  "index": 216,
+  "lines_used": 2,
+  "name_en": "Shirley Ramsey (NZ)",
+  "label_en": "C81 Shirley Ramsey (NZ)",
+  "model_en": "A Progress Mode female pilot who has known",
+  "desc_en": "Kamuna since the academy. Skilled, with sound judgment. A long-haired beauty.",
+  "note": "",
+  "history": [
+   {
+    "stage": "proofread",
+    "old": {
+     "model_en": "Progress Mode's female pilot. Has known"
+    },
+    "reason": "Match P-52 (identical Japanese) for consistency"
+   }
+  ]
+ },
+ {
+  "id": "C-82",
+  "index": 217,
+  "lines_used": 2,
+  "name_en": "Pamir McDamil (LB)",
+  "label_en": "C82 Pamir McDamil (LB)",
+  "model_en": "A rookie Progress Mode pilot. A joker who",
+  "desc_en": "keeps the unit's spirits up, he is a psychic-powers buff who idolizes Newtypes.",
+  "note": "",
+  "history": [
+   {
+    "stage": "proofread",
+    "old": {
+     "model_en": "Progress Mode's rookie pilot. A goofball",
+     "desc_en": "who keeps the unit's spirits up. A psychic-powers buff, he idolizes Newtypes."
+    },
+    "reason": "Match P-53 (identical Japanese) for consistency"
+   }
+  ]
+ },
+ {
+  "id": "C-83",
+  "index": 218,
+  "lines_used": 2,
+  "name_en": "Pamir McDamil (NZ)",
+  "label_en": "C83 Pamir McDamil (NZ)",
+  "model_en": "A rookie Progress Mode pilot. A joker who",
+  "desc_en": "keeps the unit's spirits up, he is a psychic-powers buff who idolizes Newtypes.",
+  "note": "",
+  "history": [
+   {
+    "stage": "proofread",
+    "old": {
+     "model_en": "Progress Mode's rookie pilot. A goofball",
+     "desc_en": "who keeps the unit's spirits up. A psychic-powers buff, he idolizes Newtypes."
+    },
+    "reason": "Match P-54 (identical Japanese) for consistency"
+   }
+  ]
+ },
+ {
+  "id": "C-84",
+  "index": 219,
+  "lines_used": 2,
+  "name_en": "Nagisa Florin",
+  "label_en": "C84 Nagisa Florin",
+  "model_en": "Progress Mode's third heroine. Kamuna's",
+  "desc_en": "childhood friend. They promised as kids to marry, so she waits at home for his return.",
+  "note": ""
+ },
+ {
+  "id": "C-85",
+  "index": 220,
+  "lines_used": 2,
+  "name_en": "Aegis Veracruz (Federation)",
+  "label_en": "C85 Aegis Veracruz (Federation)",
+  "model_en": "A fellow pilot of the 2nd-gen Progress",
+  "desc_en": "hero. A smug womanizer who fiercely rivals the elite hero. A good guy at heart.",
+  "note": "No pronoun used for Aegis (gender unverified in glossary); 'womanizer' is the source's own word (onna-tarashi).",
+  "history": [
+   {
+    "stage": "proofread",
+    "old": {
+     "model_en": "Progress Mode 2nd-gen protagonist's fellow",
+     "desc_en": "pilot. A smug womanizer who burns to outdo the elite protagonist. Good at heart."
+    },
+    "reason": "Match P-55 (identical Japanese) for consistency"
+   }
+  ]
+ },
+ {
+  "id": "C-86",
+  "index": 221,
+  "lines_used": 2,
+  "name_en": "Aegis Veracruz (CV)",
+  "label_en": "C86 Aegis Veracruz (CV)",
+  "model_en": "A fellow pilot of the 2nd-gen Progress",
+  "desc_en": "hero. A smug womanizer who fiercely rivals the elite hero. A good guy at heart.",
+  "note": "No pronoun used for Aegis (gender unverified in glossary); 'womanizer' is the source's own word (onna-tarashi).",
+  "history": [
+   {
+    "stage": "proofread",
+    "old": {
+     "model_en": "Progress Mode 2nd-gen protagonist's fellow",
+     "desc_en": "pilot. A smug womanizer who burns to outdo the elite protagonist. Good at heart."
+    },
+    "reason": "Match P-56 (identical Japanese) for consistency"
+   }
+  ]
+ },
+ {
+  "id": "C-87",
+  "index": 222,
+  "lines_used": 1,
+  "name_en": "Progress Male A (Federation)",
+  "label_en": "C87 Progress Male A (Federation)",
+  "model_en": "Progress Mode's 2nd-gen hero. He inherited",
+  "desc_en": "his parent's personality. Notable for his lively-looking short blue hair.",
+  "note": "oya-yuzuri: which parent is not stated, so 'a parent'.",
+  "history": [
+   {
+    "stage": "proofread",
+    "old": {
+     "model_en": "Progress Mode 2nd-gen protagonist.",
+     "desc_en": "Personality inherited from a parent. Notable for lively-looking short blue hair."
+    },
+    "reason": "Match P-57 (identical Japanese) for consistency"
+   }
+  ]
+ },
+ {
+  "id": "C-88",
+  "index": 223,
+  "lines_used": 1,
+  "name_en": "Progress Male A (CV)",
+  "label_en": "C88 Progress Male A (CV)",
+  "model_en": "Progress Mode's 2nd-gen hero. He inherited",
+  "desc_en": "his parent's personality. Notable for his lively-looking short blue hair.",
+  "note": "oya-yuzuri: which parent is not stated, so 'a parent'.",
+  "history": [
+   {
+    "stage": "proofread",
+    "old": {
+     "model_en": "Progress Mode 2nd-gen protagonist.",
+     "desc_en": "Personality inherited from a parent. Notable for lively-looking short blue hair."
+    },
+    "reason": "Match P-58 (identical Japanese) for consistency"
+   }
+  ]
+ },
+ {
+  "id": "C-89",
+  "index": 224,
+  "lines_used": 1,
+  "name_en": "Progress Male B (Federation)",
+  "label_en": "C89 Progress Male B (Federation)",
+  "model_en": "Progress Mode's 2nd-gen hero. He inherited",
+  "desc_en": "his parent's personality. A handsome blond with a piercing gaze.",
+  "note": "oya-yuzuri: which parent is not stated, so 'a parent'.",
+  "history": [
+   {
+    "stage": "proofread",
+    "old": {
+     "model_en": "Progress Mode 2nd-gen protagonist.",
+     "desc_en": "Personality inherited from a parent. A handsome blond with a piercing gaze."
+    },
+    "reason": "Match P-59 (identical Japanese) for consistency"
+   }
+  ]
+ },
+ {
+  "id": "C-90",
+  "index": 225,
+  "lines_used": 1,
+  "name_en": "Progress Male B (CV)",
+  "label_en": "C90 Progress Male B (CV)",
+  "model_en": "Progress Mode's 2nd-gen hero. He inherited",
+  "desc_en": "his parent's personality. A handsome blond with a piercing gaze.",
+  "note": "oya-yuzuri: which parent is not stated, so 'a parent'.",
+  "history": [
+   {
+    "stage": "proofread",
+    "old": {
+     "model_en": "Progress Mode 2nd-gen protagonist.",
+     "desc_en": "Personality inherited from a parent. A handsome blond with a piercing gaze."
+    },
+    "reason": "Match P-60 (identical Japanese) for consistency"
+   }
+  ]
+ },
+ {
+  "id": "C-91",
+  "index": 226,
+  "lines_used": 1,
+  "name_en": "Progress Female A (Federation)",
+  "label_en": "C91 Progress Female A (Federation)",
+  "model_en": "Progress Mode's 2nd-gen hero. She inherited",
+  "desc_en": "her parent's personality. Notable for her long pink hair, tied back.",
+  "note": "oya-yuzuri: which parent is not stated, so 'a parent'.",
+  "history": [
+   {
+    "stage": "proofread",
+    "old": {
+     "model_en": "Progress Mode 2nd-gen protagonist.",
+     "desc_en": "Personality inherited from a parent. Known for long pink hair, tied back."
+    },
+    "reason": "Match P-61 (identical Japanese) for consistency"
+   }
+  ]
+ },
+ {
+  "id": "C-92",
+  "index": 227,
+  "lines_used": 1,
+  "name_en": "Progress Female A (CV)",
+  "label_en": "C92 Progress Female A (CV)",
+  "model_en": "Progress Mode's 2nd-gen hero. She inherited",
+  "desc_en": "her parent's personality. Notable for her long pink hair, tied back.",
+  "note": "oya-yuzuri: which parent is not stated, so 'a parent'.",
+  "history": [
+   {
+    "stage": "proofread",
+    "old": {
+     "model_en": "Progress Mode 2nd-gen protagonist.",
+     "desc_en": "Personality inherited from a parent. Known for long pink hair, tied back."
+    },
+    "reason": "Match P-62 (identical Japanese) for consistency"
+   }
+  ]
+ },
+ {
+  "id": "C-93",
+  "index": 228,
+  "lines_used": 2,
+  "name_en": "Progress Female B (Federation)",
+  "label_en": "C93 Progress Female B (Federation)",
+  "model_en": "Progress Mode's 2nd-gen hero. She inherited",
+  "desc_en": "her parent's personality. Notable for green hair and mysterious orange eyes.",
+  "note": "oya-yuzuri: which parent is not stated, so 'a parent'.",
+  "history": [
+   {
+    "stage": "proofread",
+    "old": {
+     "model_en": "Progress Mode 2nd-gen protagonist.",
+     "desc_en": "Personality inherited from a parent. Known for green hair and mysterious orange eyes."
+    },
+    "reason": "Match P-63 (identical Japanese) for consistency"
+   }
+  ]
+ },
+ {
+  "id": "C-94",
+  "index": 229,
+  "lines_used": 2,
+  "name_en": "Progress Female B (CV)",
+  "label_en": "C94 Progress Female B (CV)",
+  "model_en": "Progress Mode's 2nd-gen hero. She inherited",
+  "desc_en": "her parent's personality. Notable for green hair and mysterious orange eyes.",
+  "note": "oya-yuzuri: which parent is not stated, so 'a parent'.",
+  "history": [
+   {
+    "stage": "proofread",
+    "old": {
+     "model_en": "Progress Mode 2nd-gen protagonist.",
+     "desc_en": "Personality inherited from a parent. Known for green hair and mysterious orange eyes."
+    },
+    "reason": "Match P-64 (identical Japanese) for consistency"
+   }
+  ]
+ },
+ {
+  "id": "B-01",
+  "index": 230,
+  "lines_used": 0,
+  "name_en": "Sasso taru Char",
+  "label_en": "B01 Sasso taru Char",
+  "model_en": "From the TV series \"Mobile Suit Gundam\"",
+  "desc_en": "",
+  "note": "Romanized track title (no reliable official English)."
+ },
+ {
+  "id": "B-02",
+  "index": 231,
+  "lines_used": 0,
+  "name_en": "Kyuchi ni Tatsu Gundam",
+  "label_en": "B02 Kyuchi ni Tatsu Gundam",
+  "model_en": "From the TV series \"Mobile Suit Gundam\"",
+  "desc_en": "",
+  "note": "Romanized track title (no reliable official English)."
+ },
+ {
+  "id": "B-03",
+  "index": 232,
+  "lines_used": 1,
+  "name_en": "Shiroi Yatsu",
+  "label_en": "B03 Shiroi Yatsu",
+  "model_en": "From the film \"Mobile Suit Gundam III:",
+  "desc_en": "Encounters in Space\"",
+  "note": "Romanized track title (no reliable official English)."
+ },
+ {
+  "id": "B-04",
+  "index": 233,
+  "lines_used": 0,
+  "name_en": "Tobe! Gundam (Arrange Ver.)",
+  "label_en": "B04 Tobe! Gundam (Arrange Ver.)",
+  "model_en": "From the TV series \"Mobile Suit Gundam\"",
+  "desc_en": "",
+  "note": "Official romanized song title ('Fly! Gundam')."
+ },
+ {
+  "id": "B-05",
+  "index": 234,
+  "lines_used": 1,
+  "name_en": "Kagayaki no Futari",
+  "label_en": "B05 Kagayaki no Futari",
+  "model_en": "From the film \"Mobile Suit Gundam III:",
+  "desc_en": "Encounters in Space\"",
+  "note": "Romanized track title (no reliable official English)."
+ },
+ {
+  "id": "B-06",
+  "index": 235,
+  "lines_used": 1,
+  "name_en": "Gouf Custom",
+  "label_en": "B06 Gouf Custom",
+  "model_en": "From \"Mobile Suit Gundam:",
+  "desc_en": "The 08th MS Team\"",
+  "note": ""
+ },
+ {
+  "id": "B-07",
+  "index": 236,
+  "lines_used": 1,
+  "name_en": "Arashi no Naka de Kagayaite",
+  "label_en": "B07 Arashi no Naka de Kagayaite",
+  "model_en": "From \"Mobile Suit Gundam:",
+  "desc_en": "The 08th MS Team\"",
+  "note": "08th MS Team opening song; official romanized title."
+ },
+ {
+  "id": "B-08",
+  "index": 237,
+  "lines_used": 1,
+  "name_en": "Shinnyu",
+  "label_en": "B08 Shinnyu",
+  "model_en": "From \"Mobile Suit Gundam:",
+  "desc_en": "The 08th MS Team\"",
+  "note": "Romanized track title (no reliable official English)."
+ },
+ {
+  "id": "B-09",
+  "index": 238,
+  "lines_used": 1,
+  "name_en": "Kaku no Sora",
+  "label_en": "B09 Kaku no Sora",
+  "model_en": "From \"Mobile Suit Gundam 0080:",
+  "desc_en": "War in the Pocket\"",
+  "note": "Romanized track title (no reliable official English)."
+ },
+ {
+  "id": "B-10",
+  "index": 239,
+  "lines_used": 1,
+  "name_en": "Bernard Wiseman",
+  "label_en": "B10 Bernard Wiseman",
+  "model_en": "From \"Mobile Suit Gundam 0080:",
+  "desc_en": "War in the Pocket\"",
+  "note": ""
+ },
+ {
+  "id": "B-11",
+  "index": 240,
+  "lines_used": 1,
+  "name_en": "FEINT OPERATION",
+  "label_en": "B11 FEINT OPERATION",
+  "model_en": "From \"Mobile Suit Gundam 0083:",
+  "desc_en": "Stardust Memory\"",
+  "note": ""
+ },
+ {
+  "id": "B-12",
+  "index": 241,
+  "lines_used": 1,
+  "name_en": "RISING op. STARDUST",
+  "label_en": "B12 RISING op. STARDUST",
+  "model_en": "From \"Mobile Suit Gundam 0083:",
+  "desc_en": "Stardust Memory\"",
+  "note": ""
+ },
+ {
+  "id": "B-13",
+  "index": 242,
+  "lines_used": 0,
+  "name_en": "The Black Gundam",
+  "label_en": "B13 The Black Gundam",
+  "model_en": "From \"Mobile Suit Zeta Gundam\"",
+  "desc_en": "",
+  "note": "Same Japanese as the Zeta stage title already rendered 'The Black Gundam'."
+ },
+ {
+  "id": "B-14",
+  "index": 243,
+  "lines_used": 0,
+  "name_en": "Racing Through Space",
+  "label_en": "B14 Racing Through Space",
+  "model_en": "From \"Mobile Suit Zeta Gundam\"",
+  "desc_en": "",
+  "note": "Same Japanese as the stage title already rendered 'Racing Through Space'."
+ },
+ {
+  "id": "B-15",
+  "index": 244,
+  "lines_used": 0,
+  "name_en": "Mobile Suit Sen",
+  "label_en": "B15 Mobile Suit Sen",
+  "model_en": "From \"Mobile Suit Zeta Gundam\"",
+  "desc_en": "",
+  "note": "Translated, not romanized: loanword title plus -sen (battle).",
+  "history": [
+   {
+    "stage": "editorial",
+    "old": {
+     "name_en": "Mobile Suit Battle",
+     "label_en": "B15 Mobile Suit Battle"
+    },
+    "reason": "BGM title policy: non-stage, non-official titles are romanized with katakana loanwords in English (cf. B-24 'F91 Gundam Shutsugeki'); was translated."
+   }
+  ]
+ },
+ {
+  "id": "B-16",
+  "index": 245,
+  "lines_used": 0,
+  "name_en": "AEUG",
+  "label_en": "B16 AEUG",
+  "model_en": "From \"Mobile Suit Zeta Gundam\"",
+  "desc_en": "",
+  "note": ""
+ },
+ {
+  "id": "B-17",
+  "index": 246,
+  "lines_used": 0,
+  "name_en": "Shido! Double Zeta",
+  "label_en": "B17 Shido! Double Zeta",
+  "model_en": "From \"Mobile Suit Gundam ZZ\"",
+  "desc_en": "",
+  "note": "Romanized track title (no reliable official English)."
+ },
+ {
+  "id": "B-18",
+  "index": 247,
+  "lines_used": 0,
+  "name_en": "Uchu no Judau",
+  "label_en": "B18 Uchu no Judau",
+  "model_en": "From \"Mobile Suit Gundam ZZ\"",
+  "desc_en": "",
+  "note": "Romanized track title (no reliable official English)."
+ },
+ {
+  "id": "B-19",
+  "index": 248,
+  "lines_used": 0,
+  "name_en": "Silent Voice",
+  "label_en": "B19 Silent Voice",
+  "model_en": "From \"Mobile Suit Gundam ZZ\"",
+  "desc_en": "",
+  "note": ""
+ },
+ {
+  "id": "B-20",
+  "index": 249,
+  "lines_used": 0,
+  "name_en": "Haman Karn",
+  "label_en": "B20 Haman Karn",
+  "model_en": "From \"Mobile Suit Gundam ZZ\"",
+  "desc_en": "",
+  "note": ""
+ },
+ {
+  "id": "B-21",
+  "index": 250,
+  "lines_used": 0,
+  "name_en": "Segment III SALLY",
+  "label_en": "B21 Segment III SALLY",
+  "model_en": "From \"Mobile Suit Gundam:",
+  "desc_en": "Char's Counterattack\"",
+  "note": "Japanese bracket gloss dropped (it only translates the English word). Source credit too long for one line: continues in desc_en."
+ },
+ {
+  "id": "B-22",
+  "index": 251,
+  "lines_used": 0,
+  "name_en": "Segment V SWAN",
+  "label_en": "B22 Segment V SWAN",
+  "model_en": "From \"Mobile Suit Gundam:",
+  "desc_en": "Char's Counterattack\"",
+  "note": "Japanese bracket gloss dropped (it only translates the English word). Source credit too long for one line: continues in desc_en."
+ },
+ {
+  "id": "B-23",
+  "index": 252,
+  "lines_used": 0,
+  "name_en": "Segment X SACRIFICE",
+  "label_en": "B23 Segment X SACRIFICE",
+  "model_en": "From \"Mobile Suit Gundam:",
+  "desc_en": "Char's Counterattack\"",
+  "note": "Japanese bracket gloss dropped (it only translates the English word). Source credit too long for one line: continues in desc_en."
+ },
+ {
+  "id": "B-24",
+  "index": 253,
+  "lines_used": 0,
+  "name_en": "F91 Gundam Shutsugeki",
+  "label_en": "B24 F91 Gundam Shutsugeki",
+  "model_en": "From \"Mobile Suit Gundam F91\"",
+  "desc_en": "",
+  "note": "Romanized track title (no reliable official English)."
+ },
+ {
+  "id": "B-25",
+  "index": 254,
+  "lines_used": 0,
+  "name_en": "Crossbone Vanguard no Shinko to Tatakai",
+  "label_en": "B25 Crossbone Vanguard no Shinko to Tatakai",
+  "model_en": "From \"Mobile Suit Gundam F91\"",
+  "desc_en": "",
+  "note": "Translated: a romanization would exceed name_bytes. Trailing spaces in label_jp dropped.",
+  "history": [
+   {
+    "stage": "editorial",
+    "old": {
+     "name_en": "Crossbone Vanguard Invasion and Battle",
+     "label_en": "B25 Crossbone Vanguard Invasion and Battle"
+    }
+   }
+  ]
+ },
+ {
+  "id": "B-26",
+  "index": 255,
+  "lines_used": 1,
+  "name_en": "Cecily o Sagashite - Seabook no Theme",
+  "label_en": "B26 Cecily o Sagashite - Seabook no Theme",
+  "model_en": "From \"Mobile Suit Gundam F91\"",
+  "desc_en": "",
+  "note": "Japanese name is truncated and the title runs on into model_jp; the full title fits name/label in English, so the source credit moves up to model_en and desc_en is empty. Romanized track title (no reliable official English)."
+ },
+ {
+  "id": "B-27",
+  "index": 256,
+  "lines_used": 0,
+  "name_en": "Eternal Wind",
+  "label_en": "B27 Eternal Wind",
+  "model_en": "From \"Mobile Suit Gundam F91\"",
+  "desc_en": "",
+  "note": ""
+ },
+ {
+  "id": "B-28",
+  "index": 257,
+  "lines_used": 0,
+  "name_en": "Arashi no Geigekisen",
+  "label_en": "B28 Arashi no Geigekisen",
+  "model_en": "Game original",
+  "desc_en": "",
+  "note": "Romanized track title (no reliable official English)."
+ },
+ {
+  "id": "B-29",
+  "index": 258,
+  "lines_used": 0,
+  "name_en": "Raigeki Hashiru",
+  "label_en": "B29 Raigeki Hashiru",
+  "model_en": "Game original",
+  "desc_en": "",
+  "note": "Romanized track title (no reliable official English)."
+ },
+ {
+  "id": "B-30",
+  "index": 259,
+  "lines_used": 0,
+  "name_en": "Eiko e",
+  "label_en": "B30 Eiko e",
+  "model_en": "Game original",
+  "desc_en": "",
+  "note": "Romanized track title (no reliable official English)."
+ },
+ {
+  "id": "B-31",
+  "index": 260,
+  "lines_used": 0,
+  "name_en": "Yabo no Senjo",
+  "label_en": "B31 Yabo no Senjo",
+  "model_en": "Game original",
+  "desc_en": "",
+  "note": "Romanized track title (no reliable official English)."
+ },
+ {
+  "id": "B-32",
+  "index": 261,
+  "lines_used": 0,
+  "name_en": "Kotetsu no Kamigami",
+  "label_en": "B32 Kotetsu no Kamigami",
+  "model_en": "Game original",
+  "desc_en": "",
+  "note": "Romanized track title (no reliable official English)."
+ },
+ {
+  "id": "B-33",
+  "index": 262,
+  "lines_used": 0,
+  "name_en": "Kanashimi wa Daichi ni Ochite",
+  "label_en": "B33 Kanashimi wa Daichi ni Ochite",
+  "model_en": "Game original",
+  "desc_en": "",
+  "note": "Romanized track title (no reliable official English)."
+ },
+ {
+  "id": "B-34",
+  "index": 263,
+  "lines_used": 0,
+  "name_en": "Uchu Seiki no Kaze",
+  "label_en": "B34 Uchu Seiki no Kaze",
+  "model_en": "Game original",
+  "desc_en": "",
+  "note": "Romanized track title (no reliable official English)."
+ },
+ {
+  "id": "B-35",
+  "index": 264,
+  "lines_used": 0,
+  "name_en": "Earth Federation",
+  "label_en": "B35 Earth Federation",
+  "model_en": "Game original",
+  "desc_en": "",
+  "note": ""
+ },
+ {
+  "id": "B-36",
+  "index": 265,
+  "lines_used": 0,
+  "name_en": "Hanko no Ishi",
+  "label_en": "B36 Hanko no Ishi",
+  "model_en": "Game original",
+  "desc_en": "",
+  "note": "Romanized track title (no reliable official English)."
+ },
+ {
+  "id": "B-37",
+  "index": 266,
+  "lines_used": 0,
+  "name_en": "Sadame no Tsurugi",
+  "label_en": "B37 Sadame no Tsurugi",
+  "model_en": "Game original",
+  "desc_en": "",
+  "note": "Romanized track title (no reliable official English)."
+ },
+ {
+  "id": "B-38",
+  "index": 267,
+  "lines_used": 0,
+  "name_en": "Dream or Reality",
+  "label_en": "B38 Dream or Reality",
+  "model_en": "Game original",
+  "desc_en": "",
+  "note": ""
+ },
+ {
+  "id": "B-39",
+  "index": 268,
+  "lines_used": 0,
+  "name_en": "Shosha wa Odoru",
+  "label_en": "B39 Shosha wa Odoru",
+  "model_en": "Game original",
+  "desc_en": "",
+  "note": "Romanized track title (no reliable official English)."
+ },
+ {
+  "id": "B-40",
+  "index": 269,
+  "lines_used": 0,
+  "name_en": "Kako ni Omoi o",
+  "label_en": "B40 Kako ni Omoi o",
+  "model_en": "Game original",
+  "desc_en": "",
+  "note": "Romanized track title (no reliable official English)."
+ },
+ {
+  "id": "B-41",
+  "index": 270,
+  "lines_used": 0,
+  "name_en": "Collector's Holiday",
+  "label_en": "B41 Collector's Holiday",
+  "model_en": "Game original",
+  "desc_en": "",
+  "note": ""
+ },
+ {
+  "id": "B-42",
+  "index": 271,
+  "lines_used": 0,
+  "name_en": "Climax U.C.",
+  "label_en": "B42 Climax U.C.",
+  "model_en": "Game original",
+  "desc_en": "",
+  "note": ""
+ },
+ {
+  "id": "M-01",
+  "index": 272,
+  "lines_used": 0,
+  "name_en": "Opening A",
+  "label_en": "M01 Opening A",
+  "model_en": "",
+  "desc_en": "",
+  "note": ""
+ },
+ {
+  "id": "M-02",
+  "index": 273,
+  "lines_used": 0,
+  "name_en": "Opening B",
+  "label_en": "M02 Opening B",
+  "model_en": "",
+  "desc_en": "",
+  "note": ""
+ },
+ {
+  "id": "M-03",
+  "index": 274,
+  "lines_used": 0,
+  "name_en": "Last Shooting",
+  "label_en": "M03 Last Shooting",
+  "model_en": "",
+  "desc_en": "",
+  "note": ""
+ },
+ {
+  "id": "M-04",
+  "index": 275,
+  "lines_used": 0,
+  "name_en": "Gouf Custom vs. Ez8",
+  "label_en": "M04 Gouf Custom vs. Ez8",
+  "model_en": "",
+  "desc_en": "",
+  "note": ""
+ },
+ {
+  "id": "M-05",
+  "index": 276,
+  "lines_used": 0,
+  "name_en": "Alex vs. Zaku II FZ",
+  "label_en": "M05 Alex vs. Zaku II FZ",
+  "model_en": "",
+  "desc_en": "",
+  "note": ""
+ },
+ {
+  "id": "M-06",
+  "index": 277,
+  "lines_used": 0,
+  "name_en": "A Man's Pride",
+  "label_en": "M06 A Man's Pride",
+  "model_en": "",
+  "desc_en": "",
+  "note": ""
+ },
+ {
+  "id": "M-07",
+  "index": 278,
+  "lines_used": 0,
+  "name_en": "Zeta vs. The-O",
+  "label_en": "M07 Zeta vs. The-O",
+  "model_en": "",
+  "desc_en": "",
+  "note": ""
+ },
+ {
+  "id": "M-08",
+  "index": 279,
+  "lines_used": 0,
+  "name_en": "ZZ vs. Qubeley",
+  "label_en": "M08 ZZ vs. Qubeley",
+  "model_en": "",
+  "desc_en": "",
+  "note": ""
+ },
+ {
+  "id": "M-09",
+  "index": 280,
+  "lines_used": 0,
+  "name_en": "Miracle of the Psycho-Frame",
+  "label_en": "M09 Miracle of the Psycho-Frame",
+  "model_en": "",
+  "desc_en": "",
+  "note": ""
+ },
+ {
+  "id": "M-10",
+  "index": 281,
+  "lines_used": 0,
+  "name_en": "Seabook and Cecily",
+  "label_en": "M10 Seabook and Cecily",
+  "model_en": "",
+  "desc_en": "",
+  "note": ""
+ },
+ {
+  "id": "M-11",
+  "index": 282,
+  "lines_used": 0,
+  "name_en": "Ellen (Federation)",
+  "label_en": "M11 Ellen (Federation)",
+  "model_en": "",
+  "desc_en": "",
+  "note": ""
+ },
+ {
+  "id": "M-12",
+  "index": 283,
+  "lines_used": 0,
+  "name_en": "Shirley (Federation)",
+  "label_en": "M12 Shirley (Federation)",
+  "model_en": "",
+  "desc_en": "",
+  "note": ""
+ },
+ {
+  "id": "M-13",
+  "index": 284,
+  "lines_used": 0,
+  "name_en": "Pamir (Federation)",
+  "label_en": "M13 Pamir (Federation)",
+  "model_en": "",
+  "desc_en": "",
+  "note": ""
+ },
+ {
+  "id": "M-14",
+  "index": 285,
+  "lines_used": 0,
+  "name_en": "Ellen (Zeon)",
+  "label_en": "M14 Ellen (Zeon)",
+  "model_en": "",
+  "desc_en": "",
+  "note": ""
+ },
+ {
+  "id": "M-15",
+  "index": 286,
+  "lines_used": 0,
+  "name_en": "Shirley (Zeon)",
+  "label_en": "M15 Shirley (Zeon)",
+  "model_en": "",
+  "desc_en": "",
+  "note": ""
+ },
+ {
+  "id": "M-16",
+  "index": 287,
+  "lines_used": 0,
+  "name_en": "Pamir (Zeon)",
+  "label_en": "M16 Pamir (Zeon)",
+  "model_en": "",
+  "desc_en": "",
+  "note": ""
+ },
+ {
+  "id": "M-17",
+  "index": 288,
+  "lines_used": 0,
+  "name_en": "Brigadier General Cowen",
+  "label_en": "M17 Brigadier General Cowen",
+  "model_en": "",
+  "desc_en": "",
+  "note": ""
+ },
+ {
+  "id": "M-18",
+  "index": 289,
+  "lines_used": 0,
+  "name_en": "Supreme Commander Delaz",
+  "label_en": "M18 Supreme Commander Delaz",
+  "model_en": "",
+  "desc_en": "",
+  "note": ""
+ },
+ {
+  "id": "M-19",
+  "index": 290,
+  "lines_used": 0,
+  "name_en": "Commander Henken",
+  "label_en": "M19 Commander Henken",
+  "model_en": "",
+  "desc_en": "",
+  "note": ""
+ },
+ {
+  "id": "M-20",
+  "index": 291,
+  "lines_used": 0,
+  "name_en": "Colonel Bask",
+  "label_en": "M20 Colonel Bask",
+  "model_en": "",
+  "desc_en": "",
+  "note": ""
+ },
+ {
+  "id": "M-21",
+  "index": 292,
+  "lines_used": 0,
+  "name_en": "Regent Haman",
+  "label_en": "M21 Regent Haman",
+  "model_en": "",
+  "desc_en": "",
+  "note": ""
+ },
+ {
+  "id": "M-22",
+  "index": 293,
+  "lines_used": 0,
+  "name_en": "Lieutenant Commander Bright",
+  "label_en": "M22 Lieutenant Commander Bright",
+  "model_en": "",
+  "desc_en": "",
+  "note": "",
+  "history": [
+   {
+    "stage": "editorial",
+    "old": {
+     "name_en": "Lt. Commander Bright",
+     "label_en": "M22 Lt. Commander Bright"
+    },
+    "reason": "Only movie title with an abbreviated rank; full form like M-17 'Brigadier General Cowen' and the other rank titles."
+   }
+  ]
+ },
+ {
+  "id": "M-23",
+  "index": 294,
+  "lines_used": 0,
+  "name_en": "Regent Haman 2",
+  "label_en": "M23 Regent Haman 2",
+  "model_en": "",
+  "desc_en": "",
+  "note": ""
+ },
+ {
+  "id": "M-24",
+  "index": 295,
+  "lines_used": 0,
+  "name_en": "Captain Amuro",
+  "label_en": "M24 Captain Amuro",
+  "model_en": "",
+  "desc_en": "",
+  "note": ""
+ },
+ {
+  "id": "M-25",
+  "index": 296,
+  "lines_used": 0,
+  "name_en": "Supreme Commander Char",
+  "label_en": "M25 Supreme Commander Char",
+  "model_en": "",
+  "desc_en": "",
+  "note": ""
+ },
+ {
+  "id": "M-26",
+  "index": 297,
+  "lines_used": 0,
+  "name_en": "Colonel Cosmo",
+  "label_en": "M26 Colonel Cosmo",
+  "model_en": "",
+  "desc_en": "",
+  "note": ""
+ },
+ {
+  "id": "M-27",
+  "index": 298,
+  "lines_used": 0,
+  "name_en": "Commander Carozzo",
+  "label_en": "M27 Commander Carozzo",
+  "model_en": "",
+  "desc_en": "",
+  "note": ""
+ },
+ {
+  "id": "M-28",
+  "index": 299,
+  "lines_used": 0,
+  "name_en": "Captain Berah Ronah",
+  "label_en": "M28 Captain Berah Ronah",
+  "model_en": "",
+  "desc_en": "",
+  "note": "Japanese name and label differ in word order (title before/after the name); both rendered 'Captain Berah Ronah'."
+ },
+ {
+  "id": "M-29",
+  "index": 300,
+  "lines_used": 0,
+  "name_en": "Into the Atmosphere",
+  "label_en": "M29 Into the Atmosphere",
+  "model_en": "",
+  "desc_en": "",
+  "note": ""
+ },
+ {
+  "id": "M-30",
+  "index": 301,
+  "lines_used": 0,
+  "name_en": "Battle of Jaburo",
+  "label_en": "M30 Battle of Jaburo",
+  "model_en": "",
+  "desc_en": "",
+  "note": ""
+ },
+ {
+  "id": "M-31",
+  "index": 302,
+  "lines_used": 0,
+  "name_en": "Terror! The Mobile Big Zam",
+  "label_en": "M31 Terror! The Mobile Big Zam",
+  "model_en": "",
+  "desc_en": "",
+  "note": "Japanese has a comma, not '!'; kept the stage-title rendering 'Terror! The Mobile Big Zam' for consistency."
+ },
+ {
+  "id": "M-32",
+  "index": 303,
+  "lines_used": 0,
+  "name_en": "Space Fortress A Baoa Qu",
+  "label_en": "M32 Space Fortress A Baoa Qu",
+  "model_en": "",
+  "desc_en": "",
+  "note": ""
+ },
+ {
+  "id": "M-33",
+  "index": 304,
+  "lines_used": 0,
+  "name_en": "Desert Front Line (Shiro)",
+  "label_en": "M33 Desert Front Line (Shiro)",
+  "model_en": "",
+  "desc_en": "",
+  "note": ""
+ },
+ {
+  "id": "M-34",
+  "index": 305,
+  "lines_used": 0,
+  "name_en": "Desert Front Line (Aina)",
+  "label_en": "M34 Desert Front Line (Aina)",
+  "model_en": "",
+  "desc_en": "",
+  "note": ""
+ },
+ {
+  "id": "M-35",
+  "index": 306,
+  "lines_used": 0,
+  "name_en": "The Trembling Mountain (Shiro)",
+  "label_en": "M35 The Trembling Mountain (Shiro)",
+  "model_en": "",
+  "desc_en": "",
+  "note": ""
+ },
+ {
+  "id": "M-36",
+  "index": 307,
+  "lines_used": 0,
+  "name_en": "The Trembling Mountain (Norris)",
+  "label_en": "M36 The Trembling Mountain (Norris)",
+  "model_en": "",
+  "desc_en": "",
+  "note": ""
+ },
+ {
+  "id": "M-37",
+  "index": 308,
+  "lines_used": 0,
+  "name_en": "Order to Destroy the Alex",
+  "label_en": "M37 Order to Destroy the Alex",
+  "model_en": "",
+  "desc_en": "",
+  "note": ""
+ },
+ {
+  "id": "M-38",
+  "index": 309,
+  "lines_used": 0,
+  "name_en": "War in the Pocket (Bernie)",
+  "label_en": "M38 War in the Pocket (Bernie)",
+  "model_en": "",
+  "desc_en": "",
+  "note": ""
+ },
+ {
+  "id": "M-39",
+  "index": 310,
+  "lines_used": 0,
+  "name_en": "War in the Pocket (Chris)",
+  "label_en": "M39 War in the Pocket (Chris)",
+  "model_en": "",
+  "desc_en": "",
+  "note": ""
+ },
+ {
+  "id": "M-40",
+  "index": 311,
+  "lines_used": 0,
+  "name_en": "Clash Zone (Kou)",
+  "label_en": "M40 Clash Zone (Kou)",
+  "model_en": "",
+  "desc_en": "",
+  "note": ""
+ },
+ {
+  "id": "M-41",
+  "index": 312,
+  "lines_used": 0,
+  "name_en": "Clash Zone (Gato)",
+  "label_en": "M41 Clash Zone (Gato)",
+  "model_en": "",
+  "desc_en": "",
+  "note": ""
+ },
+ {
+  "id": "M-42",
+  "index": 313,
+  "lines_used": 0,
+  "name_en": "The Storm Rushes Through (Kou)",
+  "label_en": "M42 The Storm Rushes Through (Kou)",
+  "model_en": "",
+  "desc_en": "",
+  "note": ""
+ },
+ {
+  "id": "M-43",
+  "index": 314,
+  "lines_used": 0,
+  "name_en": "The Storm Rushes Through (Gato)",
+  "label_en": "M43 The Storm Rushes Through (Gato)",
+  "model_en": "",
+  "desc_en": "",
+  "note": ""
+ },
+ {
+  "id": "M-44",
+  "index": 315,
+  "lines_used": 0,
+  "name_en": "The Storm Rushes Through (Cima)",
+  "label_en": "M44 The Storm Rushes Through (Cima)",
+  "model_en": "",
+  "desc_en": "",
+  "note": ""
+ },
+ {
+  "id": "M-45",
+  "index": 316,
+  "lines_used": 0,
+  "name_en": "The Black Gundam",
+  "label_en": "M45 The Black Gundam",
+  "model_en": "",
+  "desc_en": "",
+  "note": ""
+ },
+ {
+  "id": "M-46",
+  "index": 317,
+  "lines_used": 0,
+  "name_en": "Battle on the Moon (Kamille)",
+  "label_en": "M46 Battle on the Moon (Kamille)",
+  "model_en": "",
+  "desc_en": "",
+  "note": ""
+ },
+ {
+  "id": "M-47",
+  "index": 318,
+  "lines_used": 0,
+  "name_en": "Battle on the Moon (Jerid)",
+  "label_en": "M47 Battle on the Moon (Jerid)",
+  "model_en": "",
+  "desc_en": "",
+  "note": ""
+ },
+ {
+  "id": "M-48",
+  "index": 319,
+  "lines_used": 0,
+  "name_en": "Shuttle Launch",
+  "label_en": "M48 Shuttle Launch",
+  "model_en": "",
+  "desc_en": "",
+  "note": ""
+ },
+ {
+  "id": "M-49",
+  "index": 320,
+  "lines_used": 0,
+  "name_en": "Through the White Darkness",
+  "label_en": "M49 Through the White Darkness",
+  "model_en": "",
+  "desc_en": "",
+  "note": ""
+ },
+ {
+  "id": "M-50",
+  "index": 321,
+  "lines_used": 0,
+  "name_en": "Hong Kong City (Kamille)",
+  "label_en": "M50 Hong Kong City (Kamille)",
+  "model_en": "",
+  "desc_en": "",
+  "note": "No briefing title 'Hong Kong City' exists; literal place name."
+ },
+ {
+  "id": "M-51",
+  "index": 322,
+  "lines_used": 0,
+  "name_en": "Hong Kong City (Four)",
+  "label_en": "M51 Hong Kong City (Four)",
+  "model_en": "",
+  "desc_en": "",
+  "note": "No briefing title 'Hong Kong City' exists; literal place name."
+ },
+ {
+  "id": "M-52",
+  "index": 323,
+  "lines_used": 0,
+  "name_en": "Four Forever (Kamille)",
+  "label_en": "M52 Four Forever (Kamille)",
+  "model_en": "",
+  "desc_en": "",
+  "note": ""
+ },
+ {
+  "id": "M-53",
+  "index": 324,
+  "lines_used": 0,
+  "name_en": "Four Forever (Four)",
+  "label_en": "M53 Four Forever (Four)",
+  "model_en": "",
+  "desc_en": "",
+  "note": ""
+ },
+ {
+  "id": "M-54",
+  "index": 325,
+  "lines_used": 0,
+  "name_en": "Vortex of Space (Kamille)",
+  "label_en": "M54 Vortex of Space (Kamille)",
+  "model_en": "",
+  "desc_en": "",
+  "note": ""
+ },
+ {
+  "id": "M-55",
+  "index": 326,
+  "lines_used": 0,
+  "name_en": "Vortex of Space (Haman)",
+  "label_en": "M55 Vortex of Space (Haman)",
+  "model_en": "",
+  "desc_en": "",
+  "note": ""
+ },
+ {
+  "id": "M-56",
+  "index": 327,
+  "lines_used": 0,
+  "name_en": "Racing Through Space (Kamille)",
+  "label_en": "M56 Racing Through Space (Kamille)",
+  "model_en": "",
+  "desc_en": "",
+  "note": ""
+ },
+ {
+  "id": "M-57",
+  "index": 328,
+  "lines_used": 0,
+  "name_en": "Racing Through Space (Scirocco)",
+  "label_en": "M57 Racing Through Space (Scirocco)",
+  "model_en": "",
+  "desc_en": "",
+  "note": ""
+ },
+ {
+  "id": "M-58",
+  "index": 329,
+  "lines_used": 0,
+  "name_en": "Racing Through Space (Haman)",
+  "label_en": "M58 Racing Through Space (Haman)",
+  "model_en": "",
+  "desc_en": "",
+  "note": ""
+ },
+ {
+  "id": "M-59",
+  "index": 330,
+  "lines_used": 0,
+  "name_en": "The Burning Earth (Judau)",
+  "label_en": "M59 The Burning Earth (Judau)",
+  "model_en": "",
+  "desc_en": "",
+  "note": ""
+ },
+ {
+  "id": "M-60",
+  "index": 331,
+  "lines_used": 0,
+  "name_en": "The Burning Earth (Ple)",
+  "label_en": "M60 The Burning Earth (Ple)",
+  "model_en": "",
+  "desc_en": "",
+  "note": ""
+ },
+ {
+  "id": "M-61",
+  "index": 332,
+  "lines_used": 0,
+  "name_en": "The Fall of Emary",
+  "label_en": "M61 The Fall of Emary",
+  "model_en": "",
+  "desc_en": "",
+  "note": ""
+ },
+ {
+  "id": "M-62",
+  "index": 333,
+  "lines_used": 0,
+  "name_en": "Battle at Axis",
+  "label_en": "M62 Battle at Axis",
+  "model_en": "",
+  "desc_en": "",
+  "note": ""
+ },
+ {
+  "id": "M-63",
+  "index": 334,
+  "lines_used": 0,
+  "name_en": "Vibration",
+  "label_en": "M63 Vibration",
+  "model_en": "",
+  "desc_en": "",
+  "note": ""
+ },
+ {
+  "id": "M-64",
+  "index": 335,
+  "lines_used": 0,
+  "name_en": "Warrior, Once Again (Judau)",
+  "label_en": "M64 Warrior, Once Again (Judau)",
+  "model_en": "",
+  "desc_en": "",
+  "note": ""
+ },
+ {
+  "id": "M-65",
+  "index": 336,
+  "lines_used": 0,
+  "name_en": "Warrior, Once Again (Haman)",
+  "label_en": "M65 Warrior, Once Again (Haman)",
+  "model_en": "",
+  "desc_en": "",
+  "note": ""
+ },
+ {
+  "id": "M-66",
+  "index": 337,
+  "lines_used": 0,
+  "name_en": "Destiny (Amuro)",
+  "label_en": "M66 Destiny (Amuro)",
+  "model_en": "",
+  "desc_en": "",
+  "note": ""
+ },
+ {
+  "id": "M-67",
+  "index": 338,
+  "lines_used": 0,
+  "name_en": "Destiny (Char)",
+  "label_en": "M67 Destiny (Char)",
+  "model_en": "",
+  "desc_en": "",
+  "note": ""
+ },
+ {
+  "id": "M-68",
+  "index": 339,
+  "lines_used": 0,
+  "name_en": "Char's Counterattack (Amuro)",
+  "label_en": "M68 Char's Counterattack (Amuro)",
+  "model_en": "",
+  "desc_en": "",
+  "note": ""
+ },
+ {
+  "id": "M-69",
+  "index": 340,
+  "lines_used": 0,
+  "name_en": "Char's Counterattack (Char)",
+  "label_en": "M69 Char's Counterattack (Char)",
+  "model_en": "",
+  "desc_en": "",
+  "note": ""
+ },
+ {
+  "id": "M-70",
+  "index": 341,
+  "lines_used": 0,
+  "name_en": "The Formula Sorties",
+  "label_en": "M70 The Formula Sorties",
+  "model_en": "",
+  "desc_en": "",
+  "note": ""
+ },
+ {
+  "id": "M-71",
+  "index": 342,
+  "lines_used": 0,
+  "name_en": "Black Vanguard (Seabook)",
+  "label_en": "M71 Black Vanguard (Seabook)",
+  "model_en": "",
+  "desc_en": "",
+  "note": ""
+ },
+ {
+  "id": "M-72",
+  "index": 343,
+  "lines_used": 0,
+  "name_en": "Black Vanguard (Zabine)",
+  "label_en": "M72 Black Vanguard (Zabine)",
+  "model_en": "",
+  "desc_en": "",
+  "note": ""
+ },
+ {
+  "id": "M-73",
+  "index": 344,
+  "lines_used": 0,
+  "name_en": "Eternal Wind",
+  "label_en": "M73 Eternal Wind",
+  "model_en": "",
+  "desc_en": "",
+  "note": ""
+ },
+ {
+  "id": "M-74",
+  "index": 345,
+  "lines_used": 0,
+  "name_en": "Final Stage",
+  "label_en": "M74 Final Stage",
+  "model_en": "",
+  "desc_en": "",
+  "note": ""
+ },
+ {
+  "id": "M-75",
+  "index": 346,
+  "lines_used": 0,
+  "name_en": "Defense of Jaburo",
+  "label_en": "M75 Defense of Jaburo",
+  "model_en": "",
+  "desc_en": "",
+  "note": ""
+ },
+ {
+  "id": "M-76",
+  "index": 347,
+  "lines_used": 0,
+  "name_en": "Capture Jaburo",
+  "label_en": "M76 Capture Jaburo",
+  "model_en": "",
+  "desc_en": "",
+  "note": "",
+  "history": [
+   {
+    "stage": "editorial",
+    "old": {
+     "name_en": "Battle of Jaburo",
+     "label_en": "M76 Battle of Jaburo"
+    },
+    "reason": "Japanese title equals briefing stage title; briefing English is 'Capture Jaburo'."
+   }
+  ]
+ },
+ {
+  "id": "M-77",
+  "index": 348,
+  "lines_used": 0,
+  "name_en": "Showdown at A Baoa Qu",
+  "label_en": "M77 Showdown at A Baoa Qu",
+  "model_en": "",
+  "desc_en": "",
+  "note": ""
+ },
+ {
+  "id": "M-78",
+  "index": 349,
+  "lines_used": 0,
+  "name_en": "Battle of A Baoa Qu",
+  "label_en": "M78 Battle of A Baoa Qu",
+  "model_en": "",
+  "desc_en": "",
+  "note": ""
+ },
+ {
+  "id": "M-79",
+  "index": 350,
+  "lines_used": 0,
+  "name_en": "Stop Operation Stardust",
+  "label_en": "M79 Stop Operation Stardust",
+  "model_en": "",
+  "desc_en": "",
+  "note": ""
+ },
+ {
+  "id": "M-80",
+  "index": 351,
+  "lines_used": 0,
+  "name_en": "Codename: \"Stardust\"",
+  "label_en": "M80 Codename: \"Stardust\"",
+  "model_en": "",
+  "desc_en": "",
+  "note": ""
+ },
+ {
+  "id": "M-81",
+  "index": 352,
+  "lines_used": 0,
+  "name_en": "Shuttle Defense",
+  "label_en": "M81 Shuttle Defense",
+  "model_en": "",
+  "desc_en": "",
+  "note": ""
+ },
+ {
+  "id": "M-82",
+  "index": 353,
+  "lines_used": 0,
+  "name_en": "Battle for Hong Kong City",
+  "label_en": "M82 Battle for Hong Kong City",
+  "model_en": "",
+  "desc_en": "",
+  "note": ""
+ },
+ {
+  "id": "M-83",
+  "index": 354,
+  "lines_used": 0,
+  "name_en": "Support the Ground Forces' Uprising",
+  "label_en": "M83 Support the Ground Forces' Uprising",
+  "model_en": "",
+  "desc_en": "",
+  "note": "",
+  "history": [
+   {
+    "stage": "editorial",
+    "old": {
+     "name_en": "Support the Earthbound Uprising",
+     "label_en": "M83 Support the Earthbound Uprising"
+    },
+    "reason": "Japanese title equals briefing stage title; briefing English is 'Support the Ground Forces' Uprising'."
+   }
+  ]
+ },
+ {
+  "id": "M-84",
+  "index": 355,
+  "lines_used": 0,
+  "name_en": "Colony Laser Defense",
+  "label_en": "M84 Colony Laser Defense",
+  "model_en": "",
+  "desc_en": "",
+  "note": ""
+ },
+ {
+  "id": "M-85",
+  "index": 356,
+  "lines_used": 0,
+  "name_en": "Retake the Colony Laser",
+  "label_en": "M85 Retake the Colony Laser",
+  "model_en": "",
+  "desc_en": "",
+  "note": ""
+ },
+ {
+  "id": "M-86",
+  "index": 357,
+  "lines_used": 0,
+  "name_en": "Showdown! The Three Powers",
+  "label_en": "M86 Showdown! The Three Powers",
+  "model_en": "",
+  "desc_en": "",
+  "note": ""
+ },
+ {
+  "id": "M-87",
+  "index": 358,
+  "lines_used": 0,
+  "name_en": "Showdown at Core 3",
+  "label_en": "M87 Showdown at Core 3",
+  "model_en": "",
+  "desc_en": "",
+  "note": ""
+ },
+ {
+  "id": "M-88",
+  "index": 359,
+  "lines_used": 0,
+  "name_en": "Crush the Rebel Army",
+  "label_en": "M88 Crush the Rebel Army",
+  "model_en": "",
+  "desc_en": "",
+  "note": ""
+ },
+ {
+  "id": "M-89",
+  "index": 360,
+  "lines_used": 0,
+  "name_en": "Stop the Axis Drop",
+  "label_en": "M89 Stop the Axis Drop",
+  "model_en": "",
+  "desc_en": "",
+  "note": ""
+ },
+ {
+  "id": "M-90",
+  "index": 361,
+  "lines_used": 0,
+  "name_en": "Operation Earth Cooling",
+  "label_en": "M90 Operation Earth Cooling",
+  "model_en": "",
+  "desc_en": "",
+  "note": ""
+ },
+ {
+  "id": "M-91",
+  "index": 362,
+  "lines_used": 0,
+  "name_en": "Intercept the Mysterious Small MS",
+  "label_en": "M91 Intercept the Mysterious Small MS",
+  "model_en": "",
+  "desc_en": "",
+  "note": "",
+  "history": [
+   {
+    "stage": "editorial",
+    "old": {
+     "name_en": "Intercept the Mystery Small MS",
+     "label_en": "M91 Intercept the Mystery Small MS"
+    },
+    "reason": "Japanese title equals briefing stage title; briefing English is 'Intercept the Mysterious Small MS'."
+   }
+  ]
+ },
+ {
+  "id": "M-92",
+  "index": 363,
+  "lines_used": 0,
+  "name_en": "Seize the Resource Base",
+  "label_en": "M92 Seize the Resource Base",
+  "model_en": "",
+  "desc_en": "",
+  "note": ""
+ },
+ {
+  "id": "M-93",
+  "index": 364,
+  "lines_used": 0,
+  "name_en": "Clash with the Crossbone Elite",
+  "label_en": "M93 Clash with the Crossbone Elite",
+  "model_en": "",
+  "desc_en": "",
+  "note": ""
+ },
+ {
+  "id": "M-94",
+  "index": 365,
+  "lines_used": 0,
+  "name_en": "Battle for Frontier",
+  "label_en": "M94 Battle for Frontier",
+  "model_en": "",
+  "desc_en": "",
+  "note": "JP lacks the 'I' of briefing S00332 ('Battle for Frontier I'); kept literal 'Frontier'."
+ },
+ {
+  "id": "M-95",
+  "index": 366,
+  "lines_used": 0,
+  "name_en": "Under the Pirate Flag",
+  "label_en": "M95 Under the Pirate Flag",
+  "model_en": "",
+  "desc_en": "",
+  "note": ""
+ },
+ {
+  "id": "S-01",
+  "index": 367,
+  "lines_used": 0,
+  "name_en": "Into the Atmosphere",
+  "label_en": "S01 Into the Atmosphere",
+  "model_en": "An area in Earth orbit.",
+  "desc_en": "",
+  "note": ""
+ },
+ {
+  "id": "S-02",
+  "index": 368,
+  "lines_used": 0,
+  "name_en": "Solomon",
+  "label_en": "S02 Solomon",
+  "model_en": "The space around the fortress Solomon.",
+  "desc_en": "",
+  "note": ""
+ },
+ {
+  "id": "S-03",
+  "index": 369,
+  "lines_used": 0,
+  "name_en": "A Baoa Qu",
+  "label_en": "S03 A Baoa Qu",
+  "model_en": "The space around the fortress A Baoa Qu.",
+  "desc_en": "",
+  "note": ""
+ },
+ {
+  "id": "S-04",
+  "index": 370,
+  "lines_used": 1,
+  "name_en": "Colony Drop",
+  "label_en": "S04 Colony Drop",
+  "model_en": "The colony Island Easc has begun to fall in",
+  "desc_en": "Earth orbit.",
+  "note": "Island Easc not in glossary - see uncertain."
+ },
+ {
+  "id": "S-05",
+  "index": 371,
+  "lines_used": 0,
+  "name_en": "Colony Cluster",
+  "label_en": "S05 Colony Cluster",
+  "model_en": "The space around the Frontier Side.",
+  "desc_en": "",
+  "note": ""
+ },
+ {
+  "id": "S-06",
+  "index": 372,
+  "lines_used": 1,
+  "name_en": "Colony Laser",
+  "label_en": "S06 Colony Laser",
+  "model_en": "The space near the Gryps 2 colony laser.",
+  "desc_en": "",
+  "note": ""
+ },
+ {
+  "id": "S-07",
+  "index": 373,
+  "lines_used": 0,
+  "name_en": "Jupitris",
+  "label_en": "S07 Jupitris",
+  "model_en": "The space around the Jupiter transport ship",
+  "desc_en": "Jupitris.",
+  "note": ""
+ },
+ {
+  "id": "S-08",
+  "index": 374,
+  "lines_used": 0,
+  "name_en": "Wreckage",
+  "label_en": "S08 Wreckage",
+  "model_en": "Inside the wreckage of a battleship.",
+  "desc_en": "",
+  "note": ""
+ },
+ {
+  "id": "S-09",
+  "index": 375,
+  "lines_used": 0,
+  "name_en": "La Vie en Rose",
+  "label_en": "S09 La Vie en Rose",
+  "model_en": "The space around the dock ship",
+  "desc_en": "La Vie en Rose.",
+  "note": ""
+ },
+ {
+  "id": "S-10",
+  "index": 376,
+  "lines_used": 0,
+  "name_en": "Core 3",
+  "label_en": "S10 Core 3",
+  "model_en": "Inside Core 3, a colony of Side 3.",
+  "desc_en": "",
+  "note": ""
+ },
+ {
+  "id": "S-11",
+  "index": 377,
+  "lines_used": 0,
+  "name_en": "Fifth Luna",
+  "label_en": "S11 Fifth Luna",
+  "model_en": "Near the surface of the resource satellite",
+  "desc_en": "Fifth Luna.",
+  "note": ""
+ },
+ {
+  "id": "S-12",
+  "index": 378,
+  "lines_used": 1,
+  "name_en": "Axis",
+  "label_en": "S12 Axis",
+  "model_en": "In Earth orbit, during the Axis drop.",
+  "desc_en": "",
+  "note": ""
+ },
+ {
+  "id": "S-13",
+  "index": 379,
+  "lines_used": 0,
+  "name_en": "Jaburo Surface",
+  "label_en": "S13 Jaburo Surface",
+  "model_en": "The surface area of Jaburo, South America.",
+  "desc_en": "",
+  "note": ""
+ },
+ {
+  "id": "S-14",
+  "index": 380,
+  "lines_used": 0,
+  "name_en": "Arid Canyon",
+  "label_en": "S14 Arid Canyon",
+  "model_en": "A canyon area in an arid region.",
+  "desc_en": "",
+  "note": ""
+ },
+ {
+  "id": "S-15",
+  "index": 381,
+  "lines_used": 0,
+  "name_en": "Ruined City",
+  "label_en": "S15 Ruined City",
+  "model_en": "A ruined city area in the Asia region.",
+  "desc_en": "",
+  "note": ""
+ },
+ {
+  "id": "S-16",
+  "index": 382,
+  "lines_used": 0,
+  "name_en": "Inside Colony - Libot Federation Base",
+  "label_en": "S16 Libot Federation Base",
+  "model_en": "A base in the Libot colony, Side 6.",
+  "desc_en": "",
+  "note": ""
+ },
+ {
+  "id": "S-17",
+  "index": 383,
+  "lines_used": 0,
+  "name_en": "Inside Colony - Mountains",
+  "label_en": "S17 Mountains",
+  "model_en": "Mountain area of the Libot colony, Side 6.",
+  "desc_en": "",
+  "note": ""
+ },
+ {
+  "id": "S-18",
+  "index": 384,
+  "lines_used": 0,
+  "name_en": "Inside Colony - Green Noa Fed. Base",
+  "label_en": "S18 Green Noa Federation Base",
+  "model_en": "Inside the colony Green Noa 1.",
+  "desc_en": "",
+  "note": ""
+ },
+ {
+  "id": "S-19",
+  "index": 385,
+  "lines_used": 0,
+  "name_en": "Inside Colony - Frontier I",
+  "label_en": "S19 Frontier I",
+  "model_en": "The forest area inside Frontier I.",
+  "desc_en": "",
+  "note": ""
+ },
+ {
+  "id": "S-20",
+  "index": 386,
+  "lines_used": 0,
+  "name_en": "Lunar Surface",
+  "label_en": "S20 Lunar Surface",
+  "model_en": "The wasteland near the lunar city of Amman.",
+  "desc_en": "",
+  "note": ""
+ },
+ {
+  "id": "S-21",
+  "index": 387,
+  "lines_used": 0,
+  "name_en": "Kennedy Spaceport",
+  "label_en": "S21 Kennedy Spaceport",
+  "model_en": "Kennedy Spaceport, North America.",
+  "desc_en": "",
+  "note": ""
+ },
+ {
+  "id": "S-22",
+  "index": 388,
+  "lines_used": 0,
+  "name_en": "Hong Kong City",
+  "label_en": "S22 Hong Kong City",
+  "model_en": "Hong Kong City at night.",
+  "desc_en": "",
+  "note": ""
+ },
+ {
+  "id": "S-23",
+  "index": 389,
+  "lines_used": 0,
+  "name_en": "Inside Axis",
+  "label_en": "S23 Inside Axis",
+  "model_en": "The urban area inside Axis.",
+  "desc_en": "",
+  "note": ""
+ },
+ {
+  "id": "S-24",
+  "index": 390,
+  "lines_used": 0,
+  "name_en": "In the Air - Hickory",
+  "label_en": "S24 In the Air - Hickory",
+  "model_en": "The skies above Hickory, North America.",
+  "desc_en": "",
+  "note": ""
+ },
+ {
+  "id": "S-25",
+  "index": 391,
+  "lines_used": 0,
+  "name_en": "In the Air - Snowy Mountain",
+  "label_en": "S25 In the Air - Snowy Mountain",
+  "model_en": "The skies above Kilimanjaro, Africa.",
+  "desc_en": "",
+  "note": ""
+ },
+ {
+  "id": "S-26",
+  "index": 392,
+  "lines_used": 0,
+  "name_en": "In the Air - Colony",
+  "label_en": "S26 In the Air - Colony",
+  "model_en": "The skies inside Frontier I.",
+  "desc_en": "",
+  "note": ""
+ },
+ {
+  "id": "H-01",
+  "index": 393,
+  "lines_used": 6,
+  "name_en": "One Year War",
+  "label_en": "H01 One Year War",
+  "model_en": "Side 3, the colony farthest from Earth,",
+  "desc_en": "named itself the Principality of Zeon and waged a war of independence on the Earth Fed. Govt. It lasted about a year, hence its name. New tactics like MS and colony drops upended old ideas of war, costing the Earth Sphere about half its population.",
+  "note": "",
+  "history": [
+   {
+    "stage": "accuracy",
+    "old": {
+     "desc_en": "named itself the Principality of Zeon and waged a war of independence on the Earth Fed. Govt. Named for lasting about a year, it saw new tactics such as MS and colony drops upend old ideas of war, and the Earth Sphere lost about half its population."
+    }
+   },
+   {
+    "stage": "editorial",
+    "old": {
+     "desc_en": "named itself the Principality of Zeon and waged a war of independence on the Earth Fed. Govt. Named for lasting about a year, it saw new tactics like MS and colony drops upend old ideas of war, costing the Earth Sphere about half its population."
+    },
+    "reason": "Editorial note: split the naming fact from the tactics clause ('Named for lasting about a year, it saw...'); causation kept with 'costing'."
+   }
+  ]
+ },
+ {
+  "id": "H-02",
+  "index": 394,
+  "lines_used": 6,
+  "name_en": "Operation V",
+  "label_en": "H02 Operation V",
+  "model_en": "A Federation Forces plan to develop mobile",
+  "desc_en": "suits to counter Zeon. Its aim was to build prototypes - the support-type Guntank and Guncannon and the general-purpose Gundam - and run operational tests toward mass production. In practice, it was completed once GM mass production got on track.",
+  "note": ""
+ },
+ {
+  "id": "H-03",
+  "index": 395,
+  "lines_used": 6,
+  "name_en": "Operation Odessa",
+  "label_en": "H03 Operation Odessa",
+  "model_en": "The Fed. Forces' first major counterattack",
+  "desc_en": "of the One Year War. Seizing on Garma Zabi's death in N. America, they planned to retake Odessa in Europe, Zeon's most vital base left on Earth. Aided by White Base, the Federation won, and from then on Zeon's ground forces were in dire straits.",
+  "note": "",
+  "history": [
+   {
+    "stage": "editorial",
+    "old": {
+     "desc_en": "of the One Year War. Seizing on Garma Zabi's death in N. America, they planned to retake Odessa in Europe, Zeon's most vital base left on Earth. Aided by White Base, the Fed. won, and Zeon's ground forces fell into dire straits."
+    }
+   }
+  ]
+ },
+ {
+  "id": "H-04",
+  "index": 396,
+  "lines_used": 6,
+  "name_en": "Battle of Jaburo",
+  "label_en": "H04 Battle of Jaburo",
+  "model_en": "Zeon's plan for a direct attack on Jaburo,",
+  "desc_en": "the Fed. Forces HQ. By tailing White Base, Char Aznable located Jaburo's entrance. Zeon aimed for a two-front attack: saboteurs inside, bombing and airdrop units outside. But the operation failed due to flawed sabotage and a lack of forces.",
+  "note": "",
+  "history": [
+   {
+    "stage": "editorial",
+    "old": {
+     "model_en": "Zeon's plan to strike Jaburo, the Fed.",
+     "desc_en": "Forces HQ, directly. By tailing White Base, Char Aznable located Jaburo's entrance. Zeon aimed for a two-front attack: saboteurs inside, bombing and airdrop units outside. But flawed sabotage and a lack of forces made the operation fail."
+    },
+    "reason": "'strike Jaburo, the Fed. Forces HQ, directly' had a dangling 'directly'; 'made the operation fail' was awkward."
+   }
+  ]
+ },
+ {
+  "id": "H-05",
+  "index": 397,
+  "lines_used": 6,
+  "name_en": "Operation Star One",
+  "label_en": "H05 Operation Star One",
+  "model_en": "Fed. commander Gen. Revil led the fleet",
+  "desc_en": "himself to break through A Baoa Qu, the fortress on Zeon's last defense line, and invade Side 3 itself. But Zeon's secret weapon, the Solar Ray, killed Revil. Chaos followed, but Zabi infighting made Zeon self-destruct, ending the One Year War.",
+  "note": ""
+ },
+ {
+  "id": "H-06",
+  "index": 398,
+  "lines_used": 6,
+  "name_en": "Apsaras Development Project",
+  "label_en": "H06 Apsaras Development Project",
+  "model_en": "A plan to build a flying mobile armor with",
+  "desc_en": "a powerful mega particle cannon to attack Fed. bases. Led by Ginius Sakhalin, research and tests took place in Asia. After trials of the test units Apsaras I and II, Apsaras III wiped out a Fed. base in combat, but was destroyed by the Ez8.",
+  "note": "JP writes Ez8 (the Gundam Ez8)."
+ },
+ {
+  "id": "H-07",
+  "index": 399,
+  "lines_used": 6,
+  "name_en": "Operation Rubicon",
+  "label_en": "H07 Operation Rubicon",
+  "model_en": "A Zeon plan to steal a Gundam after",
+  "desc_en": "learning of a new Fed. Gundam project. The special forces Cyclops Team tried twice, in Antarctica and at Side 6, and failed. Desperate, Cmdr. Killing plotted a nuclear strike to destroy the Gundam, colony and all, but the Fed. stopped it just in time.",
+  "history": [
+   {
+    "stage": "editorial",
+    "old": {
+     "desc_en": "learning of a new Fed. Gundam project. Special forces Cyclops Team tried twice, in Antarctica and at Side 6, and failed. Desperate, Cmdr. Killing plotted a nuclear strike to destroy the Gundam, colony and all, but the Fed. stopped it just in time."
+    },
+    "reason": "Missing article before 'special forces Cyclops Team'."
+   }
+  ]
+ },
+ {
+  "id": "H-08",
+  "index": 400,
+  "lines_used": 6,
+  "name_en": "Delaz Conflict - Operation Stardust -",
+  "label_en": "H08 Delaz Conflict - Operation Stardust -",
+  "model_en": "A conflict started in U.C. 0083 by the",
+  "desc_en": "Delaz Fleet, a Zeon remnant force. It aimed to drop a colony on Earth to hit its food supply, making Earth more dependent on space for food and turning Federation eyes to space. The operation succeeded, but led to the rise of the Titans.",
+  "note": ""
+ },
+ {
+  "id": "H-09",
+  "index": 401,
+  "lines_used": 6,
+  "name_en": "Theft of the Gundam GP02",
+  "label_en": "H09 Theft of the Gundam GP02",
+  "model_en": "Phase one of the Delaz Fleet's Operation",
+  "desc_en": "Stardust. Major Anavel Gato stole the Gundam GP02 after it was moved to Australia, joined the Zeon remnant forces in Africa, and carried it off into space. The GP02 was armed with a nuclear warhead, later used to attack the Naval Review.",
+  "note": "",
+  "history": [
+   {
+    "stage": "accuracy",
+    "old": {
+     "desc_en": "Stardust. Major Anavel Gato stole the Gundam GP02 as it was moved to Australia, joined the Zeon remnant forces in Africa, and carried it off into space. The GP02 was armed with a nuclear warhead, later used to attack the Naval Review."
+    }
+   }
+  ]
+ },
+ {
+  "id": "H-10",
+  "index": 402,
+  "lines_used": 6,
+  "name_en": "Assault on the Naval Review",
+  "label_en": "H10 Assault on the Naval Review",
+  "model_en": "Phase two of the Delaz Fleet's Operation",
+  "desc_en": "Stardust: an attack on the Naval Review at Konpei Island (formerly Solomon) with the stolen GP02's nuclear warhead, to cut Fed. strength in space and pave the way for the colony drop, the main Stardust operation. The Fed. fleet took a heavy blow.",
+  "note": ""
+ },
+ {
+  "id": "H-11",
+  "index": 403,
+  "lines_used": 6,
+  "name_en": "Formation of the Titans",
+  "label_en": "H11 Formation of the Titans",
+  "model_en": "Exploiting the turmoil of the Delaz",
+  "desc_en": "Conflict, radical Fed. official Jamitov Hymen managed to found the Titans, an elite force created in the name of \"hunting Zeon remnants.\" The Titans' leaders, Bask Om foremost among them, were prejudiced against Spacenoids and oppressed them.",
+  "note": "",
+  "history": [
+   {
+    "stage": "editorial",
+    "old": {
+     "desc_en": "Conflict, radical Fed. official Jamitov Hymen managed to found the Titans, an elite force created in the name of \"hunting Zeon remnants.\" The Titans' leaders, centered on Bask Om, were prejudiced against Spacenoids and oppressed them."
+    },
+    "reason": "'centered on Bask Om' is translationese; reworded with the same meaning."
+   }
+  ]
+ },
+ {
+  "id": "H-12",
+  "index": 404,
+  "lines_used": 6,
+  "name_en": "Gryps Conflict",
+  "label_en": "H12 Gryps Conflict",
+  "model_en": "The AEUG was formed to resist the Titans'",
+  "desc_en": "oppression of Spacenoids. Axis, a Zeon remnant force, then joined the fight, making it a three-way struggle. The period from the Gundam Mk-II theft to the Titans' defeat is called the Gryps Conflict. Gryps was a colony converted into a laser cannon.",
+  "note": "",
+  "history": [
+   {
+    "stage": "editorial",
+    "old": {
+     "model_en": "The AEUG formed to resist the Titans'",
+     "desc_en": "oppression of Spacenoids. Axis, a Zeon remnant force, then joined the fight, making it three-way. The period from the Gundam Mk-II theft to the Titans' defeat is called the Gryps Conflict. Gryps is a colony converted into a laser cannon."
+    },
+    "reason": "'The AEUG formed to resist' read as a transitive verb missing its object; 'three-way' needed a noun; past tense for Gryps."
+   }
+  ]
+ },
+ {
+  "id": "H-13",
+  "index": 405,
+  "lines_used": 6,
+  "name_en": "30 Bunch Incident",
+  "label_en": "H13 30 Bunch Incident",
+  "model_en": "In U.C. 0085, when residents of the 30",
+  "desc_en": "Bunch colony in Side 1 staged an anti-Federation demonstration, the Titans gassed the colony, massacring 15 million people. A media blackout kept it from the public, but anti-Titans voices grew in the Fed. Forces, sparking the AEUG's founding.",
+  "note": "",
+  "history": [
+   {
+    "stage": "editorial",
+    "old": {
+     "desc_en": "Bunch colony in Side 1 staged an anti-Federation demonstration, the Titans gassed the colony, massacring 15 million residents. A media blackout kept it secret, but anti-Titans voices grew in the Fed. Forces, sparking the AEUG's founding."
+    }
+   }
+  ]
+ },
+ {
+  "id": "H-14",
+  "index": 406,
+  "lines_used": 6,
+  "name_en": "Second Battle of Jaburo",
+  "label_en": "H14 Second Battle of Jaburo",
+  "model_en": "An AEUG attack on the Fed. HQ. The plan was",
+  "desc_en": "to drop MS from outside the atmosphere and seize Jaburo directly, but the Titans had set a trap to wipe out the AEUG forces with a nuclear bomb. The AEUG units sensed it and escaped, so neither side gained much from the operation.",
+  "note": ""
+ },
+ {
+  "id": "H-15",
+  "index": 407,
+  "lines_used": 6,
+  "name_en": "Axis Returns to the Earth Sphere",
+  "label_en": "H15 Axis Returns to the Earth Sphere",
+  "model_en": "Exploiting the AEUG-Titans strife, Axis,",
+  "desc_en": "the largest Zeon remnant force, led by Haman Karn, returned to the Earth Sphere. After 7 years building up in the Asteroid Belt, Axis held its forces back in the Gryps Conflict, using shrewd maneuvering to drive the Titans to collapse.",
+  "note": ""
+ },
+ {
+  "id": "H-16",
+  "index": 408,
+  "lines_used": 6,
+  "name_en": "Hong Kong City Attack",
+  "label_en": "H16 Hong Kong City Attack",
+  "model_en": "The Titans kept pursuing the Audhumla",
+  "desc_en": "(AEUG-Karaba alliance) after it went from N. America to Hong Kong to resupply. Their reinforcements were the Psycho Gundam and its pilot, Cyber Newtype Four Murasame. The Psycho Gundam fought a street battle in Hong Kong City, causing heavy damage.",
+  "note": "",
+  "history": [
+   {
+    "stage": "editorial",
+    "old": {
+     "desc_en": "(AEUG-Karaba alliance) after it went from N. America to Hong Kong to resupply. Their reinforcements: the Psycho Gundam and its pilot, Cyber Newtype Four Murasame. The Psycho Gundam fought a street battle in Hong Kong City, causing heavy damage."
+    },
+    "reason": "Verbless fragment 'Their reinforcements: ...' in encyclopedia prose; made a full sentence."
+   }
+  ]
+ },
+ {
+  "id": "H-17",
+  "index": 409,
+  "lines_used": 6,
+  "name_en": "Operation Apollo",
+  "label_en": "H17 Operation Apollo",
+  "model_en": "The Titans moved to seize the lunar city of",
+  "desc_en": "Von Braun, to gain a base for attacking Granada, the AEUG's lunar HQ, and to flaunt their power to the Fed. Assembly so a bill expanding their authority would pass. The takeover succeeded at first, but the AEUG won the city back.",
+  "note": "Translated as written (JP calls Granada the AEUG's lunar base).",
+  "history": [
+   {
+    "stage": "editorial",
+    "old": {
+     "desc_en": "Von Braun, to gain a base for attacking Granada, the AEUG's lunar HQ, and to flaunt their power to the Fed. Assembly so a bill expanding their authority would pass. The takeover succeeded at first, but the AEUG's efforts won the city back."
+    },
+    "reason": "'the AEUG's efforts won the city back' was awkward; simplified."
+   }
+  ]
+ },
+ {
+  "id": "H-18",
+  "index": 410,
+  "lines_used": 6,
+  "name_en": "Assassination of Brigadier General Blex",
+  "label_en": "H18 Assassination of Brigadier General Blex",
+  "model_en": "A bill to maximize the Titans' power went",
+  "desc_en": "before the Fed. Assembly. The AEUG's Brig. Gen. Blex attended the assembly to block it, planning to expose the Titans' atrocities. But the Titans assassinated Blex at the hotel where he was staying, and as a result the bill was passed.",
+  "note": ""
+ },
+ {
+  "id": "H-19",
+  "index": 411,
+  "lines_used": 6,
+  "name_en": "Attack on Kilimanjaro",
+  "label_en": "H19 Attack on Kilimanjaro",
+  "model_en": "An attack on Kilimanjaro Base, the Titans'",
+  "desc_en": "largest stronghold on Earth. Led by Karaba, with the Argama joining in, a lightning strike captured the base. Titans Supreme Commander Jamitov was at Kilimanjaro at the time, but escaped into space under the Psycho Gundam's escort.",
+  "history": [
+   {
+    "stage": "proofread",
+    "old": {
+     "model_en": "An attack on Kilimanjaro base, the Titans'"
+    },
+    "reason": "Capitalize 'Base' as proper name (no article before it)"
+   }
+  ]
+ },
+ {
+  "id": "H-20",
+  "index": 412,
+  "lines_used": 6,
+  "name_en": "Seizure of the Dakar Assembly",
+  "label_en": "H20 Seizure of the Dakar Assembly",
+  "model_en": "Gaining the upper hand in the fighting on",
+  "desc_en": "Earth, the AEUG and Karaba moved to seize the assembly in Dakar. There, the AEUG's Quattro Bajeena revealed he was Char Aznable and denounced the Titans' tyranny to the world. The speech swung public opinion strongly toward the AEUG.",
+  "note": ""
+ },
+ {
+  "id": "H-21",
+  "index": 413,
+  "lines_used": 6,
+  "name_en": "Operation Maelstrom",
+  "label_en": "H21 Operation Maelstrom",
+  "model_en": "Amid the chaos after Jamitov's",
+  "desc_en": "assassination, Axis took the Gryps 2 colony laser from the Titans, and the AEUG planned to retake it. The name Maelstrom referred to five fleets advancing in a whirlpool pattern. The operation succeeded and also stopped the Axis drop on Granada.",
+  "note": "",
+  "history": [
+   {
+    "stage": "editorial",
+    "old": {
+     "desc_en": "assassination, Axis took the Gryps 2 colony laser from the Titans, and the AEUG planned to retake it. Maelstrom refers to five fleets advancing as if drawing a whirlpool. The operation succeeded and also stopped the Axis drop on Granada."
+    },
+    "reason": "'as if drawing a whirlpool' was literal; tense made past and subject explicit ('The name Maelstrom')."
+   }
+  ]
+ },
+ {
+  "id": "H-22",
+  "index": 414,
+  "lines_used": 6,
+  "name_en": "First Neo Zeon War",
+  "label_en": "H22 First Neo Zeon War",
+  "model_en": "The Gryps Conflict ended with the Titans'",
+  "desc_en": "destruction, but Haman's Axis still had ample forces left. Declaring the revival of Zeon, it renamed itself \"Neo Zeon.\" The weakened Earth Federation and AEUG could not stop Neo Zeon's invasion, and war broke out once again, lasting about a year.",
+  "note": ""
+ },
+ {
+  "id": "H-23",
+  "index": 415,
+  "lines_used": 6,
+  "name_en": "Capture of Dakar",
+  "label_en": "H23 Capture of Dakar",
+  "model_en": "Haman's Neo Zeon forces sent descent units",
+  "desc_en": "to conquer Earth. Their very first target was Dakar, seat of the Fed. Assembly. Fearing Haman's power, Federation lawmakers recognized the restoration of the Zabi family for the sake of peace, and handed Side 3 over to Neo Zeon.",
+  "note": ""
+ },
+ {
+  "id": "H-24",
+  "index": 416,
+  "lines_used": 6,
+  "name_en": "Destruction of Dublin",
+  "label_en": "H24 Destruction of Dublin",
+  "model_en": "Blocked at Dakar from winning recognition",
+  "desc_en": "of Neo Zeon as a nation, Haman launched her next plan: a colony drop on Dublin to show off Neo Zeon's power. Some top Fed. officials suppressed the information, hoping to use it to cut Earth's population. The result was a massive death toll.",
+  "note": "Haman is female (glossary), so 'her'.",
+  "history": [
+   {
+    "stage": "editorial",
+    "old": {
+     "desc_en": "of Neo Zeon as a nation, Haman launched her next plan: a colony drop on Dublin to show off Neo Zeon's power. Some top Fed. officials suppressed the information, hoping to use it to cut Earth's population. It caused a massive death toll."
+    },
+    "reason": "'It caused a massive death toll' had an unclear referent; JP links the deaths to the information suppression."
+   }
+  ]
+ },
+ {
+  "id": "H-25",
+  "index": 417,
+  "lines_used": 6,
+  "name_en": "Glemy's Rebellion",
+  "label_en": "H25 Glemy's Rebellion",
+  "model_en": "Glemy Toto, a commander leading troops,",
+  "desc_en": "suddenly seized Axis and rebelled, declaring to Haman that he was Zeon's rightful heir. This split Neo Zeon in two. Caught between Haman and the AEUG (Nahel Argama), Glemy's forces were worn down, and he himself fell in battle.",
+  "note": "",
+  "history": [
+   {
+    "stage": "editorial",
+    "old": {
+     "desc_en": "suddenly seized Axis, declared to Haman that he was Zeon's rightful heir, and rebelled. This split Neo Zeon in two. Caught between Haman and the AEUG (Nahel Argama), Glemy's forces were worn down, and he himself fell in battle."
+    },
+    "reason": "Event order: 'declared to Haman ... and rebelled' put the declaration before the rebellion it explains; reordered."
+   }
+  ]
+ },
+ {
+  "id": "H-26",
+  "index": 418,
+  "lines_used": 6,
+  "name_en": "Second Neo Zeon War",
+  "label_en": "H26 Second Neo Zeon War",
+  "model_en": "Four years after Haman fell in the First",
+  "desc_en": "Neo Zeon War, the missing Char Aznable reappeared in the Earth Sphere, seized Sweetwater, and proclaimed Neo Zeon's revival. Vowing to free the souls of people bound by Earth's gravity, Char declared war on the Earth Federation Government.",
+  "note": "",
+  "history": [
+   {
+    "stage": "editorial",
+    "old": {
+     "desc_en": "Neo Zeon War, the missing Char Aznable reappeared in the Earth Sphere, seized Sweetwater, and declared Neo Zeon's revival. Vowing to free the souls of people bound by Earth's gravity, Char declared war on the Earth Federation Government."
+    },
+    "reason": "'declared ... declared' repetition; first changed to 'proclaimed'."
+   }
+  ]
+ },
+ {
+  "id": "H-27",
+  "index": 419,
+  "lines_used": 6,
+  "name_en": "Fifth Luna Drop",
+  "label_en": "H27 Fifth Luna Drop",
+  "model_en": "Having declared war on the Federation, Char",
+  "desc_en": "moved at once to drop the resource asteroid Fifth Luna on the Fed. Forces HQ in Tibet to weaken them. The Fed. Forces tried to stop it, but their only real force was the new Londo Bell, and Fifth Luna hit Earth before they were ready."
+ },
+ {
+  "id": "H-28",
+  "index": 420,
+  "lines_used": 6,
+  "name_en": "Operation Earth Cooling",
+  "label_en": "H28 Operation Earth Cooling",
+  "model_en": "After the Fifth Luna drop, Char obtained",
+  "desc_en": "the asteroid Axis in a secret deal with the Fed. government. Deceiving the Federation, Char tried to drop Axis on Earth. Londo Bell failed to stop it and Axis entered its fall trajectory, but the miraculous power of the Psycho-Frame pushed it off course.",
+  "note": "",
+  "history": [
+   {
+    "stage": "editorial",
+    "old": {
+     "desc_en": "the asteroid Axis in a secret deal with the Fed. government. Deceiving the Fed., Char tried to drop Axis on Earth. Londo Bell failed to stop it and Axis entered its fall trajectory, but the miraculous power of the Psycho-Frame pushed it off course."
+    },
+    "reason": "Standalone 'the Fed.' as a noun; spelled out."
+   }
+  ]
+ },
+ {
+  "id": "H-29",
+  "index": 421,
+  "lines_used": 6,
+  "name_en": "Founding of Cosmo Babylonia",
+  "label_en": "H29 Founding of Cosmo Babylonia",
+  "model_en": "In U.C. 0123, the founding of Cosmo",
+  "desc_en": "Babylonia was declared in the Frontier Side, a new colony cluster. Its leader Meitzer upheld \"aristocratism,\" swiftly took military control of the Frontier Side with the private army Crossbone Vanguard, and declared war on the Earth Federation.",
+  "note": ""
+ },
+ {
+  "id": "H-30",
+  "index": 422,
+  "lines_used": 6,
+  "name_en": "Rafflesia Project",
+  "label_en": "H30 Rafflesia Project",
+  "model_en": "Carozzo Ronah, alias Iron Mask, Supreme",
+  "desc_en": "Commander of the Crossbone Vanguard, secretly planned to perpetuate humanity by culling its unneeded population, developing the unmanned killing weapon \"Bug\" and the giant MA \"Rafflesia.\" But Seabook and his allies foiled the plan.",
+  "history": [
+   {
+    "stage": "accuracy",
+    "old": {
+     "desc_en": "Commander of the Crossbone Vanguard, secretly planned to cut the unneeded population to make humanity endure, building the unmanned killing weapon \"Bug\" and giant MA \"Rafflesia.\" But Seabook and his allies foiled the plan."
+    }
+   },
+   {
+    "stage": "editorial",
+    "old": {
+     "desc_en": "Commander of the Crossbone Vanguard, secretly planned to cut the unneeded population to make humanity endure, building the unmanned killing weapon \"Bug\" and giant MA \"Rafflesia.\" But Seabook and his allies foiled it before it was done."
+    },
+    "reason": "'cut the unneeded population to make humanity endure' / 'foiled it before it was done' were awkward; 'building' did not read as the means of the plan."
+   }
+  ]
+ }
+]

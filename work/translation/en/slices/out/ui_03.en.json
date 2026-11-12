@@ -1,0 +1,848 @@
+{
+ "slice": "ui_03",
+ "rows_in_slice": 201,
+ "rows_examined": 201,
+ "rows": [
+  {
+   "id": "S01074",
+   "en": "Gaza C"
+  },
+  {
+   "id": "S01075",
+   "en": "Qubeley"
+  },
+  {
+   "id": "S01076",
+   "en": "ZZ Gundam"
+  },
+  {
+   "id": "S01077",
+   "en": "Zeta Gundam (Z Zaku)",
+   "note": "Z Zaku is unverified in the glossary."
+  },
+  {
+   "id": "S01078",
+   "en": "Zaku III"
+  },
+  {
+   "id": "S01079",
+   "en": "Zaku III Custom"
+  },
+  {
+   "id": "S01080",
+   "en": "Doven Wolf"
+  },
+  {
+   "id": "S01081",
+   "en": "Qubeley Mk-2 (Ple)",
+   "note": "Pattern follows glossary 'Qubeley Mk-2 (Ple-Two)'."
+  },
+  {
+   "id": "S01082",
+   "en": "Qubeley Mk-2 (Ple-Two)"
+  },
+  {
+   "id": "S01083",
+   "en": "Qubeley Mk-2 (Mass Production)",
+   "note": "Literal: Japanese says Qubeley mkII (mass-production type), not the card name 'Qubeley Mass Production Type'."
+  },
+  {
+   "id": "S01084",
+   "en": "Quin Mantha",
+   "note": "Japanese spells it Kwin with a small i; same unit as glossary Quin Mantha."
+  },
+  {
+   "id": "S01085",
+   "en": "Nu Gundam"
+  },
+  {
+   "id": "S01086",
+   "en": "Re-GZ"
+  },
+  {
+   "id": "S01087",
+   "en": "Jegan"
+  },
+  {
+   "id": "S01088",
+   "en": "Geara Doga"
+  },
+  {
+   "id": "S01089",
+   "en": "Geara Doga (Rezin)"
+  },
+  {
+   "id": "S01090",
+   "en": "Jagd Doga (Gyunei)"
+  },
+  {
+   "id": "S01091",
+   "en": "Jagd Doga (Quess)"
+  },
+  {
+   "id": "S01092",
+   "en": "Alpha Azieru"
+  },
+  {
+   "id": "S01093",
+   "en": "Sazabi"
+  },
+  {
+   "id": "S01094",
+   "en": "F91",
+   "note": "Source abbreviates to F91; kept (glossary full name Gundam F91)."
+  },
+  {
+   "id": "S01095",
+   "en": "Den'an-Zon"
+  },
+  {
+   "id": "S01096",
+   "en": "Den'an-Zon (Black)",
+   "note": "Japanese 'black color' (paint variant), not the 'Black Vanguard' wording."
+  },
+  {
+   "id": "S01097",
+   "en": "Berga-Dalas"
+  },
+  {
+   "id": "S01098",
+   "en": "Berga Giros (Black)"
+  },
+  {
+   "id": "S01099",
+   "en": "Vigna-Ghina"
+  },
+  {
+   "id": "S01100",
+   "en": "Rafflesia"
+  },
+  {
+   "id": "S01101",
+   "en": "Crossbone Gundam X-1"
+  },
+  {
+   "id": "S01102",
+   "en": "Crossbone Gundam X-2"
+  },
+  {
+   "id": "S01103",
+   "en": "Crossbone Gundam X-3"
+  },
+  {
+   "id": "S01104",
+   "en": "Kamuna Tachibana (Tutorial Only)"
+  },
+  {
+   "id": "S01105",
+   "en": "MS Active Skill"
+  },
+  {
+   "id": "S01106",
+   "en": "Pilot Active Skill"
+  },
+  {
+   "id": "S01107",
+   "en": "gtChronicle (EX)",
+   "note": "S01107-S01117: 'gt'/'io'-prefixed developer labels; prefix kept as in ui_01."
+  },
+  {
+   "id": "S01108",
+   "en": "gtProgress"
+  },
+  {
+   "id": "S01109",
+   "en": "gtVS Mode"
+  },
+  {
+   "id": "S01110",
+   "en": "gtTutorial"
+  },
+  {
+   "id": "S01111",
+   "en": "ioMS Shooting"
+  },
+  {
+   "id": "S01112",
+   "en": "ioMS Melee"
+  },
+  {
+   "id": "S01113",
+   "en": "ioMS Defense"
+  },
+  {
+   "id": "S01114",
+   "en": "ioMS Mobility"
+  },
+  {
+   "id": "S01115",
+   "en": "ioMS CP"
+  },
+  {
+   "id": "S01116",
+   "en": "ioMS NT"
+  },
+  {
+   "id": "S01117",
+   "en": "ioUnit Card Variable"
+  },
+  {
+   "id": "S01118",
+   "en": "Previous Card"
+  },
+  {
+   "id": "S01119",
+   "en": "Next Card"
+  },
+  {
+   "id": "S01120",
+   "en": "Zoom Out"
+  },
+  {
+   "id": "S01121",
+   "en": "Zoom In"
+  },
+  {
+   "id": "S01122",
+   "en": "Rotate"
+  },
+  {
+   "id": "S01123",
+   "en": "Pan",
+   "note": "Heiko idou = parallel move of the 3D model view (pan)."
+  },
+  {
+   "id": "S01124",
+   "en": "Reset",
+   "note": "Shoki setto = return the view to its initial position."
+  },
+  {
+   "id": "S01125",
+   "en": "R3 Button: Reset"
+  },
+  {
+   "id": "S01126",
+   "en": "Window OFF"
+  },
+  {
+   "id": "S01127",
+   "en": "Window ON"
+  },
+  {
+   "id": "S01128",
+   "en": "Dummy Message",
+   "note": "Probably not shown to players."
+  },
+  {
+   "id": "S01129",
+   "en": "RX-78-2 Gundam"
+  },
+  {
+   "id": "S01130",
+   "en": "RGM-79 GM"
+  },
+  {
+   "id": "S01131",
+   "en": "MS-06S Char's Zaku II"
+  },
+  {
+   "id": "S01132",
+   "en": "MSN-02 Zeong"
+  },
+  {
+   "id": "S01133",
+   "en": "MA-08 Big Zam"
+  },
+  {
+   "id": "S01134",
+   "en": "RX-77-2 Guncannon"
+  },
+  {
+   "id": "S01135",
+   "en": "MS-06F Zaku II F Type"
+  },
+  {
+   "id": "S01136",
+   "en": "MS-09 Dom"
+  },
+  {
+   "id": "S01137",
+   "en": "MS-09R Rick Dom"
+  },
+  {
+   "id": "S01138",
+   "en": "MS-14A Gelgoog"
+  },
+  {
+   "id": "S01139",
+   "en": "RX-79[G]Ez-8 Gundam Ez8"
+  },
+  {
+   "id": "S01140",
+   "en": "RX-79[G] Gundam Ground Type"
+  },
+  {
+   "id": "S01141",
+   "en": "MS-07B-3 Gouf Custom"
+  },
+  {
+   "id": "S01142",
+   "en": "Unknown Apsaras II"
+  },
+  {
+   "id": "S01143",
+   "en": "MS-06J Zaku II J Type"
+  },
+  {
+   "id": "S01144",
+   "en": "RX-78NT-1 Alex"
+  },
+  {
+   "id": "S01145",
+   "en": "MS-18E Kampfer"
+  },
+  {
+   "id": "S01146",
+   "en": "MS-06FZ Zaku II FZ"
+  },
+  {
+   "id": "S01147",
+   "en": "RX-78GP01-Fb Gundam GP01 Full Burnern"
+  },
+  {
+   "id": "S01148",
+   "en": "RX-78GP02A Gundam GP02A Physalis"
+  },
+  {
+   "id": "S01149",
+   "en": "AGX-04 Gerbera Tetra"
+  },
+  {
+   "id": "S01150",
+   "en": "RX-78GP03 Gundam GP03 Dendrobium"
+  },
+  {
+   "id": "S01151",
+   "en": "AMX-X2 Neue Ziel"
+  },
+  {
+   "id": "S01152",
+   "en": "RGM-79N GM Custom"
+  },
+  {
+   "id": "S01153",
+   "en": "MSZ-006 Zeta Gundam"
+  },
+  {
+   "id": "S01154",
+   "en": "MSZ-006 Waverider"
+  },
+  {
+   "id": "S01155",
+   "en": "RX-178 Gundam Mk-II (AEUG)"
+  },
+  {
+   "id": "S01156",
+   "en": "RX-178 Gundam Mk-II (Titans)"
+  },
+  {
+   "id": "S01157",
+   "en": "RGM-79R GM II"
+  },
+  {
+   "id": "S01158",
+   "en": "RGM-79R GM II (AEUG)"
+  },
+  {
+   "id": "S01159",
+   "en": "MSN-100 Hyaku-Shiki"
+  },
+  {
+   "id": "S01160",
+   "en": "AMX-004 Qubeley"
+  },
+  {
+   "id": "S01161",
+   "en": "AMX-003 Gaza C"
+  },
+  {
+   "id": "S01162",
+   "en": "AMX-003 Gaza C (MA mode)"
+  },
+  {
+   "id": "S01163",
+   "en": "PMX-003 The-O"
+  },
+  {
+   "id": "S01164",
+   "en": "MRX-009 Psycho Gundam"
+  },
+  {
+   "id": "S01165",
+   "en": "MRX-009 Psycho Gundam (MA mode)"
+  },
+  {
+   "id": "S01166",
+   "en": "NRX-044 Asshimar"
+  },
+  {
+   "id": "S01167",
+   "en": "NRX-044 Asshimar (MA mode)"
+  },
+  {
+   "id": "S01168",
+   "en": "RMS-106 Hizack"
+  },
+  {
+   "id": "S01169",
+   "en": "RMS-106 Hizack (Federation Forces)",
+   "note": "Glossary renpougun = Federation Forces; mobile_suits.json has 'Hizack (E.F.S.F.)' for the chikyuu-renpougun variant."
+  },
+  {
+   "id": "S01170",
+   "en": "RMS-108 Marasai"
+  },
+  {
+   "id": "S01171",
+   "en": "MSZ-010 ZZ Gundam"
+  },
+  {
+   "id": "S01172",
+   "en": "AMX-011 Zaku III"
+  },
+  {
+   "id": "S01173",
+   "en": "AMX-011S Zaku III Custom"
+  },
+  {
+   "id": "S01174",
+   "en": "AMX-014 Doven Wolf"
+  },
+  {
+   "id": "S01175",
+   "en": "MZ-000 Quin Mantha"
+  },
+  {
+   "id": "S01176",
+   "en": "AMX-004-2 Qubeley Mk-2 (Ple)"
+  },
+  {
+   "id": "S01177",
+   "en": "AMX-004-3 Qubeley Mk-2 (Ple-Two)"
+  },
+  {
+   "id": "S01178",
+   "en": "AMX-004G Qubeley Mass Production Type"
+  },
+  {
+   "id": "S01179",
+   "en": "??? Z Zaku"
+  },
+  {
+   "id": "S01180",
+   "en": "RX-93 Nu Gundam"
+  },
+  {
+   "id": "S01181",
+   "en": "MSN-04 Sazabi"
+  },
+  {
+   "id": "S01182",
+   "en": "RGZ-91 Re-GZ"
+  },
+  {
+   "id": "S01183",
+   "en": "RGZ-91 Re-GZ (BWS)"
+  },
+  {
+   "id": "S01184",
+   "en": "RGM-89 Jegan"
+  },
+  {
+   "id": "S01185",
+   "en": "MSN-03 Jagd Doga (Gyunei)"
+  },
+  {
+   "id": "S01186",
+   "en": "MSN-03 Jagd Doga (Quess)"
+  },
+  {
+   "id": "S01187",
+   "en": "AMS-119 Geara Doga"
+  },
+  {
+   "id": "S01188",
+   "en": "AMS-119 Geara Doga (Rezin)"
+  },
+  {
+   "id": "S01189",
+   "en": "NZ-333 Alpha Azieru"
+  },
+  {
+   "id": "S01190",
+   "en": "F91 Gundam F91"
+  },
+  {
+   "id": "S01191",
+   "en": "XM-05 Berga Giros"
+  },
+  {
+   "id": "S01192",
+   "en": "XM-04 Berga-Dalas"
+  },
+  {
+   "id": "S01193",
+   "en": "XMA-01 Rafflesia"
+  },
+  {
+   "id": "S01194",
+   "en": "XM-07 Vigna-Ghina"
+  },
+  {
+   "id": "S01195",
+   "en": "XM-01 Den'an-Zon"
+  },
+  {
+   "id": "S01196",
+   "en": "XM-01 Den'an-Zon (Black Vanguard)"
+  },
+  {
+   "id": "S01197",
+   "en": "F90V Gundam F90V"
+  },
+  {
+   "id": "S01198",
+   "en": "XM-X1 Crossbone Gundam X-1"
+  },
+  {
+   "id": "S01199",
+   "en": "XM-X2 Crossbone Gundam X-2"
+  },
+  {
+   "id": "S01200",
+   "en": "XM-X3 Crossbone Gundam X-3"
+  },
+  {
+   "id": "S01201",
+   "en": "cdU01 Gundam",
+   "note": "S01201-S01272: 'cd'-prefixed card-list labels (likely developer/debug list); 'cd' kept, card number written U01 + space as in card labels."
+  },
+  {
+   "id": "S01202",
+   "en": "cdU02 GM"
+  },
+  {
+   "id": "S01203",
+   "en": "cdU03 Char's Zaku II"
+  },
+  {
+   "id": "S01204",
+   "en": "cdU04 Zeong"
+  },
+  {
+   "id": "S01205",
+   "en": "cdU05 Big Zam"
+  },
+  {
+   "id": "S01206",
+   "en": "cdU06 Guncannon"
+  },
+  {
+   "id": "S01207",
+   "en": "cdU07 Zaku II F Type"
+  },
+  {
+   "id": "S01208",
+   "en": "cdU08 Dom"
+  },
+  {
+   "id": "S01209",
+   "en": "cdU09 Rick Dom"
+  },
+  {
+   "id": "S01210",
+   "en": "cdU10 Gelgoog"
+  },
+  {
+   "id": "S01211",
+   "en": "cdU11 Ez8",
+   "note": "Source abbreviates to Ez8 (glossary Gundam Ez8); kept."
+  },
+  {
+   "id": "S01212",
+   "en": "cdU12 Gundam Ground Type"
+  },
+  {
+   "id": "S01213",
+   "en": "cdU13 Gouf Custom"
+  },
+  {
+   "id": "S01214",
+   "en": "cdU14 Apsaras II"
+  },
+  {
+   "id": "S01215",
+   "en": "cdU15 Zaku II J Type"
+  },
+  {
+   "id": "S01216",
+   "en": "cdU16 Alex"
+  },
+  {
+   "id": "S01217",
+   "en": "cdU17 Kampfer"
+  },
+  {
+   "id": "S01218",
+   "en": "cdU18 Zaku II FZ",
+   "note": "Japanese 'Zaku Kai'; glossary form Zaku II FZ used."
+  },
+  {
+   "id": "S01219",
+   "en": "cdU19 Full Burnern",
+   "note": "Source abbreviates to Full Burnern; kept."
+  },
+  {
+   "id": "S01220",
+   "en": "cdU20 Gundam GP02",
+   "note": "Japanese 'Gundam Prototype Unit 2' = GP02 (no Physalis/A in source)."
+  },
+  {
+   "id": "S01221",
+   "en": "cdU21 Gerbera Tetra"
+  },
+  {
+   "id": "S01222",
+   "en": "cdU22 Dendrobium",
+   "note": "Source abbreviates to Dendrobium; kept."
+  },
+  {
+   "id": "S01223",
+   "en": "cdU23 Neue Ziel"
+  },
+  {
+   "id": "S01224",
+   "en": "cdU24 GM Custom"
+  },
+  {
+   "id": "S01225",
+   "en": "cdU25 Zeta Gundam"
+  },
+  {
+   "id": "S01226",
+   "en": "cdU26 Waverider"
+  },
+  {
+   "id": "S01227",
+   "en": "cdU27 Gundam Mk-II (AEUG)",
+   "note": "Japanese abbreviates Titans; full name fits."
+  },
+  {
+   "id": "S01228",
+   "en": "cdU28 Gundam Mk-II (Titans)"
+  },
+  {
+   "id": "S01229",
+   "en": "cdU29 GM II"
+  },
+  {
+   "id": "S01230",
+   "en": "cdU30 GM II (AEUG)"
+  },
+  {
+   "id": "S01231",
+   "en": "cdU31 Hyaku-Shiki"
+  },
+  {
+   "id": "S01232",
+   "en": "cdU32 Qubeley"
+  },
+  {
+   "id": "S01233",
+   "en": "cdU33 Gaza C"
+  },
+  {
+   "id": "S01234",
+   "en": "cdU34 Gaza C (MA mode)"
+  },
+  {
+   "id": "S01235",
+   "en": "cdU35 The-O"
+  },
+  {
+   "id": "S01236",
+   "en": "cdU36 Psycho Gundam"
+  },
+  {
+   "id": "S01237",
+   "en": "cdU37 Psycho Gundam (MA mode)"
+  },
+  {
+   "id": "S01238",
+   "en": "cdU38 Asshimar"
+  },
+  {
+   "id": "S01239",
+   "en": "cdU39 Asshimar (MA mode)"
+  },
+  {
+   "id": "S01240",
+   "en": "cdU40 Hizack"
+  },
+  {
+   "id": "S01241",
+   "en": "cdU41 Hizack (Federation Forces)"
+  },
+  {
+   "id": "S01242",
+   "en": "cdU42 Marasai"
+  },
+  {
+   "id": "S01243",
+   "en": "cdU43 ZZ Gundam"
+  },
+  {
+   "id": "S01244",
+   "en": "cdU44 Zaku III"
+  },
+  {
+   "id": "S01245",
+   "en": "cdU45 Zaku III Custom"
+  },
+  {
+   "id": "S01246",
+   "en": "cdU46 Doven Wolf"
+  },
+  {
+   "id": "S01247",
+   "en": "cdU47 Quin Mantha"
+  },
+  {
+   "id": "S01248",
+   "en": "cdU48 Qubeley Mk-2 (Ple)"
+  },
+  {
+   "id": "S01249",
+   "en": "cdU49 Qubeley Mk-2 (Ple-Two)"
+  },
+  {
+   "id": "S01250",
+   "en": "cdU50 Qubeley Mass Production Type"
+  },
+  {
+   "id": "S01251",
+   "en": "cdU51 Z Zaku"
+  },
+  {
+   "id": "S01252",
+   "en": "cdU52 Nu Gundam"
+  },
+  {
+   "id": "S01253",
+   "en": "cdU53 Sazabi"
+  },
+  {
+   "id": "S01254",
+   "en": "cdU54 Re-GZ"
+  },
+  {
+   "id": "S01255",
+   "en": "cdU55 Re-GZ (BWS)"
+  },
+  {
+   "id": "S01256",
+   "en": "cdU56 Jegan"
+  },
+  {
+   "id": "S01257",
+   "en": "cdU57 Jagd Doga (Gyunei)"
+  },
+  {
+   "id": "S01258",
+   "en": "cdU58 Jagd Doga (Quess)"
+  },
+  {
+   "id": "S01259",
+   "en": "cdU59 Geara Doga"
+  },
+  {
+   "id": "S01260",
+   "en": "cdU60 Geara Doga (Rezin)"
+  },
+  {
+   "id": "S01261",
+   "en": "cdU61 Alpha Azieru"
+  },
+  {
+   "id": "S01262",
+   "en": "cdU62 F91",
+   "note": "Source abbreviates to F91; kept."
+  },
+  {
+   "id": "S01263",
+   "en": "cdU63 Berga Giros"
+  },
+  {
+   "id": "S01264",
+   "en": "cdU64 Berga-Dalas"
+  },
+  {
+   "id": "S01265",
+   "en": "cdU65 Rafflesia"
+  },
+  {
+   "id": "S01266",
+   "en": "cdU66 Vigna-Ghina"
+  },
+  {
+   "id": "S01267",
+   "en": "cdU67 Den'an-Zon"
+  },
+  {
+   "id": "S01268",
+   "en": "cdU68 Den'an-Zon (Black Vanguard)"
+  },
+  {
+   "id": "S01269",
+   "en": "cdU69 F90V"
+  },
+  {
+   "id": "S01270",
+   "en": "cdU70 Crossbone Gundam X-1"
+  },
+  {
+   "id": "S01271",
+   "en": "cdU71 Crossbone Gundam X-2"
+  },
+  {
+   "id": "S01272",
+   "en": "cdU72 Crossbone Gundam X-3"
+  },
+  {
+   "id": "S01746",
+   "en": "",
+   "flag": "Not text: tuki_camera.inf binary camera data (2-byte slot at fixed offsets) misread as an SJIS kanji. Leave bytes untouched."
+  },
+  {
+   "id": "S01747",
+   "en": "",
+   "flag": "Not text: tuki_camera.inf binary camera data (3-byte slot at fixed offsets) misread as an SJIS kanji. Leave bytes untouched."
+  }
+ ],
+ "decisions": [
+  "Unit-viewer rows (S01129-S01200): the full-width space between model number and name becomes one ASCII space; model numbers kept exactly as the game writes them.",
+  "Where the source abbreviates a unit name (F91, Ez8, Full Burnern, Dendrobium), the abbreviation is kept rather than expanded.",
+  "'X-senyou' custom units written 'Name (Pilot)' following glossary entries such as 'Jagd Doga (Quess)'.",
+  "MA-form variants use glossary 'MA mode' in parentheses.",
+  "gt/io/cd prefixes are developer list labels; kept in place as ui_01 did."
+ ],
+ "uncertain": [
+  "S01077, S01179, S01251: Z Zaku is marked unverified in the glossary; used 'Z Zaku'.",
+  "S01083: Japanese literally 'Qubeley mkII (mass-production)'; translated literally rather than the card/viewer name 'Qubeley Mass Production Type' (S01178, S01250).",
+  "S01169, S01241: renpougun written 'Federation Forces' per glossary; full glossary has 'Hizack (E.F.S.F.)' for the related variant - orchestrator may unify.",
+  "S01096, S01098: 'kuro karaa' rendered '(Black)'; could also be '(Black Vanguard)' if these are the same units as S01196.",
+  "S01218: card label says 'Zaku Kai'; wrote glossary 'Zaku II FZ'.",
+  "S01123/S01124/S01125: viewer controls read as Pan / Reset (initial view); not seen on screen.",
+  "S01201-S01272: unsure whether players see the 'cd' list; prefix kept, space added after card number."
+ ]
+}

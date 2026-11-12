@@ -1,0 +1,791 @@
+{
+ "slice": "cards_02",
+ "rows_in_slice": 106,
+ "rows_examined": 106,
+ "rows": [
+  {
+   "id": "P-35",
+   "name_en": "Amuro Ray (CCA)",
+   "label_en": "P35 Amuro Ray (CCA)",
+   "model_en": "A Londo Bell captain in the Earth Fed.",
+   "desc_en": "Forces. He flew the Nu Gundam to stop the asteroid drop of Char, his lifelong rival."
+  },
+  {
+   "id": "P-36",
+   "name_en": "Kayra Su",
+   "label_en": "P36 Kayra Su",
+   "model_en": "A Londo Bell pilot second only to Amuro in",
+   "desc_en": "her unit. She took over the Re-GZ from Amuro but lost to Gyunei and was killed."
+  },
+  {
+   "id": "P-37",
+   "name_en": "Char Aznable (CCA)",
+   "label_en": "P37 Char Aznable (CCA)",
+   "model_en": "Back after 5 years in hiding as Neo Zeon's",
+   "desc_en": "Supreme Cmdr. He tried to purge mankind with an Axis drop, but Amuro stopped him.",
+   "note": "'Supreme Cmdr.' per glossary. 'returned to the stage' compressed to 'Back ... as'."
+  },
+  {
+   "id": "P-38",
+   "name_en": "Quess Paraya",
+   "label_en": "P38 Quess Paraya",
+   "model_en": "A Newtype girl. Drawn to Amuro but brushed",
+   "desc_en": "off, she ran to Char. She died shielding Hathaway, with whom she finally connected.",
+   "note": "'finally' read as 'with whom she finally connected' (could also attach to her dying at the end)."
+  },
+  {
+   "id": "P-39",
+   "name_en": "Gyunei Guss",
+   "label_en": "P39 Gyunei Guss",
+   "model_en": "A Cyber Newtype pilot under Char. Ambitious",
+   "desc_en": "and highly skilled, he racked up wins, but was no match for Amuro's Nu and was killed."
+  },
+  {
+   "id": "P-40",
+   "name_en": "Rezin Schnyder",
+   "label_en": "P40 Rezin Schnyder",
+   "model_en": "A Neo Zeon MS pilot of proven skill whose",
+   "desc_en": "personal unit is a blue Geara Doga. She despises Newtypes and Cyber Newtypes."
+  },
+  {
+   "id": "P-41",
+   "name_en": "Seabook Arno",
+   "label_en": "P41 Seabook Arno",
+   "model_en": "A student on Frontier Side. Fleeing a",
+   "desc_en": "sudden Crossbone attack, he found the new F91 by chance and became its pilot."
+  },
+  {
+   "id": "P-42",
+   "name_en": "Cecily Fairchild",
+   "label_en": "P42 Cecily Fairchild",
+   "model_en": "Seabook's classmate, really the next queen",
+   "desc_en": "of Cosmo Babylonia. She once rejoined the Ronahs; Seabook led her to break away."
+  },
+  {
+   "id": "P-43",
+   "name_en": "Zabine Chareux",
+   "label_en": "P43 Zabine Chareux",
+   "model_en": "Leader of the Black Vanguard, the Crossbone",
+   "desc_en": "Vanguard's elite unit. Having risen young, he is envied by some as an upstart."
+  },
+  {
+   "id": "P-44",
+   "name_en": "Iron Mask (Carozzo Ronah)",
+   "label_en": "P44 Iron Mask (Carozzo Ronah)",
+   "model_en": "Supreme Cmdr. of the Crossbone Vanguard and",
+   "desc_en": "Cecily's father. Shamed when his wife fled, he became a Cyber Newtype in an iron mask.",
+   "note": "Name keeps the card's form 'Iron Mask (Carozzo Ronah)'. 'real father' shortened to 'father' to fit."
+  },
+  {
+   "id": "P-45",
+   "name_en": "Dorel Ronah",
+   "label_en": "P45 Dorel Ronah",
+   "model_en": "Cecily's half-brother, earnest by nature.",
+   "desc_en": "He earned command of a Crossbone MS unit, but falls just short of Zabine, his rival."
+  },
+  {
+   "id": "P-46",
+   "name_en": "Kincade Nau",
+   "label_en": "P46 Kincade Nau",
+   "model_en": "The new name Seabook took to support Berah",
+   "desc_en": "(Cecily), who toppled aristocratism and became captain of the Mother Vanguard.",
+   "note": "Subject of 'toppled aristocratism' taken as Berah."
+  },
+  {
+   "id": "P-47",
+   "name_en": "Tobia Arronax",
+   "label_en": "P47 Tobia Arronax",
+   "model_en": "Attacked by the Crossbone Vanguard near",
+   "desc_en": "Jupiter, he joined Kincade and co., growing as a Newtype through many fierce battles."
+  },
+  {
+   "id": "P-48",
+   "name_en": "Zabine Chareux (XB)",
+   "label_en": "P48 Zabine Chareux (XB)",
+   "model_en": "After Cosmo Babylonia fell, he piloted for",
+   "desc_en": "Mother Vanguard. Secretly bent on reviving aristocratism, he went over to Jupiter."
+  },
+  {
+   "id": "P-49",
+   "name_en": "Kamuna Tachibana (LB)",
+   "label_en": "P49 Kamuna Tachibana (LB)",
+   "model_en": "Progress Mode's 1st-gen hero. From an elite",
+   "desc_en": "military family, he led a unit after the academy. His honest nature draws people in.",
+   "note": "(LB)/(NZ) suffixes kept as written; probably Londo Bell / Neo Zeon side."
+  },
+  {
+   "id": "P-50",
+   "name_en": "Kamuna Tachibana (NZ)",
+   "label_en": "P50 Kamuna Tachibana (NZ)",
+   "model_en": "Progress Mode's 1st-gen hero. From an elite",
+   "desc_en": "military family, he led a unit after the academy. His honest nature draws people in."
+  },
+  {
+   "id": "P-51",
+   "name_en": "Shirley Ramsey (LB)",
+   "label_en": "P51 Shirley Ramsey (LB)",
+   "model_en": "A Progress Mode female pilot who has known",
+   "desc_en": "Kamuna since the academy. Skilled, with sound judgment. A long-haired beauty."
+  },
+  {
+   "id": "P-52",
+   "name_en": "Shirley Ramsey (NZ)",
+   "label_en": "P52 Shirley Ramsey (NZ)",
+   "model_en": "A Progress Mode female pilot who has known",
+   "desc_en": "Kamuna since the academy. Skilled, with sound judgment. A long-haired beauty."
+  },
+  {
+   "id": "P-53",
+   "name_en": "Pamir McDamil (LB)",
+   "label_en": "P53 Pamir McDamil (LB)",
+   "model_en": "A rookie Progress Mode pilot. A joker who",
+   "desc_en": "keeps the unit's spirits up, he is a psychic-powers buff who idolizes Newtypes."
+  },
+  {
+   "id": "P-54",
+   "name_en": "Pamir McDamil (NZ)",
+   "label_en": "P54 Pamir McDamil (NZ)",
+   "model_en": "A rookie Progress Mode pilot. A joker who",
+   "desc_en": "keeps the unit's spirits up, he is a psychic-powers buff who idolizes Newtypes."
+  },
+  {
+   "id": "P-55",
+   "name_en": "Aegis Veracruz (Federation)",
+   "label_en": "P55 Aegis Veracruz (Federation)",
+   "model_en": "A colleague of the 2nd-gen Progress Mode",
+   "desc_en": "hero. A smug womanizer who fiercely rivals the elite hero. A good guy at heart.",
+   "note": "Gender unverified in glossary; text avoids pronouns ('womanizer' and 'good guy' are in the source)."
+  },
+  {
+   "id": "P-56",
+   "name_en": "Aegis Veracruz (CV)",
+   "label_en": "P56 Aegis Veracruz (CV)",
+   "model_en": "A colleague of the 2nd-gen Progress Mode",
+   "desc_en": "hero. A smug womanizer who fiercely rivals the elite hero. A good guy at heart.",
+   "note": "Same as P-55."
+  },
+  {
+   "id": "P-57",
+   "name_en": "Progress Male A (Federation)",
+   "label_en": "P57 Progress Male A (Federation)",
+   "model_en": "Progress Mode's 2nd-gen hero. He inherited",
+   "desc_en": "his parent's personality. Notable for his lively-looking short blue hair.",
+   "note": "'his parent' kept singular-neutral (which parent is not stated)."
+  },
+  {
+   "id": "P-58",
+   "name_en": "Progress Male A (CV)",
+   "label_en": "P58 Progress Male A (CV)",
+   "model_en": "Progress Mode's 2nd-gen hero. He inherited",
+   "desc_en": "his parent's personality. Notable for his lively-looking short blue hair."
+  },
+  {
+   "id": "P-59",
+   "name_en": "Progress Male B (Federation)",
+   "label_en": "P59 Progress Male B (Federation)",
+   "model_en": "Progress Mode's 2nd-gen hero. He inherited",
+   "desc_en": "his parent's personality. A handsome blond with a piercing gaze."
+  },
+  {
+   "id": "P-60",
+   "name_en": "Progress Male B (CV)",
+   "label_en": "P60 Progress Male B (CV)",
+   "model_en": "Progress Mode's 2nd-gen hero. He inherited",
+   "desc_en": "his parent's personality. A handsome blond with a piercing gaze."
+  },
+  {
+   "id": "P-61",
+   "name_en": "Progress Female A (Federation)",
+   "label_en": "P61 Progress Female A (Federation)",
+   "model_en": "Progress Mode's 2nd-gen hero. She inherited",
+   "desc_en": "her parent's personality. Notable for her long pink hair, tied back."
+  },
+  {
+   "id": "P-62",
+   "name_en": "Progress Female A (CV)",
+   "label_en": "P62 Progress Female A (CV)",
+   "model_en": "Progress Mode's 2nd-gen hero. She inherited",
+   "desc_en": "her parent's personality. Notable for her long pink hair, tied back."
+  },
+  {
+   "id": "P-63",
+   "name_en": "Progress Female B (Federation)",
+   "label_en": "P63 Progress Female B (Federation)",
+   "model_en": "Progress Mode's 2nd-gen hero. She inherited",
+   "desc_en": "her parent's personality. Notable for green hair and mysterious orange eyes."
+  },
+  {
+   "id": "P-64",
+   "name_en": "Progress Female B (CV)",
+   "label_en": "P64 Progress Female B (CV)",
+   "model_en": "Progress Mode's 2nd-gen hero. She inherited",
+   "desc_en": "her parent's personality. Notable for green hair and mysterious orange eyes."
+  },
+  {
+   "id": "C-01",
+   "name_en": "Amuro Ray",
+   "label_en": "C01 Amuro Ray",
+   "model_en": "A boy on Side 7. Caught up in the fighting,",
+   "desc_en": "he became the Gundam's pilot, awoke as a Newtype and grew into the strongest pilot."
+  },
+  {
+   "id": "C-02",
+   "name_en": "Kai Shiden",
+   "label_en": "C02 Kai Shiden",
+   "model_en": "White Base's Guncannon pilot. Once a cynic",
+   "desc_en": "and a coward, he found meaning in fighting after meeting Miharu, a young girl spy."
+  },
+  {
+   "id": "C-03",
+   "name_en": "Hayato Kobayashi",
+   "label_en": "C03 Hayato Kobayashi",
+   "model_en": "Amuro's classmate from Side 7. On White",
+   "desc_en": "Base he mainly piloted the Guntank. Small in build, but fiercely competitive."
+  },
+  {
+   "id": "C-04",
+   "name_en": "Sleggar Law",
+   "label_en": "C04 Sleggar Law",
+   "model_en": "A pilot sent to White Base at Jaburo. At",
+   "desc_en": "Solomon he made a suicide charge at the Big Zam and died showing what a real man is."
+  },
+  {
+   "id": "C-05",
+   "name_en": "Bright Noa",
+   "label_en": "C05 Bright Noa",
+   "model_en": "A cadet who became White Base's captain",
+   "desc_en": "when its regulars died. He pulled the green crew together and came into his own.",
+   "note": "'grew into a full-fledged one' read as Bright himself growing ('came into his own'); could refer to the crew."
+  },
+  {
+   "id": "C-06",
+   "name_en": "Char Aznable",
+   "label_en": "C06 Char Aznable",
+   "model_en": "Zeon's ace pilot, known as the Red Comet.",
+   "desc_en": "Behind his mask, he is really Casval, the orphaned son of Zeon Zum Deikun."
+  },
+  {
+   "id": "C-07",
+   "name_en": "Dozle Zabi",
+   "label_en": "C07 Dozle Zabi",
+   "model_en": "3rd Zabi son, a born soldier heading the",
+   "desc_en": "Space Attack Force and Solomon. He sortied in the Big Zam but fell to the Gundam."
+  },
+  {
+   "id": "C-08",
+   "name_en": "Gihren Zabi",
+   "label_en": "C08 Gihren Zabi",
+   "model_en": "Eldest Zabi son. A 240 IQ and charisma made",
+   "desc_en": "him Zeon's Supreme Cmdr. Accused of killing father Degwin, slain by sister Kycilia.",
+   "note": "younger sister kept as 'sister'; 'he was' dropped in the last clause to fit."
+  },
+  {
+   "id": "C-09",
+   "name_en": "Kycilia Zabi",
+   "label_en": "C09 Kycilia Zabi",
+   "model_en": "Eldest Zabi daughter, head of Zeon's Mobile",
+   "desc_en": "Assault Force. Farsighted, e.g. in Newtype research. Killed Gihren, but fell to Char."
+  },
+  {
+   "id": "C-10",
+   "name_en": "Shiro Amada",
+   "label_en": "C10 Shiro Amada",
+   "model_en": "Rookie leader of the 08th MS Team, Kojima",
+   "desc_en": "Battalion. He bonded with Zeon's Aina Sakhalin, met in battle, and left the army."
+  },
+  {
+   "id": "C-11",
+   "name_en": "Karen Joshua",
+   "label_en": "C11 Karen Joshua",
+   "model_en": "An MS pilot and second-in-command of the",
+   "desc_en": "08th MS Team. Sharp-tongued, she at first called her leader Shiro a naive softie."
+  },
+  {
+   "id": "C-12",
+   "name_en": "Terry Sanders Jr.",
+   "label_en": "C12 Terry Sanders Jr.",
+   "model_en": "An 08th MS Team MS pilot. He agonized over",
+   "desc_en": "having seen his units wiped out twice, but with Shiro's help he put it behind him."
+  },
+  {
+   "id": "C-13",
+   "name_en": "Michel Ninorich",
+   "label_en": "C13 Michel Ninorich",
+   "model_en": "An 08th MS Team replacement, mainly on MS",
+   "desc_en": "backup. Has a knack for landing in trouble. He left the army after the war."
+  },
+  {
+   "id": "C-14",
+   "name_en": "Aina Sakhalin",
+   "label_en": "C14 Aina Sakhalin",
+   "model_en": "Daughter of the noble Sakhalin family and a",
+   "desc_en": "Zeon test pilot. Meeting the enemy soldier Shiro Amada changes the way she lives."
+  },
+  {
+   "id": "C-15",
+   "name_en": "Norris Packard",
+   "label_en": "C15 Norris Packard",
+   "model_en": "Veteran pilot of the Sakhalins. He sortied",
+   "desc_en": "in the Gouf Custom so his revered Aina and the wounded could flee; he fell, duty done.",
+   "note": "'revered and loved' -> 'revered'."
+  },
+  {
+   "id": "C-16",
+   "name_en": "Zeon Female Soldier",
+   "label_en": "C16 Zeon Female Soldier",
+   "model_en": "At Zeon's Apsaras base in the Far East. She",
+   "desc_en": "is the operator of the Kergeren, the ship evacuating the sick and wounded to space.",
+   "note": "'Apsaras base' (glossary has Apsaras II/III)."
+  },
+  {
+   "id": "C-17",
+   "name_en": "Christina Mackenzie",
+   "label_en": "C17 Christina Mackenzie",
+   "model_en": "A Fed. Forces test pilot, called Chris. She",
+   "desc_en": "grew fond of Bernie, met by chance, but unknowingly destroyed his Zaku."
+  },
+  {
+   "id": "C-18",
+   "name_en": "Bernard Wiseman",
+   "label_en": "C18 Bernard Wiseman",
+   "model_en": "A Zeon rookie, called Bernie. Found out by",
+   "desc_en": "young Al, the two then teamed up. He fought to save the colony but met a tragic end."
+  },
+  {
+   "id": "C-19",
+   "name_en": "Mikhail Kaminsky",
+   "label_en": "C19 Mikhail Kaminsky",
+   "model_en": "A pilot of Zeon's special Cyclops Team. He",
+   "desc_en": "raided a Fed. base in the Kampfer, but was intercepted by the Alex and killed."
+  },
+  {
+   "id": "C-20",
+   "name_en": "Kou Uraki",
+   "label_en": "C20 Kou Uraki",
+   "model_en": "A rookie test pilot at Torrington. After",
+   "desc_en": "the theft of Gundam Unit 2, he plunges into fierce battles with Gato as his nemesis."
+  },
+  {
+   "id": "C-21",
+   "name_en": "South Burning",
+   "label_en": "C21 South Burning",
+   "model_en": "An MS pilot instructor at Torrington, he",
+   "desc_en": "became the Albion's combat leader after the Gundam theft. Died in an MS accident.",
+   "note": "Kept literal: 'Died in an MS accident'."
+  },
+  {
+   "id": "C-22",
+   "name_en": "Eyphar Sinapus",
+   "label_en": "C22 Eyphar Sinapus",
+   "model_en": "Captain of the Pegasus-class assault ship",
+   "desc_en": "Albion. Able, upright and trusted, but executed postwar via Fed. brass plots.",
+   "note": "'trusted by his men' compressed to 'trusted'."
+  },
+  {
+   "id": "C-23",
+   "name_en": "Jacqueline Simon",
+   "label_en": "C23 Jacqueline Simon",
+   "model_en": "An Albion bridge operator, rank sergeant.",
+   "desc_en": "Easygoing, but a bad drunk. After the war she was transferred to the Titans.",
+   "note": "Card says sergeant; glossary role says Warrant Officer - followed the card text."
+  },
+  {
+   "id": "C-24",
+   "name_en": "Bask Om",
+   "label_en": "C24 Bask Om",
+   "model_en": "He led the Solar System II firing to stop",
+   "desc_en": "Operation Stardust. Hating Spacenoids utterly, he later became a Titans colonel."
+  },
+  {
+   "id": "C-25",
+   "name_en": "Anavel Gato",
+   "label_en": "C25 Anavel Gato",
+   "model_en": "A Zeon ace called the Nightmare of Solomon.",
+   "desc_en": "Under Delaz, he led Operation Stardust and fought fierce battles with Kou."
+  },
+  {
+   "id": "C-26",
+   "name_en": "Cima Garahau",
+   "label_en": "C26 Cima Garahau",
+   "model_en": "A female Zeon officer who joined the Delaz",
+   "desc_en": "Fleet meaning to betray it to the Fed., but Gato and Kou foiled her plan and she died."
+  },
+  {
+   "id": "C-27",
+   "name_en": "Kamille Bidan",
+   "label_en": "C27 Kamille Bidan",
+   "model_en": "A civilian student who hated the Titans and",
+   "desc_en": "joined the AEUG. His superb combat skill, hailed as Amuro reborn, made him an ace."
+  },
+  {
+   "id": "C-28",
+   "name_en": "Quattro Bajeena",
+   "label_en": "C28 Quattro Bajeena",
+   "model_en": "Char Aznable after he left Axis, now an",
+   "desc_en": "AEUG officer under an alias. He lost his battle with Haman and went missing."
+  },
+  {
+   "id": "C-29",
+   "name_en": "Aboly",
+   "label_en": "C29 Aboly",
+   "model_en": "Char's trusted aide since his Zeon days, he",
+   "desc_en": "followed Quattro and served as an AEUG pilot. He fell to Jerid's attack."
+  },
+  {
+   "id": "C-30",
+   "name_en": "Roberto",
+   "label_en": "C30 Roberto",
+   "model_en": "With Aboly, he followed Quattro in a Rick",
+   "desc_en": "Dias. He was killed by an Asshimar's attack during the shuttle launch at Kennedy."
+  },
+  {
+   "id": "C-31",
+   "name_en": "Emma Sheen",
+   "label_en": "C31 Emma Sheen",
+   "model_en": "Once a Titans officer, she was made to see",
+   "desc_en": "their atrocities and defected to the AEUG, fighting as one of its key pilots."
+  },
+  {
+   "id": "C-32",
+   "name_en": "Bright Noa (Z)",
+   "label_en": "C32 Bright Noa (Z)",
+   "model_en": "Sidelined after the One Year War, he took",
+   "desc_en": "command of the Argama at the AEUG's call. A seasoned leader, he steered it to victory."
+  },
+  {
+   "id": "C-33",
+   "name_en": "Henken Bekkener",
+   "label_en": "C33 Henken Bekkener",
+   "model_en": "A key AEUG figure and the Radish's captain,",
+   "desc_en": "a commander. He died shielding the Mk-II of Lt. Emma, whom he loved."
+  },
+  {
+   "id": "C-34",
+   "name_en": "Torres",
+   "label_en": "C34 Torres",
+   "model_en": "Argama operator and Kamille's squabbling",
+   "desc_en": "pal, close in age. After the Gryps Conflict he served on Argama and Nahel Argama."
+  },
+  {
+   "id": "C-35",
+   "name_en": "Amuro Ray (Z)",
+   "label_en": "C35 Amuro Ray (Z)",
+   "model_en": "Feared for his One Year War feats, he was",
+   "desc_en": "confined by the Fed. Roused by Katz, he joined Karaba to fight with Hayato & co.",
+   "note": "House arrest -> 'confined' to fit."
+  },
+  {
+   "id": "C-36",
+   "name_en": "Hayato Kobayashi (Z)",
+   "label_en": "C36 Hayato Kobayashi (Z)",
+   "model_en": "After the One Year War he ran a war museum,",
+   "desc_en": "but rose against Titans tyranny, joining Karaba and fighting as Audhumla captain."
+  },
+  {
+   "id": "C-37",
+   "name_en": "Beltorchika Irma",
+   "label_en": "C37 Beltorchika Irma",
+   "model_en": "In Karaba, the AEUG's support group. Drawn",
+   "desc_en": "to Amuro, she chased him hard. At Dakar, as an agent, she helped seize the Assembly."
+  },
+  {
+   "id": "C-38",
+   "name_en": "Jerid Messa",
+   "label_en": "C38 Jerid Messa",
+   "model_en": "A Titans pilot. Supposedly elite, he met",
+   "desc_en": "only defeat after meeting Kamille, and died without ever getting his revenge."
+  },
+  {
+   "id": "C-39",
+   "name_en": "Kacricon Cacooler",
+   "label_en": "C39 Kacricon Cacooler",
+   "model_en": "A Titans pilot, Jerid's comrade and",
+   "desc_en": "partner. While descending to Earth, Kamille shot his ballute and he died."
+  },
+  {
+   "id": "C-40",
+   "name_en": "Four Murasame",
+   "label_en": "C40 Four Murasame",
+   "model_en": "A Titans Cyber Newtype. She and Kamille met",
+   "desc_en": "in Hong Kong and fell for each other, but she died shielding him from Jerid."
+  },
+  {
+   "id": "C-41",
+   "name_en": "Paptimus Scirocco",
+   "label_en": "C41 Paptimus Scirocco",
+   "model_en": "A charismatic Newtype genius from Jupiter.",
+   "desc_en": "He assassinated Jamitov, seized the Titans, and fell to Kamille's suicide charge."
+  },
+  {
+   "id": "C-42",
+   "name_en": "Buran Blutarch",
+   "label_en": "C42 Buran Blutarch",
+   "model_en": "Ex-Fed. Forces major. He quietly loathed",
+   "desc_en": "the Titans but did his job. In the Asshimar he plagued the AEUG again and again."
+  },
+  {
+   "id": "C-43",
+   "name_en": "Yazan Gable",
+   "label_en": "C43 Yazan Gable",
+   "model_en": "A Titans ace pilot, so warlike he is called",
+   "desc_en": "a beast. He stubbornly survived and later fought Judau and the others as well."
+  },
+  {
+   "id": "C-44",
+   "name_en": "Haman Karn",
+   "label_en": "C44 Haman Karn",
+   "model_en": "Regent to Mineva, last of the Zabis. With",
+   "desc_en": "charisma and politics she united Axis' Zeon remnants and returned to the Earth Sphere.",
+   "note": "'political skill' -> 'politics' to fit."
+  },
+  {
+   "id": "C-45",
+   "name_en": "Judau Ashta",
+   "label_en": "C45 Judau Ashta",
+   "model_en": "A boy living tough as a Side 1 junk dealer.",
+   "desc_en": "Scouted by the AEUG for his Newtype gift, he fights Haman in the ZZ."
+  },
+  {
+   "id": "C-46",
+   "name_en": "Roux Louka",
+   "label_en": "C46 Roux Louka",
+   "model_en": "An AEUG volunteer who mostly flew the Zeta",
+   "desc_en": "Gundam on the Argama. After the war she joined a Jupiter fleet crew with Judau."
+  },
+  {
+   "id": "C-47",
+   "name_en": "Beecha Oleg",
+   "label_en": "C47 Beecha Oleg",
+   "model_en": "Judau's junk-dealer pal. The eldest, yet",
+   "desc_en": "selfish and twisted. Often at odds with Judau, he at last matured as a captain."
+  },
+  {
+   "id": "C-48",
+   "name_en": "Mondo Agake",
+   "label_en": "C48 Mondo Agake",
+   "model_en": "One of Judau's junk-dealer pals. He made",
+   "desc_en": "endless mischief with Beecha, but meeting Rasara, and losing her, made him grow up.",
+   "note": "'Rasara' (not in glossary)."
+  },
+  {
+   "id": "C-49",
+   "name_en": "Elle Vianno",
+   "label_en": "C49 Elle Vianno",
+   "model_en": "Judau's junk-dealer pal, mainly on the",
+   "desc_en": "Mk-II aboard the Argama. She liked Judau, but finally returned Beecha's feelings."
+  },
+  {
+   "id": "C-50",
+   "name_en": "Emary Ounce",
+   "label_en": "C50 Emary Ounce",
+   "model_en": "Acting captain of Anaheim's dock ship La",
+   "desc_en": "Vie en Rose. A gifted young woman who can't hide her passion for married Bright."
+  },
+  {
+   "id": "C-51",
+   "name_en": "Haman Karn (ZZ)",
+   "label_en": "C51 Haman Karn (ZZ)",
+   "model_en": "After the Titans fell, she led Axis, now",
+   "desc_en": "Neo Zeon, and nearly took the Earth Sphere. Bent on dueling Judau, she lost."
+  },
+  {
+   "id": "C-52",
+   "name_en": "Elpeo Ple",
+   "label_en": "C52 Elpeo Ple",
+   "model_en": "A girl Glemy was raising as a Newtype.",
+   "desc_en": "Drawn to Judau, she joined the AEUG. She died fighting her sister Ple-Two."
+  },
+  {
+   "id": "C-53",
+   "name_en": "Ple-Two",
+   "label_en": "C53 Ple-Two",
+   "model_en": "Said to be Ple's clone or sister. Combative",
+   "desc_en": "by nature. Fighting Judau, she heard the voice of the dead Ple and turned on Glemy."
+  },
+  {
+   "id": "C-54",
+   "name_en": "Mashymre Cello",
+   "label_en": "C54 Mashymre Cello",
+   "model_en": "Sworn to Haman, he prized chivalry. After",
+   "desc_en": "repeated failures, Haman made him a Cyber Newtype; he died a sacrificial pawn."
+  },
+  {
+   "id": "C-55",
+   "name_en": "Rakan Dahkaran",
+   "label_en": "C55 Rakan Dahkaran",
+   "model_en": "Haman's fierce officer. In new MS he",
+   "desc_en": "hounded Judau and co., but ambition made him defect to Glemy. He fell to the ZZ.",
+   "note": "Glemy's army shortened to 'Glemy' (glossary: Glemy Faction) to fit."
+  },
+  {
+   "id": "C-56",
+   "name_en": "Glemy Toto",
+   "label_en": "C56 Glemy Toto",
+   "model_en": "Rose from private to commander under Haman,",
+   "desc_en": "but hidden ambition drove him to sudden revolt. Slain by Roux, whom he loved."
+  },
+  {
+   "id": "C-57",
+   "name_en": "Amuro Ray (CCA)",
+   "label_en": "C57 Amuro Ray (CCA)",
+   "model_en": "A Londo Bell captain in the Earth Fed.",
+   "desc_en": "Forces. He flew the Nu Gundam to stop the asteroid drop of Char, his lifelong rival."
+  },
+  {
+   "id": "C-58",
+   "name_en": "Kayra Su",
+   "label_en": "C58 Kayra Su",
+   "model_en": "A Londo Bell pilot second only to Amuro in",
+   "desc_en": "her unit. She took over the Re-GZ from Amuro but lost to Gyunei and was killed."
+  },
+  {
+   "id": "C-59",
+   "name_en": "Bright Noa (CCA)",
+   "label_en": "C59 Bright Noa (CCA)",
+   "model_en": "Fleet commander of the Fed. Forces' Londo",
+   "desc_en": "Bell. He and Amuro share total trust. He led from the front to stop Char's outrage."
+  },
+  {
+   "id": "C-60",
+   "name_en": "Char Aznable (CCA)",
+   "label_en": "C60 Char Aznable (CCA)",
+   "model_en": "Back after 5 years in hiding as Neo Zeon's",
+   "desc_en": "Supreme Cmdr. He tried to purge mankind with an Axis drop, but Amuro stopped him.",
+   "note": "Same text as P-37."
+  },
+  {
+   "id": "C-61",
+   "name_en": "Quess Paraya",
+   "label_en": "C61 Quess Paraya",
+   "model_en": "A Newtype girl. Drawn to Amuro but brushed",
+   "desc_en": "off, she ran to Char. She died shielding Hathaway, with whom she finally connected.",
+   "note": "Same text as P-38."
+  },
+  {
+   "id": "C-62",
+   "name_en": "Gyunei Guss",
+   "label_en": "C62 Gyunei Guss",
+   "model_en": "A Cyber Newtype pilot under Char. Ambitious",
+   "desc_en": "and highly skilled, he racked up wins, but was no match for Amuro's Nu and was killed."
+  },
+  {
+   "id": "C-63",
+   "name_en": "Rezin Schnyder",
+   "label_en": "C63 Rezin Schnyder",
+   "model_en": "A Neo Zeon MS pilot of proven skill whose",
+   "desc_en": "personal unit is a blue Geara Doga. She despises Newtypes and Cyber Newtypes."
+  },
+  {
+   "id": "C-64",
+   "name_en": "Nanai Miguel",
+   "label_en": "C64 Nanai Miguel",
+   "model_en": "Head of Neo Zeon's Newtype lab and an",
+   "desc_en": "operations officer. Also Char's lover in private, she does not get on with Quess."
+  },
+  {
+   "id": "C-65",
+   "name_en": "Seabook Arno",
+   "label_en": "C65 Seabook Arno",
+   "model_en": "A student on Frontier Side. Fleeing a",
+   "desc_en": "sudden Crossbone attack, he found the new F91 by chance and became its pilot."
+  },
+  {
+   "id": "C-66",
+   "name_en": "Cecily Fairchild",
+   "label_en": "C66 Cecily Fairchild",
+   "model_en": "Seabook's classmate, really the next queen",
+   "desc_en": "of Cosmo Babylonia. She once rejoined the Ronahs; Seabook led her to break away."
+  },
+  {
+   "id": "C-67",
+   "name_en": "Leahlee Edaberry",
+   "label_en": "C67 Leahlee Edaberry",
+   "model_en": "Acting captain of training ship Space Ark.",
+   "desc_en": "Flexible and quick, she took in refugees. Seeing the F91, she named it Gundam."
+  },
+  {
+   "id": "C-68",
+   "name_en": "Cosmo Eigesse",
+   "label_en": "C68 Cosmo Eigesse",
+   "model_en": "Retired Fed. Forces officer leading the",
+   "desc_en": "anti-Crossbone resistance. A petty lowlife who lords it over civilians like Seabook.",
+   "note": "'a petty lowlife' (kept harsh)."
+  },
+  {
+   "id": "C-69",
+   "name_en": "Zabine Chareux",
+   "label_en": "C69 Zabine Chareux",
+   "model_en": "Leader of the Black Vanguard, the Crossbone",
+   "desc_en": "Vanguard's elite unit. Having risen young, he is envied by some as an upstart."
+  },
+  {
+   "id": "C-70",
+   "name_en": "Carozzo Ronah",
+   "label_en": "C70 Carozzo Ronah",
+   "model_en": "Supreme Cmdr. of the Crossbone Vanguard and",
+   "desc_en": "Cecily's father. Shamed when his wife fled, he became a Cyber Newtype in an iron mask.",
+   "note": "Same text as P-44 (name is plain Carozzo Ronah on this card)."
+  },
+  {
+   "id": "C-71",
+   "name_en": "Dorel Ronah",
+   "label_en": "C71 Dorel Ronah",
+   "model_en": "Cecily's half-brother, earnest by nature.",
+   "desc_en": "He earned command of a Crossbone MS unit, but falls just short of Zabine, his rival."
+  },
+  {
+   "id": "C-72",
+   "name_en": "Kincade Nau",
+   "label_en": "C72 Kincade Nau",
+   "model_en": "The new name Seabook took to support Berah",
+   "desc_en": "(Cecily), who toppled aristocratism and became captain of the Mother Vanguard.",
+   "note": "Same text as P-46."
+  },
+  {
+   "id": "C-73",
+   "name_en": "Berah Ronah",
+   "label_en": "C73 Berah Ronah",
+   "model_en": "After toppling aristocratism with Seabook,",
+   "desc_en": "she captains Mother Vanguard, leading new Crossbone forces vs. the Jupiter Empire."
+  },
+  {
+   "id": "C-74",
+   "name_en": "Tobia Arronax",
+   "label_en": "C74 Tobia Arronax",
+   "model_en": "Attacked by the Crossbone Vanguard near",
+   "desc_en": "Jupiter, he joined Kincade and co., growing as a Newtype through many fierce battles."
+  },
+  {
+   "id": "C-75",
+   "name_en": "Zabine Chareux (XB)",
+   "label_en": "C75 Zabine Chareux (XB)",
+   "model_en": "After Cosmo Babylonia fell, he piloted for",
+   "desc_en": "Mother Vanguard. Secretly bent on reviving aristocratism, he went over to Jupiter."
+  },
+  {
+   "id": "C-76",
+   "name_en": "Kamuna Tachibana (LB)",
+   "label_en": "C76 Kamuna Tachibana (LB)",
+   "model_en": "Progress Mode's 1st-gen hero. From an elite",
+   "desc_en": "military family, he led a unit after the academy. His honest nature draws people in."
+  }
+ ],
+ "decisions": [
+  "For these P/C cards model_jp is not an affiliation: it is line 1 of the description, cut mid-word into desc_jp. So each card's English is written as one paragraph and split: model_en = first wrapped line (<=43 bytes, <=380 px), desc_en = the rest (2 lines). Total budget about 120-128 chars. All 106 checked with tools/textenc.wrap(380, 43).",
+  "Duplicate cards (P-xx and their C-xx copies, LB/NZ and Federation/CV variants) use identical text.",
+  "Labels = card number without hyphen + name_en (e.g. 'P35 Amuro Ray (CCA)'). Variant suffixes (CCA), (Z), (ZZ), (XB), (LB), (NZ), (CV) kept; Federation suffix -> (Federation).",
+  "Abbreviations used to fit: Fed., Cmdr., Lt., MS, 1st-gen/2nd-gen, '& co.'/'and co.'. Cyber Newtype and Supreme Cmdr. per glossary.",
+  "Names not in the excerpt written in the standard form: Guntank, Zaku, Rick Dias, Anaheim, Al, Kennedy, Rasara, Kojima Battalion."
+ ],
+ "uncertain": [
+  "P-57..P-64: 'Progress Male/Female A/B' is my own rendering of the Progress male/female A/B names; no glossary entry.",
+  "P-49..P-54: (LB)/(NZ) kept as written; meaning (likely Londo Bell / Neo Zeon) not confirmed.",
+  "P-55/P-56: Aegis's gender is unverified; I avoided pronouns, but 'womanizer' and 'good guy' come from the source.",
+  "C-05: I read 'grew into a full-fledged one' as Bright growing ('came into his own'), not the crew.",
+  "C-21: The accident is written as 'MS accident'. I could not confirm how Burning actually dies.",
+  "C-23: the card says sergeant, the glossary role says Warrant Officer. I followed the card.",
+  "C-48: Rasara is not in the glossary. I used the common form 'Rasara'.",
+  "C-14/C-15/C-10: the glossary en is 'Aina Sakhalin', though its note mentions 'Sahalin'. I used en as binding, which also gives 'Sakhalin family'.",
+  "C-37: The Dakar support role is written as 'helped seize the Assembly' (the Dakar Federation Assembly)."
+ ]
+}

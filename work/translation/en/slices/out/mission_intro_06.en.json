@@ -1,0 +1,361 @@
+{
+ "slice": "mission_intro_06",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "S02148",
+   "en": "make plans to return to space."
+  },
+  {
+   "id": "S02149",
+   "en": "Hidden by fog, hurrying to the shuttle"
+  },
+  {
+   "id": "S02150",
+   "en": "are Kamille and Quattro, but",
+   "note": "Inverted to keep the JP row split: 'Hidden by fog, hurrying to the shuttle / are Kamille and Quattro, but'."
+  },
+  {
+   "id": "S02151",
+   "en": "Kamille, sensing the incoming enemy,"
+  },
+  {
+   "id": "S02152",
+   "en": "returns to guard the Audhumla."
+  },
+  {
+   "id": "S02153",
+   "en": "U.C. 0087.07"
+  },
+  {
+   "id": "S02154",
+   "en": "Hong Kong City"
+  },
+  {
+   "id": "S02155",
+   "en": "In Hong Kong City, where they stop for supplies,",
+   "note": "'they' = the Audhumla group; the JP doesn't say who visits."
+  },
+  {
+   "id": "S02156",
+   "en": "Kamille meets a young girl."
+  },
+  {
+   "id": "S02157",
+   "en": "The girl's name is Four."
+  },
+  {
+   "id": "S02158",
+   "en": "AEUG and Titans."
+  },
+  {
+   "id": "S02159",
+   "en": "Though they know their true allegiances",
+   "note": "Shared by zg07 (after S02158) and zg08 (after S02176). Both read: 'Though they know their true allegiances / make them foes, the two are drawn together.'"
+  },
+  {
+   "id": "S02160",
+   "en": "make them foes, the two are drawn together.",
+   "note": "43 chars, slightly over the 2.4x guide. Same text as S02177."
+  },
+  {
+   "id": "S02161",
+   "en": "Seeing his own past in their relationship,",
+   "note": "Amuro (next row) sees his past self in the pair."
+  },
+  {
+   "id": "S02162",
+   "en": "Amuro tries to stop Kamille, but"
+  },
+  {
+   "id": "S02163",
+   "en": "Kamille, unable to resist the urge,"
+  },
+  {
+   "id": "S02164",
+   "en": "secretly meets Four in Hong Kong",
+   "note": "The next JP row is only the narrative ending (no-datta), so 'at night' (yoru no) moves to S02165."
+  },
+  {
+   "id": "S02165",
+   "en": "that night.",
+   "note": "Holds the end of the sentence. The JP row is only the ending no-datta."
+  },
+  {
+   "id": "S02166",
+   "en": "The Titans' Cyber Newtype"
+  },
+  {
+   "id": "S02167",
+   "en": "Four Murasame,"
+  },
+  {
+   "id": "S02168",
+   "en": "to smoke out the AEUG,"
+  },
+  {
+   "id": "S02169",
+   "en": "boards the Psycho Gundam"
+  },
+  {
+   "id": "S02170",
+   "en": "and burns the streets of Hong Kong City."
+  },
+  {
+   "id": "S02171",
+   "en": "Overwhelming power keeps all foes away"
+  },
+  {
+   "id": "S02172",
+   "en": "from the Psycho, but"
+  },
+  {
+   "id": "S02173",
+   "en": "the thoughts emanating from the Gundam Mk-II"
+  },
+  {
+   "id": "S02174",
+   "en": "force it to retreat."
+  },
+  {
+   "id": "S02175",
+   "en": "Amid the Titans' ongoing cowardly schemes,"
+  },
+  {
+   "id": "S02176",
+   "en": "Four happens to meet a boy: Kamille."
+  },
+  {
+   "id": "S02177",
+   "en": "make them foes, the two are drawn together.",
+   "note": "Same as S02160 (the JP differs only in full-width 2). Follows S02159 in zg08."
+  },
+  {
+   "id": "S02178",
+   "en": "Slipping off the ship to meet Kamille in secret,"
+  },
+  {
+   "id": "S02179",
+   "en": "Four heads for the meeting place.",
+   "note": "The JP row is 'heading Four'. Row 1 keeps the ship and the secret meeting; row 2 has Four setting off."
+  },
+  {
+   "id": "S02180",
+   "en": "U.C. 0087.11"
+  },
+  {
+   "id": "S02181",
+   "en": "Kilimanjaro"
+  },
+  {
+   "id": "S02182",
+   "en": "At the Titans' base on Kilimanjaro,"
+  },
+  {
+   "id": "S02183",
+   "en": "Kamille sneaks in and is reunited with Four."
+  },
+  {
+   "id": "S02184",
+   "en": "Four is cheerful, a different person now."
+  },
+  {
+   "id": "S02185",
+   "en": "Kamille, though bewildered,"
+  },
+  {
+   "id": "S02186",
+   "en": "searches the base for her headache medicine,",
+   "note": "Ends with a comma, no 'but': the shared next row S02187 supplies the contrast with 'only to be'."
+  },
+  {
+   "id": "S02187",
+   "en": "only to be spotted by Jerid.",
+   "note": "Shared by zg09 (Kamille, singular) and zg10 (the two, plural). 'only to be' works for either number and covers the JP 'ga ... shimau'."
+  },
+  {
+   "id": "S02188",
+   "en": "The two flee outside the base, but"
+  },
+  {
+   "id": "S02189",
+   "en": "Four's headache brings on a strange change.",
+   "note": "The JP word means an abnormal change. Left as vague as the JP."
+  },
+  {
+   "id": "S02190",
+   "en": "Moved to the Kilimanjaro base,"
+  },
+  {
+   "id": "S02191",
+   "en": "Four is reunited with Kamille,",
+   "note": "'is reunited with Kamille' moved up from S02192 for natural English order. S02192 keeps the 'who sneaked in' part."
+  },
+  {
+   "id": "S02192",
+   "en": "who has slipped into the base."
+  },
+  {
+   "id": "S02193",
+   "en": "Four is overjoyed to see Kamille again."
+  },
+  {
+   "id": "S02194",
+   "en": "But as her medication wears off, Four"
+  },
+  {
+   "id": "S02195",
+   "en": "begins to suffer from headaches."
+  },
+  {
+   "id": "S02196",
+   "en": "The two search the base for headache medicine,",
+   "note": "Ends with a comma, no 'but': followed by the shared row S02187 'only to be spotted by Jerid.'"
+  },
+  {
+   "id": "S02197",
+   "en": "U.C. 0088.02"
+  },
+  {
+   "id": "S02198",
+   "en": "Gryps 2 Area"
+  },
+  {
+   "id": "S02199",
+   "en": "The AEUG's"
+  },
+  {
+   "id": "S02200",
+   "en": "\"Operation Maelstrom\" has begun.",
+   "note": "Shared by zg11 and zg12. The JP corner brackets become ASCII double quotes."
+  },
+  {
+   "id": "S02201",
+   "en": "To seize the colony laser held by Axis,",
+   "note": "As written: the JP says Axis holds the laser."
+  },
+  {
+   "id": "S02202",
+   "en": "AEUG forces will"
+  },
+  {
+   "id": "S02203",
+   "en": "close in from all sides like a whirlpool -"
+  },
+  {
+   "id": "S02204",
+   "en": "such is the plan."
+  },
+  {
+   "id": "S02205",
+   "en": "Kamille, seeing Haman of Axis as a danger,"
+  },
+  {
+   "id": "S02206",
+   "en": "lies in wait for Haman,",
+   "note": "'alone in the Zeta' (Z ikki de) moved to S02207, whose JP row is only the ending suru-no-datta."
+  },
+  {
+   "id": "S02207",
+   "en": "alone in the Zeta.",
+   "note": "Z = Zeta Gundam, written in short as 'the Zeta'."
+  },
+  {
+   "id": "S02208",
+   "en": "The AEUG's",
+   "note": "Same as S02199 (the JP adds only a comma). Precedes S02200 in zg12."
+  },
+  {
+   "id": "S02209",
+   "en": "Surrounded and out of patience, Haman"
+  },
+  {
+   "id": "S02210",
+   "en": "heads out in the Qubeley, but"
+  },
+  {
+   "id": "S02211",
+   "en": "Kamille's Zeta lies in wait, and"
+  },
+  {
+   "id": "S02212",
+   "en": "she ends up in a one-on-one duel.",
+   "note": "'she' = Haman (female in the glossary)."
+  },
+  {
+   "id": "S02213",
+   "en": "Between the AEUG, the Titans and Axis,"
+  },
+  {
+   "id": "S02214",
+   "en": "the three-way battle"
+  },
+  {
+   "id": "S02215",
+   "en": "over the colony laser"
+  },
+  {
+   "id": "S02216",
+   "en": "comes to a final showdown."
+  },
+  {
+   "id": "S02217",
+   "en": "Scirocco and Haman target the laser."
+  },
+  {
+   "id": "S02218",
+   "en": "Quattro and Kamille defend it."
+  },
+  {
+   "id": "S02219",
+   "en": "Having lost so many comrades,"
+  },
+  {
+   "id": "S02220",
+   "en": "can they claim victory?"
+  },
+  {
+   "id": "S02221",
+   "en": "The battle's outcome is still undecided."
+  },
+  {
+   "id": "S02222",
+   "en": "Having done away with Jamitov and Bask"
+  },
+  {
+   "id": "S02223",
+   "en": "but lost Sarah and Reccoa,"
+  },
+  {
+   "id": "S02224",
+   "en": "a cornered Scirocco,"
+  },
+  {
+   "id": "S02225",
+   "en": "with the ultimate mobile suit he built himself,",
+   "note": "47 chars against a 15-char JP line; check the fit."
+  },
+  {
+   "id": "S02226",
+   "en": "\"The-O\", stakes all on one last battle."
+  },
+  {
+   "id": "S02227",
+   "en": "has come to a final showdown.",
+   "note": "Past-tense zg16 version of S02216. Follows the shared rows S02213-S02215."
+  }
+ ],
+ "decisions": [
+  "Present-tense narration, matching the JP and the previous slice.",
+  "Sentences are cut at the JP row boundaries. Where a JP row is only a sentence ending (no-datta / to iu mono de aru / suru no datta), the end of the English sentence goes there rather than leaving the row empty.",
+  "Rows shared by several mission files (S02159, S02187, S02200, S02213-S02215) are worded to read correctly in each file that uses them.",
+  "Z written as 'the Zeta' (short for Zeta Gundam), Gundam Mk-II spelled as in the glossary, and JP corner brackets written as ASCII double quotes."
+ ],
+ "uncertain": [
+  "S02201: JP says Axis holds the colony laser; translated as written.",
+  "S02189: the JP word means 'abnormal change'; rendered vaguely as 'a strange change'.",
+  "S02160/S02177, S02178, S02225: 43-48 chars, over the 2.4x width guide; needs a real fit check.",
+  "S02164/S02165, S02191/S02192, S02206/S02207: content moved across the row cut because English word order could not keep the JP split."
+ ]
+}

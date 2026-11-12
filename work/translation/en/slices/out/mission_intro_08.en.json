@@ -1,0 +1,354 @@
+{
+ "slice": "mission_intro_08",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "S02308",
+   "en": "showed no sign of moving at all."
+  },
+  {
+   "id": "S02309",
+   "en": "This was a sign that Haman",
+   "note": "Shared by zz06 (after S02308) and zz07 (after S02318); reads after both."
+  },
+  {
+   "id": "S02310",
+   "en": "meant to settle it all in a duel with Judau -"
+  },
+  {
+   "id": "S02311",
+   "en": "such was her will.",
+   "note": "Mapped 'ishi no araware' as a closing tag so the verb stays in row 1 of the sentence."
+  },
+  {
+   "id": "S02312",
+   "en": "Watched over by his comrades,"
+  },
+  {
+   "id": "S02313",
+   "en": "Judau sorties with firm resolve."
+  },
+  {
+   "id": "S02314",
+   "en": "At Core 3, the birthplace of Zeon,"
+  },
+  {
+   "id": "S02315",
+   "en": "the curtain was about to rise on the final battle."
+  },
+  {
+   "id": "S02316",
+   "en": "But Haman, the one left standing,",
+   "note": "zz07: follows Glemy's death and the collapse of his army."
+  },
+  {
+   "id": "S02317",
+   "en": "turned her forces toward the Nahel Argama"
+  },
+  {
+   "id": "S02318",
+   "en": "yet would not set them in motion."
+  },
+  {
+   "id": "S02319",
+   "en": "Wearing a pilot suit for the first time,"
+  },
+  {
+   "id": "S02320",
+   "en": "Haman sorties."
+  },
+  {
+   "id": "S02321",
+   "en": "For Zeon, the Battle of Jaburo",
+   "note": "Glossary term 'Battle of Jaburo' for the Jaburo capture operation; shared by 0a01 and 0b01."
+  },
+  {
+   "id": "S02322",
+   "en": "ended in failure."
+  },
+  {
+   "id": "S02323",
+   "en": "Char's defeat by the Gundam played a large part,"
+  },
+  {
+   "id": "S02324",
+   "en": "but the exploits of Kamuna's unit on the ground"
+  },
+  {
+   "id": "S02325",
+   "en": "were undeniably remarkable, too."
+  },
+  {
+   "id": "S02326",
+   "en": "In the wake of this battle,",
+   "note": "Shared by 0a01 and 0b01; neutral wording fits both."
+  },
+  {
+   "id": "S02327",
+   "en": "Zeon's ground forces"
+  },
+  {
+   "id": "S02328",
+   "en": "were driven into dire straits across the board,"
+  },
+  {
+   "id": "S02329",
+   "en": "and the main battlefield"
+  },
+  {
+   "id": "S02330",
+   "en": "gradually shifted to space."
+  },
+  {
+   "id": "S02331",
+   "en": "U.C. 0080.01"
+  },
+  {
+   "id": "S02332",
+   "en": "Universal Century 0080, January 1,"
+  },
+  {
+   "id": "S02333",
+   "en": "after the fall of A Baoa Qu.",
+   "note": "JP is a fragment ending in a full stop; attached it to the date line as the same sentence."
+  },
+  {
+   "id": "S02334",
+   "en": "The Republic of Zeon and the Earth Federation Government",
+   "note": "Long vs JP width guide (~55 chars vs ~43); kept glossary names in full for the checker."
+  },
+  {
+   "id": "S02335",
+   "en": "signed an armistice."
+  },
+  {
+   "id": "S02336",
+   "en": "Having lost their leaders, Gihren Zabi",
+   "note": "Shared 0a02/0b02 line 7; continues into S02337 (0a) or S02370 (0b)."
+  },
+  {
+   "id": "S02337",
+   "en": "and Kycilia Zabi, the Zeon forces"
+  },
+  {
+   "id": "S02338",
+   "en": "were disbanded and absorbed into the Federation Forces,"
+  },
+  {
+   "id": "S02339",
+   "en": "and all fighting came to an end."
+  },
+  {
+   "id": "S02340",
+   "en": "Peace had come to humanity."
+  },
+  {
+   "id": "S02341",
+   "en": "People sensed it would be only fleeting,"
+  },
+  {
+   "id": "S02342",
+   "en": "yet for now, all they did was"
+  },
+  {
+   "id": "S02343",
+   "en": "rest their bodies and minds."
+  },
+  {
+   "id": "S02344",
+   "en": "Universal Century 0083."
+  },
+  {
+   "id": "S02345",
+   "en": "The Zeon remnant forces,"
+  },
+  {
+   "id": "S02346",
+   "en": "the Delaz Fleet, launched a war that ended",
+   "note": "Recast 'the war the Delaz Fleet started ended when...' as 'X launched a war that ended when...' to keep the row cuts."
+  },
+  {
+   "id": "S02347",
+   "en": "when, upon the North American breadbasket,"
+  },
+  {
+   "id": "S02348",
+   "en": "part of a colony came crashing down."
+  },
+  {
+   "id": "S02349",
+   "en": "As a result,"
+  },
+  {
+   "id": "S02350",
+   "en": "just as the Delaz Fleet had planned,"
+  },
+  {
+   "id": "S02351",
+   "en": "Earth's food production suffered a severe blow."
+  },
+  {
+   "id": "S02352",
+   "en": "But Jamitov Hymen and other"
+  },
+  {
+   "id": "S02353",
+   "en": "senior Earth Federation officials turned it to their advantage."
+  },
+  {
+   "id": "S02354",
+   "en": "To mop up the Zeon remnant forces still at large,",
+   "note": "Shared 0a03/0d03; both preceded by Jamitov and senior officials, so 'they' in S02355 holds."
+  },
+  {
+   "id": "S02355",
+   "en": "they argued that an elite unit was needed,"
+  },
+  {
+   "id": "S02356",
+   "en": "and so the \"Titans\""
+  },
+  {
+   "id": "S02357",
+   "en": "came to be formed."
+  },
+  {
+   "id": "S02358",
+   "en": "And, in opposition to this,"
+  },
+  {
+   "id": "S02359",
+   "en": "the anti-Earth Federation group \"AEUG\" was formed."
+  },
+  {
+   "id": "S02360",
+   "en": "Furthermore, at Axis, far from Earth,"
+  },
+  {
+   "id": "S02361",
+   "en": "military preparations were steadily under way."
+  },
+  {
+   "id": "S02362",
+   "en": "A war among these three powers"
+  },
+  {
+   "id": "S02363",
+   "en": "for control of the Earth Sphere"
+  },
+  {
+   "id": "S02364",
+   "en": "was only a matter of time."
+  },
+  {
+   "id": "S02365",
+   "en": "On the ground, the work of Kamuna's unit"
+  },
+  {
+   "id": "S02366",
+   "en": "truly deserved to be called heroic, but"
+  },
+  {
+   "id": "S02367",
+   "en": "Colonel Char's raid on headquarters"
+  },
+  {
+   "id": "S02368",
+   "en": "failed, and that proved the turning point;"
+  },
+  {
+   "id": "S02369",
+   "en": "in the end, the entire army collapsed."
+  },
+  {
+   "id": "S02370",
+   "en": "and Kycilia Zabi,",
+   "note": "0b02: continues S02336 'Having lost their leaders, Gihren Zabi'."
+  },
+  {
+   "id": "S02371",
+   "en": "the Zeon forces had been defeated, yet",
+   "note": "JP 'Zeon-gun de atta ga' has no predicate of its own; added 'had been defeated' (established by the armistice/fall of A Baoa Qu) to give English a verb."
+  },
+  {
+   "id": "S02372",
+   "en": "few of them meekly surrendered to the Federation."
+  },
+  {
+   "id": "S02373",
+   "en": "Some joined the remnant forces in Africa,"
+  },
+  {
+   "id": "S02374",
+   "en": "some hid on the Moon, biding their time,"
+  },
+  {
+   "id": "S02375",
+   "en": "and others headed for the Asteroid Belt"
+  },
+  {
+   "id": "S02376",
+   "en": "and the asteroid Axis."
+  },
+  {
+   "id": "S02377",
+   "en": "The embers left smoldering all over"
+  },
+  {
+   "id": "S02378",
+   "en": "held a hint that the peace humanity had found"
+  },
+  {
+   "id": "S02379",
+   "en": "was truly nothing but fleeting -"
+  },
+  {
+   "id": "S02380",
+   "en": "a foreshadowing of things to come.",
+   "note": "'anji shite ita' moved to a closing appositive so the row keeps the verb's sense."
+  },
+  {
+   "id": "S02381",
+   "en": "The anti-Earth Federation group AEUG"
+  },
+  {
+   "id": "S02382",
+   "en": "launched an operation to seize Jaburo, the Titans' HQ,"
+  },
+  {
+   "id": "S02383",
+   "en": "but with the Titans"
+  },
+  {
+   "id": "S02384",
+   "en": "having moved to the \"Gate of Zedan\" at Side 7"
+  },
+  {
+   "id": "S02385",
+   "en": "as their new base,"
+  },
+  {
+   "id": "S02386",
+   "en": "it ended without any great results."
+  },
+  {
+   "id": "S02387",
+   "en": "Foreseeing that the fighting in space would intensify again,",
+   "note": "'Mikoshita' (foresaw) sits in next-slice row S02388 ('mikoshita AEUG wa'); pulled into this row for English order. S02388 should then read just 'the AEUG...'."
+  }
+ ],
+ "decisions": [
+  "Narration in past tense; JP historical present (ukeru, toru, kessei sareru) rendered as past.",
+  "Kept JP corner-bracket quotes as ASCII double quotes around \"Titans\", \"AEUG\", \"Gate of Zedan\".",
+  "'Sorties' used for shutsugeki for both Judau (S02313) and Haman (S02320).",
+  "'Fleeting' used for tsuka no ma in both peace passages (S02341, S02379)."
+ ],
+ "uncertain": [
+  "S02371: added 'had been defeated' to supply a verb for the bare 'it was the Zeon forces, but'.",
+  "S02387: took 'Foreseeing' from S02388 into this row; next slice must not repeat it.",
+  "S02316: 'the one left standing' for nokotta Haman (after Glemy's fall); could be 'who remained'.",
+  "S02366: 'heroic' for katsuyaku to yobu ni atai suru (deserving to be called a real success); Kamuna's side in 0b01 appears to be Zeon.",
+  "S02334: line likely wider than the JP line; kept glossary names in full."
+ ]
+}

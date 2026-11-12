@@ -1,0 +1,358 @@
+{
+ "slice": "mission_intro_05",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "S02068",
+   "en": "Having lost even the Newtype girl he found,",
+   "note": "Row continues the sentence from S02064-S02067 (Char's failures against White Base)."
+  },
+  {
+   "id": "S02069",
+   "en": "Lalah Sune,"
+  },
+  {
+   "id": "S02070",
+   "en": "Char, now with his back to the wall,"
+  },
+  {
+   "id": "S02071",
+   "en": "at the final stronghold, A Baoa Qu,"
+  },
+  {
+   "id": "S02072",
+   "en": "prepares to meet the Gundam head-on."
+  },
+  {
+   "id": "S02073",
+   "en": "Certain age",
+   "note": "Game's own English subtitle, kept as written."
+  },
+  {
+   "id": "S02074",
+   "en": "Unknown space",
+   "note": "Game's own English subtitle, kept as written."
+  },
+  {
+   "id": "S02075",
+   "en": "Suddenly engulfed by a mysterious light:",
+   "note": "Sentence subject is the list of names in S02076-S02082."
+  },
+  {
+   "id": "S02076",
+   "en": "Amuro,"
+  },
+  {
+   "id": "S02077",
+   "en": "Kamille,"
+  },
+  {
+   "id": "S02078",
+   "en": "Judau,"
+  },
+  {
+   "id": "S02079",
+   "en": "Shiro,"
+  },
+  {
+   "id": "S02080",
+   "en": "Chris,"
+  },
+  {
+   "id": "S02081",
+   "en": "Kou,"
+  },
+  {
+   "id": "S02082",
+   "en": "Seabook."
+  },
+  {
+   "id": "S02083",
+   "en": "When they awoke, they found themselves",
+   "note": "Subject 'they' restored (the seven pilots)."
+  },
+  {
+   "id": "S02084",
+   "en": "in a mysterious space where nothing existed."
+  },
+  {
+   "id": "S02085",
+   "en": "Through their clouded minds, they hear a voice...",
+   "note": "Subject restored: the voice is heard by the pilots."
+  },
+  {
+   "id": "S02086",
+   "en": "Gundam... The future... Fight..."
+  },
+  {
+   "id": "S02087",
+   "en": "In the midst of battle,"
+  },
+  {
+   "id": "S02088",
+   "en": "will these heroes be able to find"
+  },
+  {
+   "id": "S02089",
+   "en": "an answer?"
+  },
+  {
+   "id": "S02090",
+   "en": "U.C. 0087.03"
+  },
+  {
+   "id": "S02091",
+   "en": "Side 7 \"Green Noa 2\"",
+   "note": "Game subtitle 'Side7 \"GreenNoa2\"'; spaced to the glossary form Green Noa."
+  },
+  {
+   "id": "S02092",
+   "en": "In the wake of the \"Delaz Conflict,\""
+  },
+  {
+   "id": "S02093",
+   "en": "a unit was formed within the Federation Forces"
+  },
+  {
+   "id": "S02094",
+   "en": "to hunt Zeon remnants: the \"Titans.\""
+  },
+  {
+   "id": "S02095",
+   "en": "In truth, however, they were a private army",
+   "note": "English word order redistributes S02095-S02097: 'the Federation Forces' moves from row 95 to row 97."
+  },
+  {
+   "id": "S02096",
+   "en": "serving a few who sought to control"
+  },
+  {
+   "id": "S02097",
+   "en": "the Federation Forces from within."
+  },
+  {
+   "id": "S02098",
+   "en": "Universal Century 0087.",
+   "note": "Also used standalone in mp_pr_0c04/0e04 and one more file; works alone."
+  },
+  {
+   "id": "S02099",
+   "en": "Formed in opposition to them was"
+  },
+  {
+   "id": "S02100",
+   "en": "the anti-Earth Federation group \"AEUG.\""
+  },
+  {
+   "id": "S02101",
+   "en": "A boy living in Green Oasis,"
+  },
+  {
+   "id": "S02102",
+   "en": "Kamille Bidan,"
+  },
+  {
+   "id": "S02103",
+   "en": "gets caught up in a battle between"
+  },
+  {
+   "id": "S02104",
+   "en": "the AEUG and the Titans."
+  },
+  {
+   "id": "S02105",
+   "en": "The AEUG's objective was"
+  },
+  {
+   "id": "S02106",
+   "en": "to seize the unit being tested in this colony:"
+  },
+  {
+   "id": "S02107",
+   "en": "the Titans' new Gundam,"
+  },
+  {
+   "id": "S02108",
+   "en": "the \"Mk-II.\""
+  },
+  {
+   "id": "S02109",
+   "en": "Kamille, enraged at the Titans,"
+  },
+  {
+   "id": "S02110",
+   "en": "manages to climb aboard the Mk-II."
+  },
+  {
+   "id": "S02111",
+   "en": "U.C. 0087.04",
+   "note": "Shared by mp_cn_zg02 and zg03."
+  },
+  {
+   "id": "S02112",
+   "en": "Surface of the Moon",
+   "note": "Game's own English subtitle."
+  },
+  {
+   "id": "S02113",
+   "en": "The AEUG warship Argama,"
+  },
+  {
+   "id": "S02114",
+   "en": "ahead of the coming attack on Jaburo,"
+  },
+  {
+   "id": "S02115",
+   "en": "was in the lunar city of \"Amman\","
+  },
+  {
+   "id": "S02116",
+   "en": "preparing to sortie."
+  },
+  {
+   "id": "S02117",
+   "en": "Having spotted it, the Titans warship"
+  },
+  {
+   "id": "S02118",
+   "en": "Alexandria,"
+  },
+  {
+   "id": "S02119",
+   "en": "determined to destroy the Argama,"
+  },
+  {
+   "id": "S02120",
+   "en": "sent its mobile suit team"
+  },
+  {
+   "id": "S02121",
+   "en": "after it."
+  },
+  {
+   "id": "S02122",
+   "en": "Docked in the port of the lunar city \"Amman,\"",
+   "note": "Sentence split into two so each row keeps its own content; JP is one sentence with the Titans as subject."
+  },
+  {
+   "id": "S02123",
+   "en": "the Argama is spotted by the Titans."
+  },
+  {
+   "id": "S02124",
+   "en": "From the Alexandria, they launch"
+  },
+  {
+   "id": "S02125",
+   "en": "a bombardment and a mobile suit assault"
+  },
+  {
+   "id": "S02126",
+   "en": "in a two-front operation,"
+  },
+  {
+   "id": "S02127",
+   "en": "moving in to destroy the Argama."
+  },
+  {
+   "id": "S02128",
+   "en": "Sworn to take revenge on Kamille Bidan,"
+  },
+  {
+   "id": "S02129",
+   "en": "Jerid Messa,"
+  },
+  {
+   "id": "S02130",
+   "en": "along with Kacricon, takes a new mobile suit",
+   "note": "Number of new suits not stated in JP; kept singular for Jerid. Kacricon per glossary (Kacricon Cacooler)."
+  },
+  {
+   "id": "S02131",
+   "en": "out into battle."
+  },
+  {
+   "id": "S02132",
+   "en": "U.C. 0087.05",
+   "note": "Shared by mp_cn_zg04, zg05, mp_pr_0c04."
+  },
+  {
+   "id": "S02133",
+   "en": "Kennedy port",
+   "note": "Game's own English subtitle kept as written; narration uses glossary 'Kennedy Spaceport'."
+  },
+  {
+   "id": "S02134",
+   "en": "The AEUG's assault on Jaburo,",
+   "note": "Shared by zg04 and zg05."
+  },
+  {
+   "id": "S02135",
+   "en": "as the Titans had relocated their HQ,"
+  },
+  {
+   "id": "S02136",
+   "en": "ended without achieving any real results."
+  },
+  {
+   "id": "S02137",
+   "en": "To return the pilots who came down to Earth"
+  },
+  {
+   "id": "S02138",
+   "en": "back into space once more,"
+  },
+  {
+   "id": "S02139",
+   "en": "the AEUG, working with its Earthside ally"
+  },
+  {
+   "id": "S02140",
+   "en": "\"Karaba,\""
+  },
+  {
+   "id": "S02141",
+   "en": "plans to launch a shuttle"
+  },
+  {
+   "id": "S02142",
+   "en": "from Kennedy Spaceport."
+  },
+  {
+   "id": "S02143",
+   "en": "U.C. 0087.06"
+  },
+  {
+   "id": "S02144",
+   "en": "Hickory"
+  },
+  {
+   "id": "S02145",
+   "en": "Joined by the One Year War hero who escaped confinement,",
+   "note": "Wide line (16 JP chars); orchestrator to check fit. Compressible to 'Joined by the One Year War hero, free of confinement,'."
+  },
+  {
+   "id": "S02146",
+   "en": "Amuro Ray, Kamille and the others",
+   "note": "Sentence continues into mission_intro_06 S02148 ('plan to return to space.')."
+  },
+  {
+   "id": "S02147",
+   "en": "once again, by shuttle,"
+  }
+ ],
+ "decisions": [
+  "Date rows written 'U.C. 00YY.MM'; full-width English subtitles converted to ASCII with the game's wording.",
+  "Where English word order forces it, content shifts by a phrase between rows within the same sentence (S02095-97, S02113-16, S02139-42); no rows merged or split.",
+  "Narration tense follows the JP: present for most intros, past where the JP uses past (S02083-84, S02113-21, S02134-36).",
+  "Several narration rows exceed the ~2.4x JP width guide (max_bytes is null); full wording kept for the orchestrator to measure."
+ ],
+ "uncertain": [
+  "S02101: 'Green Oasis' not in glossary; kept the source's name rather than Green Noa.",
+  "S02091: subtitle 'GreenNoa2' respaced to 'Green Noa 2' per glossary; the game's spacing differs.",
+  "S02133: subtitle kept as game's 'Kennedy port' though narration uses 'Kennedy Spaceport'.",
+  "S02130: whether Jerid and Kacricon each have a new suit is unstated; wrote 'takes a new mobile suit' for Jerid.",
+  "S02145: line is wide (55 chars); may need the shorter variant in the note."
+ ]
+}
