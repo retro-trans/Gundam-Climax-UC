@@ -67,6 +67,8 @@ def game_mb_files():
 
 def main():
     ver = sys.argv[1]
+    import tex_make
+    tex_make.VERSION = ver               # shown on the title screen
     os.makedirs(OUT, exist_ok=True)
     os.makedirs(BUILD, exist_ok=True)
     out = os.path.join(OUT, 'Gundam_Climax_UC_EN_v%s.iso' % ver)

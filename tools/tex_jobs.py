@@ -86,6 +86,12 @@ def main():
     jobs = []
     for img, jp, lines in TITLE_SUBS:
         jobs.append({'xts': TITLE, 'image': img, 'style': 'title_sub', 'jp': jp, 'en': lines})
+    # project credit + version on the title background (bottom right, above the copyright)
+    jobs.append({'xts': 'saga_title0.fpk_/title_01.xts', 'image': 'title_rend01', 'style': 'title_credit',
+                 'en': ['v{version}', 'github.com / retro-trans'], 'keep_palette': True,
+                 # layout units: 640x480 mapped onto the 512x512 texture; values measured in game so the
+                 # two lines sit right-aligned just above the copyright line
+                 'right': 599, 'baselines': (354, 372)})
     jobs.append({'xts': 'briefingb.fpk_/BRI_33_BASE.xts', 'image': 'mission_text', 'style': 'label3',
                  'jp': '作戦内容 / 勝利条件 / 敗北条件', 'en': ['Mission', 'Victory', 'Defeat']})
     for fam, table in (('AS', AS), ('PS', PS)):

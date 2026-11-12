@@ -14,7 +14,7 @@ next in any way — be it bug reports, proofreading or playtesting — please jo
 
 ## Play it
 
-The latest release is **[v0.1.6](https://github.com/retro-trans/Gundam-Climax-UC/releases/tag/v0.1.6)**,
+The latest release is **[v0.8.0](https://github.com/retro-trans/Gundam-Climax-UC/releases/tag/v0.8.0)**,
 one patch for the Japanese release (**SLPS-25627**). It adds English subtitles to the voiced
 scenes and Progress-mode cutscenes on top of the translated text, menus and graphics.
 
@@ -25,16 +25,16 @@ DeltaPatcher or xdelta3. You need your own unpacked Japanese disc image.
 
 | Your source image | Patch |
 |---|---|
-| Japanese release, SLPS-25627 | `GundamClimaxUC-English-v0.1.6.xdelta` |
+| Japanese release, SLPS-25627 | `GundamClimaxUC-English-v0.8.0.xdelta` |
 
 The source must be this exact image (`Mobile Suit Gundam - Climax U.C. (Japan).iso`,
 4,416,110,592 bytes, SHA-1 `d2bec2bc57201a43394790be120245f1cdc42439`). Check the hashes in
-`README-v0.1.6.txt` if your patcher reports a mismatch; keep checksum verification enabled.
+`README-v0.8.0.txt` if your patcher reports a mismatch; keep checksum verification enabled.
 
 For example:
 
 ```
-xdelta3 -d -s "Mobile Suit Gundam - Climax U.C. (Japan).iso" GundamClimaxUC-English-v0.1.6.xdelta "Mobile Suit Gundam - Climax U.C. (English v0.1.6).iso"
+xdelta3 -d -s "Mobile Suit Gundam - Climax U.C. (Japan).iso" GundamClimaxUC-English-v0.8.0.xdelta "Mobile Suit Gundam - Climax U.C. (English v0.8.0).iso"
 ```
 
 For manual patching of a CHD, extract it to an ISO first; Retro Trans Automatic supports compatible
@@ -81,7 +81,7 @@ of the original Japanese script; the working files that hold Japanese text stay 
    python tools/restore_work.py            # dry run
    python tools/restore_work.py --write
    ```
-5. Build: `python tools/build.py 0.1.6` writes `work/output/Gundam_Climax_UC_EN_v0.1.6.iso`.
+5. Build: `python tools/build.py 0.8.0` writes `work/output/Gundam_Climax_UC_EN_v0.8.0.iso`.
 
 Python 3 with `numpy`, `Pillow`, `keystone-engine` and `capstone`. The title-menu text uses the
 Noto Sans JP font (SIL OFL) from the Windows font folder.

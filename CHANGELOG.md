@@ -1,8 +1,17 @@
 # Changelog
 
-## 0.1.6 — 2026-11-11 (local build, not released)
+## 0.8.0 — 2026-11-12 (first public release)
 
-Output: `work/output/Gundam_Climax_UC_EN_v0.1.6.iso` (SHA-1 235a184683270f90a0904c67edccb4f4ed738f6e).
+Output: `work/output/Gundam_Climax_UC_EN_v0.8.0.iso` (SHA-1 791b3df19d5da71c2018e0f74634bfb05fe174a5).
+
+Developed locally as 0.1.6; the version jumps to 0.8.0 for the first public release. Everything below
+is new since 0.1.5.
+
+### Title screen
+- Version and project credit ("v0.8.0", "github.com / retro-trans") in the bottom-right corner of the
+  PRESS START screen, above the copyright line. Drawn into the title background (keeping its palette;
+  1,621 pixels change); the version comes from the build command. The title menu uses a different
+  background, so the credit shows on the title screen only. Checked in game.
 
 ### Voice subtitles (new)
 - English subtitles for 2,324 voiced lines with no on-screen text: tutorial instructors (evt),
@@ -72,8 +81,17 @@ Output: `work/output/Gundam_Climax_UC_EN_v0.1.6.iso` (SHA-1 235a184683270f90a090
 
 ### Builds
 - 0.1.5 kept as `work/output/patches/Gundam_Climax_UC_EN_v0.1.5.xdelta` (decode verified).
-- 0.1.6 rebuilt 2026-11-12 with the title-menu fix; patch
-  `work/output/patches/Gundam_Climax_UC_EN_v0.1.6.xdelta` (decode verified). Boot-tested.
+- Local 0.1.6 (same content without the title credit) kept as
+  `work/output/patches/Gundam_Climax_UC_EN_v0.1.6.xdelta` (decode verified).
+- 0.8.0 patch `work/output/patches/Gundam_Climax_UC_EN_v0.8.0.xdelta`, published as
+  `GundamClimaxUC-English-v0.8.0.xdelta` (decode verified). Boot-tested.
+
+### Tools
+- `tools/restore_work.py`: recreates the local working files (which hold Japanese text) from your
+  disc and the committed `*.en.json` copies; subtitles store each clip's length so a fresh clone
+  builds without the local transcripts.
+- `tools/social_preview.py`: the GitHub social preview, composed from the game's title art.
+- `xts_tool.encode_keep_palette`: edit an 8/4-bit image without re-quantizing it.
 
 ## 0.1.5 — 2026-11-11 (local build, not released)
 

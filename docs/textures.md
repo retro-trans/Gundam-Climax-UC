@@ -50,3 +50,5 @@ lettering but complete.
 - MS skill plates follow the MS-select panel names (`unitweapon.fpk` `wp_<unit>.xts`, one 128x128
   image per unit, 7 rows: Charge Lv3/2/1, sub weapon, infighting, defense, SP skill). Mapping and
   the corrected spellings are in `tools/tex_jobs.py` (`MS`).
+- Title screen credit: `title_credit` job on `title_01.xts`/`title_rend01` (the PRESS START background),
+  version from `tools/build.py`; drawn with `encode_keep_palette` so the rest of the image is unchanged.

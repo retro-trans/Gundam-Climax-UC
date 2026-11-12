@@ -86,6 +86,33 @@ def _ps2_alpha(a):
     return min(0x80, (a + 1) // 2)
 
 
+def encode_keep_palette(d, name, img):
+    """Like encode_image for 4/8 bpp, but the CLUT is kept: every pixel gets the index of the nearest
+    existing palette colour (pixels left unchanged keep their exact colour). For small edits to
+    photographic images, where re-quantizing would alter the whole picture."""
+    import numpy as np
+    d = bytearray(d)
+    cluts, imgs = parse(d)
+    im = next(x for x in imgs if x['name'] == name)
+    w, h, bpp = im['w'], im['h'], im['bpp']
+    assert bpp in (4, 8), bpp
+    c = next(c for c in cluts if c['name'] == im['clut'])
+    pal = np.array(clut_colors(d, c), np.int32)                       # (n, 4) RGBA
+    px = np.asarray(img.convert('RGBA'), np.int32).reshape(-1, 4)
+    assert img.size == (w, h), img.size
+    idx = np.empty(len(px), np.uint8)
+    for k in range(0, len(px), 4096):                                 # nearest palette entry
+        blk = px[k:k + 4096]
+        dist = ((blk[:, None, :] - pal[None, :, :]) ** 2).sum(-1)
+        idx[k:k + 4096] = dist.argmin(1)
+    if bpp == 8:
+        d[im['off']:im['off'] + w * h] = idx.tobytes()
+    else:
+        packed = (idx[0::2] & 15) | ((idx[1::2] & 15) << 4)
+        d[im['off']:im['off'] + len(packed)] = packed.astype(np.uint8).tobytes()
+    return bytes(d)
+
+
 def encode_image(d, name, img):
     """Return a copy of XTS bytes d with image `name` replaced by PIL image `img` (raw orientation,
     i.e. as to_image() returns it - the game draws these flipped). Size, bpp and file layout are

@@ -63,6 +63,21 @@
   ]
  },
  {
+  "xts": "saga_title0.fpk_/title_01.xts",
+  "image": "title_rend01",
+  "style": "title_credit",
+  "en": [
+   "v{version}",
+   "github.com / retro-trans"
+  ],
+  "keep_palette": true,
+  "right": 599,
+  "baselines": [
+   354,
+   372
+  ]
+ },
+ {
   "xts": "briefingb.fpk_/BRI_33_BASE.xts",
   "image": "mission_text",
   "style": "label3",

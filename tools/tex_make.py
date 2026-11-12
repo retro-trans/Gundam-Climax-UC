@@ -410,6 +410,42 @@ def render_ops(job, up):
 TITLE_FONT = os.path.join(os.environ.get('WINDIR', r'C:\Windows'), 'Fonts', 'NotoSansJP-VF.ttf')  # SIL OFL
 
 
+VERSION = 'dev'      # set by tools/build.py to the version being built
+
+
+def render_title_credit(job, up, probs):
+    """Version and project credit in the bottom-right corner of the title background (shown on the
+    PRESS START screen above the copyright line). The 512x512 background fills the 640x480 screen,
+    so the text is laid out in screen pixels and mapped back to texture pixels."""
+    from PIL import ImageFont
+    SW, SH, SS = 640, 480, 4
+    lines = [t.replace('{version}', VERSION) for t in job['en']]
+    layer = Image.new('L', (SW * SS, SH * SS), 0)
+    shadow = Image.new('L', (SW * SS, SH * SS), 0)
+    dl, ds = ImageDraw.Draw(layer), ImageDraw.Draw(shadow)
+    right, size = job.get('right', 605), job.get('size', 13)
+    f = ImageFont.truetype(TITLE_FONT, size * SS)
+    try:
+        f.set_variation_by_axes([job.get('weight', 600)])
+    except Exception:
+        pass
+    for text, base in zip(lines, job.get('baselines', (411, 429))):
+        bb = dl.textbbox((0, 0), text, font=f, anchor='rs')
+        x, y = right * SS, base * SS
+        ds.text((x + SS, y + SS), text, font=f, fill=255, anchor='rs')
+        dl.text((x, y), text, font=f, fill=255, anchor='rs')
+    tw, th = up.size
+    a = np.asarray(layer.resize((tw, th), Image.LANCZOS), np.float32)[..., None] / 255.0
+    sh = np.asarray(shadow.resize((tw, th), Image.LANCZOS), np.float32)[..., None] / 255.0
+    base = np.asarray(up.convert('RGBA'), np.float32)
+    rgb = base[..., :3]
+    rgb = rgb * (1 - sh * 0.85)                                       # dark drop shadow
+    col = np.array(job.get('color', (214, 214, 214)), np.float32)
+    rgb = rgb * (1 - a) + col * a
+    out = np.concatenate([rgb, base[..., 3:]], axis=-1).round().clip(0, 255).astype(np.uint8)
+    return Image.fromarray(out, 'RGBA')
+
+
 def render_title_sub(job, up, probs):
     """Title-menu description (256x64 texture). The game shows it stretched 2x horizontally and 1x
     vertically, so (like the original Japanese art: a smooth font drawn half-width) the text is drawn
@@ -489,6 +525,8 @@ def render(job):
         return render_stat(job, up)
     if st == 'title_sub':
         return render_title_sub(job, up, probs), probs
+    if st == 'title_credit':
+        return render_title_credit(job, up, probs), probs
     if st == 'label3':
         img = Image.new('RGBA', up.size, (255, 255, 255, 0))
         for k, text in enumerate(job['en']):
@@ -625,13 +663,14 @@ def apply(entries, report=None):
         if key not in rendered:
             rendered[key] = render(j)[0]
         for kind, p in idx[key]:
-            targets[(kind, p)].append((j['image'], rendered[key]))
+            targets[(kind, p)].append((j['image'], rendered[key], j.get('keep_palette', False)))
     n_nested = n_top = 0
     for (kind, p), edits in sorted(targets.items()):
         old = open(p, 'rb').read()
         new = old
-        for name, img in edits:
-            new = xts_tool.encode_image(new, name, img.transpose(Image.FLIP_TOP_BOTTOM))
+        for name, img, keep in edits:
+            enc = xts_tool.encode_keep_palette if keep else xts_tool.encode_image
+            new = enc(new, name, img.transpose(Image.FLIP_TOP_BOTTOM))
         if kind == 'top':
             entries[os.path.basename(p)] = new
             n_top += 1
