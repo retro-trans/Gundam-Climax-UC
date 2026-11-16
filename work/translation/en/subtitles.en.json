@@ -57,8 +57,8 @@
   "sec": 0.98
  },
  "br_c02_05.adi": {
-  "en": "Hit them while they're preparing for atmospheric entry, and they'll find it hard to fight back. And if their new mobile suit does come out, I'll simply turn it into dust in the atmosphere. We have the edge in combat experience, after all.",
-  "status": "editorial",
+  "en": "Hit them while they're preparing for atmospheric entry, and they'll find it hard to fight back. And if it does come out, I'll simply turn their new mobile suit into dust in the atmosphere. We have the edge in combat experience, after all.",
+  "status": "translated",
   "slice": "v03",
   "history": [
    {
@@ -250,8 +250,8 @@
   "sec": 2.3
  },
  "br_c06_10.adi": {
-  "en": "Thank you, sir. It may be cold comfort, but I'm sure you'll do fine, Colonel.",
-  "status": "accuracy",
+  "en": "Sorry, sir. It may be cold comfort, but I'm sure you'll do fine, Colonel.",
+  "status": "translated",
   "slice": "v03",
   "note": "'Doumo' read as an apology for the bluntness.",
   "history": [
@@ -284,8 +284,8 @@
   "sec": 3.87
  },
  "br_c07_03.adi": {
-  "en": "Easy for you to say, Commander, but this is day five. This heat is driving me out of my mind.",
-  "status": "accuracy",
+  "en": "Easy for you to say, Captain, but this is day five. This heat is driving me out of my mind.",
+  "status": "translated",
   "slice": "v03",
   "history": [
    {
@@ -303,8 +303,8 @@
   "sec": 2.73
  },
  "br_c07_05.adi": {
-  "en": "Oh, God... our commander is a demon.",
-  "status": "accuracy",
+  "en": "Oh, God... our captain is a demon.",
+  "status": "translated",
   "slice": "v03",
   "note": "Misheard 'BB-sama' -> kami-sama (God).",
   "history": [
@@ -354,8 +354,8 @@
   "sec": 9.76
  },
  "br_c08_05.adi": {
-  "en": "I do hope that is so. But please, do take great care.",
-  "status": "accuracy",
+  "en": "If that is so, all is well. But please, do take great care.",
+  "status": "translated",
   "slice": "v03",
   "history": [
    {
@@ -531,8 +531,8 @@
   "sec": 5.65
  },
  "br_c12_03.adi": {
-  "en": "My green skills, one lone Zaku... Honestly, winning is going to be next to impossible.",
-  "status": "editorial",
+  "en": "My green skills, a single Zaku. Honestly, winning is going to be next to impossible.",
+  "status": "translated",
   "slice": "v03",
   "history": [
    {
@@ -557,8 +557,8 @@
   "sec": 11.55
  },
  "br_c12_06.adi": {
-  "en": "Al, Commander Steiner, Misha, Garcia... watch over me.",
-  "status": "accuracy",
+  "en": "Al, Captain Steiner, Misha, Garcia... watch over me.",
+  "status": "translated",
   "slice": "v03",
   "note": "Cyclops Team names, not in the glossary - see uncertain.",
   "history": [
@@ -656,8 +656,8 @@
   "sec": 7.55
  },
  "br_c15_02.adi": {
-  "en": "How feeble. They couldn't even stop one unarmed mobile suit.",
-  "status": "editorial",
+  "en": "How feeble. They couldn't even stop a single mobile suit with no weapons.",
+  "status": "translated",
   "slice": "v03",
   "history": [
    {
@@ -694,8 +694,8 @@
   "sec": 2.94
  },
  "br_c15b_01.adi": {
-  "en": "What's their status?",
-  "status": "editorial",
+  "en": "What is their situation?",
+  "status": "translated",
   "slice": "v02",
   "history": [
    {
@@ -738,8 +738,8 @@
   "sec": 2.19
  },
  "br_c16_01.adi": {
-  "en": "Solar System II has fired on the colony, now past the point of no return.",
-  "status": "editorial",
+  "en": "Solar System II has fired on the colony, which has passed the point of no return.",
+  "status": "translated",
   "slice": "v03",
   "note": "Misheard shoshi -> soshi genkaiten (interdiction limit / point of no return).",
   "history": [
@@ -1050,8 +1050,8 @@
   "sec": 0.3
  },
  "br_c25_01.adi": {
-  "en": "And yet we're supposed to be enemies.",
-  "status": "editorial",
+  "en": "Funny... we're supposed to be enemies.",
+  "status": "translated",
   "slice": "v03",
   "history": [
    {
@@ -1081,8 +1081,8 @@
   "sec": 1.83
  },
  "br_c25_05.adi": {
-  "en": "I hate it. I was the fourth one at the institute I'm in now, so... Four. Number Four.",
-  "status": "editorial",
+  "en": "I hate it. I was the fourth one at the institute, so I'm Four. Number Four.",
+  "status": "translated",
   "slice": "v03",
   "note": "'Ima no shisetsu' kept as 'the institute' (Murasame Lab); 'yon' heard as the name Four.",
   "history": [
@@ -1095,8 +1095,8 @@
   "sec": 6.42
  },
  "br_c25_06.adi": {
-  "en": "Your real name?",
-  "status": "editorial",
+  "en": "What's your real name?",
+  "status": "translated",
   "slice": "v03",
   "history": [
    {
@@ -1133,8 +1133,8 @@
   "sec": 4.62
  },
  "br_c25_11.adi": {
-  "en": "My memories are over there... I don't want to be alone!",
-  "status": "editorial",
+  "en": "My memories are there... I don't want to be alone!",
+  "status": "translated",
   "slice": "v03",
   "history": [
    {
@@ -1173,8 +1173,8 @@
   "sec": 1.51
  },
  "br_c26_01.adi": {
-  "en": "And yet we're supposed to be enemies.",
-  "status": "editorial",
+  "en": "We're supposed to be enemies, aren't we?",
+  "status": "translated",
   "slice": "v04",
   "note": "Four to Kamille.",
   "history": [
@@ -1187,8 +1187,8 @@
   "sec": 4.98
  },
  "br_c26_02.adi": {
-  "en": "That's just the grown-ups' doing.",
-  "status": "editorial",
+  "en": "That's just adults' excuses.",
+  "status": "translated",
   "slice": "v04",
   "note": "Kamille. 'Otona no tsugou' = what suits the adults.",
   "history": [
@@ -1215,8 +1215,8 @@
   "sec": 1.83
  },
  "br_c26_05.adi": {
-  "en": "I hate it. I was the fourth one at the institute I'm in now, so... Four. Number Four.",
-  "status": "editorial",
+  "en": "I hate it. I was the fourth at the lab I'm in now, so... Four. Number Four.",
+  "status": "translated",
   "slice": "v04",
   "note": "Four. 'Shisetsu' (facility) = the Murasame Institute; rendered 'lab'.",
   "history": [
@@ -1229,8 +1229,8 @@
   "sec": 6.42
  },
  "br_c26_06.adi": {
-  "en": "Your real name?",
-  "status": "editorial",
+  "en": "What's your real name?",
+  "status": "translated",
   "slice": "v04",
   "note": "Kamille.",
   "history": [
@@ -1250,8 +1250,8 @@
   "sec": 3.75
  },
  "br_c26_08.adi": {
-  "en": "Then why not start making memories now?",
-  "status": "editorial",
+  "en": "Then make new memories, starting now!",
+  "status": "translated",
   "slice": "v04",
   "note": "Kamille; lit. 'You can just make memories from now on, can't you?'",
   "history": [
@@ -1264,8 +1264,8 @@
   "sec": 2.71
  },
  "br_c26_09.adi": {
-  "en": "Hm? The sky... why...?",
-  "status": "editorial",
+  "en": "Hm? That's... Why...?",
+  "status": "translated",
   "slice": "v04",
   "note": "Low-confidence ASR. Kamille noticing something; 'soro ga' may be a mis-hearing of 'Sudori ga' (the ship he names in the next clip). Kept vague.",
   "history": [
@@ -1292,8 +1292,8 @@
   "sec": 4.96
  },
  "br_c26_12.adi": {
-  "en": "That plane is bringing my memories to me.",
-  "status": "editorial",
+  "en": "That plane will bring my memories back to me.",
+  "status": "translated",
   "slice": "v04",
   "note": "Four.",
   "history": [
@@ -1369,8 +1369,8 @@
   "sec": 4.65
  },
  "br_c27_07.adi": {
-  "en": "No! You mustn't call that thing! It's a devil machine! Don't go!",
-  "status": "accuracy",
+  "en": "No! You mustn't get in that thing! It's a devil machine! Don't go!",
+  "status": "translated",
   "slice": "v04",
   "note": "Kamille to Four about the Psycho Gundam. Transcript says 'yonja' (call/summon); read as 'nocchya' (get in), which matches Kamille's line in the anime. Not certain, so jp_fixed not set.",
   "history": [
@@ -1460,8 +1460,8 @@
   "sec": 4.65
  },
  "br_c28_07.adi": {
-  "en": "No! You mustn't call that thing! It's a devil machine! Don't go!",
-  "status": "accuracy",
+  "en": "No! You mustn't get in that thing! It's a devil machine! Don't go!",
+  "status": "translated",
   "slice": "v04",
   "note": "Kamille to Four about the Psycho Gundam. Transcript says 'yonja' (call/summon); read as 'nocchya' (get in), which matches Kamille's line in the anime. Not certain, so jp_fixed not set.",
   "history": [
@@ -1520,8 +1520,8 @@
   "sec": 2.57
  },
  "br_c30_02.adi": {
-  "en": "We're dancing to their tune. I can't watch this.",
-  "status": "editorial",
+  "en": "We're playing their game too much. I can't watch this.",
+  "status": "translated",
   "slice": "v04",
   "note": "Haman; lit. 'we're being carried along at their pace too much'.",
   "history": [
@@ -1702,8 +1702,8 @@
   "sec": 9.41
  },
  "br_c35_05.adi": {
-  "en": "Talk like that and we'll never save her! Somehow, I'll get Leina off that enemy ship while they're still in space!",
-  "status": "editorial",
+  "en": "If we talk like that, we'll never save her! Somehow, I'll get Leina off that enemy ship while they're still in space!",
+  "status": "translated",
   "slice": "v04",
   "note": "Judau. Transcript ends in the imperative 'sukuidase'; the reply 'Fine, go in with that intention' shows Judau is stating his own plan, so read as 'sukuidasu' (I'll rescue).",
   "history": [
@@ -1863,8 +1863,8 @@
   "sec": 3.82
  },
  "br_c40_02.adi": {
-  "en": "Looks like the enemy's hiding behind Core 3, but...",
-  "status": "editorial",
+  "en": "Seems enemies are hiding behind Core 3, but...",
+  "status": "translated",
   "slice": "v04",
   "history": [
    {
@@ -2048,8 +2048,8 @@
   "sec": 13.66
  },
  "br_c44_02.adi": {
-  "en": "So in this attack, we'll destroy Axis's nozzles and Axis itself.",
-  "status": "editorial",
+  "en": "So in this attack, we'll destroy Axis's nozzles and destroy Axis itself.",
+  "status": "translated",
   "slice": "v04",
   "history": [
    {
@@ -2403,8 +2403,8 @@
   "sec": 2.99
  },
  "br_p10_01.adi": {
-  "en": "You're all here. All right, everyone, listen up.",
-  "status": "editorial",
+  "en": "Everyone's here. All right, listen up, all of you.",
+  "status": "translated",
   "slice": "v02",
   "history": [
    {
@@ -2461,8 +2461,8 @@
   "sec": 1.05
  },
  "br_p1a_04.adi": {
-  "en": "Huh, so we're the defense reserve? How boring.",
-  "status": "editorial",
+  "en": "Huh, defense reserve? How boring.",
+  "status": "translated",
   "slice": "v02",
   "history": [
    {
@@ -2492,8 +2492,8 @@
   "sec": 7.72
  },
  "br_p1a_08.adi": {
-  "en": "Yes. Our mission this time is to intercept the Gaws, and the mobile suits dropping from them, from the ground. Few GMs have been deployed yet, and the HQ pilots aren't very well trained, so I think this is our unit's chance to shine.",
-  "status": "editorial",
+  "en": "Yes. Our mission this time is to intercept, from the ground, the mobile suits dropping from the Gaws and the Gaws themselves. Few GMs have been deployed yet, and the HQ pilots aren't very well trained, so I think this is our unit's chance to shine.",
+  "status": "translated",
   "slice": "v02",
   "note": "ASR 'rendou' (coordination) = rendo (training level)",
   "history": [
@@ -2669,8 +2669,8 @@
   "sec": 3.13
  },
  "br_p2b_05.adi": {
-  "en": "If we wipe out the enemy fleet here, the Federation's remaining forces will be quite small. That will buy us a lot of time, and then Zeon, with its superior technology, could very well make a comeback.",
-  "status": "editorial",
+  "en": "If we wipe out the enemy fleet here, the Federation's remaining forces will be quite small. That will buy us a lot of time, and then Zeon, with its superior technology, can very well make a comeback.",
+  "status": "translated",
   "slice": "v02",
   "history": [
    {
@@ -2682,8 +2682,8 @@
   "sec": 13.98
  },
  "br_p2b_06.adi": {
-  "en": "And we've also kept some of Major General Kycilia's forces at Granada in reserve.",
-  "status": "editorial",
+  "en": "And we still have Major General Kycilia's Granada forces somewhat in reserve.",
+  "status": "translated",
   "slice": "v02",
   "history": [
    {
@@ -2739,8 +2739,8 @@
   "sec": 3.09
  },
  "br_p3a_03.adi": {
-  "en": "Ensign Uraki has gone ahead in the Gundam GP03 and is attacking the colony. We'll work with the Albion to hit the enemies in this sector so they can't converge on Ensign Uraki.",
-  "status": "editorial",
+  "en": "Ensign Uraki has gone ahead in the Gundam GP03 and is attacking the colony. We'll work with the Albion to hit the enemies in this sector so they can't join up against Ensign Uraki.",
+  "status": "translated",
   "slice": "v02",
   "history": [
    {
@@ -2778,8 +2778,8 @@
   "sec": 10.64
  },
  "br_p3b_01.adi": {
-  "en": "Here's the current situation. Major Gato's advance force is attacking the enemy's main defense force to drop the colony on Earth. We're with the Delaz Fleet's main body, which is moving up to join them later.",
-  "status": "editorial",
+  "en": "Here's the current situation. Major Gato's advance force is attacking the enemy's main defense force to drop the colony on Earth. We, with the Delaz Fleet's main body, are moving to join them later.",
+  "status": "translated",
   "slice": "v02",
   "history": [
    {
@@ -2835,8 +2835,8 @@
   "sec": 3.76
  },
  "br_p4a_02.adi": {
-  "en": "So the units from the Second Battle of Jaburo go back to space?",
-  "status": "editorial",
+  "en": "Sending the Second Battle of Jaburo units back to space, huh?",
+  "status": "translated",
   "slice": "v02",
   "note": "glossary binds 'Jaburo koka sakusen' to 'Second Battle of Jaburo'",
   "history": [
@@ -3275,8 +3275,8 @@
   "sec": 14.81
  },
  "br_p6b_04.adi": {
-  "en": "But their side is mostly Glemy's private troops, while ours still has Lady Haman's trusted officers and men. With Glemy in chaos fighting the Nahel Argama, now is our chance to strike the Glemy Faction.",
-  "status": "editorial",
+  "en": "But their side is mostly Glemy's private troops, while ours still has Lady Haman's trusted officers and men. Now, while Glemy is in chaos fighting the Nahel Argama, is our chance to strike the Glemy Faction.",
+  "status": "translated",
   "slice": "v02",
   "note": "ASR 'shihei' (banknotes) = shihei (private troops); 'kokou' (aloof) read as kokou (trusted right-hand); 'kokou' could also be a veteran-sense word",
   "history": [
@@ -3301,8 +3301,8 @@
   "sec": 4.22
  },
  "br_p6b_07.adi": {
-  "en": "They can't know yet that Commander Kamuna is back. Let's show them how a real unit fights!",
-  "status": "accuracy",
+  "en": "They can't know yet that Captain Kamuna is back. Let's show them how a real unit fights!",
+  "status": "translated",
   "slice": "v03",
   "history": [
    {
@@ -3333,8 +3333,8 @@
   "sec": 1.59
  },
  "br_p7a_01.adi": {
-  "en": "Good to see you again, Commander. I'm glad too that Tachibana's unit is back together like this.",
-  "status": "accuracy",
+  "en": "Good to see you again, Captain. I'm glad too that Tachibana's unit is back together like this.",
+  "status": "translated",
   "slice": "v03",
   "note": "'Tachibana-tai' rendered 'Tachibana's unit' as in the mission intros (S02455).",
   "history": [
@@ -3353,8 +3353,8 @@
   "sec": 7.4
  },
  "br_p7a_03.adi": {
-  "en": "We're all seasoned veterans now, after all. You twisted someone's arm to get us again, didn't you, Commander?",
-  "status": "accuracy",
+  "en": "We're all seasoned veterans now, after all. You twisted someone's arm to get us again, didn't you, Captain?",
+  "status": "translated",
   "slice": "v03",
   "history": [
    {
@@ -3366,8 +3366,8 @@
   "sec": 5.98
  },
  "br_p7a_04.adi": {
-  "en": "Humanity in danger - yes. A large-scale destruction operation to rival the great wars of the past is about to be carried out. Char Aznable's Neo Zeon got hold of the asteroid Axis through a backroom deal, and treacherously means to drop it onto Earth.",
-  "status": "editorial",
+  "en": "Humanity in danger - yes. A large-scale destruction operation to rival the great wars of the past is about to be carried out. Char Aznable's Neo Zeon got hold of the asteroid Axis through a backroom deal, and by treachery means to drop Axis onto Earth.",
+  "status": "translated",
   "slice": "v03",
   "note": "Misheard taisen (match) -> taisen (great war).",
   "history": [
@@ -3393,8 +3393,8 @@
   "sec": 16.03
  },
  "br_p7a_07.adi": {
-  "en": "A human being punishing humanity? We have to stop Char from doing as he pleases. All of you, take your positions!",
-  "status": "accuracy",
+  "en": "Humans passing judgment on humanity? We have to stop Char from doing as he pleases. All of you, take your positions!",
+  "status": "translated",
   "slice": "v03",
   "history": [
    {
@@ -3426,8 +3426,8 @@
   "sec": 22.88
  },
  "br_p7b_04.adi": {
-  "en": "We joined Neo Zeon because you're with us, Commander. There's no other reason. We just follow you.",
-  "status": "accuracy",
+  "en": "We joined Neo Zeon because you're with us, Captain. There's no other reason. We just follow you.",
+  "status": "translated",
   "slice": "v03",
   "note": "Japanese says 'because Captain Kamuna is here' (respectful third person, addressed to him); rendered as direct address.",
   "history": [
@@ -3471,8 +3471,8 @@
   "sec": 2.51
  },
  "br_p8a_02.adi": {
-  "en": "For the past several days, unidentified mobile suits have been sighted at the Frontier Side resource base. In response, the Federation Forces deployed mobile suits to be ready for an emergency, but yesterday it finally happened: a mobile suit sent out on recon was destroyed.",
-  "status": "editorial",
+  "en": "For the past several days, unidentified mobile suits had been sighted at the resource base in Frontier Side. On those reports, the Federation Forces deployed mobile suits to be ready for an emergency, but yesterday it finally happened: a mobile suit sent out on recon was destroyed.",
+  "status": "translated",
   "slice": "v03",
   "history": [
    {
@@ -4330,6 +4330,2298 @@
   "status": "translated",
   "sec": 26.03
  },
+ "d_001.adi": {
+  "en": "This thing... it moves!",
+  "status": "translated",
+  "slice": "v13",
+  "sec": 2.32
+ },
+ "d_002.adi": {
+  "en": "You hit me twice! Not even my father ever hit me!",
+  "status": "translated",
+  "slice": "v13",
+  "sec": 3.59
+ },
+ "d_003.adi": {
+  "en": "I... I can pilot the Gundam better than anyone! Better than anyone!",
+  "status": "translated",
+  "slice": "v13",
+  "sec": 8.8
+ },
+ "d_004.adi": {
+  "en": "I want to beat that man.",
+  "status": "translated",
+  "slice": "v13",
+  "note": "'Ano hito' = Ramba Ral in the source scene; 'man' is safe.",
+  "sec": 3.93
+ },
+ "d_005.adi": {
+  "en": "It's frustrating, but I guess I'm a man after all.",
+  "status": "translated",
+  "slice": "v13",
+  "sec": 2.82
+ },
+ "d_006.adi": {
+  "en": "I'm sorry. I still have a place I can go back to. Nothing could make me happier. You understand, don't you? I can go see Lalah anytime.",
+  "status": "translated",
+  "slice": "v13",
+  "sec": 13.75
+ },
+ "d_007.adi": {
+  "en": "Damn it! I can't even slow the enemy down!",
+  "status": "translated",
+  "slice": "v13",
+  "note": "ASR 'nante tochi de' read as 'nante kotta' (best reading).",
+  "sec": 3.98
+ },
+ "d_008.adi": {
+  "en": "Maybe I really am a weakling.",
+  "status": "translated",
+  "slice": "v13",
+  "note": "Echoes Sayla calling Kai a weakling (nanjakumono).",
+  "sec": 2.85
+ },
+ "d_009.adi": {
+  "en": "Miharu, I won't grieve anymore. So there won't be more kids like you, I'm going to smash Zeon. All the way.",
+  "status": "translated",
+  "slice": "v13",
+  "sec": 8.0
+ },
+ "d_010.adi": {
+  "en": "Is that Sleggar? Too fast! He's too fast!",
+  "status": "translated",
+  "slice": "v13",
+  "note": "Read as in v05 evc039 (same line in mission: Sleggar rushing ahead).",
+  "sec": 2.57
+ },
+ "d_011.adi": {
+  "en": "You're so vague. Smart people like you always are, Sayla.",
+  "status": "translated",
+  "slice": "v13",
+  "sec": 3.86
+ },
+ "d_012.adi": {
+  "en": "Guess that's true. People can't become God, even if they stand on their heads.",
+  "status": "translated",
+  "slice": "v13",
+  "note": "Same wording as v05 evc052.",
+  "sec": 5.02
+ },
+ "d_013.adi": {
+  "en": "At times like this, it's best to be a coward.",
+  "status": "translated",
+  "slice": "v13",
+  "note": "Same wording as v05 evc058.",
+  "sec": 2.95
+ },
+ "d_013_kai_fg.adi": {
+  "en": "At times like this, it's best to be a coward.",
+  "status": "translated",
+  "slice": "v13",
+  "note": "Same audio as d_013.",
+  "sec": 2.95
+ },
+ "d_014.adi": {
+  "en": "This is so frustrating. If I'm the only one like this, I'll never match Sayla or Kai... It's p-pathetic.",
+  "status": "translated",
+  "slice": "v13",
+  "sec": 9.57
+ },
+ "d_015.adi": {
+  "en": "Kai's doing it by himself, isn't he? I can do it.",
+  "status": "translated",
+  "slice": "v13",
+  "note": "Hayato insisting he can pilot alone, like Kai.",
+  "sec": 3.17
+ },
+ "d_016.adi": {
+  "en": "I can't leave everything to Kai!",
+  "status": "translated",
+  "slice": "v13",
+  "note": "ASR 'kaisan' (dissolution) = Kai-san; same wording as v05 evc053.",
+  "sec": 2.1
+ },
+ "d_017.adi": {
+  "en": "White Base is sinking!",
+  "status": "translated",
+  "slice": "v13",
+  "sec": 2.81
+ },
+ "d_018.adi": {
+  "en": "Hmm... You've got the look of someone troubled over a man. Ha! So, where's my bunk?",
+  "status": "translated",
+  "slice": "v13",
+  "note": "Sleggar to Mirai (coded hyt_fg, but content is Sleggar).",
+  "sec": 9.39
+ },
+ "d_019.adi": {
+  "en": "It's sad, but this is war.",
+  "status": "translated",
+  "slice": "v13",
+  "note": "Sleggar; same wording as v05 evc044.",
+  "sec": 3.2
+ },
+ "d_020.adi": {
+  "en": "Sticking to a lady's backside just isn't my style.",
+  "status": "translated",
+  "slice": "v13",
+  "sec": 4.05
+ },
+ "d_021.adi": {
+  "en": "This person means it. Get it?",
+  "status": "translated",
+  "slice": "v13",
+  "note": "Referent of 'kono hito' unknown; kept neutral.",
+  "sec": 2.2
+ },
+ "d_022.adi": {
+  "en": "Ensign, you're too dazzling for a guy like me. We live in different worlds.",
+  "status": "translated",
+  "slice": "v13",
+  "note": "ASR 'shouri' (victory) = shoui (Ensign Mirai).",
+  "sec": 4.43
+ },
+ "d_023.adi": {
+  "en": "That's what being spoiled is! Who ever grew up without getting hit?!",
+  "status": "editorial",
+  "slice": "v13",
+  "note": "Bright to Amuro (uncoded).",
+  "history": [
+   {
+    "stage": "editorial",
+    "old": "That's being spoiled! Where's anyone who grew up without ever getting hit?",
+    "reason": "'Where's anyone who grew up...' was awkward; familiar rhetorical shape of Bright's line."
+   }
+  ],
+  "sec": 5.25
+ },
+ "d_024.adi": {
+  "en": "Even I'd like to live as smoothly as everyone else, at least while I'm alive... but I'm too clumsy for that.",
+  "status": "translated",
+  "slice": "v13",
+  "note": "Uncoded; speaker uncertain (Bright or Sleggar).",
+  "sec": 7.83
+ },
+ "d_025.adi": {
+  "en": "The barrage is too thin!",
+  "status": "translated",
+  "slice": "v13",
+  "sec": 1.26
+ },
+ "d_026.adi": {
+  "en": "You can hate me.",
+  "status": "translated",
+  "slice": "v13",
+  "sec": 1.18
+ },
+ "d_027.adi": {
+  "en": "What are you saying?! How dare a man scheming for a Zabi dictatorship say that!",
+  "status": "translated",
+  "slice": "v13",
+  "note": "Uncoded; aimed at a man (otoko) plotting Zabi rule, likely Gihren.",
+  "sec": 5.06
+ },
+ "d_028.adi": {
+  "en": "I'd rather not admit it... the mistakes of my own youth.",
+  "status": "translated",
+  "slice": "v13",
+  "sec": 6.09
+ },
+ "d_029.adi": {
+  "en": "Because he was a boy.",
+  "status": "translated",
+  "slice": "v13",
+  "note": "Char's answer about Garma's death; 'he' = Garma.",
+  "sec": 1.08
+ },
+ "d_030.adi": {
+  "en": "You were a good friend, but your father is to blame.",
+  "status": "translated",
+  "slice": "v13",
+  "sec": 4.06
+ },
+ "d_031.adi": {
+  "en": "Now, show me what the Federation's mobile suit can do.",
+  "status": "translated",
+  "slice": "v13",
+  "sec": 4.38
+ },
+ "d_032.adi": {
+  "en": "I'll show you that the difference in mobile suit performance isn't what decides a battle!",
+  "status": "accuracy",
+  "slice": "v13",
+  "history": [
+   {
+    "stage": "accuracy",
+    "old": "I'll show you that mobile suit performance isn't the deciding factor in battle!",
+    "reason": "Restored 'difference in' performance, dropped from the iconic line."
+   }
+  ],
+  "sec": 5.66
+ },
+ "d_032_chr_fg.adi": {
+  "en": "I'll show you that the difference in mobile suit performance isn't what decides a battle!",
+  "status": "accuracy",
+  "slice": "v13",
+  "note": "Same audio as d_032.",
+  "history": [
+   {
+    "stage": "accuracy",
+    "old": "I'll show you that mobile suit performance isn't the deciding factor in battle!",
+    "reason": "Same audio as d_032."
+   }
+  ],
+  "sec": 5.66
+ },
+ "d_033.adi": {
+  "en": "Is the Federation's mobile suit a monster?!",
+  "status": "translated",
+  "slice": "v13",
+  "note": "Same wording as v04 evc025.",
+  "sec": 2.28
+ },
+ "d_034.adi": {
+  "en": "Even in a mobile suit, it's my principle to always come back.",
+  "status": "translated",
+  "slice": "v13",
+  "sec": 4.19
+ },
+ "d_035.adi": {
+  "en": "Lalah! Stop talking nonsense with him!",
+  "status": "accuracy",
+  "slice": "v13",
+  "history": [
+   {
+    "stage": "accuracy",
+    "old": "Lalah! Stop your foolishness with him!",
+    "reason": "The source word is idle or nonsense talk (Lalah's exchange with Amuro), not foolish behaviour."
+   }
+  ],
+  "sec": 2.68
+ },
+ "d_036.adi": {
+  "en": "As I am now, I cannot defeat the Gundam. Lalah, guide me.",
+  "status": "translated",
+  "slice": "v13",
+  "note": "ASR 'taosenara' read as 'taosen. Lalah,' (the known line).",
+  "sec": 6.83
+ },
+ "d_037.adi": {
+  "en": "Make the most of every chance. That is my principle.",
+  "status": "translated",
+  "slice": "v13",
+  "sec": 3.85
+ },
+ "d_038.adi": {
+  "en": "Become a fine woman. Amuro is calling.",
+  "status": "translated",
+  "slice": "v13",
+  "note": "Char to Sayla.",
+  "sec": 3.75
+ },
+ "d_039.adi": {
+  "en": "You understand why I wear the mask, don't you? I have cast away my past.",
+  "status": "translated",
+  "slice": "v13",
+  "sec": 4.8
+ },
+ "d_040.adi": {
+  "en": "Garma, this is my offering to you. Live happily with your sister.",
+  "status": "translated",
+  "slice": "v13",
+  "note": "Char after killing Kycilia; 'tamuke' = offering to the dead.",
+  "sec": 4.85
+ },
+ "d_041.adi": {
+  "en": "I'd been looking forward to him becoming a great general, one who could make good use of even me.",
+  "status": "translated",
+  "slice": "v13",
+  "sec": 6.41
+ },
+ "d_042.adi": {
+  "en": "War is a numbers game, brother!",
+  "status": "translated",
+  "slice": "v13",
+  "sec": 1.69
+ },
+ "d_043.adi": {
+  "en": "Over a trifle like this, we'll be the laughingstock of the whole nation!",
+  "status": "translated",
+  "slice": "v13",
+  "note": "Uncoded; speaker uncertain (Zabi family member).",
+  "sec": 4.23
+ },
+ "d_044.adi": {
+  "en": "I am a soldier. A soldier who will build the Zabi family's tradition. I will not die!",
+  "status": "translated",
+  "slice": "v13",
+  "note": "ASR 'shini wasure' read as 'shini wa sen' (best reading).",
+  "sec": 5.68
+ },
+ "d_044_dzl_fg.adi": {
+  "en": "I am a soldier. A soldier who will build the Zabi family's tradition. I will not die!",
+  "status": "translated",
+  "slice": "v13",
+  "note": "Same audio as d_044.",
+  "sec": 5.68
+ },
+ "d_045.adi": {
+  "en": "Hahahahahaha!",
+  "status": "translated",
+  "slice": "v13",
+  "note": "Laughter only.",
+  "sec": 7.91
+ },
+ "d_046.adi": {
+  "en": "I'll say it outright: they are trash!",
+  "status": "translated",
+  "slice": "v13",
+  "note": "Gihren (coded dzl_fg, content is Gihren).",
+  "sec": 2.72
+ },
+ "d_047.adi": {
+  "en": "Citizens! Turn your sorrow into anger! Rise up, citizens!",
+  "status": "translated",
+  "slice": "v13",
+  "note": "Gihren's speech.",
+  "sec": 4.86
+ },
+ "d_048.adi": {
+  "en": "Our forces are overwhelming, are they not?",
+  "status": "translated",
+  "slice": "v13",
+  "note": "Gihren.",
+  "sec": 2.85
+ },
+ "d_049.adi": {
+  "en": "You're surprisingly soft too, brother.",
+  "status": "translated",
+  "slice": "v13",
+  "note": "Kycilia to Gihren (uncoded).",
+  "sec": 2.75
+ },
+ "d_050.adi": {
+  "en": "The crime of patricide cannot be escaped, even by the Supreme Commander. Anyone who objects may take it to court when this battle is over.",
+  "status": "translated",
+  "slice": "v13",
+  "note": "Kycilia; sousui = Supreme Commander per glossary.",
+  "sec": 9.55
+ },
+ "d_051.adi": {
+  "en": "So even the Red Comet has fallen to earth.",
+  "status": "translated",
+  "slice": "v13",
+  "sec": 2.7
+ },
+ "d_052.adi": {
+  "en": "I won't let Side 2 happen again!",
+  "status": "translated",
+  "slice": "v13",
+  "sec": 3.0
+ },
+ "d_053.adi": {
+  "en": "Whether we live or die, we'll do it together!",
+  "status": "translated",
+  "slice": "v13",
+  "sec": 4.06
+ },
+ "d_054.adi": {
+  "en": "Pilots have their own way of fighting.",
+  "status": "translated",
+  "slice": "v13",
+  "sec": 2.19
+ },
+ "d_055.adi": {
+  "en": "Right! As team leader, I'm giving the order! 08th MS Team, move out!",
+  "status": "editorial",
+  "slice": "v13",
+  "history": [
+   {
+    "stage": "editorial",
+    "old": "Right! As team leader, I'm giving the order! 08th Team, move out!",
+    "reason": "Glossary: 08 shoutai = '08th MS Team'."
+   }
+  ],
+  "sec": 5.08
+ },
+ "d_056.adi": {
+  "en": "Not for the Federation! But for my comrades, I can fight!",
+  "status": "translated",
+  "slice": "v13",
+  "note": "ASR 'denpou' read as renpou (Federation).",
+  "sec": 4.05
+ },
+ "d_057.adi": {
+  "en": "I'll live! And spend my life with Aina!",
+  "status": "translated",
+  "slice": "v13",
+  "note": "Same wording as v05 evc125.",
+  "sec": 6.18
+ },
+ "d_058.adi": {
+  "en": "So much for 'coming back alive'! So much for 'I can fight for my comrades'! I'm scared!",
+  "status": "translated",
+  "slice": "v13",
+  "sec": 8.67
+ },
+ "d_059.adi": {
+  "en": "Thanks. But come on, spare me the GM head. Anything but a GM.",
+  "status": "editorial",
+  "slice": "v13",
+  "note": "Karen's Ground Type was refitted with a GM head.",
+  "history": [
+   {
+    "stage": "editorial",
+    "old": "Thanks. But come on, spare me the GM head. Not a GM.",
+    "reason": "Bare fragment 'Not a GM.' read as a statement; made the protest clear."
+   }
+  ],
+  "sec": 4.68
+ },
+ "d_060.adi": {
+  "en": "Heh. Now this is starting to feel like a real fight.",
+  "status": "editorial",
+  "slice": "v13",
+  "note": "Close to v05 evc111.",
+  "history": [
+   {
+    "stage": "editorial",
+    "old": "Heh. Now this is starting to feel like the real thing.",
+    "reason": "Same line as in-mission evc111_krn_08; reuse that wording."
+   }
+  ],
+  "sec": 3.34
+ },
+ "d_061.adi": {
+  "en": "An idiot who's quit worrying sure is tough.",
+  "status": "translated",
+  "slice": "v13",
+  "sec": 3.67
+ },
+ "d_062.adi": {
+  "en": "Men... every last one of them goes and leaves me behind!",
+  "status": "translated",
+  "slice": "v13",
+  "sec": 5.42
+ },
+ "d_063.adi": {
+  "en": "What, she's a dyed-in-the-wool softie too? Don't take the military lightly!",
+  "status": "translated",
+  "slice": "v13",
+  "sec": 6.32
+ },
+ "d_064.adi": {
+  "en": "Then don't say it at all!",
+  "status": "translated",
+  "slice": "v13",
+  "sec": 1.63
+ },
+ "d_065.adi": {
+  "en": "This team might just change my luck.",
+  "status": "translated",
+  "slice": "v13",
+  "note": "ASR 'shoui' / 'tsuki (moon)' read as shoutai / tsuki (luck).",
+  "sec": 4.37
+ },
+ "d_066.adi": {
+  "en": "I'm... I'm not a grim reaper.",
+  "status": "translated",
+  "slice": "v13",
+  "note": "Sanders's 'Grim Reaper' jinx (uncoded).",
+  "sec": 4.64
+ },
+ "d_067.adi": {
+  "en": "Our BB, who art in heaven!",
+  "status": "translated",
+  "slice": "v13",
+  "note": "Lord's Prayer parody; BB is Michel's girlfriend (v05 evc077), so the speaker may be Michel despite the tsj_08 code.",
+  "sec": 1.97
+ },
+ "d_068.adi": {
+  "en": "The Lieutenant... hahaha... snapped! Hahaha!",
+  "status": "translated",
+  "slice": "v13",
+  "note": "ASR 'taichou (health)' = taichou; Shiro is 'Lieutenant' to his team (v05).",
+  "sec": 5.01
+ },
+ "d_069.adi": {
+  "en": "Is there anyone who hates beautiful things?",
+  "status": "translated",
+  "slice": "v13",
+  "note": "Read as Aina's known line (coded tsj_08).",
+  "sec": 3.42
+ },
+ "d_070.adi": {
+  "en": "Get away! Do you want to die?!",
+  "status": "translated",
+  "slice": "v13",
+  "note": "Same line as v05 evc086.",
+  "sec": 2.11
+ },
+ "d_070_ain_08.adi": {
+  "en": "Get away! Do you want to die?!",
+  "status": "translated",
+  "slice": "v13",
+  "note": "Same audio as d_070.",
+  "sec": 2.11
+ },
+ "d_071.adi": {
+  "en": "Pride, honor, order... a daughter of the Sakhalin family... I'm just like a doll.",
+  "status": "translated",
+  "slice": "v13",
+  "sec": 7.42
+ },
+ "d_072.adi": {
+  "en": "If only we two were the last man and woman left in this world.",
+  "status": "translated",
+  "slice": "v13",
+  "sec": 4.89
+ },
+ "d_073.adi": {
+  "en": "This is my war.",
+  "status": "translated",
+  "slice": "v13",
+  "sec": 2.47
+ },
+ "d_074.adi": {
+  "en": "Goodbye, brother.",
+  "status": "translated",
+  "slice": "v13",
+  "note": "Aina to Ginius.",
+  "sec": 1.83
+ },
+ "d_075.adi": {
+  "en": "You wrong me. I'm not made of wood, you know.",
+  "status": "translated",
+  "slice": "v13",
+  "note": "Idiom 'not born from the fork of a tree' = not without feelings; tree imagery kept as 'made of wood'.",
+  "sec": 4.7
+ },
+ "d_076.adi": {
+  "en": "Hmph! Abandoning the base! That proves incompetence as a soldier!",
+  "status": "translated",
+  "slice": "v13",
+  "sec": 4.89
+ },
+ "d_077.adi": {
+  "en": "Your good eyes will kill you!",
+  "status": "translated",
+  "slice": "v13",
+  "note": "Same wording as v05 evc123.",
+  "sec": 1.45
+ },
+ "d_077_nrs_08.adi": {
+  "en": "Your good eyes will kill you!",
+  "status": "translated",
+  "slice": "v13",
+  "note": "Same audio as d_077.",
+  "sec": 1.45
+ },
+ "d_078.adi": {
+  "en": "It's so fast it's almost frightening. Can a machine this sensitive work in real combat?",
+  "status": "translated",
+  "slice": "v13",
+  "sec": 4.85
+ },
+ "d_079.adi": {
+  "en": "If we hadn't fought, many more people would have died. It couldn't be helped.",
+  "status": "translated",
+  "slice": "v13",
+  "sec": 5.52
+ },
+ "d_080.adi": {
+  "en": "If you fight, people die because of it. But even if you don't, they still die. There's no right thing to do, anywhere. I just have to do what I can.",
+  "status": "editorial",
+  "slice": "v13",
+  "history": [
+   {
+    "stage": "editorial",
+    "old": "If you fight, people die because of it. But even if you don't, they still die. Nothing is right anywhere. All I can do is what I'm able to.",
+    "reason": "'Nothing is right anywhere' and 'what I'm able to' were stiff; same meaning."
+   }
+  ],
+  "sec": 12.34
+ },
+ "d_081.adi": {
+  "en": "Phew. All the way out here, and I'm stuck dealing with a kid.",
+  "status": "translated",
+  "slice": "v13",
+  "sec": 5.25
+ },
+ "d_081_ber_80.adi": {
+  "en": "Phew. All the way out here, and I'm stuck dealing with a kid.",
+  "status": "translated",
+  "slice": "v13",
+  "note": "Same audio as d_081.",
+  "sec": 5.25
+ },
+ "d_082.adi": {
+  "en": "Born and raised in Sydney. I bet the city's all white with snow right now.",
+  "status": "translated",
+  "slice": "v13",
+  "sec": 6.05
+ },
+ "d_083.adi": {
+  "en": "I found myself wanting to fight it... the Gundam.",
+  "status": "translated",
+  "slice": "v13",
+  "sec": 3.87
+ },
+ "d_084.adi": {
+  "en": "Sorry, Bernie. One more kill and you'd have been an ace.",
+  "status": "translated",
+  "slice": "v13",
+  "sec": 4.11
+ },
+ "d_085.adi": {
+  "en": "For those who are about to perish.",
+  "status": "translated",
+  "slice": "v13",
+  "sec": 2.5
+ },
+ "d_085_mih_80.adi": {
+  "en": "For those who are about to perish.",
+  "status": "translated",
+  "slice": "v13",
+  "note": "Same audio as d_085.",
+  "sec": 2.5
+ },
+ "d_086.adi": {
+  "en": "Come on! I'll teach you how to fight!",
+  "status": "translated",
+  "slice": "v13",
+  "note": "Misha; same wording as v05 evc134.",
+  "sec": 3.31
+ },
+ "d_087.adi": {
+  "en": "Even so, I'm a Federation officer!",
+  "status": "translated",
+  "slice": "v13",
+  "sec": 2.78
+ },
+ "d_088.adi": {
+  "en": "I don't want carrots.",
+  "status": "translated",
+  "slice": "v13",
+  "sec": 1.1
+ },
+ "d_089.adi": {
+  "en": "We're almost through the first line!",
+  "status": "translated",
+  "slice": "v13",
+  "note": "ASR 'dai-issei' read as dai-issen (first line).",
+  "sec": 2.78
+ },
+ "d_090.adi": {
+  "en": "Go down!",
+  "status": "translated",
+  "slice": "v13",
+  "sec": 1.56
+ },
+ "d_091.adi": {
+  "en": "It's passed the point of no return...",
+  "status": "editorial",
+  "slice": "v13",
+  "history": [
+   {
+    "stage": "editorial",
+    "old": "It's crossed the interception limit point...",
+    "reason": "'Interception limit point' was opaque; briefing br_c16_01 renders the same 0083 term as 'point of no return'."
+   }
+  ],
+  "sec": 2.46
+ },
+ "d_092.adi": {
+  "en": "You bastards!",
+  "status": "translated",
+  "slice": "v13",
+  "note": "Same wording as v05 evc209.",
+  "sec": 1.85
+ },
+ "d_093.adi": {
+  "en": "All right, don't go drawing your pay for nothing!",
+  "status": "translated",
+  "slice": "v13",
+  "sec": 2.77
+ },
+ "d_093_bng_83.adi": {
+  "en": "All right, don't go drawing your pay for nothing!",
+  "status": "translated",
+  "slice": "v13",
+  "note": "Same audio as d_093.",
+  "sec": 2.77
+ },
+ "d_094.adi": {
+  "en": "Times like that, you take cover.",
+  "status": "translated",
+  "slice": "v13",
+  "sec": 1.87
+ },
+ "d_095.adi": {
+  "en": "Ah... so I'm an old-timer now too, huh?",
+  "status": "translated",
+  "slice": "v13",
+  "sec": 3.52
+ },
+ "d_096.adi": {
+  "en": "The military won't pay you, you know.",
+  "status": "translated",
+  "slice": "v13",
+  "sec": 1.98
+ },
+ "d_097.adi": {
+  "en": "That help came at a high price. This is the end. Withdrawing from the combat zone.",
+  "status": "translated",
+  "slice": "v13",
+  "note": "ASR 'sen'eki' (campaign) read as sen'iki (combat zone).",
+  "sec": 6.51
+ },
+ "d_098.adi": {
+  "en": "Hey, Scott... why don't you think about something else for once? Something like this.",
+  "status": "translated",
+  "slice": "v13",
+  "note": "Jacqueline Simon teasing Peter Scott (uncoded).",
+  "sec": 9.29
+ },
+ "d_099.adi": {
+  "en": "The colony is bound for Earth.",
+  "status": "editorial",
+  "slice": "v13",
+  "note": "Uncoded; verbless source line, speaker unknown (Delaz Fleet side).",
+  "history": [
+   {
+    "stage": "editorial",
+    "old": "The colony goes to Earth.",
+    "reason": "'The colony goes to Earth' read oddly; verb restored without inventing an action."
+   }
+  ],
+  "sec": 2.71
+ },
+ "d_100.adi": {
+  "en": "Hm? Has Cima botched it? Buy time until the Solar System fires!",
+  "status": "translated",
+  "slice": "v13",
+  "note": "Bask Om (uncoded); ASR 'shousha' = shousha (firing).",
+  "sec": 6.09
+ },
+ "d_101.adi": {
+  "en": "Oh, I can see the colony with my own eyes. Enough! Fire! I don't care! Do it!",
+  "status": "translated",
+  "slice": "v13",
+  "note": "Bask Om (uncoded).",
+  "sec": 6.47
+ },
+ "d_102.adi": {
+  "en": "How often I sortied from here, eluding the Federation's eyes.",
+  "status": "translated",
+  "slice": "v13",
+  "sec": 3.55
+ },
+ "d_102_gat_83.adi": {
+  "en": "How often I sortied from here, eluding the Federation's eyes.",
+  "status": "translated",
+  "slice": "v13",
+  "note": "Same audio as d_102.",
+  "sec": 3.55
+ },
+ "d_103.adi": {
+  "en": "Tch! If we dawdle, it'll endanger the great cause!",
+  "status": "translated",
+  "slice": "v13",
+  "note": "ASR garbled (low); best reading.",
+  "sec": 3.57
+ },
+ "d_104.adi": {
+  "en": "And yet how feeble. Swept aside at the first touch, as they say.",
+  "status": "translated",
+  "slice": "v13",
+  "note": "Same wording as v05 evc186.",
+  "sec": 4.25
+ },
+ "d_105.adi": {
+  "en": "Magnificent. It's as if the spirit of Zeon has taken form.",
+  "status": "translated",
+  "slice": "v13",
+  "sec": 4.98
+ },
+ "d_105_gat_83.adi": {
+  "en": "Magnificent. It's as if the spirit of Zeon has taken form.",
+  "status": "translated",
+  "slice": "v13",
+  "note": "Same audio as d_105.",
+  "sec": 4.98
+ },
+ "d_106.adi": {
+  "en": "Perhaps you are the true witness to Stardust.",
+  "status": "translated",
+  "slice": "v13",
+  "sec": 5.02
+ },
+ "d_107.adi": {
+  "en": "Take your pick!",
+  "status": "translated",
+  "slice": "v13",
+  "sec": 1.58
+ },
+ "d_107_cma_83.adi": {
+  "en": "Take your pick!",
+  "status": "translated",
+  "slice": "v13",
+  "note": "Same audio as d_107.",
+  "sec": 1.58
+ },
+ "d_108.adi": {
+  "en": "Still, who'd have thought they'd hit the soft underbelly?",
+  "status": "translated",
+  "slice": "v13",
+  "note": "Whose flank is not settled by the line; kept impersonal.",
+  "sec": 4.66
+ },
+ "d_109.adi": {
+  "en": "Get dragged off to a backwater like Axis, and business is ruined!",
+  "status": "translated",
+  "slice": "v13",
+  "note": "ASR 'henkyou (bigotry)' = henkyou (frontier).",
+  "sec": 3.7
+ },
+ "d_110.adi": {
+  "en": "Just whose side are you on?!",
+  "status": "translated",
+  "slice": "v13",
+  "note": "Same wording as v05 evc215.",
+  "sec": 1.96
+ },
+ "d_111.adi": {
+  "en": "Grit your teeth! I'll correct an adult like you!",
+  "status": "translated",
+  "slice": "v13",
+  "sec": 4.74
+ },
+ "d_111_kam_zg.adi": {
+  "en": "Grit your teeth! I'll correct an adult like you!",
+  "status": "translated",
+  "slice": "v13",
+  "note": "Same audio as d_111.",
+  "sec": 4.74
+ },
+ "d_112.adi": {
+  "en": "What's wrong with Kamille being a man's name?! I'm a man!",
+  "status": "accuracy",
+  "slice": "v13",
+  "history": [
+   {
+    "stage": "accuracy",
+    "old": "What's wrong with a guy named Kamille?! I'm a man!",
+    "reason": "The source asks what is wrong with Kamille being a man's name; restored that."
+   }
+  ],
+  "sec": 3.9
+ },
+ "d_113.adi": {
+  "en": "Looks like killing people is all I'm good for.",
+  "status": "translated",
+  "slice": "v13",
+  "sec": 3.17
+ },
+ "d_114.adi": {
+  "en": "You bastard! People died! So many people died!",
+  "status": "translated",
+  "slice": "v13",
+  "sec": 4.44
+ },
+ "d_115.adi": {
+  "en": "Ah... a big star, flickering on and off... Haha, is it a big comet? No, that's not it. Comets go more like... whoosh.",
+  "status": "translated",
+  "slice": "v13",
+  "sec": 15.76
+ },
+ "d_116.adi": {
+  "en": "I am Captain Quattro Bajeena now. Nothing more, nothing less.",
+  "status": "translated",
+  "slice": "v13",
+  "note": "ASR 'taii' as 'taii (doctor)'; rank Captain per glossary.",
+  "sec": 5.18
+ },
+ "d_117.adi": {
+  "en": "So this is youth...",
+  "status": "translated",
+  "slice": "v13",
+  "sec": 1.27
+ },
+ "d_117_qua_zg.adi": {
+  "en": "So this is youth...",
+  "status": "translated",
+  "slice": "v13",
+  "note": "Same audio as d_117.",
+  "sec": 1.27
+ },
+ "d_118.adi": {
+  "en": "It means people have hearts that can feel shame.",
+  "status": "translated",
+  "slice": "v13",
+  "sec": 3.3
+ },
+ "d_119.adi": {
+  "en": "The cactus is in bloom.",
+  "status": "translated",
+  "slice": "v13",
+  "sec": 1.82
+ },
+ "d_120.adi": {
+  "en": "Lalah's soul drifts in the Earth Sphere. I didn't think she'd be out beyond Mars.",
+  "status": "translated",
+  "slice": "v13",
+  "sec": 5.73
+ },
+ "d_121.adi": {
+  "en": "How dare you raise Mineva like this! What do you hope to gain raising someone who's nothing but prejudice?",
+  "status": "translated",
+  "slice": "v13",
+  "note": "Quattro to Haman.",
+  "sec": 6.41
+ },
+ "d_122.adi": {
+  "en": "Recreation is fine, but a boy's face weighed down with odd worries isn't a good look.",
+  "status": "translated",
+  "slice": "v13",
+  "sec": 5.41
+ },
+ "d_123.adi": {
+  "en": "Personally, I take more pride in the name 'Rick Dias'.",
+  "status": "translated",
+  "slice": "v13",
+  "note": "Quattro preferring the name Rick Dias (over Gamma Gundam); 'the name' added from that context.",
+  "sec": 3.34
+ },
+ "d_124.adi": {
+  "en": "It's just like whack-a-mole.",
+  "status": "translated",
+  "slice": "v13",
+  "note": "ASR 'yoryou' = youryou (knack).",
+  "sec": 1.84
+ },
+ "d_125.adi": {
+  "en": "Huh? Can this thing actually fly?",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 2.2
+ },
+ "d_126.adi": {
+  "en": "Don't be an adult or a child just when it suits you!",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 2.64
+ },
+ "d_127.adi": {
+  "en": "You were too much of a woman.",
+  "status": "translated",
+  "slice": "v14",
+  "note": "Emma to Reccoa.",
+  "sec": 1.74
+ },
+ "d_128.adi": {
+  "en": "Men really perk up and get sharp once there's a war, don't they?",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 3.5
+ },
+ "d_129.adi": {
+  "en": "Oh my! 'A marriage proposal coming soon'? Honestly...",
+  "status": "translated",
+  "slice": "v14",
+  "note": "Reading a fortune aloud.",
+  "sec": 2.89
+ },
+ "d_130.adi": {
+  "en": "I'm not thinking about marriage, thank you.",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 2.67
+ },
+ "d_131.adi": {
+  "en": "Gundam Mk-II, Emma, launching!",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 2.71
+ },
+ "d_131_ema_zg.adi": {
+  "en": "Gundam Mk-II, Emma, launching!",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 2.71
+ },
+ "d_132.adi": {
+  "en": "I saw Captain Henken die.",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 6.08
+ },
+ "d_133.adi": {
+  "en": "Kamille... take my life... take my life, and win!",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 9.21
+ },
+ "d_134.adi": {
+  "en": "Amuro all over again.",
+  "status": "editorial",
+  "slice": "v14",
+  "history": [
+   {
+    "stage": "editorial",
+    "old": "A second Amuro.",
+    "reason": "Matches in-mission evc240_brt_zg's rendering of the same phrase."
+   }
+  ],
+  "sec": 1.17
+ },
+ "d_135.adi": {
+  "en": "You breed resentment, and then you say that?",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 2.35
+ },
+ "d_136.adi": {
+  "en": "I've gone and become a captain who loses his ship again.",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 3.32
+ },
+ "d_137.adi": {
+  "en": "That's the Zabi family, all right. Does time just not move for these people?",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 5.09
+ },
+ "d_138.adi": {
+  "en": "Port side! Gunners! The barrage is too thin! What are you doing?!",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 3.66
+ },
+ "d_139.adi": {
+  "en": "Search team, where were you looking?",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 2.07
+ },
+ "d_140.adi": {
+  "en": "Lieutenant, care to join me for tea?",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 2.59
+ },
+ "d_141.adi": {
+  "en": "But you know... if it left you unable to have babies...",
+  "status": "translated",
+  "slice": "v14",
+  "note": "Trails off as in the source.",
+  "sec": 4.37
+ },
+ "d_142.adi": {
+  "en": "As long as the Lieutenant's safe. Use the Radish as a shield!",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 3.26
+ },
+ "d_143.adi": {
+  "en": "Hey, Kamille. If you go down to Earth, bring me back a souvenir.",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 3.47
+ },
+ "d_144.adi": {
+  "en": "I fought enough in the One Year War.",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 2.61
+ },
+ "d_145.adi": {
+  "en": "People change, don't they?",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 1.53
+ },
+ "d_146.adi": {
+  "en": "I'm pretty sure I said 'Char' just now.",
+  "status": "translated",
+  "slice": "v14",
+  "note": "Context not certain; kept close to the words.",
+  "sec": 2.56
+ },
+ "d_147.adi": {
+  "en": "It's a dig at me. Char and Hayato both let some kid use the Gundam and just ignore me...",
+  "status": "translated",
+  "slice": "v14",
+  "note": "Trails off; Zeta-era Amuro sulking.",
+  "sec": 7.02
+ },
+ "d_148.adi": {
+  "en": "Ignore people's kindness and you'll suffer for life! Kamille!",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 3.34
+ },
+ "d_149.adi": {
+  "en": "Captain Quattro, I'd rather you didn't underestimate Karaba.",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 3.84
+ },
+ "d_150.adi": {
+  "en": "Even if it takes 10 or 20 years, you should become the Federation's Prime Minister.",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 4.91
+ },
+ "d_151.adi": {
+  "en": "Surely you could admit it by now?",
+  "status": "translated",
+  "slice": "v14",
+  "note": "Polite address (probably to Quattro).",
+  "sec": 2.41
+ },
+ "d_152.adi": {
+  "en": "As long as they're alive, that's enough. Will you tell them that?",
+  "status": "translated",
+  "slice": "v14",
+  "note": "Referent unknown: kept gender-neutral 'they'.",
+  "sec": 3.5
+ },
+ "d_154.adi": {
+  "en": "What a scary person. That glare... someone who can't live in any world but war, don't you think?",
+  "status": "translated",
+  "slice": "v14",
+  "note": "Who is described is not settled: no pronoun.",
+  "sec": 6.56
+ },
+ "d_155.adi": {
+  "en": "Just as I'm afraid of the sky falling, this person is afraid of fighting.",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 5.52
+ },
+ "d_156.adi": {
+  "en": "I'll be frank. You need to give the Mk-II to Amuro.",
+  "status": "translated",
+  "slice": "v14",
+  "note": "Listener (probably Kamille) supplied as 'you'.",
+  "sec": 3.66
+ },
+ "d_157.adi": {
+  "en": "To think I'm stuck babysitting brats like you.",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 2.85
+ },
+ "d_158.adi": {
+  "en": "These hands. Can hands like these, still untouched by filth, really kill anyone?",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 5.52
+ },
+ "d_159.adi": {
+  "en": "Someday I want the Titans in my hands too. For that, I have to swallow my pride and learn.",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 6.75
+ },
+ "d_160.adi": {
+  "en": "I've become a man who can't take a single step forward until I beat Kamille. He's a wall to me.",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 8.28
+ },
+ "d_161.adi": {
+  "en": "I haven't killed as many as you!",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 1.89
+ },
+ "d_162.adi": {
+  "en": "Traitors can go to hell!",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 2.44
+ },
+ "d_163.adi": {
+  "en": "Mouar!",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 2.32
+ },
+ "d_164.adi": {
+  "en": "Hey, will you do something for me? Kiss me.",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 2.69
+ },
+ "d_165.adi": {
+  "en": "Kamille... off to space... Goodbye.",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 3.71
+ },
+ "d_166.adi": {
+  "en": "Kamille, can I ask you again? Do you like your name?",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 4.74
+ },
+ "d_167.adi": {
+  "en": "Playing a hidden role is a difficult thing.",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 3.99
+ },
+ "d_167_pap_zg.adi": {
+  "en": "Playing a hidden role is a difficult thing.",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 3.99
+ },
+ "d_168.adi": {
+  "en": "I believe it is women who will rule the Earth after the war.",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 3.93
+ },
+ "d_169.adi": {
+  "en": "Sarah... what a sweet thing you are.",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 2.9
+ },
+ "d_170.adi": {
+  "en": "I think I could come to like that woman.",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 2.58
+ },
+ "d_171.adi": {
+  "en": "This warmth is what you have been searching for.",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 3.54
+ },
+ "d_172.adi": {
+  "en": "Sarah may forgive you, but I will not forg-",
+  "status": "translated",
+  "slice": "v14",
+  "note": "Cut off as in the source.",
+  "sec": 3.24
+ },
+ "d_173.adi": {
+  "en": "You Spacenoids should've just stayed up in the sky!",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 3.73
+ },
+ "d_173_bur_zg.adi": {
+  "en": "You Spacenoids should've just stayed up in the sky!",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 3.73
+ },
+ "d_174.adi": {
+  "en": "You stand before Lady Mineva. No more insolence!",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 4.16
+ },
+ "d_175.adi": {
+  "en": "So people can understand each other?",
+  "status": "editorial",
+  "slice": "v14",
+  "history": [
+   {
+    "stage": "editorial",
+    "old": "People can understand each other, right?",
+    "reason": "Same line as in-mission evc463_ham_zg (Haman's retort); reuse that wording."
+   }
+  ],
+  "sec": 1.8
+ },
+ "d_176.adi": {
+  "en": "Leina, just you wait. With this, I'll get you into an uptown school.",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 3.98
+ },
+ "d_177.adi": {
+  "en": "You don't know why we're struggling, not at all, not one bit! That's why grown-ups are so hopeless!",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 10.83
+ },
+ "d_178.adi": {
+  "en": "Uh-oh! The power dropped!",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 2.05
+ },
+ "d_179.adi": {
+  "en": "Wow, what a storm of emotion! The ZZ has incredible power!",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 5.63
+ },
+ "d_180.adi": {
+  "en": "I found something amazing. A Zaku! A real MS-06F! It's barely even damaged.",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 6.74
+ },
+ "d_181.adi": {
+  "en": "Nobody can fight a war sane!",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 1.69
+ },
+ "d_182.adi": {
+  "en": "Look, I'm Judau, okay?",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 2.23
+ },
+ "d_182_jud_zz.adi": {
+  "en": "Look, I'm Judau, okay?",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 2.23
+ },
+ "d_183.adi": {
+  "en": "We get to see a Newtype showdown!",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 2.36
+ },
+ "d_184.adi": {
+  "en": "Fa, if you're that uptight, no guy's ever going to look your way.",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 4.6
+ },
+ "d_185.adi": {
+  "en": "They say it's cute when a cool woman messes up.",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 2.76
+ },
+ "d_186.adi": {
+  "en": "You blockhead!",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 1.3
+ },
+ "d_186_rlk_zz.adi": {
+  "en": "You blockhead!",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 1.3
+ },
+ "d_187.adi": {
+  "en": "I did it! Amazing! I could fall in love with myself!",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 3.72
+ },
+ "d_188.adi": {
+  "en": "I'll show you what a difference the ZZ's power makes!",
+  "status": "editorial",
+  "slice": "v14",
+  "history": [
+   {
+    "stage": "editorial",
+    "old": "I'll show you the difference in the ZZ's power!",
+    "reason": "'The difference in the ZZ's power' was awkward; keeps 'difference' as in evc622_rlk_zz."
+   }
+  ],
+  "sec": 3.41
+ },
+ "d_189.adi": {
+  "en": "Listen. People in the old days died for far more senseless reasons. If it frustrates you, why not get your will to fight back?",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 9.89
+ },
+ "d_190.adi": {
+  "en": "You're not the real thing. Getting distracted by a fight in the middle of hitting on a woman. That's exactly what gets on my nerves most.",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 8.1
+ },
+ "d_191.adi": {
+  "en": "Roux Louka, Zeta, launching!",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 1.94
+ },
+ "d_191_rlk_zz.adi": {
+  "en": "Roux Louka, Zeta, launching!",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 1.94
+ },
+ "d_192.adi": {
+  "en": "When the big brother's a slob, the little sister has it rough, huh?",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 3.67
+ },
+ "d_193.adi": {
+  "en": "Simple-minded as ever, huh?",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 2.96
+ },
+ "d_194.adi": {
+  "en": "Why should we kids have to fight and clean up after a war the grown-ups started on their own?!",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 6.69
+ },
+ "d_195.adi": {
+  "en": "Hey, this is real gravity! We're falling! Earth is one ridiculously huge water drop!",
+  "status": "translated",
+  "slice": "v14",
+  "note": "Male speech; probably Judau.",
+  "sec": 10.54
+ },
+ "d_196.adi": {
+  "en": "Captain Bright, let me say it next! Nahel Argama, launch!",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 4.25
+ },
+ "d_197.adi": {
+  "en": "Think you can finish us off any time, huh? Making fools of us! Fine, I'll smash 'em, colony and all!",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 7.04
+ },
+ "d_198.adi": {
+  "en": "This could be worth money.",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 1.54
+ },
+ "d_198_mnd_zz.adi": {
+  "en": "This could be worth money.",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 1.54
+ },
+ "d_199.adi": {
+  "en": "If it's for Rasara...",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 2.66
+ },
+ "d_200.adi": {
+  "en": "Well, it's not that we don't want to sortie. We just can't find a reason to fight, that's all.",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 7.78
+ },
+ "d_201.adi": {
+  "en": "Wow! Nothing but the latest machinery! This'll sell for a fortune!",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 5.93
+ },
+ "d_202.adi": {
+  "en": "Isn't saving Leina reason enough? Judau and Leina are our friends, aren't they?",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 6.6
+ },
+ "d_203.adi": {
+  "en": "Shut up, you nagging old hag!",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 1.91
+ },
+ "d_204.adi": {
+  "en": "That boob monster!",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 2.16
+ },
+ "d_205.adi": {
+  "en": "The Captain's lived alone a long time.",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 2.18
+ },
+ "d_206.adi": {
+  "en": "Hmm, what superb skill.",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 2.64
+ },
+ "d_207.adi": {
+  "en": "Stop fussing like an old uncle.",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 2.11
+ },
+ "d_208.adi": {
+  "en": "Thank you, Captain Bright, and everyone on the Argama.",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 3.18
+ },
+ "d_209.adi": {
+  "en": "We'll be together... we won't... we will... we won't... we will... Captain Bright!",
+  "status": "translated",
+  "slice": "v14",
+  "note": "Petal-plucking fortune (loves me, loves me not); probably Emary.",
+  "sec": 10.89
+ },
+ "d_210.adi": {
+  "en": "Don't worry about it. Just think of it as an expensive lesson.",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 3.98
+ },
+ "d_210_ham_zz.adi": {
+  "en": "Don't worry about it. Just think of it as an expensive lesson.",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 3.98
+ },
+ "d_211.adi": {
+  "en": "With you, I end up speaking my true feelings so freely. How strange.",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 5.71
+ },
+ "d_212.adi": {
+  "en": "I hate that clingy stuff. Save the rest for heaven or something.",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 5.84
+ },
+ "d_213.adi": {
+  "en": "To put this much pressure on me... Judau Ashta is far too dangerous.",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 10.16
+ },
+ "d_214.adi": {
+  "en": "As if battles ever go by the textbook!",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 2.51
+ },
+ "d_215.adi": {
+  "en": "Ple-ple-ple-ple-ple-ple!",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 1.82
+ },
+ "d_216.adi": {
+  "en": "My heart's all fluttery... but it feels really good. What's happening to me?",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 6.21
+ },
+ "d_217.adi": {
+  "en": "I'm Elpeo Ple! Nice to meet you!",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 2.88
+ },
+ "d_217_ple_zz.adi": {
+  "en": "I'm Elpeo Ple! Nice to meet you!",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 2.88
+ },
+ "d_218.adi": {
+  "en": "This enemy makes me all prickly! I hate it!",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 2.68
+ },
+ "d_218_ple_zz.adi": {
+  "en": "This enemy makes me all prickly! I hate it!",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 2.68
+ },
+ "d_219.adi": {
+  "en": "Ah, this feeling... Ah, what is this feeling, this grating...",
+  "status": "translated",
+  "slice": "v14",
+  "note": "Trails off as in the source.",
+  "sec": 7.44
+ },
+ "d_219_plt_zz.adi": {
+  "en": "Ah, this feeling... Ah, what is this feeling, this grating...",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 7.44
+ },
+ "d_220.adi": {
+  "en": "Yucky feeling, go away!",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 2.32
+ },
+ "d_221.adi": {
+  "en": "What a nice breeze. It feels good on my flushed body.",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 3.71
+ },
+ "d_222.adi": {
+  "en": "A lion gives its all to bring down even a rabbit, so it can live. I, too, swear by this rose...",
+  "status": "translated",
+  "slice": "v14",
+  "note": "Trails off as in the source.",
+  "sec": 6.12
+ },
+ "d_223.adi": {
+  "en": "By the rose on my breast, I will defeat you! Prepare yourself, Zeta!",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 5.14
+ },
+ "d_224.adi": {
+  "en": "Fate will surely bring Lady Haman a glorious victory! Evil will be repaid with evil, and sin with sin!",
+  "status": "translated",
+  "slice": "v14",
+  "note": "Same wording as his briefing line in an earlier slice.",
+  "sec": 9.03
+ },
+ "d_225.adi": {
+  "en": "How?! There's a kid piloting that thing!",
+  "status": "editorial",
+  "slice": "v14",
+  "history": [
+   {
+    "stage": "editorial",
+    "old": "Why?! There's a child aboard that thing!",
+    "reason": "Same line as in-mission evc655_rkn_zz; reuse that wording."
+   }
+  ],
+  "sec": 3.14
+ },
+ "d_226.adi": {
+  "en": "Clever words, for a greenhorn.",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 2.21
+ },
+ "d_227.adi": {
+  "en": "You're mine, brats!",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 1.83
+ },
+ "d_228.adi": {
+  "en": "Such a quick change of heart.",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 2.1
+ },
+ "d_229.adi": {
+  "en": "Is it sunny in Dublin?",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 1.54
+ },
+ "d_230.adi": {
+  "en": "Is that light an Argama mobile suit? Perhaps Miss Roux Louka is aboard it after all.",
+  "status": "accuracy",
+  "slice": "v14",
+  "history": [
+   {
+    "stage": "accuracy",
+    "old": "Is that light an Argama mobile suit? Surely Miss Roux Louka is aboard it.",
+    "reason": "The source is a tentative guess ('I wonder... after all'); 'Surely' overstated it."
+   }
+  ],
+  "sec": 8.2
+ },
+ "d_231.adi": {
+  "en": "Allow me to repay you for that time. Mama always told me to settle my debts properly.",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 7.1
+ },
+ "d_231_glt_zz.adi": {
+  "en": "Allow me to repay you for that time. Mama always told me to settle my debts properly.",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 7.1
+ },
+ "d_232.adi": {
+  "en": "Heh heh, I've finally caught you. What is this pounding in my chest? Mama, could this be what they call love?",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 12.14
+ },
+ "d_233.adi": {
+  "en": "This would suit Roux Louka. But I don't know her measurements.",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 7.5
+ },
+ "d_234.adi": {
+  "en": "You seem to be kind to any woman at all, Judau.",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 4.63
+ },
+ "d_235.adi": {
+  "en": "A-all right, Roux, have it your way. If it's you who defeats me, I have no regrets. Come, Roux...",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 10.51
+ },
+ "d_236.adi": {
+  "en": "Let it be as Venus wills. Then she shall bring Mars to us.",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 6.63
+ },
+ "d_237.adi": {
+  "en": "I am a man who could easily rule Neo Zeon.",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 3.02
+ },
+ "d_237_glt_zz.adi": {
+  "en": "I am a man who could easily rule Neo Zeon.",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 3.02
+ },
+ "d_238.adi": {
+  "en": "If you call it tainted blood, I will humbly accept those words. But when next we meet, I'll take your head cleanly and rebuild Zeon's kingdom of blood with my own hands.",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 14.09
+ },
+ "d_239.adi": {
+  "en": "That's just your ego!",
+  "status": "translated",
+  "slice": "v14",
+  "note": "Same wording as the earlier slice.",
+  "sec": 1.21
+ },
+ "d_239_amr_cc.adi": {
+  "en": "That's just your ego!",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 1.21
+ },
+ "d_240.adi": {
+  "en": "That's some brilliant commanding.",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 2.87
+ },
+ "d_241.adi": {
+  "en": "Damn, I've started having that same dream again.",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 3.87
+ },
+ "d_241_amr_cc.adi": {
+  "en": "Damn, I've started having that same dream again.",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 3.87
+ },
+ "d_242.adi": {
+  "en": "'Cause Chan's too charming.",
+  "status": "translated",
+  "slice": "v14",
+  "note": "Chan Agi (official name).",
+  "sec": 1.73
+ },
+ "d_243.adi": {
+  "en": "We have to stop Axis no matter what!",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 2.0
+ },
+ "d_244.adi": {
+  "en": "The Captain's not here, so...",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 1.3
+ },
+ "d_244_kyr_cc.adi": {
+  "en": "The Captain's not here, so...",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 1.3
+ },
+ "d_245.adi": {
+  "en": "All right! Now I can crush Char all on my own!",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 3.61
+ },
+ "d_246.adi": {
+  "en": "Oh, Astonaige, the things you say!",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 2.62
+ },
+ "d_247.adi": {
+  "en": "Love you.",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 0.75
+ },
+ "d_248.adi": {
+  "en": "They only got the decorations.",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 1.66
+ },
+ "d_249.adi": {
+  "en": "When Londo Bell goes in to investigate, the locals just clam up.",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 4.06
+ },
+ "d_251.adi": {
+  "en": "What are you doing?! The Jegan squad!",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 2.47
+ },
+ "d_252.adi": {
+  "en": "Ready the dummy missiles! First missile wave, fire!",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 3.77
+ },
+ "d_253.adi": {
+  "en": "Use the anti-missile particle shells sparingly!",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 3.06
+ },
+ "d_254.adi": {
+  "en": "If you come out to fight too, what happens to your mother and Cheimin?",
+  "status": "translated",
+  "slice": "v14",
+  "note": "Bright to Hathaway; Cheimin Noa is his daughter.",
+  "sec": 4.15
+ },
+ "d_255.adi": {
+  "en": "Could that light be... the Psycho-Frame light Chan was talking about?",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 5.64
+ },
+ "d_256.adi": {
+  "en": "Amuro, I'm doing something ruthless. If you're close by, then try to sense me.",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 7.48
+ },
+ "d_257.adi": {
+  "en": "Unlike you, I can't afford to be just a pilot.",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 3.83
+ },
+ "d_258.adi": {
+  "en": "Those who remain on Earth are people whose souls are bound by gravity, doing nothing but polluting it.",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 6.87
+ },
+ "d_259.adi": {
+  "en": "And then I shall be called to the side of my father, Zeon.",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 4.32
+ },
+ "d_260.adi": {
+  "en": "There were nukes among the missiles. Well done, Londo Bell.",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 4.2
+ },
+ "d_261.adi": {
+  "en": "Only one nuclear missile among these as well. Well done, Bright.",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 3.87
+ },
+ "d_262.adi": {
+  "en": "Is there any meaning in beating a pathetic mobile suit? ...And yet, this is nonsense.",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 6.6
+ },
+ "d_262_chr_cc.adi": {
+  "en": "Is there any meaning in beating a pathetic mobile suit? ...And yet, this is nonsense.",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 6.6
+ },
+ "d_263.adi": {
+  "en": "Wow, they made CG straight from the footage of the last battle!",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 6.3
+ },
+ "d_264.adi": {
+  "en": "Oh, so that's Amuro Ray. Over heeere!",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 6.28
+ },
+ "d_265.adi": {
+  "en": "Amuro, that's kind of cheap of you.",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 2.55
+ },
+ "d_266.adi": {
+  "en": "There's a nasty woman on the Ra Cailum.",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 3.09
+ },
+ "d_267.adi": {
+  "en": "Why... do I feel... so sick...",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 5.96
+ },
+ "d_267_qes_cc.adi": {
+  "en": "Why... do I feel... so sick...",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 5.96
+ },
+ "d_268.adi": {
+  "en": "Here goes! Somersault!",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 3.24
+ },
+ "d_269.adi": {
+  "en": "Nnnnngh!",
+  "status": "translated",
+  "slice": "v14",
+  "note": "Sustained 'gyuu' sound; Whisper repeated it. Rendered as a strain cry.",
+  "sec": 2.2
+ },
+ "d_269_qes_cc.adi": {
+  "en": "Nnnnngh!",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 2.2
+ },
+ "d_270.adi": {
+  "en": "I hate kids! They're so pushy!",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 4.37
+ },
+ "d_271.adi": {
+  "en": "Give me a break! I already get grief for coming from the Newtype Lab as it is.",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 6.04
+ },
+ "d_271_gyn_cc.adi": {
+  "en": "Give me a break! I already get grief for coming from the Newtype Lab as it is.",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 6.04
+ },
+ "d_272.adi": {
+  "en": "He's just using war to vent his frustrations. When someone like the Colonel snaps, he goes and smashes colonies.",
+  "status": "editorial",
+  "slice": "v14",
+  "note": "Subject of the first sentence inferred as Char from the second.",
+  "history": [
+   {
+    "stage": "editorial",
+    "old": "He's just taking his frustrations out on war. When someone like the Colonel snaps, he goes and smashes colonies.",
+    "reason": "'Taking his frustrations out on war' made war the target; the source means war is his outlet."
+   }
+  ],
+  "sec": 7.53
+ },
+ "d_273.adi": {
+  "en": "I'm a Newtype.",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 1.04
+ },
+ "d_274.adi": {
+  "en": "Nobody has to tell me. I won't let the Colonel have Quess.",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 3.07
+ },
+ "d_275.adi": {
+  "en": "Go, funnels! The missile giving off the most heat! Hit it!",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 5.45
+ },
+ "d_276.adi": {
+  "en": "What's this pressure from the upper left? The Gundam?!",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 3.16
+ },
+ "d_277.adi": {
+  "en": "No doubt about it! That's the Gundam! Take that down, and Colonel, Supreme Commander, whoever...!",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 5.99
+ },
+ "d_278.adi": {
+  "en": "Amuro Ray is a man who mistakes kindness for a Newtype's weapon. A woman could forgive a man like that, but the Colonel cannot forgive such an Amuro.",
+  "status": "translated",
+  "slice": "v14",
+  "note": "Nanai's line despite the rzn code.",
+  "sec": 11.33
+ },
+ "d_279.adi": {
+  "en": "So love has turned into hatred a hundredfold?",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 2.68
+ },
+ "d_280.adi": {
+  "en": "Colonel, your strategy is perfect.",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 3.01
+ },
+ "d_281.adi": {
+  "en": "You wear yourself out because you wish to be Char Aznable... no, Casval Deikun.",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 6.13
+ },
+ "d_282.adi": {
+  "en": "Ah... the Colonel... the Colonel's life is being drained away...",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 8.12
+ },
+ "d_283.adi": {
+  "en": "Some strategy! Mobile suits are supposed to be about close combat!",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 4.49
+ },
+ "d_284.adi": {
+  "en": "Not bad, darting around like that.",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 2.29
+ },
+ "d_284_rzn_cc.adi": {
+  "en": "Not bad, darting around like that.",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 2.29
+ },
+ "d_285.adi": {
+  "en": "Diligent, aren't you.",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 0.94
+ },
+ "d_286.adi": {
+  "en": "Hmph! Londo Bell should just stick to ringing their bells!",
+  "status": "translated",
+  "slice": "v14",
+  "note": "Pun on 'Bell'.",
+  "sec": 3.68
+ },
+ "d_287.adi": {
+  "en": "What is this power? I'm taking a direct hit!",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 5.29
+ },
+ "d_288.adi": {
+  "en": "But, come on... it's Arthur!",
+  "status": "translated",
+  "slice": "v14",
+  "note": "Arthur Jung (official name).",
+  "sec": 3.25
+ },
+ "d_289.adi": {
+  "en": "Like hell we're getting killed for grown-ups' convenience!",
+  "status": "translated",
+  "slice": "v14",
+  "note": "Subject read as 'we' (Seabook leading the kids); the clip does not settle I/we.",
+  "sec": 3.36
+ },
+ "d_290.adi": {
+  "en": "This mobile suit... Mom worked on it.",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 4.3
+ },
+ "d_291.adi": {
+  "en": "You seem like you're in a hurry to die.",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 2.31
+ },
+ "d_292.adi": {
+  "en": "I wonder if this bio-sensor is in sync with my biorhythm.",
+  "status": "translated",
+  "slice": "v14",
+  "note": "Transcript says bio-sensor (F91 has a bio-computer); kept as heard.",
+  "sec": 3.89
+ },
+ "d_293.adi": {
+  "en": "So being big and eating army food makes you better, huh?",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 3.35
+ },
+ "d_294.adi": {
+  "en": "This happened because I wore Mama's dress.",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 3.01
+ },
+ "d_294_ccl_91.adi": {
+  "en": "This happened because I wore Mama's dress.",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 3.01
+ },
+ "d_295.adi": {
+  "en": "This thing Mother left me... it sounds like it's ringing.",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 3.09
+ },
+ "d_295_ccl_91.adi": {
+  "en": "This thing Mother left me... it sounds like it's ringing.",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 3.09
+ },
+ "d_296.adi": {
+  "en": "I'm still Cecily Fairchild.",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 3.03
+ },
+ "d_297.adi": {
+  "en": "There used to be a mobile suit with a face like this. Let's code-name it Gundam F91.",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 7.03
+ },
+ "d_298.adi": {
+  "en": "To escape, you've got to use anything.",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 2.12
+ },
+ "d_299.adi": {
+  "en": "All of you holding your ground here are far more battle-ready than soldiers who only draw a paycheck.",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 6.94
+ },
+ "d_300.adi": {
+  "en": "Come on! I'm going down below!",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 3.27
+ },
+ "d_301.adi": {
+  "en": "If you don't want your sister killed and thrown out into cold space, then pilot!",
+  "status": "translated",
+  "slice": "v14",
+  "note": "Listener's sister assumed ('your'); speaker unidentified.",
+  "sec": 5.99
+ },
+ "d_302.adi": {
+  "en": "A mere pawn...",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 1.95
+ },
+ "d_303.adi": {
+  "en": "They say a Newtype can see things as they are and grasp their true nature. I'm starting to want to believe it.",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 8.49
+ },
+ "d_304.adi": {
+  "en": "A new Federation model? Could be. This is what comes of the old man obsessing over Berah Ronah.",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 9.21
+ },
+ "d_305.adi": {
+  "en": "The thousand-year dream of the Ronah family: to let humanity survive for all eternity.",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 7.46
+ },
+ "d_305_kzo_91.adi": {
+  "en": "The thousand-year dream of the Ronah family: to let humanity survive for all eternity.",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 7.46
+ },
+ "d_306.adi": {
+  "en": "The Ronah family must have come to need you. I'm only carrying out Grandfather's orders.",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 7.3
+ },
+ "d_307.adi": {
+  "en": "Don't let even a single mobile suit escape! Every one of you, win yourselves glory!",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 4.95
+ },
+ "d_308.adi": {
+  "en": "I'm still Kincade Nau, after all. I have to go.",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 4.72
+ },
+ "d_309.adi": {
+  "en": "I'm human! Being human is enough for me!",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 3.57
+ },
+ "d_309_tva_cb.adi": {
+  "en": "I'm human! Being human is enough for me!",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 3.57
+ },
+ "d_310.adi": {
+  "en": "You're dead, remember? A dead man can't go showing up like this.",
+  "status": "translated",
+  "slice": "v14",
+  "sec": 6.39
+ },
  "evc001_chr_fg.adi": {
   "en": "No one has ever attacked at a moment like this before. Now, how will you respond, Trojan Horse?",
   "status": "translated",
@@ -4338,8 +6630,8 @@
   "sec": 5.75
  },
  "evc002_amr_fg.adi": {
-  "en": "Damn you, Char! If it's a mobile suit, it's not a person! I'll do it!",
-  "status": "editorial",
+  "en": "Damn you, Char! If it's a mobile suit, there's no person in it! I'll do it!",
+  "status": "translated",
   "slice": "v04",
   "note": "'Shaa-men' read as 'Shaa-me' (damn you, Char). Lit. 'if the opponent is a mobile suit, it isn't a human.'",
   "history": [
@@ -4384,8 +6676,8 @@
   "sec": 3.17
  },
  "evc008_chr_fg.adi": {
-  "en": "That's a new battleship for you. Nothing like what we've faced before.",
-  "status": "editorial",
+  "en": "As expected of a new battleship. It's nothing like the ones before.",
+  "status": "translated",
   "slice": "v04",
   "note": "'Shinzou' (heart) = shinzou (newly built).",
   "history": [
@@ -4588,8 +6880,8 @@
   "sec": 1.45
  },
  "evc039_kai_fg.adi": {
-  "en": "Is that Sleggar? He's rushing it! At times like this, whoever panics loses.",
-  "status": "editorial",
+  "en": "Is that Sleggar? Too fast, too fast. At times like this, whoever panics loses.",
+  "status": "translated",
   "slice": "v05",
   "note": "Kai reacting to Sleggar charging in (previous row).",
   "history": [
@@ -4614,8 +6906,8 @@
   "sec": 2.15
  },
  "evc042_amr_fg.adi": {
-  "en": "So beams don't work!",
-  "status": "editorial",
+  "en": "Beams really don't work!",
+  "status": "translated",
   "slice": "v05",
   "history": [
    {
@@ -4633,8 +6925,8 @@
   "sec": 3.46
  },
  "evc044_slg_fg.adi": {
-  "en": "It's sad, but this is war... The rest is up to you, Gundam boy.",
-  "status": "editorial",
+  "en": "It's sad, but this is war... Gundam, kiddo, I'm leaving the rest to you.",
+  "status": "translated",
   "slice": "v05",
   "note": "'Gundam-chan': affectionate address to Amuro via his suit; rendered 'Gundam, kiddo'.",
   "history": [
@@ -4678,8 +6970,8 @@
   "sec": 3.74
  },
  "evc050_kai_fg.adi": {
-  "en": "Amuro, that thing you said earlier... was it true?",
-  "status": "editorial",
+  "en": "Amuro, was what you said earlier true?",
+  "status": "translated",
   "slice": "v05",
   "history": [
    {
@@ -4697,8 +6989,8 @@
   "sec": 4.96
  },
  "evc052_kai_fg.adi": {
-  "en": "Guess that's true. People can never become God, no matter how hard they try.",
-  "status": "editorial",
+  "en": "Guess that's true. People can't become God, even if they stand on their heads.",
+  "status": "translated",
   "slice": "v05",
   "history": [
    {
@@ -4899,8 +7191,8 @@
   "sec": 3.35
  },
  "evc084_tsj_08.adi": {
-  "en": "Commander! Fighters overhead!",
-  "status": "accuracy",
+  "en": "Lieutenant! Fighters overhead!",
+  "status": "translated",
   "slice": "v05",
   "history": [
    {
@@ -4985,8 +7277,8 @@
   "sec": 1.77
  },
  "evc097_nrs_08.adi": {
-  "en": "I shall secure your escape route in fine style.",
-  "status": "editorial",
+  "en": "I shall secure your escape route, splendidly.",
+  "status": "translated",
   "slice": "v05",
   "note": "Norris to Aina; polite ending cut short in audio.",
   "history": [
@@ -5049,8 +7341,8 @@
   "sec": 2.36
  },
  "evc106_nrs_08.adi": {
-  "en": "Kind of you to build me an escape route.",
-  "status": "editorial",
+  "en": "Sorry to make you build me an escape route.",
+  "status": "translated",
   "slice": "v05",
   "note": "Sarcastic thanks.",
   "history": [
@@ -5075,8 +7367,8 @@
   "sec": 0.33
  },
  "evc109_sir_08.adi": {
-  "en": "Tough break, but refocus! Or you'll die!",
-  "status": "editorial",
+  "en": "Shame, but clear your head! Or you'll die!",
+  "status": "translated",
   "slice": "v05",
   "history": [
    {
@@ -5112,8 +7404,8 @@
   "sec": 2.33
  },
  "evc114_nrs_08.adi": {
-  "en": "Hah! You do entertain me!",
-  "status": "editorial",
+  "en": "Hah! You're entertaining me!",
+  "status": "translated",
   "slice": "v05",
   "history": [
    {
@@ -5174,8 +7466,8 @@
   "sec": 5.93
  },
  "evc123_nrs_08.adi": {
-  "en": "Your sharp eyes will kill you!",
-  "status": "editorial",
+  "en": "Your good eyes will kill you!",
+  "status": "translated",
   "slice": "v05",
   "history": [
    {
@@ -5364,8 +7656,8 @@
   "sec": 4.11
  },
  "evc154_crs_80.adi": {
-  "en": "Nobody's on the slope.",
-  "status": "editorial",
+  "en": "The slope's uninhabited.",
+  "status": "translated",
   "slice": "v05",
   "history": [
    {
@@ -5588,8 +7880,8 @@
   "sec": 9.5
  },
  "evc192_kou_83.adi": {
-  "en": "You must be satisfied, Gato! But for us, having Unit 2 stolen is a humiliation!",
-  "status": "editorial",
+  "en": "You must be satisfied, Gato! But for us, who lost Unit 2, it's humiliating!",
+  "status": "translated",
   "slice": "v05",
   "history": [
    {
@@ -5886,8 +8178,8 @@
   "sec": 2.53
  },
  "evc240_brt_zg.adi": {
-  "en": "If that one's really piloting it, it's Amuro all over again.",
-  "status": "editorial",
+  "en": "If that's who's piloting it, it's Amuro all over again.",
+  "status": "translated",
   "slice": "v06",
   "history": [
    {
@@ -5905,8 +8197,8 @@
   "sec": 3.54
  },
  "evc243_qua_zg.adi": {
-  "en": "Another one? Are they fighting each other?!",
-  "status": "editorial",
+  "en": "There's another one? Are they fighting each other?!",
+  "status": "translated",
   "slice": "v06",
   "history": [
    {
@@ -5985,8 +8277,8 @@
   "sec": 1.62
  },
  "evc255_sl1_ti.adi": {
-  "en": "Lt. Jerid Messa, careful! Don't push it! You can't be used to it yet!",
-  "status": "editorial",
+  "en": "Lt. Jerid Messa, careful! Don't push it! You can't be used to that machine yet!",
+  "status": "translated",
   "slice": "v06",
   "history": [
    {
@@ -6004,8 +8296,8 @@
   "sec": 0.58
  },
  "evc257_kam_zg.adi": {
-  "en": "Jerid... so it's you! I'll never forgive you!",
-  "status": "editorial",
+  "en": "Jerid... it's him! I'll never forgive you!",
+  "status": "translated",
   "slice": "v06",
   "history": [
    {
@@ -6067,8 +8359,8 @@
   "sec": 1.57
  },
  "evc266_kac_zg.adi": {
-  "en": "Coming your way, Jerid!",
-  "status": "editorial",
+  "en": "It's headed your way, Jerid!",
+  "status": "translated",
   "slice": "v06",
   "history": [
    {
@@ -6123,8 +8415,8 @@
   "sec": 2.89
  },
  "evc274_jer_zg.adi": {
-  "en": "Unbelievable! Is this that Kamille guy too?",
-  "status": "editorial",
+  "en": "What a guy! Is this that Kamille kid too?",
+  "status": "translated",
   "slice": "v06",
   "history": [
    {
@@ -6168,8 +8460,8 @@
   "sec": 0.51
  },
  "evc281_kam_zg.adi": {
-  "en": "Capt. Quattro's Hyaku-Shiki is here!",
-  "status": "editorial",
+  "en": "Captain Quattro's Hyaku-Shiki came for me!",
+  "status": "translated",
   "slice": "v06",
   "history": [
    {
@@ -6187,8 +8479,8 @@
   "sec": 4.9
  },
  "evc283_tls_zg.adi": {
-  "en": "Nearly there. A bit more and we can leave port.",
-  "status": "editorial",
+  "en": "Almost there. Just a bit more and we can leave port.",
+  "status": "translated",
   "slice": "v06",
   "history": [
    {
@@ -6225,8 +8517,8 @@
   "sec": 0.78
  },
  "evc288_qua_zg.adi": {
-  "en": "You're out of formation. The Argama's already set out.",
-  "status": "editorial",
+  "en": "You're too far from the line. The Argama has already set out.",
+  "status": "translated",
   "slice": "v06",
   "history": [
    {
@@ -6293,8 +8585,8 @@
   "sec": 3.4
  },
  "evc298_bur_zg.adi": {
-  "en": "Quick to deploy, I'll give them that.",
-  "status": "editorial",
+  "en": "They're quick to deploy, I'll give them that.",
+  "status": "translated",
   "slice": "v06",
   "history": [
    {
@@ -6522,8 +8814,8 @@
   "sec": 0.47
  },
  "evc335_bur_zg.adi": {
-  "en": "That's it, then. At times like this, the Asshimar's superior mobility...",
-  "status": "accuracy",
+  "en": "That's it, then. At times like this, the more maneuverable Asshimar would've...",
+  "status": "translated",
   "slice": "v06",
   "history": [
    {
@@ -6577,8 +8869,8 @@
   "sec": 1.35
  },
  "evc343_amr_zg.adi": {
-  "en": "Watch your back too!",
-  "status": "editorial",
+  "en": "Keep an eye on your back too!",
+  "status": "translated",
   "slice": "v06",
   "history": [
    {
@@ -6590,8 +8882,8 @@
   "sec": 1.32
  },
  "evc344_amr_zg.adi": {
-  "en": "The enemy's losing power! Press the attack! Look!",
-  "status": "editorial",
+  "en": "The enemy's losing power! Press in! Look!",
+  "status": "translated",
   "slice": "v06",
   "note": "Run-together transcript; trailing 'look' kept as heard.",
   "history": [
@@ -6763,8 +9055,8 @@
   "sec": 2.49
  },
  "evc371_kam_zg.adi": {
-  "en": "Four, let's go to space. With the AEUG's technology, we can get your memories back.",
-  "status": "proofread",
+  "en": "Four, let's go to space. With AEUG's technology, we can get your memories back.",
+  "status": "translated",
   "slice": "v06",
   "history": [
    {
@@ -6957,8 +9249,8 @@
   "sec": 2.64
  },
  "evc402_sl1_ti.adi": {
-  "en": "Good! Hold until His Excellency Jamitov gets clear!",
-  "status": "editorial",
+  "en": "Good! Hold position until His Excellency Jamitov escapes!",
+  "status": "translated",
   "slice": "v06",
   "history": [
    {
@@ -7062,8 +9354,8 @@
   "sec": 1.64
  },
  "evc420_fou_zg.adi": {
-  "en": "Kamille, don't be sad. Now I can see you whenever I want, because I can truly be inside you.",
-  "status": "editorial",
+  "en": "Kamille, don't be sad. Now I can see you whenever I want. Because now I can truly be inside you.",
+  "status": "translated",
   "slice": "v06",
   "history": [
    {
@@ -7129,8 +9421,8 @@
   "sec": 5.24
  },
  "evc430_kam_zg.adi": {
-  "en": "Just as I thought, no doubt about it. She's bound to come out. Come on, Haman, hurry!",
-  "status": "editorial",
+  "en": "Just as I thought, no doubt about it. She's bound to come out. Hurry up and come, Haman!",
+  "status": "translated",
   "slice": "v07",
   "note": "Kamille waiting for Haman; 'Hamaasu' = Haman.",
   "history": [
@@ -7143,8 +9435,8 @@
   "sec": 6.97
  },
  "evc431_kam_zg.adi": {
-  "en": "Damn that Haman... What's she doing?",
-  "status": "editorial",
+  "en": "Damn Haman... What is she doing?",
+  "status": "translated",
   "slice": "v07",
   "note": "Garbled name; read as 'Haman-me'.",
   "history": [
@@ -7221,8 +9513,8 @@
   "sec": 1.89
  },
  "evc443_kam_zg.adi": {
-  "en": "We're seeing the same thing...",
-  "status": "editorial",
+  "en": "We see the same thing...",
+  "status": "translated",
   "slice": "v07",
   "note": "Clip cuts mid-verb; completed. Kamille and Haman's minds touching.",
   "history": [
@@ -7259,8 +9551,8 @@
   "sec": 0.53
  },
  "evc448_ham_zg.adi": {
-  "en": "Don't be so familiar!",
-  "status": "editorial",
+  "en": "Don't get familiar!",
+  "status": "translated",
   "slice": "v07",
   "note": "'Kiyasui' (easy to come) = 'kiyasui' (overfamiliar); Haman resents the intrusion into her mind.",
   "history": [
@@ -7279,8 +9571,8 @@
   "sec": 3.78
  },
  "evc450_kam_zg.adi": {
-  "en": "Ugh... Was that a dream just now?",
-  "status": "editorial",
+  "en": "Ugh... Was that just now a dream?",
+  "status": "translated",
   "slice": "v07",
   "history": [
    {
@@ -7298,8 +9590,8 @@
   "sec": 1.14
  },
  "evc452_ham_zg.adi": {
-  "en": "How dare you barge into my mind so brazenly! Have you no shame, vulgar fool?!",
-  "status": "editorial",
+  "en": "How dare you barge so brazenly into my mind! Have you no shame, you vulgar fool?!",
+  "status": "translated",
   "slice": "v07",
   "note": "'Hito no naka' (a person's inside) = her heart/mind; 'haji wo shie' = haji wo shire.",
   "history": [
@@ -7331,8 +9623,8 @@
   "sec": 5.79
  },
  "evc456_kam_zg.adi": {
-  "en": "Haman Karn! Now I understand! You're someone who shouldn't be allowed to live!",
-  "status": "editorial",
+  "en": "Haman Karn! Now I understand! You're a person who must not be allowed to live!",
+  "status": "translated",
   "slice": "v07",
   "history": [
    {
@@ -7578,8 +9870,8 @@
   "sec": 4.42
  },
  "evc494_pap_zg.adi": {
-  "en": "A colony laser that's been powered up can explode too, you know!",
-  "status": "editorial",
+  "en": "Once a colony laser has been powered up, it can explode too, you know!",
+  "status": "translated",
   "slice": "v07",
   "history": [
    {
@@ -7686,8 +9978,8 @@
   "sec": 0.8
  },
  "evc510_kam_zg.adi": {
-  "en": "A man blind to the reality before him...",
-  "status": "editorial",
+  "en": "A man blind to the reality before his eyes...",
+  "status": "translated",
   "slice": "v07",
   "note": "Fragment in the source (Scirocco cuts in); kept unfinished.",
   "history": [
@@ -7777,8 +10069,8 @@
   "sec": 3.72
  },
  "evc524_pap_zg.adi": {
-  "en": "Does it have a built-in weapon I don't know of?",
-  "status": "editorial",
+  "en": "Does it have some built-in weapon I don't know about?",
+  "status": "translated",
   "slice": "v07",
   "history": [
    {
@@ -7808,8 +10100,8 @@
   "sec": 0.54
  },
  "evc528_fou_zg.adi": {
-  "en": "Kamille is piloting a machine that can express that power.",
-  "status": "editorial",
+  "en": "Kamille is riding a machine that can express that power.",
+  "status": "translated",
   "slice": "v07",
   "note": "'Kamike' = Kamille.",
   "history": [
@@ -7822,8 +10114,8 @@
   "sec": 4.23
  },
  "evc529_ros_zg.adi": {
-  "en": "The Zeta Gundam.",
-  "status": "editorial",
+  "en": "In the Zeta Gundam.",
+  "status": "translated",
   "slice": "v07",
   "history": [
    {
@@ -8081,8 +10373,8 @@
   "sec": 5.52
  },
  "evc568_ham_zg.adi": {
-  "en": "Then let me ask. In a world where you've toppled the Zabi family and eliminated the Titans, just what do you intend to do?",
-  "status": "accuracy",
+  "en": "Then let me ask. In a world where the Zabi family is toppled and the Titans are gone, just what do you intend to do?",
+  "status": "translated",
   "slice": "v07",
   "history": [
    {
@@ -8094,8 +10386,8 @@
   "sec": 7.25
  },
  "evc569_qua_zg.adi": {
-  "en": "Even if I don't lift a hand, humanity will change through its Newtype awakening. I'll wait for that time.",
-  "status": "editorial",
+  "en": "Even if I don't lift a hand, humanity will change as it awakens as Newtypes. I'll wait for that time.",
+  "status": "translated",
   "slice": "v07",
   "history": [
    {
@@ -8139,8 +10431,8 @@
   "sec": 0.66
  },
  "evc576_kam_zg.adi": {
-  "en": "The ones who truly must be eliminated...",
-  "status": "proofread",
+  "en": "The ones who truly must be eliminated",
+  "status": "translated",
   "slice": "v07",
   "note": "Sentence continues in 577; cut at the matching point.",
   "history": [
@@ -8153,8 +10445,8 @@
   "sec": 2.1
  },
  "evc577_kam_zg.adi": {
-  "en": "...are those whose souls are held by Earth's gravity!",
-  "status": "proofread",
+  "en": "are those whose souls are held by Earth's gravity!",
+  "status": "translated",
   "slice": "v07",
   "history": [
    {
@@ -8191,8 +10483,8 @@
   "sec": 3.51
  },
  "evc582_pap_zg.adi": {
-  "en": "What can the vulgar masses do? All they've ever done is drag geniuses down!",
-  "status": "editorial",
+  "en": "What can the vulgar masses do, who could only ever drag geniuses down?",
+  "status": "translated",
   "slice": "v07",
   "history": [
    {
@@ -8306,8 +10598,8 @@
   "sec": 1.2
  },
  "evc600_pap_zg.adi": {
-  "en": "Ha ha ha ha ha!",
-  "status": "proofread",
+  "en": "Hahahahaha!",
+  "status": "translated",
   "slice": "v07",
   "note": "6.19 s of 'ha-ha'; read as Scirocco's laugh before 601 (could be panting).",
   "history": [
@@ -8487,8 +10779,8 @@
   "sec": 7.69
  },
  "evc628_jud_zz.adi": {
-  "en": "Isn't eating with everyone tastier than eating alone? Ple!",
-  "status": "editorial",
+  "en": "Don't you think food tastes better with everyone than eating alone? Ple!",
+  "status": "translated",
   "slice": "v07",
   "history": [
    {
@@ -9052,8 +11344,8 @@
   "sec": 0.9
  },
  "evc719_jud_zz.adi": {
-  "en": "Wh-what? Who died?",
-  "status": "editorial",
+  "en": "Wh- What? Who died?",
+  "status": "translated",
   "slice": "v08",
   "history": [
    {
@@ -9102,8 +11394,8 @@
   "sec": 0.44
  },
  "evc726_glt_zz.adi": {
-  "en": "Ah! The Zeta Gundam... Roux, is it? I...",
-  "status": "accuracy",
+  "en": "Ha! The Zeta Gundam... Roux, is it? I...",
+  "status": "translated",
   "slice": "v08",
   "note": "Trailing line kept unfinished.",
   "history": [
@@ -9258,8 +11550,8 @@
   "sec": 4.32
  },
  "evc750_glt_zz.adi": {
-  "en": "Y-you... Roux, is it? Beaten by you...",
-  "status": "editorial",
+  "en": "Y-You... Roux, is it? Beaten by you...",
+  "status": "translated",
   "slice": "v08",
   "history": [
    {
@@ -9375,8 +11667,8 @@
   "sec": 1.08
  },
  "evc768_ham_zz.adi": {
-  "en": "Will I, now, Judau Ashta?",
-  "status": "editorial",
+  "en": "Will I, now? Judau Ashta.",
+  "status": "translated",
   "slice": "v08",
   "history": [
    {
@@ -9456,8 +11748,8 @@
   "sec": 3.54
  },
  "evc780_jud_zz.adi": {
-  "en": "I can feel it... The ZZ is taking in everyone's power...",
-  "status": "editorial",
+  "en": "I can feel it... The ZZ is taking in everyone's strength...",
+  "status": "translated",
   "slice": "v08",
   "note": "Trailing; verb 'taking in' supplied.",
   "history": [
@@ -9826,8 +12118,8 @@
   "sec": 4.8
  },
  "evc839_chr_cc.adi": {
-  "en": "This presence... You're here, aren't you, Amuro?",
-  "status": "accuracy",
+  "en": "This presence... Amuro's here.",
+  "status": "translated",
   "slice": "v09",
   "history": [
    {
@@ -9839,8 +12131,8 @@
   "sec": 3.15
  },
  "evc840_amr_cc.adi": {
-  "en": "I'm at a disadvantage here.",
-  "status": "editorial",
+  "en": "This situation's against me.",
+  "status": "translated",
   "slice": "v09",
   "history": [
    {
@@ -9866,8 +12158,8 @@
   "sec": 1.05
  },
  "evc843_chr_cc.adi": {
-  "en": "You can't. I can see it from out here. You did well guarding Fifth Luna's nuclear nozzles.",
-  "status": "editorial",
+  "en": "You can't. It's obvious from out here. You did well guarding Fifth Luna's nuclear nozzles.",
+  "status": "translated",
   "slice": "v09",
   "history": [
    {
@@ -9976,8 +12268,8 @@
   "sec": 2.11
  },
  "evc859_gyn_cc.adi": {
-  "en": "Still messing with small fry?!",
-  "status": "editorial",
+  "en": "How long are you gonna chase small fry?!",
+  "status": "translated",
   "slice": "v09",
   "note": "Slightly over 17 cps on a 1.8 s clip; wording kept whole.",
   "history": [
@@ -10108,8 +12400,8 @@
   "sec": 6.18
  },
  "evc878_chr_cc.adi": {
-  "en": "Relive the agony of Lalah's death to your heart's content!",
-  "status": "editorial",
+  "en": "Relive the agony you felt when Lalah died, to your heart's content!",
+  "status": "translated",
   "slice": "v09",
   "note": "ASR omoidasu = omoidase (imperative, said to Amuro).",
   "history": [
@@ -10147,8 +12439,8 @@
   "sec": 1.1
  },
  "evc883_amr_cc.adi": {
-  "en": "You don't know a thing about changing the world. Intellectuals always start revolutions, but they chase dreamlike goals, so they only ever go to extremes.",
-  "status": "editorial",
+  "en": "You don't know a thing about changing the world. Revolutions are always started by intellectuals, but they chase dreamlike goals, so they only ever go to extremes.",
+  "status": "translated",
   "slice": "v09",
   "history": [
    {
@@ -10160,8 +12452,8 @@
   "sec": 8.89
  },
  "evc884_amr_cc.adi": {
-  "en": "But after the revolution, even its noble spirit gets swallowed by bureaucracy and the masses. Intellectuals hate that, so they withdraw from society and politics and become recluses. In which case...",
-  "status": "editorial",
+  "en": "But after the revolution, even the noble revolutionary spirit gets swallowed by bureaucracy and the masses. The intellectuals hate that, so they withdraw from society and politics and become recluses. In which case...",
+  "status": "translated",
   "slice": "v09",
   "note": "ASR 'yosebito' = yosutebito (recluse). Trailing 'dattara' kept unfinished.",
   "history": [
@@ -10685,8 +12977,8 @@
   "sec": 5.28
  },
  "evc966_kzo_91.adi": {
-  "en": "And to think you'd look down on me just as Nadia did, when I can control this machine without using my hands or feet...",
-  "status": "editorial",
+  "en": "And you look down on me, who pilots a machine I control without using my hands or feet, just as Nadia did...",
+  "status": "translated",
   "slice": "v09",
   "note": "Nadia = Nadia Ronah (Cecily's mother), not in the glossary.",
   "history": [
@@ -10981,8 +13273,8 @@
   "sec": 2.32
  },
  "evp015_amr_fg.adi": {
-  "en": "You should be fine here now. I'm going back to defend the underground. Take care.",
-  "status": "editorial",
+  "en": "Looks like you're all right here now. I'm going back to defend the underground. Take care.",
+  "status": "translated",
   "slice": "v09",
   "history": [
    {
@@ -11046,8 +13338,8 @@
   "sec": 1.35
  },
  "evp024_er0_pr.adi": {
-  "en": "If the Gaws get shot down, we can't get home either. Keep an eye on their defense too.",
-  "status": "editorial",
+  "en": "If the Gaws get shot down, we won't be able to get home either. Keep an eye on defending them too.",
+  "status": "translated",
   "slice": "v09",
   "history": [
    {
@@ -11342,8 +13634,8 @@
   "sec": 6.6
  },
  "evp070_er0_pr.adi": {
-  "en": "But... reports say Supreme Commander Gihren and Major General Kycilia were both killed...",
-  "status": "editorial",
+  "en": "But... reports say Supreme Commander Gihren and Maj. Gen. Kycilia were both killed...",
+  "status": "translated",
   "slice": "v10",
   "history": [
    {
@@ -11367,8 +13659,8 @@
   "sec": 5.97
  },
  "evp073_zg0_ed.adi": {
-  "en": "Shirley, I know how you feel, but our forces as a whole have almost nothing left. We can't stand in the way of peace. We must bide our time.",
-  "status": "editorial",
+  "en": "Shirley, I know how you feel, but our forces as a whole have almost nothing left. We can't stand in the way of peace. We wait for our time.",
+  "status": "translated",
   "slice": "v10",
   "history": [
    {
@@ -11769,8 +14061,8 @@
   "sec": 4.43
  },
  "evp136_er0_pr.adi": {
-  "en": "We've picked up an enemy heavy transport. Shoot it down.",
-  "status": "accuracy",
+  "en": "We've caught an enemy heavy transport. Shoot it down.",
+  "status": "translated",
   "slice": "v10",
   "history": [
    {
@@ -11802,8 +14094,8 @@
   "sec": 4.58
  },
  "evp140_er0_pr.adi": {
-  "en": "We've driven off the enemy attack force. This area now belongs to us, to Axis.",
-  "status": "editorial",
+  "en": "We've driven off the enemy attack force. This area now belongs to us, Axis.",
+  "status": "translated",
   "slice": "v10",
   "history": [
    {
@@ -12110,8 +14402,8 @@
   "sec": 4.7
  },
  "evp189_er0_pr.adi": {
-  "en": "Lady Haman's attempt to seize the colony laser seems to have failed, but the laser was fired at the Titans' main force, effectively destroying the Titans. What's more, the laser couldn't withstand the shot and is reportedly inoperable now.",
-  "status": "editorial",
+  "en": "Lady Haman's attempt to seize the colony laser seems to have failed, but it was fired at the Titans' main force, effectively destroying the Titans. And the laser couldn't withstand the shot; it's reportedly inoperable now.",
+  "status": "translated",
   "slice": "v10",
   "history": [
    {
@@ -12506,8 +14798,8 @@
   "sec": 2.53
  },
  "evp249_gyn_cc.adi": {
-  "en": "You're with Londo Bell? Where's Amuro Ray?",
-  "status": "editorial",
+  "en": "You there, Londo Bell? Where's Amuro Ray?",
+  "status": "translated",
   "slice": "v11",
   "history": [
    {
@@ -12533,7 +14825,7 @@
   "sec": 8.78
  },
  "evp252_er0_pr.adi": {
-  "en": "We've wiped out the enemy units, but the demolition work doesn't seem finished yet. Let's go support Captain Amuro. He seems bogged down after clashing with Char's main force.",
+  "en": "We've wiped out the enemy units, but the demolition work doesn't seem finished yet. Let's go back up Captain Amuro. He seems bogged down after clashing with Char's main force.",
   "status": "translated",
   "slice": "v11",
   "note": "ASR 'taiin' = taii (Captain Amuro, CCA); 'hontai' (main body) = main force.",
@@ -12656,8 +14948,8 @@
   "sec": 3.39
  },
  "evp268_er0_pr.adi": {
-  "en": "No more enemy signals. Looks like their forces are finally exhausted.",
-  "status": "editorial",
+  "en": "No more enemy signals. It looks like they've finally run out of numbers.",
+  "status": "translated",
   "slice": "v11",
   "history": [
    {
@@ -12732,8 +15024,8 @@
   "sec": 3.18
  },
  "evp279_zbn_91.adi": {
-  "en": "Just what you'd expect from the latest model, I suppose. We'll withdraw for today.",
-  "status": "editorial",
+  "en": "As expected of a latest model, I suppose. We'll pull back for today.",
+  "status": "translated",
   "slice": "v11",
   "note": "ASR 'hikouki da' (it's a plane) = hikiage da (we withdraw).",
   "history": [
@@ -12844,8 +15136,8 @@
   "sec": 3.32
  },
  "evp296_ag7_ed.adi": {
-  "en": "Crossbone Vanguard! You won't have your way!",
-  "status": "editorial",
+  "en": "Crossbone Vanguard! I won't let you do as you please!",
+  "status": "translated",
   "slice": "v11",
   "history": [
    {
@@ -12870,8 +15162,8 @@
   "sec": 2.65
  },
  "evp299_dg7_ed.adi": {
-  "en": "Roger. First, I'll take them down for sure.",
-  "status": "editorial",
+  "en": "Roger. First, I'll make sure I take them down.",
+  "status": "translated",
   "slice": "v11",
   "history": [
    {
@@ -13034,8 +15326,8 @@
   "sec": 5.67
  },
  "evp323_av0_pr.adi": {
-  "en": "What? Talk about asking the impossible.",
-  "status": "editorial",
+  "en": "What? Talk about unreasonable.",
+  "status": "translated",
   "slice": "v11",
   "history": [
    {
@@ -13121,8 +15413,8 @@
   "sec": 4.45
  },
  "evp335_kkd_cb.adi": {
-  "en": "Good work. Seeing F91s go down was a little bittersweet for me, though.",
-  "status": "accuracy",
+  "en": "Good work. Was it a bit strange, watching F91s go down?",
+  "status": "translated",
   "slice": "v11",
   "note": "Read as a question to the 2nd-gen leader, answered by Tobia's 'iya' in evp336; could be Kincade about himself ('a bit strange for me').",
   "history": [
@@ -13135,8 +15427,8 @@
   "sec": 6.39
  },
  "evp336_tva_cb.adi": {
-  "en": "Wow, what skill. Just what you'd expect from a former ace, Kincade's rival.",
-  "status": "editorial",
+  "en": "Not at all, that was amazing skill. Just what you'd expect from a former ace and Kincade's rival.",
+  "status": "translated",
   "slice": "v11",
   "history": [
    {
@@ -13806,8 +16098,8 @@
   "sec": 2.2
  },
  "evp442_bg7_ed.adi": {
-  "en": "Allies in danger?",
-  "status": "editorial",
+  "en": "Our allies are in danger...",
+  "status": "translated",
   "slice": "v12",
   "note": "Sentence-final ka read as a worried aside, not a question.",
   "history": [
@@ -13862,8 +16154,8 @@
   "sec": 1.95
  },
  "evp450_cg7_ed.adi": {
-  "en": "Aegis?!",
-  "status": "proofread",
+  "en": "Aegis!?",
+  "status": "translated",
   "slice": "v12",
   "note": "ASR 'reigisu' restored to Aegis.",
   "history": [
@@ -13906,8 +16198,8 @@
   "sec": 2.3
  },
  "evp456_dg7_ed.adi": {
-  "en": "Allies in danger?",
-  "status": "editorial",
+  "en": "Our allies are in danger...",
+  "status": "translated",
   "slice": "v12",
   "history": [
    {
@@ -13973,8 +16265,8 @@
   "sec": 2.03
  },
  "evp466_op7_pr.adi": {
-  "en": "Defense target in danger.",
-  "status": "editorial",
+  "en": "The defense target is in danger.",
+  "status": "translated",
   "slice": "v12",
   "history": [
    {
@@ -14043,8 +16335,8 @@
   "sec": 2.67
  },
  "evp476_op7_pr.adi": {
-  "en": "C-Commander?! What's wrong?!",
-  "status": "proofread",
+  "en": "C-Commander!? What's wrong!?",
+  "status": "translated",
   "slice": "v12",
   "note": "Low ASR; reading kept (matches op8 evp495).",
   "history": [
@@ -14105,8 +16397,8 @@
   "sec": 2.09
  },
  "evp485_op8_pr.adi": {
-  "en": "Defense target in danger.",
-  "status": "editorial",
+  "en": "The defense target is in danger.",
+  "status": "translated",
   "slice": "v12",
   "history": [
    {
@@ -14175,8 +16467,8 @@
   "sec": 3.09
  },
  "evp495_op8_pr.adi": {
-  "en": "C-Commander?! What's wrong?!",
-  "status": "proofread",
+  "en": "C-Commander!? What's wrong!?",
+  "status": "translated",
   "slice": "v12",
   "note": "Low ASR; same line as evp476.",
   "history": [
@@ -14362,8 +16654,8 @@
   "sec": 1.52
  },
  "evp524_sl1_ze.adi": {
-  "en": "Curse them! Reinforcements, one after another...",
-  "status": "editorial",
+  "en": "Curse them! Enemy reinforcements, one after another...",
+  "status": "translated",
   "slice": "v12",
   "history": [
    {
@@ -14394,8 +16686,8 @@
   "sec": 2.43
  },
  "evp528_sl1_ae.adi": {
-  "en": "Still more enemy units coming?",
-  "status": "editorial",
+  "en": "More enemy units are still coming out?",
+  "status": "translated",
   "slice": "v12",
   "history": [
    {
@@ -14482,8 +16774,8 @@
   "sec": 3.1
  },
  "evp541_sl2_ro.adi": {
-  "en": "Throw in every machine we can! This is our last stand!",
-  "status": "editorial",
+  "en": "Throw in every machine we can! There's nothing left after this!",
+  "status": "translated",
   "slice": "v12",
   "history": [
    {
@@ -14557,8 +16849,8 @@
   "sec": 2.8
  },
  "evp552_sl1_cb.adi": {
-  "en": "Here come their reinforcements!",
-  "status": "editorial",
+  "en": "So enemy reinforcements are coming out!",
+  "status": "translated",
   "slice": "v12",
   "history": [
    {
@@ -14588,8 +16880,8 @@
   "sec": 1.29
  },
  "evp556_sl1_ax.adi": {
-  "en": "So close, and yet... I-I've failed...",
-  "status": "accuracy",
+  "en": "So close, and yet... Th-this is the end...",
+  "status": "translated",
   "slice": "v12",
   "note": "munen (bitter regret at defeat).",
   "history": [
@@ -14664,8 +16956,8 @@
   "sec": 4.07
  },
  "evp567_er0_pr.adi": {
-  "en": "Mobile suits are out too. Be careful.",
-  "status": "editorial",
+  "en": "They've launched mobile suits too. Be careful.",
+  "status": "translated",
   "slice": "v12",
   "history": [
    {
@@ -14677,8 +16969,8 @@
   "sec": 2.26
  },
  "evp568_er0_pr.adi": {
-  "en": "I know this isn't the time, but Commander, please come back, no matter what.",
-  "status": "proofread",
+  "en": "I know this isn't the time, but Commander, please come back no matter what.",
+  "status": "translated",
   "slice": "v12",
   "note": "ASR taichou (physical condition) restored to taichou (unit leader).",
   "history": [
@@ -14691,8 +16983,8 @@
   "sec": 5.55
  },
  "evp569_er0_pr.adi": {
-  "en": "The Gaw is under attack. Please cover it.",
-  "status": "editorial",
+  "en": "The Gaw is under attack. Please support it.",
+  "status": "translated",
   "slice": "v12",
   "history": [
    {
@@ -14717,8 +17009,8 @@
   "sec": 4.38
  },
  "evt003_kam_zg.adi": {
-  "en": "First, I'll teach you how to move.",
-  "status": "editorial",
+  "en": "Let's start by teaching you how to move.",
+  "status": "translated",
   "slice": "v01",
   "note": "Transcript cut off on the last syllable; completed.",
   "history": [
@@ -14773,8 +17065,8 @@
   "sec": 7.2
  },
  "evt011_kam_zg.adi": {
-  "en": "It's almost time. Ready? Here we go.",
-  "status": "accuracy",
+  "en": "It's about time. Ready? Here we go.",
+  "status": "translated",
   "slice": "v01",
   "history": [
    {
@@ -15015,8 +17307,8 @@
   "sec": 3.94
  },
  "evt061_kam_zg.adi": {
-  "en": "But they also leave you open, so use them wisely as the situation demands.",
-  "status": "editorial",
+  "en": "But they also leave you open, so you need to use them wisely for the situation.",
+  "status": "translated",
   "slice": "v01",
   "note": "Continues evt060; opens with 'but' as the Japanese does.",
   "history": [
@@ -15065,8 +17357,8 @@
   "sec": 2.5
  },
  "evt068_kam_zg.adi": {
-  "en": "Okay. If you can keep an eye on the gauge too, that's excellent.",
-  "status": "proofread",
+  "en": "OK. If you can keep an eye on the gauge too, that's excellent.",
+  "status": "translated",
   "slice": "v01",
   "history": [
    {
@@ -15199,8 +17491,8 @@
   "sec": 4.47
  },
  "evt204_jud_zz.adi": {
-  "en": "You'll be using a Jegan. I think you've flown one before, so you'll be fine, right?",
-  "status": "editorial",
+  "en": "You'll be using a Jegan. You've flown one before, so you'll be fine, right?",
+  "status": "translated",
   "slice": "v01",
   "history": [
    {
@@ -15292,8 +17584,8 @@
   "sec": 3.74
  },
  "evt218_jud_zz.adi": {
-  "en": "Press L1 to lock on to the enemy nearest your crosshairs.",
-  "status": "editorial",
+  "en": "Press the L1 button to lock on to the enemy nearest your crosshairs.",
+  "status": "translated",
   "slice": "v01",
   "history": [
    {
@@ -15534,8 +17826,8 @@
   "sec": 3.07
  },
  "evt257_jud_zz.adi": {
-  "en": "But they only reach nearby enemies, so knowing when to use which is key.",
-  "status": "editorial",
+  "en": "On the other hand, they only reach nearby enemies. Knowing when to use which is key.",
+  "status": "translated",
   "slice": "v01",
   "history": [
    {
@@ -15591,8 +17883,8 @@
   "sec": 3.66
  },
  "evt265_jud_zz.adi": {
-  "en": "Play to each unit's strengths and look cool doing it.",
-  "status": "editorial",
+  "en": "Play to each unit's strengths and pull them off in style.",
+  "status": "translated",
   "slice": "v01",
   "history": [
    {
@@ -15658,8 +17950,8 @@
   "sec": 3.73
  },
  "evt275_jud_zz.adi": {
-  "en": "Next, what you've been waiting for: skills!",
-  "status": "editorial",
+  "en": "Next, the one you've been waiting for: skills!",
+  "status": "translated",
   "slice": "v01",
   "note": "ASR heard 'like' for 'skill'.",
   "history": [
@@ -15746,8 +18038,8 @@
   "sec": 3.67
  },
  "evt288_jud_zz.adi": {
-  "en": "When shield durability hits zero, you can't defend anymore. So don't rely on defense alone.",
-  "status": "editorial",
+  "en": "When shield durability hits zero, you can't defend anymore. You can't just rely on defense.",
+  "status": "translated",
   "slice": "v01",
   "history": [
    {
@@ -15827,8 +18119,8 @@
   "sec": 1.63
  },
  "evt300_jud_zz.adi": {
-  "en": "Okay.",
-  "status": "proofread",
+  "en": "OK.",
+  "status": "translated",
   "slice": "v01",
   "history": [
    {
@@ -15940,8 +18232,8 @@
   "sec": 1.79
  },
  "evt317_jud_zz.adi": {
-  "en": "Whaaat are you doing?",
-  "status": "editorial",
+  "en": "Wha-a-at are you doing?",
+  "status": "translated",
   "slice": "v01",
   "note": "Drawn-out 'what' kept.",
   "history": [
@@ -16022,8 +18314,8 @@
   "sec": 3.36
  },
  "evt507_amr_cc.adi": {
-  "en": "All set? I'll give you orders from here. Respond to them as best you can.",
-  "status": "editorial",
+  "en": "Standing by? I'll give you orders from here. Respond to them as best you can.",
+  "status": "translated",
   "slice": "v01",
   "note": "Last sentence has no subject; read as Amuro telling the player to follow his orders.",
   "history": [
@@ -16091,8 +18383,8 @@
   "sec": 3.16
  },
  "evt517_amr_cc.adi": {
-  "en": "How you time a dummy can change the flow of battle in an instant.",
-  "status": "editorial",
+  "en": "When you use a dummy can turn the flow of battle in an instant.",
+  "status": "translated",
   "slice": "v02",
   "history": [
    {
@@ -16154,8 +18446,8 @@
   "sec": 4.84
  },
  "evt526_amr_cc.adi": {
-  "en": "For example, they might try to regroup with their other allies. If they do, that's your chance.",
-  "status": "editorial",
+  "en": "For example, they might try to regroup with other allies. If that happens, it's your chance.",
+  "status": "translated",
   "slice": "v02",
   "history": [
    {
@@ -16167,8 +18459,8 @@
   "sec": 5.41
  },
  "evt527_amr_cc.adi": {
-  "en": "Mm, three at once? Well, I'd expect at least that much.",
-  "status": "editorial",
+  "en": "Mm, three enemies at once? Well, that much is only to be expected.",
+  "status": "translated",
   "slice": "v02",
   "note": "combo-kill comment series 527-535 (3 to 11+ kills at once); 'at once' implied by the series",
   "history": [
@@ -16272,8 +18564,8 @@
   "sec": 2.38
  },
  "evt543_amr_cc.adi": {
-  "en": "You're out of CP. Play it smart from here.",
-  "status": "editorial",
+  "en": "You're out of CP. Handle the rest well.",
+  "status": "translated",
   "slice": "v02",
   "history": [
    {
@@ -16291,8 +18583,8 @@
   "sec": 3.46
  },
  "evt545_amr_cc.adi": {
-  "en": "Unit damaged! Look around more carefully!",
-  "status": "editorial",
+  "en": "Unit damage! Keep a closer eye around you!",
+  "status": "translated",
   "slice": "v02",
   "history": [
    {
@@ -16323,8 +18615,8 @@
   "sec": 2.76
  },
  "evt549_amr_cc.adi": {
-  "en": "the pause menu lets you view game information and more. Don't forget to check it.",
-  "status": "editorial",
+  "en": "the pause menu lets you view game information and more. Don't neglect to check it.",
+  "status": "translated",
   "slice": "v02",
   "history": [
    {
@@ -16595,6 +18887,463 @@
   ],
   "status": "translated",
   "sec": 2.67
+ },
+ "s001.adi": {
+  "en": "Amuro, Gundam, launching!",
+  "status": "translated",
+  "slice": "v13",
+  "sec": 2.69
+ },
+ "s002.adi": {
+  "en": "Kamille, Gundam Mk-II, launching!",
+  "status": "translated",
+  "slice": "v13",
+  "sec": 2.52
+ },
+ "s003.adi": {
+  "en": "Kamille, Zeta Gundam, launching!",
+  "status": "translated",
+  "slice": "v13",
+  "sec": 2.2
+ },
+ "s004.adi": {
+  "en": "Judau Ashta, Zeta Gundam, launching!",
+  "status": "translated",
+  "slice": "v13",
+  "sec": 2.98
+ },
+ "s005.adi": {
+  "en": "Judau Ashta, ZZ, launching!",
+  "status": "translated",
+  "slice": "v13",
+  "note": "Spoken 'Double Zeta'; written ZZ per glossary.",
+  "sec": 3.3
+ },
+ "s005_jud_zz.adi": {
+  "en": "Judau Ashta, ZZ, launching!",
+  "status": "translated",
+  "slice": "v13",
+  "note": "Same audio as s005.",
+  "sec": 3.3
+ },
+ "s006.adi": {
+  "en": "Seabook, Gundam F91, launching!",
+  "status": "translated",
+  "slice": "v13",
+  "sec": 3.58
+ },
+ "s007.adi": {
+  "en": "Roux Louka, Zeta Gundam, launching!",
+  "status": "translated",
+  "slice": "v13",
+  "sec": 2.54
+ },
+ "s008.adi": {
+  "en": "Roux Louka, ZZ, launching!",
+  "status": "translated",
+  "slice": "v13",
+  "sec": 2.66
+ },
+ "s009.adi": {
+  "en": "Emma, Gundam Mk-II, launching!",
+  "status": "translated",
+  "slice": "v13",
+  "note": "ASR wrote 'emaki' for Emma (Sheen).",
+  "sec": 2.93
+ },
+ "s010.adi": {
+  "en": "Elle Vianno, Gundam Mk-II, launching!",
+  "status": "translated",
+  "slice": "v13",
+  "sec": 3.2
+ },
+ "s010_ell_zz.adi": {
+  "en": "Elle Vianno, Gundam Mk-II, launching!",
+  "status": "translated",
+  "slice": "v13",
+  "note": "Same audio as s010.",
+  "sec": 3.2
+ },
+ "s011.adi": {
+  "en": "Quattro Bajeena, Hyaku-Shiki, launching!",
+  "status": "translated",
+  "slice": "v13",
+  "note": "ASR garbled the verb ('densetsu'); the standard launch call is assumed.",
+  "sec": 2.64
+ },
+ "s011_qua_zg.adi": {
+  "en": "Quattro Bajeena, Hyaku-Shiki, launching!",
+  "status": "translated",
+  "slice": "v13",
+  "note": "Same audio as s011.",
+  "sec": 2.64
+ },
+ "s012.adi": {
+  "en": "Beecha Oleg, Hyaku-Shiki, heading out!",
+  "status": "translated",
+  "slice": "v13",
+  "note": "Casual 'deru ze' kept a touch looser than 'launching'.",
+  "sec": 2.37
+ },
+ "s012_bch_zz.adi": {
+  "en": "Beecha Oleg, Hyaku-Shiki, heading out!",
+  "status": "translated",
+  "slice": "v13",
+  "note": "Same audio as s012.",
+  "sec": 2.37
+ },
+ "s013.adi": {
+  "en": "Here I go!",
+  "status": "translated",
+  "slice": "v13",
+  "note": "Generic action call; speaker unknown.",
+  "sec": 0.86
+ },
+ "s014.adi": {
+  "en": "Charge!",
+  "status": "translated",
+  "slice": "v13",
+  "note": "ASR 'dokkiri' (prank) read as totsugeki (charge) in this set of action calls.",
+  "sec": 0.81
+ },
+ "s015.adi": {
+  "en": "Transforming!",
+  "status": "translated",
+  "slice": "v13",
+  "sec": 0.9
+ },
+ "s016.adi": {
+  "en": "Waaagh!",
+  "status": "translated",
+  "slice": "v13",
+  "sec": 0.97
+ },
+ "s017.adi": {
+  "en": "Nnnngh!",
+  "status": "translated",
+  "slice": "v13",
+  "sec": 1.55
+ },
+ "s018.adi": {
+  "en": "Wh-what?!",
+  "status": "translated",
+  "slice": "v13",
+  "sec": 1.88
+ },
+ "s019.adi": {
+  "en": "Waaagh!",
+  "status": "translated",
+  "slice": "v13",
+  "sec": 0.65
+ },
+ "s020.adi": {
+  "en": "Nnngh!",
+  "status": "translated",
+  "slice": "v13",
+  "sec": 0.96
+ },
+ "s021.adi": {
+  "en": "Wh-what?!",
+  "status": "translated",
+  "slice": "v13",
+  "sec": 1.87
+ },
+ "s022.adi": {
+  "en": "Waaagh!",
+  "status": "translated",
+  "slice": "v13",
+  "sec": 0.62
+ },
+ "s023.adi": {
+  "en": "Nnngh!",
+  "status": "translated",
+  "slice": "v13",
+  "sec": 0.96
+ },
+ "s024.adi": {
+  "en": "Wh-what?!",
+  "status": "translated",
+  "slice": "v13",
+  "sec": 1.53
+ },
+ "s025.adi": {
+  "en": "Whoa!",
+  "status": "translated",
+  "slice": "v13",
+  "sec": 0.39
+ },
+ "s026.adi": {
+  "en": "Nnngh!",
+  "status": "translated",
+  "slice": "v13",
+  "sec": 0.89
+ },
+ "s027.adi": {
+  "en": "Wh-what?!",
+  "status": "translated",
+  "slice": "v13",
+  "sec": 1.35
+ },
+ "s028.adi": {
+  "en": "Graaah!",
+  "status": "translated",
+  "slice": "v13",
+  "sec": 0.84
+ },
+ "s029.adi": {
+  "en": "Nnngh!",
+  "status": "translated",
+  "slice": "v13",
+  "sec": 0.88
+ },
+ "s030.adi": {
+  "en": "Wh-what?!",
+  "status": "translated",
+  "slice": "v13",
+  "sec": 1.83
+ },
+ "s031.adi": {
+  "en": "Waaagh!",
+  "status": "translated",
+  "slice": "v13",
+  "sec": 0.75
+ },
+ "s032.adi": {
+  "en": "Nnnngh!",
+  "status": "translated",
+  "slice": "v13",
+  "sec": 1.53
+ },
+ "s033.adi": {
+  "en": "Wh-what?!",
+  "status": "translated",
+  "slice": "v13",
+  "sec": 1.95
+ },
+ "s034.adi": {
+  "en": "Waaaagh!",
+  "status": "translated",
+  "slice": "v13",
+  "sec": 0.76
+ },
+ "s035.adi": {
+  "en": "Nnnngh!",
+  "status": "translated",
+  "slice": "v13",
+  "sec": 1.83
+ },
+ "s036.adi": {
+  "en": "Wh-whaaat?!",
+  "status": "translated",
+  "slice": "v13",
+  "sec": 2.08
+ },
+ "s037.adi": {
+  "en": "Aaaaah!",
+  "status": "translated",
+  "slice": "v13",
+  "sec": 0.85
+ },
+ "s038.adi": {
+  "en": "Uuugh!",
+  "status": "translated",
+  "slice": "v13",
+  "sec": 1.15
+ },
+ "s039.adi": {
+  "en": "Wh-what?!",
+  "status": "translated",
+  "slice": "v13",
+  "sec": 1.77
+ },
+ "s040.adi": {
+  "en": "Waaagh!",
+  "status": "translated",
+  "slice": "v13",
+  "sec": 0.69
+ },
+ "s041.adi": {
+  "en": "Uuugh!",
+  "status": "translated",
+  "slice": "v13",
+  "sec": 1.35
+ },
+ "s042.adi": {
+  "en": "Wh-what?!",
+  "status": "translated",
+  "slice": "v13",
+  "sec": 1.96
+ },
+ "s043.adi": {
+  "en": "Ngwah!",
+  "status": "translated",
+  "slice": "v13",
+  "sec": 0.77
+ },
+ "s044.adi": {
+  "en": "Graaah!",
+  "status": "translated",
+  "slice": "v13",
+  "sec": 1.06
+ },
+ "s045.adi": {
+  "en": "Wh-what?!",
+  "status": "translated",
+  "slice": "v13",
+  "sec": 2.02
+ },
+ "s046.adi": {
+  "en": "Graaah!",
+  "status": "translated",
+  "slice": "v13",
+  "sec": 0.77
+ },
+ "s047.adi": {
+  "en": "Uuuugh!",
+  "status": "translated",
+  "slice": "v13",
+  "sec": 1.4
+ },
+ "s048.adi": {
+  "en": "Wh-what?!",
+  "status": "translated",
+  "slice": "v13",
+  "sec": 1.65
+ },
+ "s049.adi": {
+  "en": "Gwah!",
+  "status": "translated",
+  "slice": "v13",
+  "sec": 0.49
+ },
+ "s050.adi": {
+  "en": "Wh-what?!",
+  "status": "translated",
+  "slice": "v13",
+  "sec": 2.18
+ },
+ "s051.adi": {
+  "en": "Waaagh!",
+  "status": "translated",
+  "slice": "v13",
+  "sec": 1.03
+ },
+ "s052.adi": {
+  "en": "Ngwah!",
+  "status": "translated",
+  "slice": "v13",
+  "sec": 0.47
+ },
+ "s053.adi": {
+  "en": "Waaaagh!",
+  "status": "translated",
+  "slice": "v13",
+  "sec": 1.4
+ },
+ "s054.adi": {
+  "en": "Wh-whaaat?!",
+  "status": "translated",
+  "slice": "v13",
+  "sec": 2.75
+ },
+ "s055.adi": {
+  "en": "Waaagh!",
+  "status": "translated",
+  "slice": "v13",
+  "sec": 0.88
+ },
+ "s056.adi": {
+  "en": "Graaah!",
+  "status": "translated",
+  "slice": "v13",
+  "sec": 1.9
+ },
+ "s057.adi": {
+  "en": "Wh-what?!",
+  "status": "translated",
+  "slice": "v13",
+  "sec": 1.96
+ },
+ "s058.adi": {
+  "en": "Raaagh!",
+  "status": "translated",
+  "slice": "v13",
+  "sec": 0.75
+ },
+ "s059.adi": {
+  "en": "Aaaaah!",
+  "status": "translated",
+  "slice": "v13",
+  "note": "ASR 'nyaa'; read as a plain scream.",
+  "sec": 1.7
+ },
+ "s060.adi": {
+  "en": "Wh-whaaat?!",
+  "status": "translated",
+  "slice": "v13",
+  "sec": 1.7
+ },
+ "s061.adi": {
+  "en": "Whoa!",
+  "status": "translated",
+  "slice": "v13",
+  "sec": 0.66
+ },
+ "s062.adi": {
+  "en": "Nnnngh!",
+  "status": "translated",
+  "slice": "v13",
+  "sec": 2.0
+ },
+ "s063.adi": {
+  "en": "Wh-what?!",
+  "status": "translated",
+  "slice": "v13",
+  "sec": 1.85
+ },
+ "s064.adi": {
+  "en": "Gyaaagh!",
+  "status": "translated",
+  "slice": "v13",
+  "sec": 1.2
+ },
+ "s065.adi": {
+  "en": "Aaaaah!",
+  "status": "translated",
+  "slice": "v13",
+  "note": "ASR 'maaaa' (low confidence); read as a scream.",
+  "sec": 1.31
+ },
+ "s066.adi": {
+  "en": "Wh-what?",
+  "status": "translated",
+  "slice": "v13",
+  "sec": 1.52
+ },
+ "s067.adi": {
+  "en": "Graaah!",
+  "status": "translated",
+  "slice": "v13",
+  "sec": 0.69
+ },
+ "s068.adi": {
+  "en": "Graaah!",
+  "status": "translated",
+  "slice": "v13",
+  "sec": 0.97
+ },
+ "s069.adi": {
+  "en": "Wh-whaaat?!",
+  "status": "translated",
+  "slice": "v13",
+  "sec": 2.1
+ },
+ "s070.adi": {
+  "en": "Ple! The Qubeley's binders are in the way!",
+  "status": "translated",
+  "slice": "v13",
+  "note": "ASR 'buru' = Ple (as in v07/v08); speaker not coded, probably Judau.",
+  "sec": 3.13
  },
  "sbk_91.pss": {
   "cues": [

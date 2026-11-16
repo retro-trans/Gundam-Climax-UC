@@ -89,3 +89,11 @@ format, `returned`, `uncertain`); this section adds the voice specifics.
 - Reading speed: about 17 characters per second of the row's own length (end - start).
 - Output: `work/translation/en/voice/movies/out/m<N>.json`, same format as the voice slices
   (`rows`: id, en, jp_fixed?, note?, flag?, start?/end?; plus speakers, decisions, uncertain).
+
+## Sortie lines and card quotes (slices v13, v14)
+- `s###` clips: short in-mission lines (launch calls such as "Amuro, Gundam, launching!", death
+  screams, surprised shouts). Keep them short; screams can be "Aaagh!".
+- `d_###` clips: the character-card voice quotes in the card gallery, mostly famous lines from the
+  anime ("こいつ、動くぞ"). `speaker` is the character code with era (`amr_fg` = Amuro, 0079). When a
+  quote is an iconic line with a well-known official English rendering, use the natural, recognisable
+  wording; do not invent a citation. One quote per row.

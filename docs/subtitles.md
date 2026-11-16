@@ -95,6 +95,12 @@ later in the frame (60 glyphs in menus, 10 in missions, where the HUD draws no t
 
 ## Known limits
 - Battle barks (`pv_`, 3,192 clips; also the personality-select VOICE sample) are not subtitled.
+- Also subtitled since 0.8.1: `s###` sortie calls and shouts (missions, opening cutscenes) and the
+  `d_###` character-card quotes. Voices started by the menu sound player (0x317FA0, called only
+  from the menu-scene task; return address 0x318008) get a y offset (state +24) that puts the page
+  at the top of the screen, because the card screens have their description box at the bottom.
+- Not subtitled: `sys` announcer lines (they repeat on-screen menu text), `demo` and `bgm` music,
+  and the ending movie `end.pss` (theme song only).
 - Subtitles keep their clock while the game is paused.
 - The HUD's centre marker draws over the middle of the subtitle in missions.
 - Lines are timed by clip length (+0.4 s), not by the stream's actual stop; skipping a voice leaves

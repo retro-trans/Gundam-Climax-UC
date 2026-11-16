@@ -446,6 +446,41 @@ def render_title_credit(job, up, probs):
     return Image.fromarray(out, 'RGBA')
 
 
+def render_name_keys(job, up, probs):
+    """Name-entry keyboard image: the original key glyphs inside job['clear'] (x0, y0, x1, y1) are
+    erased and each key letter is drawn centred on its cell, in the original glyph grey."""
+    from PIL import ImageFont
+    import name_entry
+    cells = name_entry.key_cells()[0 if job['image'].endswith('01') else 1]
+    a = np.asarray(up.convert('RGBA')).copy()
+    x0, y0, x1, y1 = job['clear']
+    a[y0:y1, x0:x1] = (0, 0, 0, 0)
+    img = Image.fromarray(a, 'RGBA')
+    SS = 4
+    layer = Image.new('L', (img.width * SS, img.height * SS), 0)
+    dr = ImageDraw.Draw(layer)
+    f = ImageFont.truetype(TITLE_FONT, job.get('size', 17) * SS)
+    try:
+        f.set_variation_by_axes([job.get('weight', 700)])
+    except Exception:
+        pass
+    cap = dr.textbbox((0, 0), 'H', font=f, anchor='ls')
+    cap_h = cap[3] - cap[1]
+    for x, y, t in cells:
+        bb = dr.textbbox((0, 0), t, font=f, anchor='ls')
+        w = bb[2] - bb[0]
+        # centre horizontally; put the cap height centred on the cell row
+        dr.text((x * SS - w // 2 - bb[0], y * SS + cap_h // 2), t, font=f, fill=255, anchor='ls')
+    m = np.asarray(layer.resize(img.size, Image.LANCZOS), np.float32) / 255.0
+    col = np.array(job.get('color', (75, 75, 75)), np.float32)
+    out = np.asarray(img, np.float32)
+    al = out[..., 3:] / 255.0
+    na = m[..., None] + al * (1 - m[..., None])
+    rgb = (col * m[..., None] + out[..., :3] * al * (1 - m[..., None])) / np.maximum(na, 1e-6)
+    res = np.concatenate([rgb, na * 255.0], axis=-1).round().clip(0, 255).astype(np.uint8)
+    return Image.fromarray(res, 'RGBA')
+
+
 def render_title_sub(job, up, probs):
     """Title-menu description (256x64 texture). The game shows it stretched 2x horizontally and 1x
     vertically, so (like the original Japanese art: a smooth font drawn half-width) the text is drawn
@@ -527,6 +562,8 @@ def render(job):
         return render_title_sub(job, up, probs), probs
     if st == 'title_credit':
         return render_title_credit(job, up, probs), probs
+    if st == 'name_keys':
+        return render_name_keys(job, up, probs), probs
     if st == 'label3':
         img = Image.new('RGBA', up.size, (255, 255, 255, 0))
         for k, text in enumerate(job['en']):

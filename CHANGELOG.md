@@ -1,5 +1,36 @@
 # Changelog
 
+## 0.8.1 — 2026-11-16 (local build)
+
+Output: `work/output/Gundam_Climax_UC_EN_v0.8.1.iso` (SHA-1 d05ab4de6457605798694b5c6eeb4a8a4c53efe7).
+
+From player QA on 0.8.0.
+
+### Name entry (Progress mode, 2nd-generation character)
+- The kana keyboard is now English: A-Z, a-z and - . ' ! ? & , on the same keys (the keyboard table
+  in `nameentry.bin` / `nameentry.pack.fpk` and the two key images). Names are entered as ASCII and
+  drawn with the variable-width font. Every key and empty cell keeps its place, so cursor movement
+  is unchanged. `tools/name_entry.py`.
+- Checked in game by loading the name-entry scene in a debug image (typing, backspace); confirming a
+  name in a real 2nd-generation playthrough is not tested.
+
+### Voice subtitles
+- 422 more clips: in-mission sortie calls and shouts (`s###`, e.g. "Amuro, Gundam, launching!") and
+  the character-card voice quotes in the card gallery (`d_###`). Translated (slices v13-v14) and
+  reviewed (accuracy, editorial, proofreading: 17 edits). Quotes played from the card gallery (the
+  menu sound player, caller 0x318008) are drawn at the top of the screen, clear of the card
+  description; mission and cutscene lines stay at the bottom. Checked in game: the card quote
+  "This thing... it moves!" and the launch call in Chronicle stage 1's opening cutscene.
+
+### Builds
+- 0.8.0 ISO kept as its patch; 0.8.1 patch `work/output/patches/Gundam_Climax_UC_EN_v0.8.1.xdelta`
+  (decode verified). Debug: `tools/debug/scene_swap.py` makes a test image that opens a late-game
+  scene in place of another (used for the name-entry test, never shipped).
+
+### Investigated, not changed
+- Chronicle ending video (`end.pss`): its audio is the ending theme song only, no dialogue. Song lyrics
+  are not subtitled. The staff roll shown with it (`staff_roll.bin`) lists Japanese staff names.
+
 ## 0.8.0 — 2026-11-12 (first public release)
 
 Output: `work/output/Gundam_Climax_UC_EN_v0.8.0.iso` (SHA-1 791b3df19d5da71c2018e0f74634bfb05fe174a5).

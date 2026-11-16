@@ -16,9 +16,16 @@ ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..'))
 SSDIR = os.path.join(ROOT, 'work', 'emulator', 'pcsx2', 'sstates')
 
 
+def _mtime(p):
+    try:
+        return os.path.getmtime(p)
+    except OSError:          # being replaced by the emulator right now
+        return 0.0
+
+
 def slot_path(slot):
     g = glob.glob(os.path.join(SSDIR, 'SLPS-25627 (*).%02d.p2s' % slot))
-    return max(g, key=os.path.getmtime) if g else None
+    return max(g, key=_mtime) if g else None
 
 
 def ee_ram(path):
@@ -39,7 +46,7 @@ def shot(out, slot=9, pine=None):
     p.save_state(slot)
     for _ in range(100):
         sp = slot_path(slot)
-        if sp and os.path.getmtime(sp) > old_m:
+        if sp and _mtime(sp) > old_m:
             try:
                 data = screenshot(sp)
                 open(out, 'wb').write(data)

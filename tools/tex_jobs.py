@@ -92,6 +92,10 @@ def main():
                  # layout units: 640x480 mapped onto the 512x512 texture; values measured in game so the
                  # two lines sit right-aligned just above the copyright line
                  'right': 599, 'baselines': (354, 372)})
+    # name-entry keyboard (2nd-generation name): Latin letters on the kana key images
+    for img, clear in (('nameentry_kana01', (0, 0, 256, 128)), ('nameentry_kana02', (0, 0, 100, 128))):
+        jobs.append({'xts': 'nameentry.fpk_/NE_81_CHARA.xts', 'image': img, 'style': 'name_keys',
+                     'clear': clear})
     jobs.append({'xts': 'briefingb.fpk_/BRI_33_BASE.xts', 'image': 'mission_text', 'style': 'label3',
                  'jp': '作戦内容 / 勝利条件 / 敗北条件', 'en': ['Mission', 'Victory', 'Defeat']})
     for fam, table in (('AS', AS), ('PS', PS)):

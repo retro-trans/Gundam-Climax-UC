@@ -59,6 +59,8 @@ def game_mb_files():
     tex_make.apply(files, rep)
     import save_title
     save_title.apply(files, rep)
+    import name_entry
+    name_entry.apply(files, rep, os.path.join(SRC, 'game'))
     open(os.path.join(BUILD, 'tex_report.txt'), 'w', encoding='utf-8').write('\n'.join(rep) + '\n')
     print('textures: %d files, %d problems' % (sum(1 for r in rep if r.startswith('TEX ') and 'copies' in r),
                                               sum(1 for r in rep if 'not found' in r)))

@@ -14,9 +14,9 @@ next in any way — be it bug reports, proofreading or playtesting — please jo
 
 ## Play it
 
-The latest release is **[v0.8.0](https://github.com/retro-trans/Gundam-Climax-UC/releases/tag/v0.8.0)**,
-one patch for the Japanese release (**SLPS-25627**). It adds English subtitles to the voiced
-scenes and Progress-mode cutscenes on top of the translated text, menus and graphics.
+The latest release is **[v0.8.1](https://github.com/retro-trans/Gundam-Climax-UC/releases/tag/v0.8.1)**
+for the Japanese release (**SLPS-25627**), with a full patch and an upgrade patch from v0.8.0. It adds
+an English name-entry keyboard and subtitles for sortie calls and card-gallery quotes.
 
 ### Apply
 
@@ -25,16 +25,17 @@ DeltaPatcher or xdelta3. You need your own unpacked Japanese disc image.
 
 | Your source image | Patch |
 |---|---|
-| Japanese release, SLPS-25627 | `GundamClimaxUC-English-v0.8.0.xdelta` |
+| Japanese release, SLPS-25627 | `GundamClimaxUC-English-v0.8.1.xdelta` |
+| English v0.8.0 | `GundamClimaxUC-English-v0.8.0-to-v0.8.1.xdelta` |
 
 The source must be this exact image (`Mobile Suit Gundam - Climax U.C. (Japan).iso`,
 4,416,110,592 bytes, SHA-1 `d2bec2bc57201a43394790be120245f1cdc42439`). Check the hashes in
-`README-v0.8.0.txt` if your patcher reports a mismatch; keep checksum verification enabled.
+`README-v0.8.1.txt` if your patcher reports a mismatch; keep checksum verification enabled.
 
 For example:
 
 ```
-xdelta3 -d -s "Mobile Suit Gundam - Climax U.C. (Japan).iso" GundamClimaxUC-English-v0.8.0.xdelta "Mobile Suit Gundam - Climax U.C. (English v0.8.0).iso"
+xdelta3 -d -s "Mobile Suit Gundam - Climax U.C. (Japan).iso" GundamClimaxUC-English-v0.8.1.xdelta "Mobile Suit Gundam - Climax U.C. (English v0.8.1).iso"
 ```
 
 For manual patching of a CHD, extract it to an ISO first; Retro Trans Automatic supports compatible
@@ -50,8 +51,8 @@ memory-card saves are fine.
 | Text | 2,921 strings: menus, help lines, briefings, stage names, mission intros, pilot histories, endings, system messages |
 | Executable text | 322 strings: skill, faction and rank names, promotion messages, default pilot names |
 | Card gallery | 423 cards (names, labels, models, descriptions) |
-| Graphics | 178 images: title menu, briefing labels, skill / stat / rank / personality / faction plates, result screens |
-| Voice subtitles | 2,324 voiced lines: tutorials, Chronicle briefing voice-over, Chronicle and Progress missions |
+| Graphics | 181 images: title menu and title-screen credit, briefing labels, skill / stat / rank / personality / faction plates, result screens, name-entry keyboard |
+| Voice subtitles | 2,744 voiced lines: tutorials, Chronicle briefing voice-over, Chronicle and Progress missions, sortie calls, card-gallery quotes |
 | Movie subtitles | 144 lines in 30 movies: Progress-mode cutscenes and endings, character events |
 | Font | variable-width English in the game's own font |
 
@@ -81,7 +82,7 @@ of the original Japanese script; the working files that hold Japanese text stay 
    python tools/restore_work.py            # dry run
    python tools/restore_work.py --write
    ```
-5. Build: `python tools/build.py 0.8.0` writes `work/output/Gundam_Climax_UC_EN_v0.8.0.iso`.
+5. Build: `python tools/build.py 0.8.1` writes `work/output/Gundam_Climax_UC_EN_v0.8.1.iso`.
 
 Python 3 with `numpy`, `Pillow`, `keystone-engine` and `capstone`. The title-menu text uses the
 Noto Sans JP font (SIL OFL) from the Windows font folder.

@@ -59,7 +59,11 @@ MOVIE_START_CALL = 0x199B44  # jal 0x198B30 ("Start Movie") in the CHiMpeg state
 MOVIE_STOP_CALL = 0x199CD8   # jal 0x198B30 ("Stop Movie")
 MOVIE_CALLS_ORIG = {MOVIE_START_CALL: 0x0C0662CC, MOVIE_STOP_CALL: 0x0C0662CC}
 MOVIE_TRANSCRIPTS = os.path.join(ROOT, 'work', 'source', 'voice', 'movie_transcripts.jsonl')
-MOVIE_GAP = 0.15             # blank the subtitle when the next line starts this much later
+MOVIE_GAP = 0.15
+# voices started by the menu sound player (card gallery quotes) are drawn at the top of the screen,
+# where the card screens have no text; everything else stays at the bottom
+MENU_VOICE_RA = 0x318008          # return address of the menu sound player's call to VOICE_FN
+TOP_LAST_LINE_Y = 24              # top of the last line for those clips             # blank the subtitle when the next line starts this much later
 
 TEXT_CTX_GP = -0x7AB8
 SET_COLOR = 0x196B90         # (ctx, r, g, b, a)
@@ -278,7 +282,7 @@ def build_data(base, subs, timing, probs):
 # ------------------------------------------------------------------ code
 def code_lines(state, fmt, table):
     """state: +0 cur_rec, +4 elapsed_units, +8 last_count, +12 last_draw_count, +16 pending movie
-    record, +20 movie active flag."""
+    record, +20 movie active flag, +24 y offset (int) for the current clip."""
     L = []
     # ---- hook 1: stream start --------------------------------------------------------------
     L += ['voice_hook:',
@@ -287,6 +291,12 @@ def code_lines(state, fmt, table):
           'beqz $v0, vh_out', 'nop']
     L += la('t0', state)
     L += ['sw $v0, 0($t0)', 'sw $zero, 4($t0)', mfc0_count('t1'), 'sw $t1, 8($t0)',
+          # y offset: menu sound player (card gallery) -> top of the screen
+          'sw $zero, 24($t0)',
+          'lw $t2, 0($sp)', 'lui $t3, 0x%X' % (MENU_VOICE_RA >> 16),
+          'ori $t3, $t3, 0x%X' % (MENU_VOICE_RA & 0xFFFF),
+          'bne $t2, $t3, vh_out', 'addiu $t4, $zero, %d' % (TOP_LAST_LINE_Y - BOTTOM_Y),
+          'sw $t4, 24($t0)',
           'vh_out:',
           ld('ra', 0), ld('a0', 8), ld('a1', 0x10), 'addiu $sp, $sp, 0x20',
           '.word 0x%08X' % VOICE_FN_ORIG[0], '.word 0x%08X' % VOICE_FN_ORIG[1],
@@ -311,7 +321,7 @@ def code_lines(state, fmt, table):
     L += la('t0', state)
     L += ['lw $t1, 16($t0)', 'beqz $t1, ms_out', 'nop',
           'sw $t1, 0($t0)', 'sw $zero, 4($t0)', mfc0_count('t2'), 'sw $t2, 8($t0)',
-          'sw $zero, 16($t0)', 'addiu $t3, $zero, 1', 'sw $t3, 20($t0)',
+          'sw $zero, 16($t0)', 'addiu $t3, $zero, 1', 'sw $t3, 20($t0)', 'sw $zero, 24($t0)',
           'ms_out:', 'jr $ra', 'addiu $v0, $zero, 1']
     L += ['movie_stop:']
     L += la('t0', state)
@@ -423,6 +433,8 @@ def code_lines(state, fmt, table):
     L += ['jal 0x%X' % MAT_COPY, 'nop',
           'lwc1 $f12, 0($s0)', 'mtc1 $s1, $f0', 'cvt.s.w $f0, $f0', 'add.s $f12, $f12, $f0',
           'lwc1 $f13, 4($s0)', 'mtc1 $s2, $f1', 'cvt.s.w $f1, $f1', 'add.s $f13, $f13, $f1',
+          'lui $t8, 0x%X' % hi(state), 'lw $t9, %d($t8)' % (lo(state) + 24),
+          'mtc1 $t9, $f2', 'cvt.s.w $f2, $f2', 'add.s $f13, $f13, $f2',
           'mtc1 $zero, $f14',
           'jal 0x%X' % MAT_TRANS, 'addiu $a0, $sp, 0x10',
           'lw $a0, %d($gp)' % TEXT_CTX_GP, 'addiu $a1, $sp, 0x10']

@@ -78,6 +78,28 @@
   ]
  },
  {
+  "xts": "nameentry.fpk_/NE_81_CHARA.xts",
+  "image": "nameentry_kana01",
+  "style": "name_keys",
+  "clear": [
+   0,
+   0,
+   256,
+   128
+  ]
+ },
+ {
+  "xts": "nameentry.fpk_/NE_81_CHARA.xts",
+  "image": "nameentry_kana02",
+  "style": "name_keys",
+  "clear": [
+   0,
+   0,
+   100,
+   128
+  ]
+ },
+ {
   "xts": "briefingb.fpk_/BRI_33_BASE.xts",
   "image": "mission_text",
   "style": "label3",
