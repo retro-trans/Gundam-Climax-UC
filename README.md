@@ -10,7 +10,7 @@ translated, and the voiced scenes have English subtitles, but most of the game h
 by automated tests and a few in-emulator spot checks. If you want to contribute to this project or the
 next in any way — be it bug reports, proofreading or playtesting — please join my Discord:
 
-**[discord.gg/MssepShjmB](https://discord.gg/MssepShjmB)** · [Report an issue](https://github.com/retro-trans/Gundam-Climax-UC/issues)
+**[discord.gg/nZBZfTDfCP](https://discord.gg/nZBZfTDfCP)** · [Report an issue](https://github.com/retro-trans/Gundam-Climax-UC/issues)
 
 ## Play it
 
